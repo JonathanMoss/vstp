@@ -113,7 +113,7 @@ class NetworkLink:
             if int(entry.distance) != 0 and int(entry.distance) < _min:
                 _min = int(entry.distance)
 
-        return min
+        return _min
 
     @classmethod
     @functools.lru_cache()
