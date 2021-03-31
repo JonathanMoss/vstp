@@ -21,7 +21,7 @@ class Node:
         self.tiploc = tiploc
         self.parent = parent
 
-        self.path_cost = 999999
+        self.path_cost = 0
         self.distance_to_go = 0
         self.heuristic = 999999
 
@@ -43,48 +43,83 @@ class Pathfinder:
     def __init__(self, start_tiploc: str, end_tiploc: str, via=None):
         """Initialisation"""
 
-        print(f'Calculating route from: {start_tiploc} to: {end_tiploc}...')
-        print()
-
         self.via = via
-        self.visited = []
+        self.legs = []
+        self.routing_leg_nodes = []
 
-        # Create start and end nodes
-        self.start = start_tiploc
-        self.visited.append(start_tiploc)
+        # Create Start Node
+        self.routing_leg_nodes.append(Node(start_tiploc))
 
-        self.start_coord = LocationRecord.return_instance(
-            self.start).wgs_coordinates
+        # Create via Node(s)
+        if isinstance(via, list):
+            for tiploc in via:
+                self.routing_leg_nodes.append(Node(tiploc))
 
-        self.end = end_tiploc
-        self.end_coord = LocationRecord.return_instance(
-            self.end).wgs_coordinates
+        # Create End Node
+        self.routing_leg_nodes.append(Node(end_tiploc))
 
-        start_node = Node(
-            self.start
-        )
+        # Create routing legs
+        for index, _ in enumerate(self.routing_leg_nodes):
 
-        start_node.distance_to_go = LocationRecord.distance(
-            self.start_coord,
-            self.end_coord
-        )
+            if index == len(self.legs):
+                continue
 
-        start_node.heuristic = start_node.distance_to_go
+            self.legs.append(
+                [index - 1, index]
+            )
 
-        end_node = Node(
-            self.end
-        )
+        # Enrich legs with info needed to process
+        for leg in self.legs:
 
-        self.openset = []
-        self.closedset = []
+            node_a_coord = LocationRecord.return_instance(
+                self.routing_leg_nodes[leg[0]].tiploc).wgs_coordinates
+
+            node_b_coord = LocationRecord.return_instance(
+                self.routing_leg_nodes[leg[1]].tiploc).wgs_coordinates
+
+            self.routing_leg_nodes[leg[0]].distance_to_go = LocationRecord.distance(
+                node_a_coord,
+                node_b_coord
+            )
+
+            self.routing_leg_nodes[leg[0]].heuristic = self.routing_leg_nodes[leg[0]].distance_to_go
+
+            self.routing_leg_nodes[leg[1]].coords = node_b_coord
+
+    def search(self):
+        """Kick off the route finding"""
+
+        for index, leg in enumerate(self.legs):
+
+            tab = '\t' * (index)
+            results = self.process_leg(
+                self.routing_leg_nodes[leg[0]],
+                self.routing_leg_nodes[leg[1]]
+            )
+
+            if not results:
+                msg = f"\n{tab}MISSING LEG: {self.routing_leg_nodes[leg[0]].tiploc}"
+                msg += f" to {self.routing_leg_nodes[leg[1]].tiploc}\n"
+                print(msg)
+
+            if results:
+                for node in results:
+                    print(f'{tab}{node.tiploc}')
+
+    @staticmethod
+    def process_leg(start_node, end_node) -> list:
+        """Process the leg passed, return the results"""
+
+        openset = []
+        closedset = []
 
         # Add the start node to the priority queue
-        self.openset.append(start_node)
+        openset.append(start_node)
 
-        while self.openset:  # Loop until find the end
+        while openset:  # Loop until find the end
 
             # Get the current node
-            cur_node = min(self.openset, key=lambda o: o.heuristic)
+            cur_node = min(openset, key=lambda o: o.heuristic)
 
             # Found the end goal
             if cur_node == end_node:
@@ -93,16 +128,13 @@ class Pathfinder:
                     path.append(cur_node)
                     cur_node = cur_node.parent
                 path.append(cur_node)
-
-                for result in path[::-1]:
-                    print(result.tiploc)
-                sys.exit()
+                return path[::-1]
 
             # Remove the item from the open set
-            self.openset.remove(cur_node)
+            openset.remove(cur_node)
 
             # Add it to the closedset
-            self.closedset.append(cur_node)
+            closedset.append(cur_node)
 
             cur_path_cost = cur_node.path_cost
             cur_distance_to_go = cur_node.distance_to_go
@@ -125,11 +157,6 @@ class Pathfinder:
                     if rev['reversable'] == "N":
                         continue
 
-                if tpl in self.visited:
-                    continue
-
-                self.visited.append(tpl)
-
                 new_node = Node(tpl, parent=cur_node)
 
                 # Path Cost (Distance to parent)
@@ -148,16 +175,16 @@ class Pathfinder:
                 # Distance to go (Distance ATCF to end TIPLOC)
                 distance_to_go = LocationRecord.distance(
                     tpl_coord,
-                    self.end_coord
+                    end_node.coords
                 )
 
                 if not distance_to_go:
                     distance_to_go = cur_distance_to_go
 
-                if new_node in self.closedset:
+                if new_node in closedset:
                     continue
 
-                if new_node in self.openset:
+                if new_node in openset:
                     new_heuristic = cur_node.heuristic + path_cost
                     if new_node.heuristic > new_heuristic:
                         new_node.heuristic = new_heuristic
@@ -166,4 +193,4 @@ class Pathfinder:
                     new_node.path_cost = cur_path_cost + path_cost
                     new_node.distance_to_go = distance_to_go
                     new_node.parent = cur_node
-                    self.openset.append(new_node)
+                    openset.append(new_node)

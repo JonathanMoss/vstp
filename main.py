@@ -52,4 +52,14 @@ if __name__ == "__main__":
     # import NWK records into memory
     import_network_links()
 
-    PATH = Pathfinder("CMTHN", "CHST", ['SHRWBY', 'CREWE'])
+    # PATH = Pathfinder("CREWE", "EUSTON", ['ALSAGER', 'KIDSGRV', 'STAFFRD', 'NNTN', 'RUGBY'])
+    # PATH = Pathfinder("CREWE", "CREWE", ['WEAVERJ', 'WIGANNW', 'LVRPLSH'])
+    # PATH = Pathfinder("CREWE", "WEAVERJ")
+    PATH = Pathfinder("CREWE", "ACBG")
+    PATH = Pathfinder("WEAVERJ", "CREWE")
+    PATH = Pathfinder("CREWE", "WEAVERJ", ['CREWECY', 'WNSFD', 'HARTFD', 'ACBG'])
+    PATH = Pathfinder("CREWE", "CREWE", ['CREWECY', 'WNSFD',
+                                         'HARTFD', 'ACBG', 'WIGANNW', 'LVRPLSH'])
+    PATH = Pathfinder("CREWE", "CREWE", ['CREWECY', 'WNSFD',
+                                         'HARTFD', 'ACBG', 'WEAVERJ', 'WIGANNW', 'LVRPLSH'])
+    PATH.search()
