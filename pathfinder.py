@@ -23,7 +23,7 @@ class Node:
 
         self.path_cost = 0
         self.distance_to_go = 0
-        self.heuristic = 999999
+        self.heuristic = 0
 
         self.m_dist = 0
 
@@ -40,10 +40,19 @@ class Node:
 class Pathfinder:
     """Class for finding the path between a TIPLOC pair"""
 
-    def __init__(self, start_tiploc: str, end_tiploc: str, via=None):
+    def __init__(self, start_tiploc: str, end_tiploc: str, via=None, avoid=[]):
         """Initialisation"""
 
-        self.via = via
+        self.via = via  # Tiplocs where the service MUST run via
+        if self.via and not isinstance(self.via, list):
+            print('VIA tiplocs not provided in required format')
+            sys.exit(1)
+
+        self.avoid = avoid  # Tiplocs where the service MUST avoid
+        if self.avoid and not isinstance(self.avoid, list):
+            print('AVOID tiplocs not provided in required format')
+            sys.exit(1)
+
         self.legs = []
         self.routing_leg_nodes = []
 
@@ -106,8 +115,7 @@ class Pathfinder:
                 for node in results:
                     print(f'{tab}{node.tiploc}')
 
-    @staticmethod
-    def process_leg(start_node, end_node) -> list:
+    def process_leg(self, start_node, end_node) -> list:
         """Process the leg passed, return the results"""
 
         openset = []
@@ -149,6 +157,10 @@ class Pathfinder:
             # Create child nodes
             for tpl in NetworkLink.get_neighbours(cur_tpl):
 
+                if tpl in self.avoid:
+                    continue
+
+                # This stops reversing movements where not authorised
                 rev = NetworkLink.reversable_data(cur_tpl, tpl)
                 if not cur_reversable.get(
                         'final_direction',
