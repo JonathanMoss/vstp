@@ -10,7 +10,7 @@
 import sys
 from network_links import NetworkLink
 from location_record import LocationRecord
-
+from datetime import datetime, timedelta
 
 class Node:
     """Pathfinder Node"""
@@ -40,8 +40,22 @@ class Node:
 class Pathfinder:
     """Class for finding the path between a TIPLOC pair"""
 
-    def __init__(self, start_tiploc: str, end_tiploc: str, via=None, avoid=[]):
+    def __init__(self, start_tiploc: str, end_tiploc: str, via=None, avoid=[], ssd=None, odt=None):
         """Initialisation"""
+        
+        # Schedule Start Date (ssd)
+        if not ssd:
+            ssd = datetime.now().date()
+
+        if isinstance(ssd, str):
+            ssd = datetime.strptime(ssd, '%Y-%m-%d').date()
+
+        # Origin Departure Time (odt)
+        if not odt:
+            odt = (datetime.now().replace(microsecond=0, second=0) + timedelta(minutes=60)).time()
+
+        if isinstance(odt, str):
+            odt = datetime.strptime(odt, '%H:%M:%S').time()
 
         self.via = via  # Tiplocs where the service MUST run via
         if self.via and not isinstance(self.via, list):

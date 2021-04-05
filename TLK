@@ -1,0 +1,687 @@
+TLD	A	08	     	15	 	Class 08 Shunter Trip Working	D	 	15
+TLD	A	14x	     	75	 	Class 141 to 144	DMU	A	75
+TLD	A	150	     	75	 	Class 150, 155 or 156	DMU	S	75
+TLD	A	153	     	75	 	Class 153	DMU	S	75
+TLD	A	158	     	90	 	Class 158	DMU	E	90
+TLD	A	159	     	90	 	Class 159	DMU	X	90
+TLD	A	165-0	     	75	 	Class 165/0	DMU	N	75
+TLD	A	165-1	     	90	 	Class 165/1 and 166	DMU	T	90
+TLD	A	2x20	300  	40	 	Weedkiller Train (Basic Spraying)	D	300	40
+TLD	A	2x20	300  	60	 	Weedkiller Train (Transit)	D	300	60
+TLD	A	2x321	280  	100	 	2 x Class 321 EMU Express	EMU	321	100
+TLD	A	2x37-6	800  	90	 	2 x Class 37-6 ENS +2x[3 Sleepers, 3 coaches & SV]	D	800	90
+TLD	A	308	3    	75	 	Class 308 3 Car EMU	EMU	308	75
+TLD	A	312	     	90	 	Class 312 EMU	EMU	312	90
+TLD	A	313	     	75	 	Class 313 EMU	EMU	313	75
+TLD	A	315	     	75	 	Class 315 EMU	EMU	315	75
+TLD	A	317	     	100	 	Class 317 EMU	EMU	317	100
+TLD	A	318	     	90	 	Class 318 EMU	EMU	318	90
+TLD	A	319	     	100	 	Class 319 EMU	EMU	319	100
+TLD	A	321	     	100	 	Class 321 EMU	EMU	321	100
+TLD	A	321AT	     	100	 	Class 321 EMU Express	EMU	321	100
+TLD	A	321C	     	100	 	Class 321 EMU-C	EMU	321	100
+TLD	A	322	     	100	 	Class 322 EMU	EMU	322	100
+TLD	A	323	     	90	 	Class 323 EMU	EMU	323	90
+TLD	A	325	     	100	 	Class 325 Electric Parcels Unit	E	325	100
+TLD	A	365	     	100	 	Class 365 DV Networker	EMU	365	100
+TLD	A	37	210  	80	 	Class 37 & 6 coaches (80 mph)	D	D210	80
+TLD	A	37	245  	90	 	Class 37 & 7 coaches (90 mph)	D	245	90
+TLD	A	37	350  	50	 	Class 37 & 10 coaches & Steam loco (50 mph)	D	350	50
+TLD	A	37	350  	60	 	Class 37 & 10 coaches (60 mph)	D	350	60
+TLD	A	37	455  	70	 	Class 37 & 13 coaches (70 mph)	D	455	70
+TLD	A	421	     	90	 	Class 421 EMU	EMU	 	90
+TLD	A	442	     	100	 	Class 442 Wessex Electrics	EMU	 	100
+TLD	A	455	     	75	 	Class 455 Sliding Door	EMU	 	75
+TLD	A	465	     	90	 	Class 465 / 466 Networker EMUs	EMU	 	90
+TLD	A	47	1000 	45	 	Class 47 Freight - 1000 tonnes at 45 mph	D	 	45
+TLD	A	47	1000 	60	 	Class 47 Freight - 1000 tonnes at 60 mph	D	1000	60
+TLD	A	47	1000 	75	 	Class 47 Freight - 1000 tonnes at 75 mph	D	1000	75
+TLD	A	47	105  	75	 	Class 47 & 3 coaches (75 mph)	D	105	75
+TLD	A	47	1100 	75	 	Class 47 Freight - 1100 tonnes at 75 mph	D	1100	75
+TLD	A	47	140  	80	 	Class 47 & 4 coaches (80 mph)	D	140	80
+TLD	A	47	140  	90	 	Class 47 & 4 coaches (90 mph)	D	140	90
+TLD	A	47	175  	90	 	Class 47 & 5 coaches (90 mph)	D	175	90
+TLD	A	47	210  	90	 	Class 47 & 6 coaches (90 mph)	D	210	90
+TLD	A	47	245  	95	 	Class 47 & 7 coaches (95 mph)	D	245	95
+TLD	A	47	280  	80	 	Class 47 & 8 coaches (80 mph)	D	280	80
+TLD	A	47	280  	95	 	Class 47 & 8 coaches (95 mph)	D	280	95
+TLD	A	47	315  	95	 	Class 47 & 9 coaches (95 mph)	D	315	95
+TLD	A	47	350  	80	 	Class 47 & 10 coaches (80 mph)	D	350	80
+TLD	A	47	350  	95	 	Class 47 & 10 coaches (95 mph)	D	350	95
+TLD	A	47	385  	95	 	Class 47 & 11 coaches (95 mph)	D	385	95
+TLD	A	47	420  	80	 	Class 47 & 12 coaches (80 mph)	D	420	80
+TLD	A	47	420  	95	 	Class 47 & 12 coaches (95 mph)	D	420	95
+TLD	A	47	450  	60	 	Class 47 & EPS (delivery) coaches (60 mph)	D	450	60
+TLD	A	47	455  	60	 	Class 47 & 13 coaches (60 mph)	D	455	60
+TLD	A	47	455  	75	 	Class 47 & 13 coaches (75 mph)	D	455	75
+TLD	A	47	455  	95	 	Class 47 & 13 coaches (95 mph)	D	455	95
+TLD	A	47	500  	95	 	Class 47 hauling IC225	D	500	95
+TLD	A	47	595  	80	 	Class 47 & 15 coaches (80 mph)	D	595	80
+TLD	A	47	595  	95	 	Class 47 & 15 coaches (95 mph)	D	595	95
+TLD	A	483	     	45	 	2 Car Isle of Wight EMU	EMU	483	45
+TLD	A	56	1700 	45	 	Class 56 Freight - 1700 tonnes at 45 mph	D	1700	45
+TLD	A	59	3800 	45	 	Class 59 Freight - 3800 tonnes at 45 mph	D	3800	45
+TLD	A	59	3800 	60	 	Class 59 Freight - 3800 tonnes at 60 mph	D	3800	60
+TLD	A	59	4200 	45	 	Class 59 Freight - 4200 tonnes at 45 mph	D	4200	45
+TLD	A	60	1000 	45	 	Class 60 Freight - 1000 tonnes at 45 mph	D	1000	45
+TLD	A	60	1400 	60	 	Class 60 Freight - 1400 tonnes at 60 mph	D	1400	60
+TLD	A	60	1600 	60	 	Class 60 Freight - 1600 tonnes at 60 mph	D	1600	60
+TLD	A	60	2000 	45	 	Class 60 Freight - 2000 tonnes at 45 mph	D	2000	45
+TLD	A	60	2000 	60	 	Class 60 Freight - 2000 tonnes at 60 mph	D	2000	60
+TLD	A	60	2200 	45	 	Class 60 Freight - 2200 tonnes at 45 mph	D	2200	45
+TLD	A	60	2200 	60	 	Class 60 Freight - 2200 tonnes at 60 mph	D	2200	60
+TLD	A	60	2400 	45	 	Class 60 Freight - 2400 tonnes at 45 mph	D	2400	45
+TLD	A	60	2400 	60	 	Class 60 Freight - 2400 tonnes at 60 mph	D	2400	60
+TLD	A	60	2600 	45	 	Class 60 Freight - 2600 tonnes at 45 mph	D	2600	45
+TLD	A	60	2600 	60	 	Class 60 Freight - 2600 tonnes at 60 mph	D	2600	60
+TLD	A	60	2800 	60	 	Class 60 Freight - 2800 tonnes at 60 mph	D	2800	60
+TLD	A	60	3000 	60	 	Class 60 Freight - 3000 tonnes at 60 mph	D	3000	60
+TLD	A	60	400  	45	 	Class 60 Freight - 400 tonnes at 45 mph	D	400	45
+TLD	A	60	400  	60	 	Class 60 Freight - 400 tonnes at 60 mph	D	400	60
+TLD	A	60	600  	45	 	Class 60 Freight - 600 tonnes at 45 mph	D	600	45
+TLD	A	60	600  	60	 	Class 60 Freight - 600 tonnes at 60 mph	D	600	60
+TLD	A	60	800  	45	 	Class 60 Freight - 800 tonnes at 45 mph	D	800	45
+TLD	A	60	800  	60	 	Class 60 Freight - 800 tonnes at 60 mph	D	800	60
+TLD	A	73	140  	75	 	Class 73 Electro-Diesel & 4 coaches (75 mph)	ED	140	75
+TLD	A	73	315  	90	 	Class 488/489 Gatwick Express	ED	 	90
+TLD	A	73	455  	75	 	Class 73 & VSOE 9 Pullman & 2NAA at 75 mph	ED	455	75
+TLD	A	86	105  	75	 	Class 86/87/90 & 3 coaches (75 mph)	E	105	75
+TLD	A	86	140  	90	 	Class 86/87/90 & 4 coaches (90 mph)	E	140	90
+TLD	A	86	175  	90	 	Class 86/87/90 & 5 coaches (90 mph)	E	175	90
+TLD	A	86	210  	90	 	Class 86/87/90 & 6 coaches (90 mph)	E	210	90
+TLD	A	86	245  	100	 	Class 86/87/90 & 7 coaches (100 mph)	E	245	100
+TLD	A	86	280  	100	 	Class 86/87/90 & 8 coaches (100 mph)	E	280	100
+TLD	A	86	315  	100	 	Class 86/87/90 & 9 coaches (100 mph)	E	315	100
+TLD	A	86	350  	100	 	Class 86/87/90 & 10 coaches (100 mph)	E	350	100
+TLD	A	86	385  	100	 	Class 86/87/90 & 11 coaches (100 mph)	E	385	100
+TLD	A	86	420  	100	 	Class 86/87/90 & 12 coaches (100 mph)	E	420	100
+TLD	A	86	455  	100	 	Class 86/87/90 & 13 coaches (100 mph)	E	455	100
+TLD	A	86	595  	100	 	Class 86/87/90 & 15 coaches (100 mph)	E	595	100
+TLD	A	86	595  	80	 	Class 86/87/90 & 15 coaches (80 mph)	E	595	80
+TLD	A	86	595  	90	 	Class 86/87/90 & 15 coaches (90 mph)	E	595	90
+TLD	A	87	385  	110	 	Class 87 & 11 coaches (110 mph)	E	385	110
+TLD	A	90	175  	90	 	Class 90 & 5 coaches (90 mph)	E	175	90
+TLD	A	90	385  	100	 	Class 90 & 11 coaches (100 mph)	E	385	100
+TLD	A	90	385  	110	 	Class 90 & 11 coaches (110 mph)	E	385	110
+TLD	A	91	385  	110	 	IC225 (110 mph)	E	385	110
+TLD	A	91	385  	125	 	IC225 (125 mph)	E	385	125
+TLD	A	91	385  	60	 	IC225 ECS (60 mph)	E	385	60
+TLD	A	92	400  	87	 	Class 92 + [1 x [ENS 3 Sleepers, 3 coaches & SV]]	E	400	87
+TLD	A	92	800  	87	 	Class 92 + [2 x [ENS 3 Sleepers, 3 coaches & SV]]	E	800	87
+TLD	A	92	915  	87	 	Class 92 + [2 x [ENS 5 Sleepers, 2 coaches & SV]]	E	915	87
+TLD	A	BUS	     	0	 	Bus	D	 	60
+TLD	A	D1	     	70	 	DMU (Power Car + Trailer)	DMU	D1	70
+TLD	A	D2	     	70	 	DMU (2 Power Cars + Trailer)	DMU	D2	70
+TLD	A	D3	     	70	 	DMU (Power Twin)	DMU	D3	70
+TLD	A	DEMU	     	75	 	Class 20x Diesel-Electric MU	DEM	 	75
+TLD	A	EMUAC	     	75	 	Electric Multiple Unit AC	EMU	 	75
+TLD	A	EMUDC	     	75	 	Electric Multiple Unit DC	EMU	 	75
+TLD	A	EMUG	     	90	 	Class 421/5 DC Greyhound EMU	EMU	 	90
+TLD	A	H37	305  	60	 	Freight - Timing Reference 35 at 60 mph	D	305	60
+TLD	A	H47	1350 	75	 	Freight - Timing Reference 100 at 75 mph	D	1350	75
+TLD	A	H47	1620 	45	 	Freight - Timing Reference 120 at 45 mph	D	1620	45
+TLD	A	H47	1620 	60	 	Freight - Timing Reference 120 at 60 mph	D	1620	60
+TLD	A	H47	1755 	60	 	Freight - Timing Reference 125 at 60 mph	D	1755	60
+TLD	A	H47	805  	75	 	Freight - Timing Reference 60 at 75 mph	D	805	75
+TLD	A	H56	1060 	35	 	Freight - Timing Reference 60 at 35 mph	D	1060	35
+TLD	A	H56	1060 	45	 	Freight - Timing Reference 60 at 45 mph	D	1060	45
+TLD	A	H56	1060 	60	 	Freight - Timing Reference 60 at 60 mph	D	1060	60
+TLD	A	H56	1235 	45	 	Freight - Timing Reference 70 at 45 mph	D	1235	45
+TLD	A	H56	1235 	60	 	Freight - Timing Reference 70 at 60 mph	D	1235	60
+TLD	A	H56	1585 	45	 	Freight - Timing Reference 90 at 45 mph	D	1585	45
+TLD	A	H56	1760 	45	 	Freight - Timing Reference 100 at 45 mph	D	1760	45
+TLD	A	H56	1760 	60	 	Freight - Timing Reference 100 at 60 mph	D	1760	60
+TLD	A	H56	2280 	45	 	Freight - Timing Reference 130 at 45 mph	D	2280	45
+TLD	A	H56	2280 	60	 	Freight - Timing Reference 130 at 60 mph	D	2280	60
+TLD	A	H56	2800 	60	 	Freight - Timing Reference 160 at 60 mph	D	2800	60
+TLD	A	H56	3500 	60	 	Freight - Timing Reference 200 at 60 mph	D	3500	60
+TLD	A	H56	715  	45	 	Freight - Timing Reference 40 at 45 mph	D	715	45
+TLD	A	H56	715  	60	 	Freight - Timing Reference 40 at 60 mph	D	715	60
+TLD	A	56	715  	75	 	Class 56 Freight - 715 tonnes at 75 mph	D	715	75
+TLD	A	HST	     	110	 	High Speed Train (2+8)(110 mph)	HST	 	110
+TLD	A	HST	     	125	 	High Speed Train (2+8)(125 mph)	HST	 	125
+TLD	A	LD	     	75	 	Light Diesel Locomotive (75 mph)	D	 	75
+TLD	A	LE	     	75	 	Light Electric Locomotive (75 mph)	E	 	75
+TLD	A	LUL	     	45	 	LUL Stock	EMU	 	45
+TLD	A	SANDIT	     	0	 	Sandite Unit	EMU	 	60
+TLD	A	SEALYX	     	 	 	Sea Lynx catamaran service	D	 	 
+TLD	A	SHIP	     	 	 	Shipping Service	D	 	 
+TLD	A	STEAM	150  	25	 	Steam - Ffestiniog Railway	D	150	25
+TLD	A	STEAM	280  	60	 	Steam & 8 coaches (60 mph)	D	280	60
+TLD	A	STEAM	420  	50	 	Steam & 12 coaches (50 mph)	D	420	50
+TLD	A	STEAM	420  	60	 	Steam & 12 coaches (60 mph)	D	420	60
+TLD	A	LD	     	60	 	Light Diesel Locomotive (60 mph)	D	 	60
+TLD	A	H47-2T	245  	90	 	Class 47 & 7 Coaches [2-Track] at 90 mph	D	245	90
+TLD	A	165-2T	     	90	 	Class 165/1 2-Track	DMU	T	90
+TLD	A	332-2T	     	100	 	Heathrow Express EMU [2-Track]	EMU	 	100
+TLD	A	332	     	100	 	Heathrow Express EMU	EMU	 	100
+TLD	A	HST2+7	     	125	 	High Speed Train (2+7) (125 mph)	HST	 	125
+TLD	A	HST-2T	     	125	 	High Speed Train [2-Track] (125 mph)	HST	 	125
+TLD	A	158-2T	     	90	 	Class 158 2-Track	DMU	E	90
+TLD	A	60	1000 	60	 	Class 60 Freight - 1000 tonnes at 60 mph	D	1000	60
+TLD	A	60	3000 	40	 	Class 60 Freight - 3000 tonnes at 40 mph	D	3000	40
+TLD	A	92	1600 	45	 	Class 92 Freight - 1600 tonnes at 45 mph	E	1600	45
+TLD	A	92	1600 	60	 	Class 92 Freight - 1600 tonnes at 60 mph	E	1600	60
+TLD	A	92	1600 	75	 	Class 92 Freight - 1600 tonnes at 75 mph	E	1600	75
+TLD	A	HST2+9	     	125	 	High Speed Train (2+9) (125 mph)	EMU	 	125
+TLD	A	60	1200 	60	 	Class 60 Freight - 1200 tonnes at 60 mph	D	1200	60
+TLD	A	H56	975  	45	 	Freight - Timing Reference 55 at 45 mph	D	975	45
+TLD	A	H56	1495 	45	 	Freight - Timing Reference 85 at 45 mph	D	1495	45
+TLD	A	H56	2020 	45	 	Freight - Timing Reference 115 at 45 mph	D	2020	45
+TLD	A	H56	2540 	45	 	Freight - Timing Reference 145 at 45 mph	D	2540	45
+TLD	A	H56	2800 	45	 	Freight - Timing Reference 160 at 45 mph	D	2800	45
+TLD	A	H56	3065 	45	 	Freight - Timing Reference 175 at 45 mph	D	3065	45
+TLD	A	H56	3325 	45	 	Freight - Timing Reference 190 at 45 mph	D	3325	45
+TLD	A	H56	3500 	45	 	Freight - Timing Reference 200 at 45 mph	D	3500	45
+TLD	A	H56	975  	60	 	Freight - Timing Reference 55 at 60 mph	D	975	60
+TLD	A	H56	1495 	60	 	Freight - Timing Reference 85 at 60 mph	D	1495	60
+TLD	A	H56	2020 	60	 	Freight - Timing Reference 115 at 60 mph	D	2020	60
+TLD	A	H56	2540 	60	 	Freight - Timing Reference 145 at 60 mph	D	2600	60
+TLD	A	H56	3065 	60	 	Freight - Timing Reference 175 at 60 mph	D	3000	60
+TLD	A	H56	3325 	60	 	Freight - Timing Reference 190 at 60 mph	D	3400	60
+TLD	A	H56	715  	60	C	Freight - Timing Reference 40 at 60 mph, Containers	D	715	60
+TLD	A	H56	715  	60	H	Freight - Timing Reference 40 at 60 mph, HAW	D	715	60
+TLD	A	H56	975  	60	H	Freight - Timing Reference 55 at 60 mph, HAW	D	975	60
+TLD	A	H56	1235 	60	H	Freight - Timing Reference 70 at 60 mph, HAW	D	1235	60
+TLD	A	H56	1495 	60	C	Freight - Timing Reference 85 at 60 mph, Containers	D	1495	60
+TLD	A	H56	1495 	60	H	Freight - Timing Reference 85 at 60 mph, HAW	D	1495	60
+TLD	A	H56	1760 	60	B	Freight - Timing Reference 100 at 60 mph, HAW & Contrs	D	1760	60
+TLD	A	H56	1760 	60	H	Freight - Timing Reference 100 at 60 mph, HAW	D	1760	60
+TLD	A	H56	2280 	60	H	Freight - Timing Reference 130 at 60 mph, HAW	D	2280	60
+TLD	A	H56	2540 	60	H	Freight - Timing Reference 145 at 60 mph, HAW	D	2600	60
+TLD	A	60	1800 	60	 	Class 60 Freight - 1800 tonnes at 60 mph	D	1800	60
+TLD	A	60	600  	60	C	Class 60 Freight - 600 tonnes at 60 mph, Containers	D	600	60
+TLD	A	60	800  	60	B	Class 60 Freight - 800 tonnes at 60 mph, HAW & Contrs	D	800	60
+TLD	A	60	800  	60	H	Class 60 Freight - 800 tonnes at 60 mph, HAW	D	800	60
+TLD	A	60	1200 	60	H	Class 60 Freight - 1200 tonnes at 60 mph, HAW	D	1200	60
+TLD	A	60	1600 	60	C	Class 60 Freight - 1600 tonnes at 60 mph, Containers	D	1600	60
+TLD	A	60	1600 	60	H	Class 60 Freight - 1600 tonnes at 60 mph, HAW	D	1600	60
+TLD	A	60	2000 	60	C	Class 60 Freight - 2000 tonnes at 60 mph, Containers	D	2000	60
+TLD	A	60	2000 	60	H	Class 60 Freight - 2000 tonnes at 60 mph, HAW	D	2000	60
+TLD	A	60	2200 	60	H	Class 60 Freight - 2200 tonnes at 60 mph, HAW	D	2200	60
+TLD	A	60	2600 	60	H	Class 60 Freight - 2600 tonnes at 60 mph, HAW	D	2600	60
+TLD	A	60	2800 	60	H	Class 60 Freight - 2800 tonnes at 60 mph, HAW	D	2800	60
+TLD	A	60	3000 	60	H	Class 60 Freight - 3000 tonnes at 60 mph, HAW	D	3000	60
+TLD	A	47	535  	75	CON	Class 47 Freight - 535 tonnes at 75 mph, Containers	D	535	75
+TLD	A	47	970  	75	CON	Class 47 Freight - 970 tonnes at 75 mph, Containers	D	970	75
+TLD	A	47	1100 	75	CON	Class 47 Freight - 1100 tonnes at 75 mph, Containers	D	1100	75
+TLD	A	47	1220 	75	CON	Class 47 Freight - 1220 tonnes at 75 mph, Containers	D	1215	75
+TLD	A	47	1350 	75	CON	Class 47 Freight - 1350 tonnes at 75 mph, Containers	D	1350	75
+TLD	A	2X47	1900 	75	CON	2 x Class 47 Freight - 1900 tonnes at 75 mph, Containers	D	1890	75
+TLD	A	56	535  	75	CON	Class 56 Freight - 535 tonnes at 75 mph, Containers	D	535	75
+TLD	A	56	1475 	75	CON	Class 56 Freight - 1475 tonnes at 75 mph, Containers	D	1475	75
+TLD	A	56	1600 	75	CON	Class 56 Freight - 1600 tonnes at 75 mph, Containers	D	1600	75
+TLD	A	90	970  	75	CON	Class 90 Freight - 970 tonnes at 75 mph, Containers	E	970	75
+TLD	A	90	1070 	75	CON	Class 90 Freight - 1070 tonnes at 75 mph, Containers	E	1070	75
+TLD	A	90	1250 	75	CON	Class 90 Freight - 1250 tonnes at 75 mph, Containers	E	1250	75
+TLD	A	2X86	1250 	75	CON	2 x Class 86 Freight - 1250 tonnes at 75 mph, Containers	E	1250	75
+TLD	A	2X86	1600 	75	CON	2 x Class 86 Freight - 1600 tonnes at 75 mph, Containers	E	1600	75
+TLD	A	2X86	1800 	75	CON	2 x Class 86 Freight - 1800 tonnes at 75 mph, Containers	E	1800	75
+TLD	A	H56	715  	35	 	Freight - Timing Reference 40 at 35 mph	D	715	35
+TLD	A	H56	975  	35	 	Freight - Timing Reference 55 at 35 mph	D	975	35
+TLD	A	H56	1235 	35	 	Freight - Timing Reference 70 at 35 mph	D	1235	35
+TLD	A	H56	1495 	35	 	Freight - Timing Reference 85 at 35 mph	D	1495	35
+TLD	A	H56	1760 	35	 	Freight - Timing Reference 100 at 35 mph	D	1760	35
+TLD	A	H56	2020 	35	 	Freight - Timing Reference 115 at 35 mph	D	2020	35
+TLD	A	H56	2280 	35	 	Freight - Timing Reference 130 at 35 mph	D	2280	35
+TLD	A	H56	2540 	35	 	Freight - Timing Reference 145 at 35 mph	D	2540	35
+TLD	A	H56	2800 	35	 	Freight - Timing Reference 160 at 35 mph	D	2800	35
+TLD	A	H56	3065 	35	 	Freight - Timing Reference 175 at 35 mph	D	3065	35
+TLD	A	H56	3325 	35	 	Freight - Timing Reference 190 at 35 mph	D	3325	35
+TLD	A	H56	3500 	35	 	Freight - Timing Reference 200 at 35 mph	D	3500	35
+TLD	A	H56	1760 	45	H	Freight - Timing Reference 100 at 45 mph, HAW	D	1760	45
+TLD	A	H56	2025 	45	H	Freight - Timing Reference 115 at 45 mph, HAW	D	2025	45
+TLD	A	H56	2800 	45	H	Freight - Timing Reference 160 at 45 mph, HAW	D	2800	45
+TLD	A	H56	2020 	60	H	Freight - Timing Reference 115 at 60 mph, HAW	D	2020	60
+TLD	A	59	3800 	45	H	Class 59 Freight - 3800 tonnes at 45 mph, HAW	D	3800	45
+TLD	A	59	4200 	45	H	Class 59 Freight - 4200 tonnes at 45 mph, HAW	D	4200	45
+TLD	A	59	4800 	45	H	Class 59 Freight - 4800 tonnes at 45 mph, HAW	D	4800	45
+TLD	A	60	1200 	45	H	Class 60 Freight - 1200 tonnes at 45 mph, HAW	D	1200	45
+TLD	A	60	1400 	45	H	Class 60 Freight - 1400 tonnes at 45 mph, HAW	D	1400	45
+TLD	A	60	2000 	45	H	Class 60 Freight - 2000 tonnes at 45 mph, HAW	D	2000	45
+TLD	A	60	2200 	45	H	Class 60 Freight - 2200 tonnes at 45 mph, HAW	D	2200	45
+TLD	A	59	4400 	60	H	Class 59 Freight - 4400 tonnes at 60 mph, HAW	D	4400	60
+TLD	A	59	4800 	60	H	Class 59 Freight - 4800 tonnes at 60 mph, HAW	D	4800	60
+TLD	A	60	400  	60	C	Class 60 Freight - 400 tonnes at 60 mph, Containers	D	400	60
+TLD	A	60	600  	60	H	Class 60 Freight - 600 tonnes at 60 mph, HAW	D	600	60
+TLD	A	60	1800 	60	C	Class 60 Freight - 1800 tonnes at 60 mph, Containers	D	1800	60
+TLD	A	60	1800 	60	H	Class 60 Freight - 1800 tonnes at 60 mph, HAW	D	1800	60
+TLD	A	60	2400 	60	H	Class 60 Freight - 2400 tonnes at 60 mph, HAW	D	2400	60
+TLD	A	60	1400 	60	H	Class 60 Freight - 1400 tonnes at 60 mph, HAW	D	1400	60
+TLD	A	H56	1760 	50	 	Freight - Timing Reference 100 at 50 mph	D	1760	50
+TLD	A	H56	2020 	50	 	Freight - Timing Reference 115 at 50 mph	D	2020	50
+TLD	A	H56	1235 	55	 	Freight - Timing Reference 70 at 55 mph	D	1235	55
+TLD	A	H56	1760 	55	 	Freight - Timing Reference 100 at 55 mph	D	1760	55
+TLD	A	H56	2020 	55	 	Freight - Timing Reference 115 at 55 mph	D	2020	55
+TLD	A	H56	2280 	55	 	Freight - Timing Reference 130 at 55 mph	D	2280	55
+TLD	A	56	1235 	75	 	Class 56 Freight - 1235 tonnes at 75 mph	D	1235	75
+TLD	A	H56	2800 	60	H	Freight - Timing Reference 160 at 60 mph, HAW	D	2800	60
+TLD	A	56	715  	75	C	Class 56 Freight - 715 tonnes at 75 mph, Containers	D	715	75
+TLD	A	56	975  	75	C	Class 56 Freight - 975 tonnes at 75 mph, Containers	D	975	75
+TLD	A	56	1760 	75	C	Class 56 Freight - 1760 tonnes at 75 mph, Containers	D	1760	75
+TLD	A	59	400  	45	 	Class 59 Freight - 400 tonnes at 45 mph	D	400	45
+TLD	A	59	600  	60	 	Class 59 Freight - 600 tonnes at 60 mph	D	600	60
+TLD	A	59	2200 	60	H	Class 59 Freight - 2200 tonnes at 60 mph, HAW	D	2200	60
+TLD	A	H56	1495 	75	 	Freight - Timing Reference 85 at 75 mph	D	1495	75
+TLD	A	56	975  	75	 	Class 56 Freight - 975 tonnes at 75 mph	D	975	75
+TLD	A	H56	1495 	45	C	Freight - Timing Reference 85 at 45 mph, Containers	D	1495	45
+TLD	A	90	970  	60	 	Class 90 Freight - 970 tonnes at 60 mph	E	970	60
+TLD	A	90	1070 	60	 	Class 90 Freight - 1070 tonnes at 60 mph	E	1070	60
+TLD	A	90	1100 	60	 	Class 90 Freight - 1100 tonnes at 60 mph	E	1100	60
+TLD	A	90	1250 	60	 	Class 90 Freight - 1250 tonnes at 60 mph	E	1250	60
+TLD	A	47	700  	75	 	Class 47 Freight - 700 tonnes at 75 mph	D	700	75
+TLD	A	47	970  	75	 	Class 47 Freight - 970 tonnes at 75 mph	D	970	75
+TLD	A	47	1000 	75	C	Class 47 Freight - 1000 tonnes at 75 mph, Containers	D	1000	75
+TLD	A	47	790  	75	C	Class 47 Freight - 790 tonnes at 75 mph, Containers	D	790	75
+TLD	A	90	1070 	60	C	Class 90 Freight - 1070 tonnes at 60 mph, Containers	E	1070	60
+TLD	A	91	410  	125	 	Class 91 & 12 coaches (125 mph)	E	410	125
+TLD	A	H56	2280 	25	 	Freight - Timing Reference 130 at 25 mph	D	2280	25
+TLD	A	47	535  	75	 	Class 47 Freight - 535 tonnes at 75 mph	D	535	75
+TLD	A	168	     	100	 	Class 168	DMU	E	100
+TLD	A	HSS	     	 	 	High Speed Ship	HST	 	60
+TLD	A	73	210  	90	 	Class 73 & 6 coaches (90 mph)	ED	210	90
+TLD	A	47	670  	75	CON	Class 47 Freight - 670 tonnes at 75 mph, Containers	D	670	75
+TLD	A	170	     	100	 	Class 170	DMU	E	100
+TLD	A	47	525  	95	 	Class 47 & 15 coaches - 525 tonnes (95 mph)	D	535	95
+TLD	A	60	1600 	45	H	Class 60 Freight - 1600 tonnes at 45 mph, HAW	D	1600	45
+TLD	A	411	3    	90	 	Class 411 3 Car	EMU	 	90
+TLD	A	508	     	75	 	Class 508	EMU	 	75
+TLD	A	90	670  	75	CON	Class 90 Freight - 670 tonnes at 75 mph, Containers	E	670	75
+TLD	A	47	1600 	75	CON	Class 47 Freight - 1600 tonnes at 75 mph, Containers	D	1600	75
+TLD	A	60	800  	60	C	Class 60 Freight - 800 tonnes at 60 mph, Containers	D	800	60
+TLD	A	90	245  	110	 	Class 90 & 7 coaches (110 mph)	E	245	110
+TLD	A	60	1600 	45	 	Class 60 Freight - 1600 tonnes at 45 mph	D	1600	45
+TLD	A	73	400  	90	 	Class 73 & VSOE 9 Pullman & 2NAA at 90 mph	ED	400	90
+TLD	A	60	1000 	60	H	Class 60 Freight - 1000 tonnes at 60 mph, HAW	D	1000	60
+TLD	A	STEAM	280  	35	 	Steam & 8 coaches (35 mph)	D	280	35
+TLD	A	2X47	1600 	75	CON	2 x Class 47 Freight - 1600 tonnes at 75 mph, Containers	D	1600	75
+TLD	A	LS	     	60	 	Light Steam Locomotive (60 mph)	D	 	60
+TLD	A	175	     	100	 	Class 175	DMU	E	100
+TLD	A	90	410  	110	 	Class 90 & 12 coaches (110 mph)	E	410	110
+TLD	A	92	1000 	75	 	Class 92 Freight - 1000 tonnes at 75 mph	E	1000	75
+TLD	A	92	1150 	75	 	Class 92 Freight - 1150 tonnes at 75 mph	E	1100	75
+TLD	A	92	1450 	75	 	Class 92 Freight - 1450 tonnes at 75 mph	E	1400	75
+TLD	A	08	600  	15	C	Freight - Timing Reference 85 at 15 mph, Containers	D	600	15
+TLD	A	92	970  	75	C	Class 92 Freight - 970 tonnes at 75 mph, Containers	E	970	75
+TLD	A	92	1070 	75	C	Class 92 Freight - 1070 tonnes at 75 mph, Containers	E	1070	75
+TLD	A	92	1600 	75	C	Class 92 Freight - 1600 tonnes at 75 mph, Containers	E	1650	75
+TLD	A	92	1250 	75	C	Class 92 Freight - 1250 tonnes at 75 mph, Containers	E	1250	75
+TLD	A	H56	715  	75	 	Freight - Timing Reference 40 at 75 mph	D	715	75
+TLD	A	92	1750 	45	 	Class 92 Freight - 1750 tonnes at 45 mph	E	1755	45
+TLD	A	92	700  	60	 	Class 92 Freight - 700 tonnes at 60 mph	E	700	60
+TLD	A	67	140  	100	 	Class 67 & 4 coaches (100 mph)	D	140	100
+TLD	A	67	140  	110	 	Class 67 & 4 coaches (110 mph)	D	140	110
+TLD	A	67	280  	100	 	Class 67 & 8 coaches (100 mph)	D	280	100
+TLD	A	67	315  	100	 	Class 67 & 9 coaches (100 mph)	D	315	100
+TLD	A	67	420  	100	 	Class 67 & 12 coaches (100 mph)	D	420	100
+TLD	A	67	315  	110	 	Class 67 & 9 coaches (110 mph)	D	315	110
+TLD	A	67	420  	110	 	Class 67 & 12 coaches (110 mph)	D	420	110
+TLD	A	90	245  	100	 	Class 90 & 7 coaches (100 mph)	E	245	100
+TLD	A	90	280  	100	 	Class 90 & 8 coaches (100 mph)	E	280	100
+TLD	A	90	315  	100	 	Class 90 & 9 coaches (100 mph)	E	315	100
+TLD	A	90	350  	100	 	Class 90 & 10 coaches (100 mph)	E	350	100
+TLD	A	90	420  	100	 	Class 90 & 12 coaches (100 mph)	E	420	100
+TLD	A	67	280  	125	 	Class 67 & 8 coaches (125 mph)	D	280	125
+TLD	A	67	245  	110	 	Class 67 & 7 coaches (110 mph)	D	245	110
+TLD	A	67	245  	100	 	Class 67 & 7 coaches (100 mph)	D	245	100
+TLD	A	67	140  	125	 	Class 67 & 4 coaches (125 mph)	D	140	125
+TLD	A	H56	1235 	60	C	Freight - Timing Reference 70 at 60 mph, Containers	D	1235	60
+TLD	A	90	140  	90	 	Class 90 & 4 coaches (90 mph)	E	140	90
+TLD	A	H56	1410 	75	 	Freight - Timing Reference 80 at 75 mph	D	1408	75
+TLD	A	90	600  	90	CON	Class 90 Freight - 600 tonnes at 90 mph, Containers	E	600	90
+TLD	A	180	     	125	 	Class 180	DMU	 	125
+TLD	A	221	     	125	 	Bombardier Tilt DMU	DMU	V	125
+TLD	A	220	     	125	 	Bombardier Non Tilt DMU	DMU	V	125
+TLD	A	H56	1235 	75	 	Freight - Timing Reference 70 at 75 mph	D	1235	75
+TLD	A	333-4	     	100	 	Class 333 4 car EMU	EMU	333	100
+TLD	A	458	     	100	 	Class 458 EMU (4-JOP)	EMU	E	100
+TLD	A	357	     	100	 	Class 357 EMU	EMU	357	100
+TLD	A	47	805  	75	C	Class 47 Freight - 805 tonnes at 75 mph, Containers	D	805	75
+TLD	A	390	     	125	 	Class 390 EMU - 9 vehicles 125 mph	EMU	390	125
+TLD	A	56	1235 	75	CON	Class 56 Freight - 1235 tonnes at 75 mph, Containers	D	1235	75
+TLD	A	92	1600 	45	C	Class 92 Freight - 1600 tonnes at 45 mph, Containers	E	1600	45
+TLD	A	STEAM	420  	75	 	Steam & 12 coaches (75 mph)	D	420	75
+TLD	A	92	1300 	75	C	Class 92 Freight - 1300 tonnes at 75 mph, Containers	E	1300	75
+TLD	A	90	350  	110	 	Class 90 & 10 coaches (110 mph)	E	350	110
+TLD	A	37	315  	60	 	Class 37 & 9 coaches (60 mph)	D	315	60
+TLD	A	37	315  	70	 	Class 37 & 9 coaches (70 mph)	D	315	70
+TLD	A	334	     	90	 	Class 334 EMU	EMU	334	90
+TLD	A	TWM	     	50	 	Tyne & Wear Metro Stock	EMU	 	50
+TLD	A	90	420  	110	 	Class 90 with 12 NIA vehicles (110 mph)	E	420	110
+TLD	A	H56	1495 	75	C	Freight - Timing Reference 85 at 75 mph, Containers	D	1495	75
+TLD	A	37	315  	75	 	Class 37 & 9 coaches (75 mph)	D	315	75
+TLD	A	220-2T	     	125	 	Class 220 2Track	DMU	V	125
+TLD	A	360	     	100	 	Class 360 EMU	EMU	360	100
+TLD	A	47	700  	80	 	Class 47 + dead loco & 15 coaches (80 mph)	D	700	80
+TLD	A	HST2+5	     	125	 	High Speed Train (2+5) (125 mph)	HST	 	125
+TLD	A	HST+10	     	125	 	High Speed Train (2+10) (125 mph)	HST	 	125
+TLD	A	H56	715  	75	C	Freight - Timing Reference 40 @ 75mph, Containers	D	715	75
+TLD	A	47	385  	40	 	Class 47 & 11 coaches (40 mph)	D	385	40
+TLD	A	47	420  	40	 	Class 47 & 12 coaches (40 mph)	D	420	40
+TLD	A	47	455  	40	 	Class 47 & 13 coaches (40 mph)	D	455	40
+TLD	A	37	385  	60	 	Class 37 & 11 coaches (60mph)	D	385	60
+TLD	A	67	385  	125	 	Class 67 & 11 coaches [125 mph]	D	385	125
+TLD	A	67	350  	125	 	Class 67 & 10 coaches [125 mph]	D	350	125
+TLD	A	H56	1760 	60	C	Freight - Timing Reference 100 at 60 mph, Containers	D	1760	60
+TLD	A	57	1600 	75	C	Class 57 Freight - 1600 tonnes at 75mph, Containers	D	1600	75
+TLD	A	H56	975  	60	B	Freight - Timing Reference 55 at 60mph HAW+Contrs	D	975	60
+TLD	A	H56	1235 	60	B	Freight - Timing Reference 70 at 60mph HAW+Contrs	D	1235	60
+TLD	A	H56	715  	60	B	Freight - Timing Reference 40 at 60mph HAW+Contrs	D	715	60
+TLD	A	66	1475 	75	C	Class 66 Freight - 1475 tonnes at 75 mph, Containers	D	1475	75
+TLD	A	66	1235 	75	C	Class 66 Freight - 1235 tonnes at 75 mph, Containers	D	1235	75
+TLD	A	92	1800 	45	 	Class 92 Freight - 1800 tonnes at 45 mph	E	1800	45
+TLD	A	373	     	186	 	373 Eurostar (CTRL)	EMU	 	186
+TLD	A	421W	     	90	 	Class 421 EMU - Windsor Lines	EMU	 	90
+TLD	A	455W	     	75	 	Class 455 EMU - Windsor Lines	EMU	 	75
+TLD	A	HSMT	     	125	 	High Speed Measuring Train	HST	 	125
+TLD	A	465A	     	90	 	Class 465/6 EMU - ROTP Timings	EMU	 	90
+TLD	A	57	455  	95	 	Class 57 & 13 coaches (95 mph)	D	455	95
+TLD	A	390+57	     	95	 	Class 390 EMU 9 vehicles hauled by Class 57 loco	EML	 	95
+TLD	A	221T	     	125	 	Bombardier Tilt DMU (WCML Tilting)	DMU	 	125
+TLD	A	47	210  	95	 	Class 47 & 6 coaches (95 mph)	D	210	95
+TLD	A	450	     	100	 	Class 450 Desiro EMU	EMU	 	100
+TLD	A	37+37	140  	75	 	Class 37, 4 coaches, class 37 (75 mph)	D	140	75
+TLD	A	92	1600 	60	C	Class 92 Freight - 1600 tonnes at 60 mph. Containers	E	1600	60
+TLD	A	377	     	100	 	Class 377 Electrostar	EMU	 	100
+TLD	A	375	     	100	 	Class 375 Electrostar	EMU	 	100
+TLD	A	67	500  	100	 	Class 67 hauling IC225	D	500	100
+TLD	A	H66	300  	75	 	Freight - Timing Reference 30 at 75mph	D	300	75
+TLD	A	66	1200 	60	 	Class 66 Freight - 1200 tonnes at 60 mph	D	1200	60
+TLD	A	H66	300  	75	C	Freight - Timing Ref 30 at 75mph, Containers	D	300	75
+TLD	A	465B	     	90	 	Class 465/466 - CHX/LEW RoTP	EMU	 	90
+TLD	A	H56	1235 	75	C	Freight - Timing Ref 70 at 75 mph. Containers	D	1235	75
+TLD	A	31+31	140  	90	 	Class 31, 4 coaches, Class 31 (90 mph)	D	140	90
+TLD	A	C21G	     	10	 	C21 Railgrinder (grinding)	D	 	10
+TLD	A	C21T	     	55	 	C21 Railgrinder (in transit)	D	 	55
+TLD	A	66	400  	45	 	Class 66 Freight - 400 tonnes at 45 mph	D	400	45
+TLD	A	66	600  	45	 	Class 66 Freight - 600 tonnes at 45 mph	D	600	45
+TLD	A	66	800  	45	 	Class 66 Freight - 800 tonnes at 45 mph	D	800	45
+TLD	A	66	1000 	45	 	Class 66 Freight - 1000 tonnes at 45 mph	D	1000	45
+TLD	A	66	1200 	45	 	Class 66 Freight - 1200 tonnes at 45 mph	D	1200	45
+TLD	A	66	1400 	45	 	Class 66 Freight - 1400 tonnes at 45 mph	D	1400	45
+TLD	A	66	1600 	45	 	Class 66 Freight - 1600 tonnes at 45 mph	D	1600	45
+TLD	A	66	1800 	45	 	Class 66 Freight - 1800 tonnes at 45 mph	D	1800	45
+TLD	A	66	2000 	45	 	Class 66 Freight - 2000 tonnes at 45 mph	D	2000	45
+TLD	A	66	2200 	45	 	Class 66 Freight - 2200 tonnes at 45 mph	D	2200	45
+TLD	A	66	1400 	45	CON	Class 66 Freight - 1400 tonnes at 45 mph, Containers	D	1400	45
+TLD	A	66	1600 	45	CON	Class 66 Freight - 1600 tonnes at 45 mph, Containers	D	1600	45
+TLD	A	66	1800 	45	H	Class 66 Freight - 1800 tonnes at 45 mph, HAW	D	1800	45
+TLD	A	66	2000 	45	H	Class 66 Freight - 2000 tonnes at 45 mph, HAW	D	2000	45
+TLD	A	66	2200 	45	H	Class 66 Freight - 2200 tonnes at 45 mph, HAW	D	2200	45
+TLD	A	66	2400 	45	H	Class 66 Freight - 2400 tonnes at 45 mph, HAW	D	2400	45
+TLD	A	66	2600 	45	H	Class 66 Freight - 2600 tonnes at 45 mph, HAW	D	2600	45
+TLD	A	66	2800 	45	H	Class 66 Freight - 2800 tonnes at 45 pmh, HAW	D	2800	45
+TLD	A	66	3000 	45	H	Class 66 Freight - 3000 tonnes at 45 mph, HAW	D	3000	45
+TLD	A	H66	2800 	45	H	Freight - Timing Reference 160 at 45 mph, HAW	D	2800	45
+TLD	A	66	1800 	60	B	Class 66 Freight - 1800 tonnes at 60 mph, HAW&C	D	1800	60
+TLD	A	66	800  	60	H	Class 66 Freight - 800 tonnes at 60 mph, HAW	D	800	60
+TLD	A	66	1000 	60	 	Class 66 Freight - 1000 tonnes at 60 mph	D	1000	60
+TLD	A	66	1200 	60	H	Class 66 Freight - 1200 tonnes at 60 mph, HAW	D	1200	60
+TLD	A	66	1000 	60	H	Class 66 Freight - 1000 tonnes at 60 mph, HAW	D	1000	60
+TLD	A	66	1400 	60	H	Class 66 Freight - 1400 tonnes at 60 mph, HAW	D	1400	60
+TLD	A	66	1600 	60	H	Class 66 Freight - 1600 tonnes at 60 mph, HAW	D	1600	60
+TLD	A	66	1800 	60	H	Class 66 Freight - 1800 tonnes at 60 mph, HAW	D	1800	60
+TLD	A	66	2000 	60	H	Class 66 Freight - 2000 tonnes at 60 mph, HAW	D	2000	60
+TLD	A	66	2200 	60	H	Class 66 Freight - 2200 tonnes at 60 mph, HAW	D	2200	60
+TLD	A	66	2400 	60	H	Class 66 Freight - 2400 tonnes at 60 mph, HAW	D	2400	60
+TLD	A	66	2600 	60	H	Class 66 Freight - 2600 tonnes at 60 mph, HAW	D	2600	60
+TLD	A	66	2800 	60	H	Class 66 Freight - 2800 tonnes at 60 mph, HAW	D	2800	60
+TLD	A	66	3000 	60	H	Class 66 Freight - 3000 tonnes at 60 mph, HAW	D	3000	60
+TLD	A	66	3200 	60	H	Class 66 Freight - 3200 tonnes at 60 mph, HAW	D	3200	60
+TLD	A	66	400  	60	 	Class 66 Freight - 400 tonnes at 60 mph	D	400	60
+TLD	A	66	600  	60	 	Class 66 Freight - 600 tonnes at 60 mph	D	600	60
+TLD	A	66	800  	60	 	Class 66 Freight - 800 tonnes at 60 mph	D	800	60
+TLD	A	66	1400 	60	 	Class 66 Freight - 1400 tonnes at 60 mph	D	1400	60
+TLD	A	66	1600 	60	 	Class 66 Freight - 1600 tonnes at 60 mph	D	1600	60
+TLD	A	66	1800 	60	 	Class 66 Freight - 1800 tonnes at 60 mph	D	1800	60
+TLD	A	66	2000 	60	 	Class 66 Freight - 2000 tonnes at 60 mph	D	2000	60
+TLD	A	66	2200 	60	 	Class 66 Freight - 2200 tonnes at 60 mph	D	2200	60
+TLD	A	455RT	     	75	 	Class 455 (Rounded Timings)	EMU	 	75
+TLD	A	222	     	125	 	Midland Mainline Meridian	DMU	 	125
+TLD	A	350	     	100	 	Class 350 EMU	EMU	350	100
+TLD	A	90	790  	60	 	Class 90 Freight - 790 tonnes at 60 mph	E	790	60
+TLD	A	66	1800 	60	T	Class 66 (LNE Specific Routes Only)	D	1800	60
+TLD	A	66	400  	60	H	Class 66 Freight - 400 tonnes at 60 mph, HAW	D	400	60
+TLD	A	66	600  	60	H	Class 66 Freight - 600 tonnes at 60 mph, HAW	D	600	60
+TLD	A	66	2400 	60	 	Class 66 Freight - 2400 tonnes at 60 mph	D	2400	60
+TLD	A	90	700  	60	 	Class 90 Freight - 700 tonnes at 60 mph	E	700	90
+TLD	A	67	140  	90	 	Class 67 + dead loco hauling 140 tonnes	D	140	90
+TLD	A	221-2T	     	125	 	Class 221 2Track	D	V	125
+TLD	A	185	     	100	 	Class 185	DMU	 	100
+TLD	A	66	400  	75	 	Class 66 Freight - 400 tonnes at 75mph	D	400	75
+TLD	A	TRU	     	75	 	Track Recording Unit	DMU	 	75
+TLD	A	SAND-D	     	0	 	Sandite (Diesel)	D	 	90
+TLD	A	66	600  	75	 	Class 66 Freight - 600 tonnes at 75mph	D	600	75
+TLD	A	57	210  	75	 	Class 57 & 6 coaches (75 mph)	D	210	75
+TLD	A	121	     	70	 	Class 121 DMU	DMU	 	70
+TLD	A	SRO	     	8	 	8 MPH Test Train	D	 	8
+TLD	A	SRO	     	45	 	45 MPH Test Train	D	 	45
+TLD	A	SRO	     	60	 	60 MPH Test Train	D	 	60
+TLD	A	SRO	     	75	 	75 MPH Test Train	D	 	75
+TLD	A	SRO	     	90	 	90 MPH Test Train	D	 	90
+TLD	A	57	210  	75	T	Class 57 x 6 Coaches [2 Track[ (75mph)	D	210	75
+TLD	A	UFM160	     	100	 	UFM160 Rail Profile Measurer	DEM	 	100
+TLD	A	15-SRO	     	15	 	Grinder Transit	D	 	15
+TLD	A	66	800  	75	 	Class 66 Freight - 800 tonnes at 75 mph	D	800	75
+TLD	A	50-OTM	     	50	 	On Track Machine 50mph	DMU	 	50
+TLD	A	40-OTM	     	40	 	On Track Machine 40mph	DMU	 	40
+TLD	A	45-OTM	     	45	 	On Track Machine 45 mph	DEM	 	45
+TLD	A	60-OTM	     	60	 	On Track Machine 60mph	D	 	60
+TLD	A	66	     	60	 	Class 66 CTRL 60 mph (100kmh)	D	 	60
+TLD	A	92	2400 	60	H	Class 92 freight - 2400 tonnes at 60 mph - HTA wagons	E	2400	60
+TLD	A	92	2400 	60	 	Class 92 freight - 2400 tonnes at 60mph	E	2400	60
+TLD	A	92	800  	75	 	Class 92 freight - 800 tonnes at 75 mph	E	800	75
+TLD	A	395	     	140	 	Class 395 (CTRL)	EMU	 395	140
+TLD	A	66	1600 	75	C	Class 66 Freight - 1600 tonnes at 75mph, Containers	D	1600	75
+TLD	A	67	265  	50	 	Class 67 & 5 Coaches with class 67	D	265	50
+TLD	A	92	2000 	60	 	Class 92 Freight - 2000 tonnes at 60mph	E	2000	60
+TLD	A	BUSVT	     	75	 	VIRGIN BUS	 D	 	75
+TLD	A	92	1800 	60	 	Class 92 Freight - 1800 tonnes at 60mph	E	1800	60
+TLD	A	92	400  	60	 	Class 92 Freight - 400 tonnes at 60mph	E	400	60
+TLD	A	92	800  	60	 	Class 92 Freight - 800 tonnes at 60mph	E	800	60
+TLD	A	92	1200 	60	 	Class 92 Freight - 1200 tonnes at 60mph	E	1200	60
+TLD	A	92	2200 	60	 	Class 92 Freight - 2200 tonnes at 60mph	E	2200	60
+TLD	A	92	400  	75	 	Class 92 Freight - 400 tonnes at 75mph	E	400	75
+TLD	A	92	1200 	75	 	Class 92 Freight - 1200 tonnes at 75mph	E	1200	75
+TLD	A	92	1800 	75	 	Class 92 Freight - 1800 tonnes at 75mph	E	1800	75
+TLD	A	92	2000 	75	 	Class 92 Freight - 2000 tonnes at 75mph	E	2000	75
+TLD	A	313DC	     	75	 	Class 313DC EMU	EMU	313	75
+TLD	A	378	     	75	 	Class 378 EMU	EMU	378	75
+TLD	A	57	280  	75	 	Class 57 and 8 Coaches (75mph)	D	280	75
+TLD	A	57	350  	75	 	Class 57 and 10 Coaches (75mph)	D	350	75
+TLD	A	66	1200 	60	C	Class 66 Freight - 1200 tonnes at 60mph Con	D	1200	60
+TLD	A	SAND60	     	 60	 	SANDITE @ 60mph	EMU	 	60
+TLD	A	31	70   	 90	 	Class31 & 2 coaches (90mph)	 D	 70	 90
+TLD	A	STEAM	245  	45	 	Steam & 7 coaches (45 mph)	D	245	45
+TLD	A	BUS-SO	     	0	 	BUS-SO	D	 0	60
+TLD	A	BUS-SU	     	0	 	BUS-SU	D	 0	60
+TLD	A	BUS-SP	     	0	 	BUS-SP	D	 0	60
+TLD	A	BUSATW	     	60	 	BUSATW	D	0	60
+TLD	A	HST8XC	     	125	 	High Speed Train (2+8) 125mph Cross Country	HST	 	125
+TLD	A	HSTRSW	     	125	 	HST 2 Track - Reading to Dolphin Jn ML	HST	 	125
+TLD	A	HSTRDJ	     	125	 	HST 2 Track - Reading to Dolphin Jn ML	HST	 	125
+TLD	A	HSTPDJ	     	125	 	HST 2 Track - Paddington to Dolphin Jn 2T	HST	 	125
+TLD	A	HSTPSW	     	125	 	HST 2 Track - Paddington to Slough West ML	HST	 	125
+TLD	A	165PSW	     	90	 	165-1 2 Track - Paddington to Slough West ML	DMU	T	90
+TLD	A	165PDJ	     	90	 	165-1 2 Track - Paddington to Dolphin Jn 2T	DMU	T	90
+TLD	A	165RDJ	     	90	 	165-1 2 Track - Reading to Dolphin Jn ML	DMU	T	90
+TLD	A	165RSW	     	90	 	165-1 2 Track - Reading to Slough West 2T	DMU	T	90
+TLD	A	70	1800 	60	H	Class 70 1800 tonnes HAW	D	1800	70
+TLD	A	70	2000 	60	H	Class 70 2000 Tonnes HAW	D	2000	60
+TLD	A	70	2200 	60	H	Class 70 2200 Tonnes HAW @ 60mph	D	2200	60
+TLD	A	70	1800 	75	C	Class 70 1800 Tonnes Con @75mph	D	1800	75
+TLD	A	66	600  	40	 	Class 66 - 600 Tonnes @ 40mph	D	600	40
+TLD	A	66	400  	75	C	Class 66 - 400 Tonnes @ 75 CON	D	400	75
+TLD	A	66	600  	75	C	Class 66 - 600Tonnes @ 75 CON	D	600	75
+TLD	A	66	800  	75	C	Class 66 - 800Tonnes @ 75 CON	D	800	75
+TLD	A	66	1000 	75	C	Class 66 - 1000Tonnes @ 75 con	D	1000	75
+TLD	A	380	0    	100	 	Class 380	EMU	0	100
+TLD	A	HSTOEO	     	125	 	HST (2+8) (125mph) One Engine Only	HST	 	125
+TLD	A	66	2000 	75	CON	Class 66 Frieght 2000T @75mph Con	D	2000	75
+TLD	A	90	1600 	50	 	Class 90 Freight 1600 tonnes at 50mph	E	1600	50
+TLD	A	90	500  	50	 	Class 90 Freight 500 tonnes at 50mph	E	500	50
+TLD	A	90	800  	50	 	Class 90 Freight 800 tonnes at 50mph	E	800	50
+TLD	A	90	1000 	50	 	Class 90 Freight 1000 tonnes at 50mph	E	1000	50
+TLD	A	90	1200 	50	 	Class 90 Freight 1200 tonnes at 50mph	E	1200	50
+TLD	A	92	1600 	50	 	Class 92 Freight 1600 tonnes at 50mph	E	1600	50
+TLD	A	92	500  	50	 	Class 92 Freight 500 tonnes at 50mph	E	500	50
+TLD	A	92	800  	50	 	Class 92 Freight 800 tonnes at 50mph	E	800	50
+TLD	A	92	1000 	50	 	Class 92 Freight 1000 tonnes at 50mph	E	1000	50
+TLD	A	92	1200 	50	 	Class 92 Freight 1200 tonnes at 50mph	E	1200	50
+TLD	A	59	1600 	45	H	Class 59 Freight 1600t @ 45mph	D	1600	45
+TLD	A	59	1800 	45	H	Class 59 Freight 1800t @ 45mph	D	1800	45
+TLD	A	59	1000 	45	 	Class 59 Freight 1000t @ 45mph	D	1000	45
+TLD	A	59	2000 	45	H	Class 59 Freight 2000t @ 45mph	D	2000	45
+TLD	A	379	     	100	 	Class 379 Electrostar	EMU	379	100
+TLD	A	172-2	     	100	 	Class 172 2 Car Turbostar 100 MPH	DMU	69	100
+TLD	A	66	1600 	45	H	Class 66 Freight - 1600 tonnes at 45 mph, HAW	D	1600	45
+TLD	A	59	1800 	60	 H	Class 59 Freight - 1800 tonnes at 60 mph, HAW	 D	1800	60
+TLD	A	165-E	     	75	 	165-Evergreen	DMU	N	75
+TLD	A	168-E	     	100	 	168-Evergreen	DMU	E	100
+TLD	A	172-0	     	75	 	Class 172/0 and 172/1 75 MPH	DMU	69	75
+TLD	A	HST2+9	     	80	 	HST 2+9 80mph	HST	 	80
+TLD	A	91	410  	80	 	Class 91 & 12 coaches (80mph)	E	410	80
+TLD	A	66	600  	60	C	Class 66 Freight 600 tonnes at 60 mph CON	D	600	60
+TLD	A	66	800  	60	C	Class 66 Freight 800 tonnes at 60 mph CON	 D	800	60
+TLD	A	66	1000 	60	C	Class 66 Freight 1000 tonnes at 60 mph CON	D	1000	60
+TLD	A	92	600  	60	C	Class 92 Freight 600 tonnes at 60 mph CON	E	600	60
+TLD	A	92	800  	60	C	Class 92 Freight 800 tonnes at 60 moh CON	E	800	60
+TLD	A	92	1000 	60	C	Class 92 Freight 1000 tonnes at 60 mph CON	E	1000	60
+TLD	A	66	400  	60	C	Class 66 Freight 400 tonnes at 60 mph CON	D	400	60
+TLD	A	350	     	110	 	Class 350 110mph	EMU	506	110
+TLD	A	HST7XC	     	125	 	HST7XC	HST	 	125
+TLD	A	66	1800 	75	C	Class 66 Freight 1800 tonnes at 75 mph CON	D	 	75
+TLD	A	150-0	     	75	 	Class 150 TOC not diagrammed	DMU	 	75
+TLD	A	59	800  	45	 	Class 59 Freight - 800 tonnes at 45mph	D	 	45
+TLD	A	165-P	     	75	 	165-P Chilterns	DMU	N	75
+TLD	A	168-P	     	100	 	168-P Chilterns	DMU	E	100
+TLD	A	59	800  	60	 	Class 59 Freight - 800 tonnes at 60 mph	D	800	60
+TLD	A	314	     	75	 	Class 314	EMU	 	75
+TLD	A	66	800  	60	D	Class 66 Freight 800 tonnes at 60 mph Double Headed	D	800	60
+TLD	A	66	1000 	60	D	Class 66 Freight 1000 tonnes at 60 mph Double Headed	 D	1000	60
+TLD	A	66	1400 	60	D	Class 66 Freight 1400 tonnes at 60 mph Double Headed	D	1400	60
+TLD	A	66	1600 	60	D	Class 66 Freight 1600 tonnes at 60 mph Double Headed	D	1600	60
+TLD	A	CH95	455  	95	 	Charter Class 47 95 mph 455 tonnes	D	455	95
+TLD	A	CH75	455  	75	 	Charter Class 47 75 mph 455 tonnes	D	455	75
+TLD	A	CH100	455  	100	 	Charter Class 47 100 mph 455 tonnes	D	455	100
+TLD	A	66	2600 	60	 	Class 66 Freight 2600 Tonnes at 60 mph	D	2600	60
+TLD	A	47	245  	90	T	PLPR-47 245t at 90mph	D	245	90
+TLD	A	73	140  	90	T	PLPR-73 Top&Tailed +4 coaches140t at 90mph	D	140	90
+TLD	A	67	560  	100	 	Class 67 & 16 coaches (100 mph)	D	560	100
+TLD	A	67	210  	100	 	Class 67 & 6 coaches (100 mph)	D	210	100
+TLD	A	67	350  	100	 	Class 67 & 10 coaches (100 mph)	D	350	100
+TLD	A	67	455  	100	 	Class 67 & 13 coaches (100 mph)	D	455	100
+TLD	A	66	1600 	75	CD	Class 66 Freight 1600 tonnes at 75 mph Double Headed CON	D	1600	75
+TLD	A	UTU-R	     	30	 	Ultrasonic Test Unit - Recording	D	 	30
+TLD	A	UTU-T	     	75	 	Ultrasonic Test Unit - Transit	D	 	75
+TLD	A	92	600  	75	 	Class 92 Freight - 600 tonnes at 75mph	E	600	75
+TLD	A	66	1800 	60	C	Class 66 Freight - 1800 tonnes at 60mph, containers	D	1800	60
+TLD	A	66	2000 	60	C	Class 66 Freight - 2000 tonnes at 60mph, containers	D	2000	60
+TLD	A	66	1400 	60	C	Class 66 Freight - 1400 tonnes at 60mph, containers	D	1400	60
+TLD	A	66	1600 	60	C	Class 66 Freight - 1600 tonnes at 60mph, containers	D	1600	60
+TLD	A	73	600  	60	 	Class 73 Freight 600 Tonnes Double Headed @60mph	ED	600	60
+TLD	A	73	1800 	60	 	Class 73 Freight 1800 Tonnes Double Headed @60mph	ED	1800	60
+TLD	A	20	600  	40	 	2x20 LUL stock 40 mph TL600	D	600	40
+TLD	A	700	     	100	 	Class 700 EMU	EMU	700	100
+TLD	A	60	3600 	60	H	Class 60 - 3600 Tonnes 60 mph HAW	D	3600	60
+TLD	A	66	2600 	60	HD	Class 66 Freight - 2600 tonnes at 60 mph, HAW Double Headed	D	2600	60
+TLD	A	67	175  	100	 	Class 67 & 5 coaches (100 mph)	D	175	100
+TLD	A	67	210  	110	 	Class 67 & 6 coaches (110 mph)	D	210	110
+TLD	A	59	2600 	60	H	Class 59 2600 Tonnes 26 Coaches	D	2600	60
+TLD	A	59	2000 	60	H	Class 59 2000 tonne 60 mph	D	2000	60
+TLD	A	92	595  	80	H	Class 92  Freight 595 Tonnes at 80mph	D	595	80
+TLD	A	37	105  	80	 	Class 37+2 x Mk2+DBSO	D	105	80
+TLD	A	70	2400 	60	H	Class 70 Freight - 2400 tonnes at 60mph, H	D	2400	60
+TLD	A	60	3400 	60	 H	Class 60 Freight - 3400 tonnes at 60mph HAW	 D	3400	 60
+TLD	A	60	3200 	60	H	Class 60 Freight - 3200 tonnes at 60mph HAW	D	3200	60
+TLD	A	70	1200 	75	C	Class 70loco Standard guage 21.71m long 2.642m wide, containers	DEM	1400	75
+TLD	A	66	1400 	 60	 B	Class 66 Freight 1400 tonnes at 60mph	D	1400	60
+TLD	A	66	1400 	75	C	Class 66 Freight - 1400 tonnes at 75mph, containers	D	1400	 75
+TLD	A	387	     	90	 	387-D 90	EMU	 	90
+TLD	A	387	     	100	 	387 100	EMU	 	100
+TLD	A	387	     	110	 	387 110	EMU	 	110
+TLD	A	399	63   	60	C	Class 399 Stadler Citylink TRAM	EMU	399	60
+TLD	A	92	595  	87	H	Class 92 - 595 Tonnes at 87.5mph	D	595	87
+TLD	A	800-9D	     	100	 	Class 800 9 Car Diesel	DMU	800	100
+TLD	A	800-9E	     	125	 	Class 800 9 Car Electric	EMU	800	125
+TLD	A	56	500  	60	 	Class 56 & 18 JRA Wagons - 500 tonnes at 60mph	D	500	60
+TLD	A	56	1800 	60	 	Class 56 & 18 JRA Wagons - 1800 tonnes at 60mph	D	1800	60
+TLD	A	56	400  	60	 	Class 56 & 18 JRA Wagons - 400 tonnes at 60mph	D	400	60
+TLD	A	66	3200 	60	 	Class 66 Freight - 3200 tonnes at 60 mph	D	3200	60
+TLD	A	59	1200 	45	H	Class 59 Freight - 1200 tonnes at 45mph 	D	1200	45
+TLD	A	59	1200 	60	H	Class 59 Freight - 1200 tonnes at 60mph	D	1200	60
+TLD	A	59	5000 	45	H	Class 59 Freight - 5000 tonnes at 45mph	 D	5000	45
+TLD	A	59	5000 	60	H	Class 59 Freight - 5000 tonnes at 60mph	 D	5000	60
+TLD	A	59	3000 	60	H	Class 59 Freight - 3000 tonnes at 60mph	D	3000	60
+TLD	A	345	     	90	 	Class 345 9 car	EMU	345	90
+TLD	A	385	     	100	 	Class 385 4 Coaches	EMU	385	100
+TLD	A	59	1000 	45	H	Class 59 Freight - 1000 tonnes at 45 mph, Heavy haul	D	1000	45
+TLD	A	59	1000 	60	H	Class 59 Freight - 1000 tonnes at 60 mph, Heavy haul	D	1000	60
+TLD	A	60	800  	45	H	Class 60 Freight - 800 tonnes at 45mph, Heavy haul	D	800	45
+TLD	A	60	1800 	45	H	Class 60 Freight - 1800 tonnes at 45mph, Heavy haul	D	1800	45
+TLD	A	717	     	85	 	Class 717 & 6 coaches (85mph)	EMU	717	75
+TLD	A	66	3400 	60	H	Class 66 Freight - 3400 tonnes at 60 mph, HAW	D	3400	60
+TLD	A	HSTSR4	287  	100	 	HST 2+4 100mph Scotrail	D	287	100
+TLD	A	HSTSR5	324  	100	 	HST 2+5 100mph Scotrail	D	324	100
+TLD	A	59	2200 	45	H	Class 59 Freight - 2200 tonnes at 45 mph, Heavy Haul	D	2200	45
+TLD	A	710	     	75	 	Class 710 4-car dual-voltage EMU	EMU	710	75
+TLD	A	802-9D	     	125	 	Class 802 9 Car Diesel	DMU	802	125
+TLD	A	802-9E	     	125	 	Class 802 9 Car Electric	EMU	802	125
+TLD	A	802-5D	     	125	 	Class 802 5 Car Diesel	DMU	802	125
+TLD	A	802-5E	     	125	 	Class 802 5 Car Electric	EMU	802	125
+TLD	A	66	2800 	60	 	Class 66 Freight - 2800 tonnes at 60 mph	D	2800	60
+TLD	A	80210E	     	125	 	Class 802 10 Car Electric	EMU	802	125
+TLD	A	80210D	     	125	 	Class 802 10 Car Diesel	DMU	802	125
+TLD	A	331-3	     	100	 	Class 331 3 car	EMU	331	100
+TLD	A	331-4	     	100	 	Class 331 4 car	EMU	331	100
+TLD	A	195-2	     	100	 	Class 195 2 car	DMU	195	100
+TLD	A	195-3	     	100	 	Class 195 3 car	DMU	195	100
+TLD	A	59	2800 	45	H	Class 59 Freight - 2800 tonnes at 45 mph, Heavy haul	D	2800	45
+TLD	A	720-5	     	100	 	Class 720 5 car EMU	EMU	720	100
+TLD	A	720	     	100	 	Class 720 10 car EMU	EMU	720	100
+TLD	A	755-E3	     	100	 	Class 755-E 3 car	E	755	100
+TLD	A	755-E	     	100	 	Class 755-E 4 car	E	755	100
+TLD	A	755-D3	     	100	 	Class 755-D 3 car	D	755	100
+TLD	A	755-D	     	100	 	Class 755-D 4 car	D	755	100
+TLD	A	91E-7	330  	110	 	Class 91 & 7 coaches (110mph)	E	91	110
+TLD	A	745	     	100	 	Class 745-0 EMU	EMU	745	100
+TLD	A	745-1	     	100	 	Class 745-1 EMU	EMU	745 	100
+TLD	A	86D	1600 	75	C	Class 86x2 + Containers 1600 Tonnes at 75 Mph	E	1600	75
+TLD	A	769-E	     	100	 	Class 769 4 Car EMU at 100 MPH	EMU	769	100
+TLD	A	92	600  	87	 	Class 92 + Caledonian Sleeper at 87 MPH	E	92	87
+TLD	A	59	600  	45	 	Class 59 Freight - 600 tonnes at 45 mph	D	59	45
+TLD	A	769-D	     	100	 	Class 769 4 Car DMU at 100 MPH	D	769	100
+TLD	A	92	700  	80	 	Class 92 & 16 coaches at 80mph (inc. comfort speeds)	E	92	80
+TLD	A	68	290  	100	 	Class 68 & 6/7 MK3 coaches	D	68	100
+TLD	A	68	160  	100	 	Class 68 & 5 Mk5A coaches	D	160	100
+TLD	A	397	     	125	 	Class 397	EMU	397	125
+TLD	A	230	     	60	 	Class 230	DMU	230	60
+TLD	A	800-5E	     	125	 	Class 800 5 Car Electric	EMU	800	125
+TLD	A	80010E	     	125	 	Class 800 10 Car Electric	EMU	800	125
+TLD	A	801-5E	     	125	 	Class 801 5 Car Electric	EMU	801	125
+TLD	A	801-9E	     	125	 	Class 801 9 Car Electric	E	801	125
+TLD	A	80110E	     	125	 	Class 801 10 Car Electric	EMU	801	125
+TLD	A	88	1400 	75	C	Class 88 Freight - 1400 tonnes at 75 mph, Containers	D	1400	75
+TLD	A	BUSXC	     	60	 	BUSXC	D	 	60
+TLD	A	90	330  	110	 	Class 90 & 7 Coaches + DVT	E	330	110
+TLD	A	777	     	75	 	Class 777 EMU	EMU	777	75
+TLD	A	345-T	     	90	 	Class 345 Temporary	E	345	90
+TLD	A	BUS-CH	     	60	 	Chiltern Bus	D	 	60
+TLD	A	HSTGW4	     	110	 	GWR 2 + 4 HST	D	43	110
+TLD	A	66	350  	60	 	Class 66 + hauling 10 vehicles (60mph)	D	350	60
+TLD	A	800-5D	     	100	 	Class 800 Diesel & 5 Coaches	D	800	100
+TLD	A	80010D	     	100	 	Class 800 Diesel & 10 coaches	D	800	100
+TLD	A	37	530  	60	 	Class 37 + 12 Coaches + Class 37	D	530	60
+TLD	A	37	425  	60	 	Class 37 x 2 + 12 Coaches	D	425	60
+TLD	A	171	     	100	 	Class 171	DMU	171	100
+TLD	A	80x-E	     	125	 	Class 80x Electric	EMU	800	125
+TLD	A	800-D	     	100	 	Class 800 Diesel	DMU	800	100
+TLD	A	802-D	     	125	 	Class 802 Diesel	DMU	802	125
+TLD	A	196	     	100	 	Class 196	DMU	196	100
+TLD	A	701	     	100	 	Class 701 EMU	EMU	701	100
+TLD	A	68	455  	100	 	Class 68 + 13 coaches	D	455	100
+TLD	A	92	1300 	60	C	Class 92 Freight - 1300 tonnes at 60mph, Containers	E	1300	60
+TLD	A	802FLD	     	125	 	Class 802 Full Length Diesel	EMU	802	125
+TLD	A	802FLE	     	125	 	Class 802 Full Length Electric	EMU	802	125
+TLD	A	STEAM	246  	45	 	Steam - Jacobite Service	D	246	45
+Binary file Geography_20201213_to_20210515_from_20201019.txt matches
