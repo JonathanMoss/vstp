@@ -12,6 +12,7 @@ from network_links import NetworkLink
 from location_record import LocationRecord
 from datetime import datetime, timedelta
 
+
 class Node:
     """Pathfinder Node"""
 
@@ -42,7 +43,7 @@ class Pathfinder:
 
     def __init__(self, start_tiploc: str, end_tiploc: str, via=None, avoid=[], ssd=None, odt=None):
         """Initialisation"""
-        
+
         # Schedule Start Date (ssd)
         if not ssd:
             ssd = datetime.now().date()
