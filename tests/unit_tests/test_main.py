@@ -6,6 +6,7 @@ from unittest import mock
 import pytest
 import main
 from network_links import NetworkLink
+from location_record import LocationRecord
 
 
 @pytest.fixture
@@ -64,7 +65,8 @@ class TestMain:
             locs = main.import_location()
             assert locs and isinstance(locs, list)
             assert locs[0].__class__.__name__ == 'LocationRecord'
-            assert len(locs[0]._instances) == 1
+            location_code = locs[0].location_code
+            assert LocationRecord._instances[location_code]
 
     def test_import_network_links(self, monkeypatch, nwk_records):
 

@@ -55,10 +55,7 @@ class LocationRecord:
     def __repr__(self) -> str:
         """Return a string representation of the object"""
 
-        return json.dumps(
-            self.as_dict,
-            indent=4
-        )
+        return json.dumps(self.as_dict)
 
     @staticmethod
     def distance(wgs_1: tuple, wgs_2: tuple) -> float:
