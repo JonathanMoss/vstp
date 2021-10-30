@@ -1,5 +1,7 @@
 """Main module for UK rail route path finding"""
 
+# pylint: disable= C0301
+
 from pathfinder import Pathfinder
 from location_record import LocationRecord
 from network_links import NetworkLink
