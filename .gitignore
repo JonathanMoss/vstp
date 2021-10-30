@@ -1,6 +1,8 @@
-__pycache__/*
+*/__pycache__/*
 LOC
 NWK
 TLD
 TLK
 BPLAN
+*.pyc
+.pytest_cache

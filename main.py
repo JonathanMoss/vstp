@@ -19,7 +19,7 @@ def import_from_file(f_name: str) -> list:
     return ret_list
 
 
-def import_location():
+def import_location() -> list:
     """Import the location records from the file"""
 
     locs = []
@@ -29,8 +29,10 @@ def import_location():
     return locs
 
 
-def import_network_links():
+def import_network_links() -> list:
     """Import the network link records from the NWK file"""
+
+    nwks = []
 
     for link in import_from_file('NWK'):
 
@@ -42,6 +44,9 @@ def import_network_links():
             continue
 
         lnk.append_to_instance()
+        nwks.append(lnk)
+
+    return nwks
 
 
 if __name__ == "__main__":
@@ -49,13 +54,15 @@ if __name__ == "__main__":
     # import NWK records into memory
     import_network_links()
 
+    # import LOC records into memory
     import_location()
+
     # PATH = Pathfinder("STAFFRD", "WEAVERJ")
     # PATH = Pathfinder("CREWE", "WEAVERJ", ['CREWECY', 'WNSFD', 'HARTFD', 'ACBG'])
     # PATH = Pathfinder("CREWE", "CREWE", ['CREWECY', 'WNSFD',
     #                                      'HARTFD', 'ACBG', 'WIGANNW', 'LVRPLSH'])
     PATH = Pathfinder("CREWE", "CREWE", ['CREWECY', 'WNSFD',
-                                          'HARTFD', 'HARTFDJ', 'ACBG', 'WEAVERJ', 'WIGANNW', 'LVRPLSH'])
+                                         'HARTFD', 'HARTFDJ', 'ACBG', 'WEAVERJ', 'WIGANNW', 'LVRPLSH'])
     # PATH = Pathfinder("CREWE", "BHAMNWS", ['ALSAGER', 'KIDSGRV', 'LNGP', 'STOKEOT', 'STONE', 'STAFFRD', 'PNKRDG', 'WVRMPTN'])
     # PATH.search()
 
