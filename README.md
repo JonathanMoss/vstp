@@ -25,7 +25,7 @@ Follow the instructions below!
 Before using the application, we need to split up the BPLAN into seperate parts; this makes processing what is a massive document a little easier.
 
 * Location Records (LOC)
-  * grep ^LOC <bplan file> > LOC
+  ```grep ^LOC <bplan file> > LOC```
  
 * Network Links (NWK)
   * grep ^NWK <bplan file> > NWK
