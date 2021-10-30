@@ -11,6 +11,6 @@ Follow the instructions below!
 * Python 3 (we used 3.8.10)
 * Aside from packages provided in the standard library, for your convenience, we supply a requirements.txt file for 3rd party libraries used within this application
 * A copy of the Network Rail BPLAN document; this contains, amongst lots of reference data, a representation of UK rail geographical data.
-** https://wiki.openraildata.com/index.php?title=BPLAN_data_structure describes the format and content
-** The file can be downloaded here: https://wiki.openraildata.com/index.php?title=BPLAN_Geography_Data
+  * https://wiki.openraildata.com/index.php?title=BPLAN_data_structure describes the format and content
+  * The file can be downloaded here: https://wiki.openraildata.com/index.php?title=BPLAN_Geography_Data
 
