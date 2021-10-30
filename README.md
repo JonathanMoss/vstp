@@ -1,8 +1,11 @@
-# vstp
+# VSTP
 ## UK Rail route finder
 
 ### What is it?
 It is a collection of python modules that together calculate a route from TIPLOC to TIPLOC, using BPLAN data.
+
+## Whats in a name - VSTP?
+This repo represents early efforts to create a system that can eventually be used to create ad-hoc train schedules; i.e. those that are not published within the working timetable or its incremental updates. The rail industry refers to the creation of such schedules as VSTP - *Very Short Term Planning*; hence the name for the repo is VSTP.
 
 ### How do I use it?
 Follow the instructions below!
