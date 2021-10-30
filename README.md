@@ -7,6 +7,9 @@ It is a collection of python modules that together calculate a route from TIPLOC
 ## Whats in a name - VSTP?
 This repo represents early efforts to create a system that can eventually be used to create ad-hoc train schedules; i.e. those that are not published within the working timetable or its incremental updates without reference to an existing schedule or service template. The rail industry refers to the creation of such schedules as VSTP - *Very Short Term Planning*; hence the name for the repo is VSTP.
 
+## How does it work?
+In its current form, and at its heart, is an algorythm which searches for the shortest path between 2 points; A* [A star]. A* enhances another well known searching algorythm, Dykstra's algorythm, by adding an additional measure, or heuristic. The application does however modify things slightly to take into account some of the limitations and oddities of railway geography; more will be explained later!
+
 ### How do I use it?
 Follow the instructions below!
 
