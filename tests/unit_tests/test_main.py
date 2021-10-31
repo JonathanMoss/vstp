@@ -70,6 +70,7 @@ class TestMain:
 
     def test_import_network_links(self, monkeypatch, nwk_records):
 
+        NetworkLink._instances = {}
         with monkeypatch.context() as monkey:
 
             monkey.setattr(

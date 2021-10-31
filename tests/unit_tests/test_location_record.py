@@ -19,6 +19,7 @@ class TestEnv:
         assert hasattr(LOC, 'EAST_U')
         assert hasattr(LOC, 'NORTH_L')
         assert hasattr(LOC, 'NORTH_U')
+        assert isinstance(LOC.LocationRecord._instances, dict)
 
 
 class TestLocationRecord:

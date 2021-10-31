@@ -68,10 +68,7 @@ class NetworkLink:
     def __repr__(self) -> str:
         """Return a string representation of the object"""
 
-        return json.dumps(
-            self.as_dict,
-            indent=4
-        )
+        return json.dumps(self.as_dict)
 
     def append_to_instance(self):
         """Append to the class instances"""
@@ -149,4 +146,4 @@ class NetworkLink:
         if not tiploc in cls._instances:
             return []
 
-        return cls._instances[tiploc].keys()
+        return list(cls._instances[tiploc].keys())
