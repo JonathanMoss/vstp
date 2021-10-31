@@ -32,5 +32,6 @@ You should now have 2 files in the root directory, LOC and NWK - these are both 
 ### Unit Tests
 It is advisable to run the included unit tests before using the application, thus:
 * Navigate to the application root folder,
-* at the prompt: ```pytest -vv -s -x tests/unit_tests/*```
+* at the prompt: ```pytest -vv -s -x tests/*
+
 The Integration tests in particular will provide useful information should the application not operate as desired.
