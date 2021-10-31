@@ -2,13 +2,27 @@
 
 # pylint: disable= C0301
 
+import os
 from pathfinder import Pathfinder
 from location_record import LocationRecord
 from network_links import NetworkLink
+from err import MissingPartFile
+
+
+def does_file_exist(f_name: str) -> bool:
+    """Check if the file exists in the current path"""
+
+    if os.path.isfile(f_name):
+        return True
+
+    return False
 
 
 def import_from_file(f_name: str) -> list:
     """Import the records from a file"""
+
+    if not does_file_exist(f_name):
+        raise MissingPartFile(f_name)
 
     ret_list = []
 

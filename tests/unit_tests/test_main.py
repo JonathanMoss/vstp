@@ -44,14 +44,31 @@ def nwk_records():
 
 class TestMain:
 
-    def test_import_from_file(self):
+    def does_file_exist(self, monkeypatch):
+
+        assert not main.does_file_exist('foo')
+        with monkeypatch.context() as monkey:
+            monkey.setattr(
+                'main.os.path.isfile',
+                lambda f_name: True
+            )
+
+            assert main.does_file_exist('foo')
+
+    def test_import_from_file(self, monkeypatch):
 
         mock_open = mock.mock_open(read_data='line\tone\nline\ttwo\n')
-        with mock.patch('builtins.open', mock_open):
-            assert main.import_from_file('foo') == [
-                ['line', 'one\n'],
-                ['line', 'two\n']
-            ]
+
+        with monkeypatch.context() as monkey:
+            monkey.setattr(
+                'main.does_file_exist',
+                lambda f_name: True
+            )
+            with mock.patch('builtins.open', mock_open):
+                assert main.import_from_file('foo') == [
+                    ['line', 'one\n'],
+                    ['line', 'two\n']
+                ]
 
     def test_import_location(self, monkeypatch, loc_records):
 
