@@ -26,11 +26,11 @@ Before using the application, we need to split up the BPLAN into separate parts;
 
 * Location Records (LOC): ```$ grep ^LOC <bplan file> > LOC```
 * Network Links (NWK): ```$ grep ^NWK <bplan file> > NWK```
- 
+
 You should now have 2 files in the root directory, LOC and NWK - these are both needed by the application.
 
 ### Unit Tests
 It is advisable to run the included unit tests before using the application, thus:
 * Navigate to the application root folder,
 * at the prompt: ```pytest -vv -s -x tests/unit_tests/*```
-
+The Integration tests in particular will provide useful information should the application not operate as desired.

@@ -73,23 +73,9 @@ if __name__ == "__main__":
     # import LOC records into memory
     import_location()
 
-    # PATH = Pathfinder("STAFFRD", "WEAVERJ")
-    # PATH = Pathfinder("CREWE", "WEAVERJ", ['CREWECY', 'WNSFD', 'HARTFD', 'ACBG'])
-    # PATH = Pathfinder("CREWE", "CREWE", ['CREWECY', 'WNSFD',
-    #                                      'HARTFD', 'ACBG', 'WIGANNW', 'LVRPLSH'])
-    PATH = Pathfinder("CREWE", "CREWE", ['CREWECY', 'WNSFD',
-                                         'HARTFD', 'HARTFDJ', 'ACBG', 'WEAVERJ', 'WIGANNW', 'LVRPLSH'])
-    # PATH = Pathfinder("CREWE", "BHAMNWS", ['ALSAGER', 'KIDSGRV', 'LNGP', 'STOKEOT', 'STONE', 'STAFFRD', 'PNKRDG', 'WVRMPTN'])
-    # PATH.search()
+    """ An example:
 
-    # PATH = Pathfinder("CREWE", "CHST", avoid=['CREWESW'])
-    #
-    # PATH.search()
-
-    # PATH = Pathfinder("CREWBHJ", "ALSAGER", via=['CREWE'])
-    # PATH = Pathfinder("EUSTON", "STOKEOT", via=['STAFFRD'], ssd="2021-04-05", odt="13:00:00")
-    # PATH.search()
-    #
-    # PATH = Pathfinder("CREWE", "DRBY")
-    #
+    PATH = Pathfinder('TIPLOC', 'TIPLOC', via=['TIPLOC', 'TIPLOC'], avoid=['TIPLOC', 'TIPLOC'])
     PATH.search()
+
+    """
