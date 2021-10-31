@@ -29,8 +29,8 @@ Before using the application, we need to split up the BPLAN into separate parts;
 
 You should now have 2 files in the root directory, LOC and NWK - these are both needed by the application.
 
-### Unit Tests
-It is advisable to run the included unit tests before using the application, thus:
+### Unit & Integration Tests
+It is advisable to run the included tests before using the application, thus:
 * Navigate to the application root folder,
 * at the prompt: ```pytest -vv -s -x tests/*
 
