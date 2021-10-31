@@ -89,3 +89,7 @@ class TestNetworkLink:
 
     def test_get_neighbours(self):
         assert NWK.NetworkLink.get_neighbours('KIDSGRV') == ['ALSAGER']
+
+    def test_is_valid_tiploc(self):
+        assert NWK.NetworkLink.is_valid_tiploc('KIDSGRV')
+        assert not NWK.NetworkLink.is_valid_tiploc('FOO')

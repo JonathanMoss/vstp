@@ -147,3 +147,10 @@ class NetworkLink:
             return []
 
         return list(cls._instances[tiploc].keys())
+
+    @classmethod
+    @functools.lru_cache()
+    def is_valid_tiploc(cls, tiploc: str) -> bool:
+        """Returns True if TIPLOC is valid, otherwise False"""
+
+        return tiploc in cls._instances

@@ -1,6 +1,7 @@
 """Integration tests for the application"""
 
 import main as Main
+from err import MissingPartFile, BadTiplocError
 from pathfinder import Pathfinder
 from location_record import LocationRecord
 from network_links import NetworkLink
@@ -20,6 +21,10 @@ class TestApplication:
 
     Main.import_location()
     Main.import_network_links()
+
+    def test_file_missing(self):
+        with pytest.raises(MissingPartFile) as err:
+            Main.import_from_file('missing.part.file')
 
     def test_simple(self, capfd):
 
@@ -47,3 +52,15 @@ class TestApplication:
         assert 'CREWE' in out
         assert 'DRBY' in out
         assert not 'ALSAGER' in out
+
+    def test_bad_tiploc(self):
+
+        with pytest.raises(BadTiplocError) as err:
+            path = Pathfinder("CREWE", "FOO")
+            path.search()
+
+            path = Pathfinder("CREWE", "DRBY", via=['FOO'])
+            path.search()
+
+            path = Pathfinder("CREWE", "DRBY", avoid=['FOO'])
+            path.search()

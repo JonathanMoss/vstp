@@ -7,10 +7,9 @@
 # pylint: disable=R0912
 # pylint: disable=R0915
 
-import sys
 from network_links import NetworkLink
 from location_record import LocationRecord
-from datetime import datetime, timedelta
+from err import BadViaList, BadAvoidList, BadTiplocError
 
 
 class Node:
@@ -41,32 +40,19 @@ class Node:
 class Pathfinder:
     """Class for finding the path between a TIPLOC pair"""
 
-    def __init__(self, start_tiploc: str, end_tiploc: str, via=None, avoid=[], ssd=None, odt=None):
+    def __init__(self, start_tiploc: str, end_tiploc: str, via=None, avoid=None):
         """Initialisation"""
 
-        # Schedule Start Date (ssd)
-        if not ssd:
-            ssd = datetime.now().date()
-
-        if isinstance(ssd, str):
-            ssd = datetime.strptime(ssd, '%Y-%m-%d').date()
-
-        # Origin Departure Time (odt)
-        if not odt:
-            odt = (datetime.now().replace(microsecond=0, second=0) + timedelta(minutes=60)).time()
-
-        if isinstance(odt, str):
-            odt = datetime.strptime(odt, '%H:%M:%S').time()
+        Pathfinder.validate_tiploc(start_tiploc)
+        Pathfinder.validate_tiploc(end_tiploc)
 
         self.via = via  # Tiplocs where the service MUST run via
         if self.via and not isinstance(self.via, list):
-            print('VIA tiplocs not provided in required format')
-            sys.exit(1)
+            raise BadViaList()
 
         self.avoid = avoid  # Tiplocs where the service MUST avoid
         if self.avoid and not isinstance(self.avoid, list):
-            print('AVOID tiplocs not provided in required format')
-            sys.exit(1)
+            raise BadAvoidList()
 
         self.legs = []
         self.routing_leg_nodes = []
@@ -75,8 +61,9 @@ class Pathfinder:
         self.routing_leg_nodes.append(Node(start_tiploc))
 
         # Create via Node(s)
-        if isinstance(via, list):
-            for tiploc in via:
+        if isinstance(self.via, list):
+            for tiploc in self.via:
+                Pathfinder.validate_tiploc(tiploc)
                 self.routing_leg_nodes.append(Node(tiploc))
 
         # Create End Node
@@ -109,6 +96,13 @@ class Pathfinder:
             self.routing_leg_nodes[leg[0]].heuristic = self.routing_leg_nodes[leg[0]].distance_to_go
 
             self.routing_leg_nodes[leg[1]].coords = node_b_coord
+
+    @staticmethod
+    def validate_tiploc(tiploc: str):
+        """Raises an appropriate exception if the TIPLOC passed is not valid"""
+
+        if not NetworkLink.is_valid_tiploc(tiploc):
+            raise BadTiplocError(tiploc)
 
     def search(self):
         """Kick off the route finding"""
@@ -172,7 +166,7 @@ class Pathfinder:
             # Create child nodes
             for tpl in NetworkLink.get_neighbours(cur_tpl):
 
-                if tpl in self.avoid:
+                if isinstance(self.avoid, list) and tpl in self.avoid:
                     continue
 
                 # This stops reversing movements where not authorised
