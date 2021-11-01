@@ -40,20 +40,22 @@ It is advisable to run the included tests before using the application, thus:
 * Navigate to the application root folder,
 * at the prompt, to run both Unit and Integration tests:
   ```python
-  $ pytest -vv -s -x tests/*
+  $ pytest -vv -s -x vstp/tests/*
   ```
 * at the prompt, to run only unit tests:
   ```python
-  $ pytest -vv -s -x tests/unit_tests/*
+  $ pytest -vv -s -x vstp/tests/unit_tests/*
   ```
 * Likewise, for Integration tests only:
   ```python
-  $ pytest -vv -s -x tests/integration_tests/*
+  $ pytest -vv -s -x vstp/tests/integration_tests/*
   ```
 The Integration tests in particular will provide useful information should the application not operate as desired.
 
 ### Searching for a route - getting started
-Not forgetting that this application is at a very early stage of development, the easiest way to search for a route between two TIPLOCs is as follows:
+We have provided some example code in ```/vstp/examples/EXAMPLES.md```
+
+Cognisant that this application is at a very early stage of development, the easiest way to search for a route between two TIPLOCs is as follows:
 
 * Within the ```main()``` function of ```main.py```, you will note an example in docstring.
 
@@ -67,6 +69,8 @@ Not forgetting that this application is at a very early stage of development, th
             PATH = Pathfinder('CREWE', 'DRBY', via=['KIDSGRV', 'ALSAGER'], avoid=['STAFFRD'])
             ```
     * To start the search, make a call to ```PATH.search()``` The route is printed to STDOUT.
+
+* To run the application: ```python3 /vstp/main.py```
 
 ### Limitations and Caveats
 During its development, we have noticed that the BPLAN data is not as accurate as one would assume and this affects the routing of services to some extent.

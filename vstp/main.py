@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Main module for UK rail route path finding"""
 
 # pylint: disable= C0301
@@ -73,6 +74,9 @@ def main():
 
     # import LOC records into memory
     import_location()
+
+    path = Pathfinder('CREWE', 'DRBY', avoid=['ALSAGER'])
+    path.search()
 
     """ An example:
 

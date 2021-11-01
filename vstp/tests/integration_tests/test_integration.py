@@ -1,12 +1,12 @@
 """Integration tests for the application"""
 
+import pytest
+import os
 import main as Main
 from err import MissingPartFile, BadTiplocError
 from pathfinder import Pathfinder
 from location_record import LocationRecord
 from network_links import NetworkLink
-import pytest
-import os
 
 NEEDED_FILES = ['NWK', 'LOC']
 

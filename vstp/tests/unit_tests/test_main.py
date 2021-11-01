@@ -4,7 +4,7 @@ import builtins
 import os
 from unittest import mock
 import pytest
-import main
+import main as main
 from network_links import NetworkLink
 from location_record import LocationRecord
 
