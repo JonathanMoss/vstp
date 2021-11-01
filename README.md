@@ -60,7 +60,7 @@ Not forgetting that this application is at a very early stage of development, th
     * Instantiate a ```Pathfinder``` object with the following parameters:
         * ```Pathfinder(FROM, TO)``` where FROM and TO represent the start and end TIPLOCs
         * Optionally, users can specify ```via=[TIPLOC, TIPLOC, TIPLOC]``` keyword argument; this forces the routing path to use these TIPLOCs
-        * Optinally, users can specify ```avoid=[TIPLOC, TIPLOC]``` keyword argument; this ensures the routing avoids these TIPLOCs
+        * Optionally, users can specify ```avoid=[TIPLOC, TIPLOC]``` keyword argument; this ensures the routing avoids these TIPLOCs
 
         * In summary, a full example would therefore be:
             ```
