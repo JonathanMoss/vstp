@@ -65,7 +65,8 @@ def import_network_links() -> list:
     return nwks
 
 
-if __name__ == "__main__":
+def main():
+    """Entrypoint"""
 
     # import NWK records into memory
     import_network_links()
@@ -79,3 +80,8 @@ if __name__ == "__main__":
     PATH.search()
 
     """
+
+
+if __name__ == "__main__":
+
+    main()
