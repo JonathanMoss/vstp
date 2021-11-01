@@ -75,9 +75,6 @@ def main():
     # import LOC records into memory
     import_location()
 
-    path = Pathfinder('CREWE', 'DRBY', avoid=['ALSAGER'])
-    path.search()
-
     """ An example:
 
     PATH = Pathfinder('TIPLOC', 'TIPLOC', via=['TIPLOC', 'TIPLOC'], avoid=['TIPLOC', 'TIPLOC'])
