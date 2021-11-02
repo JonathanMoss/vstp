@@ -1,14 +1,10 @@
-#!/usr/bin/env python3
-"""Main module for UK rail route path finding"""
-
-# pylint: disable= C0301
+"""Functions for importing needed files"""
 
 import os
 from pathfinder import Pathfinder
 from location_record import LocationRecord
 from network_links import NetworkLink
 from err import MissingPartFile
-
 
 def does_file_exist(f_name: str) -> bool:
     """Check if the file exists in the current path"""
@@ -64,25 +60,3 @@ def import_network_links() -> list:
         nwks.append(lnk)
 
     return nwks
-
-
-def main():
-    """Entrypoint"""
-
-    # import NWK records into memory
-    import_network_links()
-
-    # import LOC records into memory
-    import_location()
-
-    """ An example:
-
-    PATH = Pathfinder('TIPLOC', 'TIPLOC', via=['TIPLOC', 'TIPLOC'], avoid=['TIPLOC', 'TIPLOC'])
-    PATH.search()
-
-    """
-
-
-if __name__ == "__main__":
-
-    main()

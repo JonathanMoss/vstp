@@ -1,12 +1,15 @@
 """Integration tests for the application"""
+import sys
+sys.path.insert(0, './vstp')  # nopep8
 
-import pytest
-import os
-import main as Main
-from err import MissingPartFile, BadTiplocError
-from pathfinder import Pathfinder
-from location_record import LocationRecord
 from network_links import NetworkLink
+from location_record import LocationRecord
+from pathfinder import Pathfinder
+from err import MissingPartFile, BadTiplocError
+import bplan_import as f_import
+import os
+import pytest
+
 
 NEEDED_FILES = ['NWK', 'LOC']
 
@@ -19,12 +22,12 @@ class TestFiles:
 
 class TestApplication:
 
-    Main.import_location()
-    Main.import_network_links()
+    f_import.import_location()
+    f_import.import_network_links()
 
     def test_file_missing(self):
         with pytest.raises(MissingPartFile) as err:
-            Main.import_from_file('missing.part.file')
+            f_import.import_from_file('missing.part.file')
 
     def test_simple(self, capfd):
 

@@ -1,4 +1,6 @@
-*/__pycache__/*
+vstp/__pycache__
+tests/integration_tests/__pycache__
+tests/unit_tests/__pycache__
 LOC
 NWK
 TLD

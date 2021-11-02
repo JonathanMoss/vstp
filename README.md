@@ -40,37 +40,33 @@ It is advisable to run the included tests before using the application, thus:
 * Navigate to the application root folder,
 * at the prompt, to run both Unit and Integration tests:
   ```python
-  $ pytest -vv -s -x vstp/tests/*
+  $ pytest -vv -s -x tests/*
   ```
 * at the prompt, to run only unit tests:
   ```python
-  $ pytest -vv -s -x vstp/tests/unit_tests/*
+  $ pytest -vv -s -x tests/unit_tests/*
   ```
 * Likewise, for Integration tests only:
   ```python
-  $ pytest -vv -s -x vstp/tests/integration_tests/*
+  $ pytest -vv -s -x tests/integration_tests/*
   ```
 The Integration tests in particular will provide useful information should the application not operate as desired.
 
 ### Searching for a route - getting started
-We have provided some example code in ```/vstp/examples/EXAMPLES.md```
+We have provided more example code and explanations in ```examples/```
 
-Cognisant that this application is at a very early stage of development, the easiest way to search for a route between two TIPLOCs is as follows:
+```python
+from vstp.pathfinder import Pathfinder
+import vstp.bplan_import as f_import
 
-* Within the ```main()``` function of ```main.py```, you will note an example in docstring.
+# import the NWK and LOC files - needed only once
+f_import.import_location()
+f_import.import_network_links()
 
-    * Instantiate a ```Pathfinder``` object with the following parameters:
-        * ```Pathfinder(FROM, TO)``` where FROM and TO represent the start and end TIPLOCs
-        * Optionally, users can specify ```via=[TIPLOC, TIPLOC, TIPLOC]``` keyword argument; this forces the routing path to use these TIPLOCs
-        * Optionally, users can specify ```avoid=[TIPLOC, TIPLOC]``` keyword argument; this ensures the routing avoids these TIPLOCs
-
-        * In summary, a full example would therefore be:
-            ```
-            PATH = Pathfinder('CREWE', 'DRBY', via=['KIDSGRV', 'ALSAGER'], avoid=['STAFFRD'])
-            ```
-    * To start the search, make a call to ```PATH.search()``` The route is printed to STDOUT.
-
-* To run the application: ```python3 /vstp/main.py```
+# Define the path criteria
+PATH=Pathfinder('CREWE', 'DRBY')
+PATH.search()  # Start the search and output to STDOUT
+```
 
 ### Limitations and Caveats
 During its development, we have noticed that the BPLAN data is not as accurate as one would assume and this affects the routing of services to some extent.

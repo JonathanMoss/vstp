@@ -1,6 +1,7 @@
 """Unit tests for location_record
 """
-
+import sys
+sys.path.insert(0, './vstp')  # nopep8
 import pytest
 import json
 import location_record as LOC

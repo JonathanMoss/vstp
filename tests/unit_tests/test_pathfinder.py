@@ -1,5 +1,6 @@
 """Unit tests for pathfinder"""
-
+import sys
+sys.path.insert(0, './vstp')  # nopep8
 import pytest
 from pathfinder import Node, Pathfinder
 from err import BadAvoidList, BadViaList, BadTiplocError

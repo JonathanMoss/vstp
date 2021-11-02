@@ -1,5 +1,6 @@
 """Unit tests for network_links"""
-
+import sys
+sys.path.insert(0, './vstp')  # nopep8
 import json
 import pytest
 import network_links as NWK

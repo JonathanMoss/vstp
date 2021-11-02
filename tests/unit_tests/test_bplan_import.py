@@ -1,10 +1,11 @@
-"""Tests for main.py"""
-
+"""Tests for bplan_import.py"""
+import sys
 import builtins
+sys.path.insert(0, './vstp')  # nopep8
 import os
 from unittest import mock
 import pytest
-import main as main
+import bplan_import as f_import
 from network_links import NetworkLink
 from location_record import LocationRecord
 
@@ -42,18 +43,18 @@ def nwk_records():
     return ret_val
 
 
-class TestMain:
+class TestBplanImport:
 
-    def does_file_exist(self, monkeypatch):
+    def test_does_file_exist(self, monkeypatch):
 
-        assert not main.does_file_exist('foo')
+        assert not f_import.does_file_exist('foo')
         with monkeypatch.context() as monkey:
             monkey.setattr(
-                'main.os.path.isfile',
+                'bplan_import.os.path.isfile',
                 lambda f_name: True
             )
 
-            assert main.does_file_exist('foo')
+            assert f_import.does_file_exist('foo')
 
     def test_import_from_file(self, monkeypatch):
 
@@ -61,11 +62,11 @@ class TestMain:
 
         with monkeypatch.context() as monkey:
             monkey.setattr(
-                'main.does_file_exist',
+                'bplan_import.does_file_exist',
                 lambda f_name: True
             )
             with mock.patch('builtins.open', mock_open):
-                assert main.import_from_file('foo') == [
+                assert f_import.import_from_file('foo') == [
                     ['line', 'one\n'],
                     ['line', 'two\n']
                 ]
@@ -75,11 +76,11 @@ class TestMain:
         with monkeypatch.context() as monkey:
 
             monkey.setattr(
-                'main.import_from_file',
+                'bplan_import.import_from_file',
                 lambda f_name: [loc_records]
             )
 
-            locs = main.import_location()
+            locs = f_import.import_location()
             assert locs and isinstance(locs, list)
             assert locs[0].__class__.__name__ == 'LocationRecord'
             location_code = locs[0].location_code
@@ -91,11 +92,11 @@ class TestMain:
         with monkeypatch.context() as monkey:
 
             monkey.setattr(
-                'main.import_from_file',
+                'bplan_import.import_from_file',
                 lambda f_name: nwk_records
             )
 
-            nwks = main.import_network_links()
+            nwks = f_import.import_network_links()
             assert nwks and isinstance(nwks, list)
             assert nwks[0].__class__.__name__ == 'NetworkLink'
             assert len(nwks[0]._instances) == 1
