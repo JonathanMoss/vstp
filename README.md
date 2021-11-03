@@ -53,7 +53,10 @@ It is advisable to run the included tests before using the application, thus:
 The Integration tests in particular will provide useful information should the application not operate as desired.
 
 ### Searching for a route - getting started
-We have provided more example code and explanations in ```examples/```
+We have provided more example code and explanations in ```examples/```:
+```bash
+$ python3 /examples/examples.py
+```
 
 ```python
 from vstp.pathfinder import Pathfinder
