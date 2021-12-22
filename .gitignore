@@ -8,3 +8,4 @@ TLK
 BPLAN
 *.pyc
 .pytest_cache
+*.db
