@@ -3,7 +3,7 @@
 from sqlalchemy import create_engine
 from sqlalchemy.exc import IntegrityError
 from sqlalchemy.orm import sessionmaker
-from database.schema import TimingLoad, Base
+from database.schema import TimingLoad, BASE as Base
 from bplan_import import import_from_file
 
 ENGINE = create_engine('sqlite:///tld.db', echo=False)
