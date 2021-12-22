@@ -32,8 +32,12 @@ Before using the application, we need to split up the BPLAN into separate parts;
   ```bash
   $ grep ^NWK <bplan file> > NWK
   ```
+* Timing Load (TLD):
+  ```bash
+  $ grep ^TLD <bplan file> > TLD
+  ```
 
-You should now have 2 files in the root directory, LOC and NWK - these are both needed by the application.
+You should now have 3 files in the root directory, LOC, TLD and NWK - these are all needed by the application.
 
 ### Unit & Integration Tests
 It is advisable to run the included tests before using the application, thus:
