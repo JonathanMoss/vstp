@@ -1,6 +1,7 @@
 """Database models for BPLAN records"""
 
 # pylint: disable=R0903
+
 from sqlalchemy.orm import declarative_base
 from sqlalchemy import Column, String, Integer
 BASE = declarative_base()
