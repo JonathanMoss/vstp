@@ -1,11 +1,12 @@
 """Database models for BPLAN records"""
 
+# pylint: disable=R0903
 from sqlalchemy.orm import declarative_base
 from sqlalchemy import Column, String, Integer
-Base = declarative_base()
+BASE = declarative_base()
 
 
-class TimingLoad(Base):
+class TimingLoad(BASE):
     """Represents a timing load record from BPLAN"""
 
     __tablename__ = 'timing_loads'
