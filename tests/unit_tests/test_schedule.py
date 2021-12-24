@@ -10,12 +10,12 @@ import schedule as sched
 @pytest.fixture
 def schedule():
 
-    return sched.Schedule(**{
+    return sched.BasicSchedule(**{
         'uid': 'A11111',
-        'ssd': '1970-01-01',
+        'sched_date': '1970-01-01',
         'train_status': '1',
         'train_category': 'OO',
-        'headcode': '1A11',
+        'train_identity': '1A11',
         'service_code': '21755001',
         'power_type': 'EMU',
         'timing_load': '390',
@@ -28,14 +28,15 @@ def schedule():
     })
 
 
-class TestSchedule:
+class TestBasicSchedule:
     def test_init(self, schedule):
 
-        assert schedule.__class__.__name__ == 'Schedule'
+        assert schedule.__class__.__name__ == 'BasicSchedule'
+        assert str(schedule) == ''
 
     def test_end_date(self, schedule):
 
-        assert str(schedule.end_date) == '1970-01-01'
+        assert str(schedule.date_to) == '1970-01-01'
 
     def test_days_run(self, schedule):
 
