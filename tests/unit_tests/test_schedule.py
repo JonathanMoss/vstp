@@ -11,19 +11,20 @@ import schedule as sched
 def schedule():
 
     return sched.BasicSchedule(**{
-        'uid': 'A11111',
-        'sched_date': '1970-01-01',
+        'uid': '',
+        'date_from': '1970-01-01',
         'train_status': '1',
         'train_category': 'OO',
-        'train_identity': '1A11',
-        'service_code': '21755001',
-        'power_type': 'EMU',
-        'timing_load': '390',
+        'train_identity': '',
+        'service_code': '',
+        'power_type': '',
+        'timing_load': '',
         'speed': '125',
         'op_char': '',
         'seating': 'B',
         'sleepers': '',
-        'reservations': ''
+        'reservations': '',
+        'headcode': '0900'
 
     })
 
@@ -32,7 +33,8 @@ class TestBasicSchedule:
     def test_init(self, schedule):
 
         assert schedule.__class__.__name__ == 'BasicSchedule'
-        assert str(schedule) == ''
+        assert str(
+            schedule) == 'BSN99999 7001017001010001000 1OO9X990900199999999 D  9999125Q     B            N'
 
     def test_end_date(self, schedule):
 
@@ -50,3 +52,13 @@ class TestBasicSchedule:
         assert str(parsed) == '1970-01-01 00:00:00'
         parsed = sched.Schedule.format_date(dt, date_only=True)
         assert str(parsed) == '1970-01-01'
+
+    def test_create_from_string(self):
+
+        bs = 'BSRG828851510191510231100100 POO2N75    113575825 DMUE   090      S            O'
+        res = sched.BasicSchedule.create_from_string(bs)
+        # assert res.date_from == ''
+        assert str(res) == ''
+
+        # BSRG828851510191510231100100 POO2N75    113575825 DMUE   090      S            O
+        # BSRG828851510191510231100100 POO2N75    113575825 DMUE   090      S           O
