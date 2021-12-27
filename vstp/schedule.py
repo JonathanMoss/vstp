@@ -16,6 +16,32 @@ def as_cif_date(cif_date: datetime) -> str:
     return datetime.strftime(cif_date, '%y%m%d')
 
 
+def validate_len(data: str, length: list, default: str) -> str:
+    """Validates the maximum length of a passed string"""
+
+    if not len(data) in length:
+        return default
+
+    return data
+
+
+def format_date(date_str: str, date_only=False) -> datetime:
+    """Returns a datetime object for the date/datetime passed"""
+
+    if not isinstance(date_str, str):
+        return None
+
+    try:
+        parsed = dt_parse(date_str)
+    except ValueError as err:
+        return None
+
+    if date_only:
+        return parsed.date()
+
+    return parsed
+
+
 class BasicSchedule:
     """Contains the Basic Schedule (BX) records"""
 
@@ -53,20 +79,11 @@ class BasicSchedule:
             'stp_indicator': bs_record[79]
         })
 
-    @staticmethod
-    def validate_len(data: str, length: list, default: str) -> str:
-        """Validates the maximum length of a passed string"""
-
-        if not len(data) in length:
-            return default
-
-        return data
-
     def __init__(self, **kwargs):
         """Initialisation"""
 
         if 'transaction_type' in kwargs:
-            self.transaction_type = BasicSchedule.validate_len(
+            self.transaction_type = validate_len(
                 kwargs['transaction_type'],
                 [1],
                 'N'
@@ -74,21 +91,21 @@ class BasicSchedule:
         else:
             self.transaction_type = 'N'
 
-        self.uid = BasicSchedule.validate_len(
+        self.uid = validate_len(
             kwargs['uid'],
             [5, 6],
             '99999'
         )
 
-        self.date_from = Schedule.format_date(kwargs['date_from'], True)
+        self.date_from = format_date(kwargs['date_from'], True)
 
         if 'date_to' in kwargs:
-            self.date_to = Schedule.format_date(kwargs['date_to'], True)
+            self.date_to = format_date(kwargs['date_to'], True)
         else:
             self.date_to = self.date_from
 
         if 'days_run' in kwargs:
-            self._days_run = BasicSchedule.validate_len(
+            self._days_run = validate_len(
                 kwargs['days_run'],
                 [7],
                 '0000000'
@@ -96,112 +113,112 @@ class BasicSchedule:
         else:
             self._days_run = None
 
-        self.bank_hol = BasicSchedule.validate_len(
-            kwargs.get('bank_hol', ' '),
+        self.bank_hol = validate_len(
+            kwargs.get('bank_hol', ''),
             [1],
-            ' '
+            ''
         )
 
-        self.train_status = BasicSchedule.validate_len(
+        self.train_status = validate_len(
             kwargs['train_status'],
             [1],
-            ' '
+            ''
         )
 
-        self.train_category = BasicSchedule.validate_len(
+        self.train_category = validate_len(
             kwargs['train_category'],
             [2],
             'DT'
         )
 
-        self.train_identity = BasicSchedule.validate_len(
+        self.train_identity = validate_len(
             kwargs['train_identity'],
             [4],
             '9X99'
         )
 
         if 'headcode' in kwargs:
-            self._headcode = BasicSchedule.validate_len(
+            self._headcode = validate_len(
                 kwargs['headcode'],
                 [4],
                 '9X99'
             )
 
-        self.service_code = BasicSchedule.validate_len(
+        self.service_code = validate_len(
             kwargs['service_code'],
             [8],
             '99999999'
         )
 
         if 'portion_id' in kwargs:
-            self._portion_id = BasicSchedule.validate_len(
+            self._portion_id = validate_len(
                 kwargs['portion_id'],
                 [1],
-                ' '
+                ''
             )
 
-        self.power_type = BasicSchedule.validate_len(
+        self.power_type = validate_len(
             kwargs['power_type'],
             [1, 2, 3],
-            'D  '
+            'D'
         )
         if 'timing_load' in kwargs:
-            self._timing_load = BasicSchedule.validate_len(
+            self._timing_load = validate_len(
                 kwargs['timing_load'],
                 [1, 2, 3, 4],
                 '9999'
             )
 
-        self.speed = BasicSchedule.validate_len(
+        self.speed = validate_len(
             kwargs['speed'],
             [1, 2, 3],
-            '35'
+            '035'
         )
 
         if 'op_char' in kwargs:
-            self._op_char = BasicSchedule.validate_len(
+            self._op_char = validate_len(
                 kwargs['op_char'],
                 [1, 2, 3, 4, 5, 6],
                 'Q'
             )
 
         if 'seating' in kwargs:
-            self._seating = BasicSchedule.validate_len(
+            self._seating = validate_len(
                 kwargs['seating'],
                 [1],
-                ' '
+                'B'
             )
 
         if 'sleepers' in kwargs:
-            self._sleepers = BasicSchedule.validate_len(
+            self._sleepers = validate_len(
                 kwargs['sleepers'],
                 [1],
-                ' '
+                ''
             )
 
         if 'reservations' in kwargs:
-            self._reservations = BasicSchedule.validate_len(
+            self._reservations = validate_len(
                 kwargs['reservations'],
                 [1],
-                ' '
+                ''
             )
 
         if 'catering' in kwargs:
-            self._catering = BasicSchedule.validate_len(
+            self._catering = validate_len(
                 kwargs['catering'],
                 [1, 2, 3, 4],
-                '    '
+                ''
             )
 
         if 'branding' in kwargs:
-            self._branding = BasicSchedule.validate_len(
+            self._branding = validate_len(
                 kwargs['branding'],
                 [1, 2, 3, 4],
-                '    '
+                ''
             )
 
         if 'stp_indicator' in kwargs:
-            self._stp_indicator = BasicSchedule.validate_len(
+            self._stp_indicator = validate_len(
                 kwargs['stp_indicator'],
                 [1],
                 'N'
@@ -223,7 +240,7 @@ class BasicSchedule:
         if hasattr(self, '_portion_id'):
             return self._portion_id
 
-        return ' '
+        return ''
 
     @property
     def days_run(self) -> str:
@@ -261,7 +278,7 @@ class BasicSchedule:
         if self._seating:
             return self._seating
 
-        return ""
+        return ''
 
     @property
     def sleepers(self) -> str:
@@ -279,7 +296,7 @@ class BasicSchedule:
         if self._reservations:
             return self._reservations
 
-        return ""
+        return ''
 
     @property
     def op_char(self) -> str:
@@ -288,7 +305,7 @@ class BasicSchedule:
         if hasattr(self, '_op_char'):
             return self._op_char
 
-        return '     '
+        return ''
 
     @property
     def timing_load(self):
@@ -297,7 +314,7 @@ class BasicSchedule:
         if hasattr(self, '_timing_load'):
             return self._timing_load
 
-        return '    '
+        return ''
 
     @property
     def headcode(self) -> str:
@@ -314,90 +331,109 @@ class BasicSchedule:
         SPARE = ' '
         line = f'BS{self.transaction_type}{pad_str(self.uid, 6)}'
         line += f'{as_cif_date(self.date_from)}{as_cif_date(self.date_to)}'
-        line += f'{self.days_run}{self.bank_hol}'
-        line += f'{self.train_status}{self.train_category}'
+        line += f'{self.days_run}{pad_str(self.bank_hol, 1)}'
+        line += f'{pad_str(self.train_status, 1)}{self.train_category}'
         line += f'{self.train_identity}{self.headcode}'
-        line += f'1{pad_str(self.service_code, 8)}{self.portion_id}'
+        line += f'1{pad_str(self.service_code, 8)}{pad_str(self.portion_id, 1)}'
         line += f'{pad_str(self.power_type, 3)}{pad_str(self.timing_load, 4)}'
         line += f'{pad_str(self.speed, 3)}{pad_str(self.op_char, 6)}'
-        line += f'{self.seating}{self.sleepers}{self.reservations}'
+        line += f'{pad_str(self.seating, 1)}{pad_str(self.sleepers, 1)}'
+        line += f'{pad_str(self.reservations, 1)}'
         line += f'{SPARE}{pad_str(self.catering, 4)}'
         line += f'{pad_str(self.branding, 4)}{SPARE}{self.stp_indicator}'
 
         return line
 
 
-class Schedule:
-    """Base schedule"""
-
-    OPT_FIELDS = [
-        'bank_hol_running',
-        'headcode',
-        'portion_id',
-        'timing_load',
-        'op_char',
-        'seating',
-        'sleepers',
-        'reservations',
-        'catering_code',
-        'service_branding'
-    ]
+class ExtraSchedule:
+    """Representation of a BX record for a schedule"""
 
     def __init__(self, **kwargs):
         """Initialisation"""
 
-        self.uid = kwargs['uid']
-        self.ssd = Schedule.format_date(kwargs['ssd'], True)
-        self.train_status = kwargs['train_status']
-        self.train_category = kwargs['train_category']
-        self.train_identity = kwargs['headcode']
-        self.headcode = kwargs['headcode']
-        self.course_indicator = '1'
-        self.service_code = kwargs['service_code']
-        self.portion_id = ''
-        self.power_type = kwargs['power_type']
-        self.timing_load = kwargs['timing_load']
-        self.speed = kwargs['speed']
-        self.op_char = kwargs['op_char']
-        self.seating = kwargs['seating']
-        self.sleepers = kwargs['sleepers']
+        if 'uic' in kwargs:
+            self._uic = validate_len(
+                kwargs['uic'],
+                [5],
+                ''
+            )
 
-        self.stp = 'N'
+        self.atoc = validate_len(
+            kwargs['atoc'],
+            [2],
+            'ZZ'
+        )
 
-    @property
-    def end_date(self):
-        """Returns the schedule end date"""
-        return self.ssd
+        self.appl = validate_len(
+            kwargs['appl'],
+            [1],
+            'N'
+        )
 
     @property
-    def days_run(self) -> str:
-        """Returns the days run string"""
+    def uic(self) -> str:
+        """Returns the schedule UIC code"""
 
-        days_run = list('0' * 7)
-        days_run[self.ssd.weekday()] = '1'
-        return ''.join(days_run)
+        if hasattr(self, '_uic'):
+            return self._uic
 
-    @staticmethod
-    def format_date(date_str: str, date_only=False) -> datetime:
-        """Returns a datetime object for the date/datetime passed"""
+        return ''
 
-        if not isinstance(date_str, str):
-            return None
+    def __str__(self):
+        """Returns a string representation of the BX"""
 
-        try:
-            parsed = dt_parse(date_str)
-        except ValueError as err:
-            return None
+        line = f'BX{pad_str("", 4)}{pad_str(self.uic, 5)}'
+        line += f'{pad_str(self.atoc, 2)}{pad_str(self.appl, 1)}'
+        line += f'{pad_str("", 8)}{pad_str("", 1)}{pad_str("", 57)}'
+        return line
 
-        if date_only:
-            return parsed.date()
+    @classmethod
+    def create_from_string(cls, bx_record: str):
+        """Pass a CIF BX record, returns a ExtraSchedule object"""
 
-        return parsed
+        if not isinstance(bx_record, str) or not bx_record.startswith('BX'):
+            raise ValueError('BX record is not of the required format')
 
-    @staticmethod
-    def get_days_run(schedule_date: datetime) -> str:
-        """Calculates the days run for a given date"""
+        if not len(bx_record) == 80:
+            raise ValueError('BX record is not the required length')
+
+        return cls(**{
+            'uic': bx_record[6: 11],
+            'atoc': bx_record[11: 13],
+            'appl': bx_record[13]
+        })
+
+
+class Schedule:
+    """Base schedule"""
+
+    def __init__(self, **kwargs):
+        """Initialisation"""
 
 
 class TimingPoint:
     """Represents each row in a schedule"""
+
+    def __init__(self, **kwargs):
+        """Initialisation"""
+
+
+class LocationOrigin(TimingPoint):
+    """Represents a timing point at origin"""
+
+    def __init__(self, **kwargs):
+        """Initialisation"""
+
+
+class LocationIntermediate(TimingPoint):
+    """Represents an intermediate timing point"""
+
+    def __init__(self, **kwargs):
+        """Initialisation"""
+
+
+class LocationTerminating(TimingPoint):
+    """Represents the terminating timing point"""
+
+    def __init__(self, **kwargs):
+        """Initialisation"""
