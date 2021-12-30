@@ -4,6 +4,28 @@ from datetime import datetime
 from dateutil.parser import parse as dt_parse
 
 
+def extrapolate_allowance(allowance: str) -> int:
+    """Pass a CIF allowance string, returns an int representing seconds allowance"""
+
+    total = 0
+
+    if not isinstance(allowance, str) or not allowance:
+        return total
+
+    if len(allowance) > 2:
+        return total
+
+    if 'H' in allowance:
+        total += 30
+        allowance = allowance.strip('H')
+
+    try:
+        total += int(allowance.strip()) * 60
+        return total
+    except ValueError:
+        return total
+
+
 def pad_str(data: str, length: int) -> str:
     """Pads a string with spaces to meet the required length"""
 
@@ -417,12 +439,170 @@ class TimingPoint:
     def __init__(self, **kwargs):
         """Initialisation"""
 
+        self.tiploc = validate_len(
+            kwargs['tiploc'],
+            [3, 4, 5, 6, 7],
+            ''
+        )
+
+        self._suffix = validate_len(
+            kwargs['suffix'],
+            [1],
+            '1'
+        )
+
+    @property
+    def engineering_allowance(self) -> int:
+        """Return the engineering allowance in seconds"""
+
+        if hasattr(self, '_eng_all'):
+            return extrapolate_allowance(self._eng_all)
+
+        return 0
+
+    @property
+    def pathing_allowance(self) -> int:
+        """Return the pathing allowance in seconds"""
+
+        if hasattr(self, '_pathing_all'):
+            return extrapolate_allowance(self._pathing_all)
+
+        return 0
+
+    @property
+    def performance_allowance(self) -> int:
+        """Return the performance allowance in seconds"""
+
+        if hasattr(self, '_perf_all'):
+            return extrapolate_allowance(self._perf_all)
+
+        return 0
+
+    @property
+    def platform(self) -> str:
+        """Return the planned platform"""
+
+        if hasattr(self, '_platform'):
+            return self._platform
+
+        return 'TBC'
+
+    @property
+    def line(self) -> str:
+        """Return the planned line out"""
+
+        if hasattr(self, '_line'):
+            return self._line
+
+        return ''
+
+    @property
+    def suffix(self) -> str:
+        """Returns the suffix"""
+
+        if not self._suffix:
+            return '1'
+
+        return self._suffix
+
 
 class LocationOrigin(TimingPoint):
     """Represents a timing point at origin"""
 
     def __init__(self, **kwargs):
         """Initialisation"""
+
+        super().__init__(**kwargs)
+
+        wtd = f"{kwargs['wtd'][0:2]}:{kwargs['wtd'][2: 4]}"
+        if 'H' in kwargs['wtd']:
+            wtd += ':30'
+        else:
+            wtd += ':00'
+
+        self._raw_wtd = kwargs['wtd']
+        self.wtd = format_date(wtd).time()
+
+        ptd = f"{kwargs['ptd'][0:2]}:{kwargs['ptd'][2: 4]}:00"
+
+        self._raw_ptd = kwargs['ptd']
+        self.ptd = format_date(ptd).time()
+
+        if 'plt' in kwargs:
+            self._platform = validate_len(
+                kwargs['plt'],
+                [1, 2, 3],
+                'TBC'
+            )
+
+        if 'line' in kwargs:
+            self._line = validate_len(
+                kwargs['line'],
+                [1, 2, 3],
+                ''
+            )
+
+        if 'eng_all' in kwargs:
+            self._eng_all = validate_len(
+                kwargs['eng_all'],
+                [1, 2],
+                ''
+            )
+
+        if 'pathing_all' in kwargs:
+            self._pathing_all = validate_len(
+                kwargs['pathing_all'],
+                [1, 2],
+                ''
+            )
+
+        if 'perf_all' in kwargs:
+            self._perf_all = validate_len(
+                kwargs['perf_all'],
+                [1, 2],
+                ''
+            )
+
+        self.activity = validate_len(
+            kwargs['act'],
+            [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+            ''
+        )
+
+    @classmethod
+    def create_from_string(cls, lo_record: str):
+        """Pass a CIF LO record, returns a LocationOrigin object"""
+
+        if not isinstance(lo_record, str) or not lo_record.startswith('LO'):
+            raise ValueError('LO record is not of the required format')
+
+        if not len(lo_record) == 80:
+            raise ValueError('LO record is not the required length')
+
+        return cls(**{
+            'tiploc': lo_record[2: 9],
+            'suffix': lo_record[9],
+            'wtd': lo_record[10: 15],
+            'ptd': lo_record[15: 19],
+            'plt': lo_record[19: 22],
+            'line': lo_record[22: 25],
+            'eng_all': lo_record[25: 27],
+            'pathing_all': lo_record[27: 29],
+            'act': lo_record[29: 41],
+            'perf_all': lo_record[41: 43]
+        })
+
+    def __str__(self) -> str:
+        """Return a string representation of the LO"""
+
+        line = f'LO{pad_str(self.tiploc, 7)}{pad_str(self.suffix, 1)}'
+        line += f'{pad_str(self._raw_wtd, 5)}{pad_str(self._raw_ptd, 4)}'
+        line += f'{pad_str(self.platform, 3)}{pad_str(self.line, 3)}'
+        line += f'{pad_str(self._eng_all, 2)}{pad_str(self._pathing_all, 2)}'
+        line += f'{pad_str(self.activity, 12)}{pad_str(self._perf_all, 2)}'
+        line += f'{pad_str("", 37)}'
+
+        return line
 
 
 class LocationIntermediate(TimingPoint):
@@ -437,3 +617,18 @@ class LocationTerminating(TimingPoint):
 
     def __init__(self, **kwargs):
         """Initialisation"""
+
+        super().__init__(**kwargs)
+
+        wta = f"{kwargs['wta'][0:2]}:{kwargs['wta'][2: 4]}"
+        if 'H' in kwargs['wta']:
+            wta += ':30'
+        else:
+            wta += ':00'
+
+        self._raw_wta = kwargs['wta']
+        self.wta = format_date(wta).time()
+
+        pta = f"{kwargs['pta'][0:2]}:{kwargs['pta'][2: 4]}"
+        self._raw_pta = kwargs['pta']
+        self.pta = format_date(pta).time()

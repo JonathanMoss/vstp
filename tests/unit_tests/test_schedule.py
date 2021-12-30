@@ -8,7 +8,7 @@ import schedule as sched
 
 
 @pytest.fixture
-def schedule():
+def basic_schedule():
 
     return sched.BasicSchedule(**{
         'uid': '',
@@ -29,20 +29,60 @@ def schedule():
     })
 
 
+@pytest.fixture
+def extra_schedule():
+
+    return sched.ExtraSchedule(**{
+        'uic': '',
+        'atoc': 'SR',
+        'appl': 'Y'
+    })
+
+
+@pytest.fixture
+def location_origin():
+
+    return sched.LocationOrigin(**{
+        'tiploc': 'CREWE',
+        'suffix': '1',
+        'wtd': '1200H',
+        'ptd': '1159',
+        'plt': '4',
+        'line': 'UFL',
+        'eng_all': '1H',
+        'pathing_all': 'H',
+        'perf_all': '2H',
+        'act': 'TB'
+    })
+
+
+def test_extrapolate_allowance():
+
+    assert sched.extrapolate_allowance('1H') == 90
+    assert sched.extrapolate_allowance('9H') == 570
+    assert sched.extrapolate_allowance('1') == 60
+    assert sched.extrapolate_allowance('H') == 30
+    assert sched.extrapolate_allowance('19') == 1140
+    assert sched.extrapolate_allowance(' ') == 0
+    assert sched.extrapolate_allowance('') == 0
+    assert sched.extrapolate_allowance('123') == 0
+
+
 class TestBasicSchedule:
-    def test_init(self, schedule):
 
-        assert schedule.__class__.__name__ == 'BasicSchedule'
+    def test_init(self, basic_schedule):
+
+        assert basic_schedule.__class__.__name__ == 'BasicSchedule'
         assert str(
-            schedule) == 'BSN99999 7001017001010001000 1OO9X990900199999999 D  9999125Q     B            N'
+            basic_schedule) == 'BSN99999 7001017001010001000 1OO9X990900199999999 D  9999125Q     B            N'
 
-    def test_end_date(self, schedule):
+    def test_end_date(self, basic_schedule):
 
-        assert str(schedule.date_to) == '1970-01-01'
+        assert str(basic_schedule.date_to) == '1970-01-01'
 
-    def test_days_run(self, schedule):
+    def test_days_run(self, basic_schedule):
 
-        assert schedule.days_run == '0001000'
+        assert basic_schedule.days_run == '0001000'
 
     def test_format_date(self):
 
@@ -62,19 +102,13 @@ class TestBasicSchedule:
 
 class TestExtraSchedule:
 
-    def test_init(self):
+    def test_init(self, extra_schedule):
 
-        results = sched.ExtraSchedule(**{
-            'uic': '',
-            'atoc': '',
-            'appl': ''
-        })
+        assert extra_schedule.__class__.__name__ == 'ExtraSchedule'
+        assert str(
+            extra_schedule) == 'BX         SRY                                                                  '
 
-        assert results.uic == ''
-        assert results.atoc == 'ZZ'
-        assert results.appl == 'N'
-
-    def test_create_from_string(self, ):
+    def test_create_from_string(self):
 
         bx = 'BX         SRY                                                                  '
         res = sched.ExtraSchedule.create_from_string(bx)
@@ -84,3 +118,18 @@ class TestExtraSchedule:
             sched.ExtraSchedule.create_from_string(None)
             sched.ExtraSchedule.create_from_string(f'BS{bx[2:]}')
             sched.ExtraSchedule.create_from_string(bx[2:])
+
+
+class TestLocationOrigin:
+
+    def test_init(self, location_origin):
+
+        assert location_origin.__class__.__name__ == 'LocationOrigin'
+        assert str(
+            location_origin) == 'LOCREWE  11200H11594  UFL1HH TB          2H                                     '
+
+    def test_create_from_string(self):
+
+        lo = 'LOGLGQHL  1703 17033  UEG    TB                                                 '
+        res = sched.LocationOrigin.create_from_string(lo)
+        assert str(res) == lo
