@@ -1,5 +1,6 @@
 """classes that represent a schedule object"""
 
+# pylint: disable=R0902, R0912, R0903
 from datetime import datetime
 from dateutil.parser import parse as dt_parse
 
@@ -55,7 +56,7 @@ def format_date(date_str: str, date_only=False) -> datetime:
 
     try:
         parsed = dt_parse(date_str)
-    except ValueError as err:
+    except ValueError:
         return None
 
     if date_only:
@@ -350,7 +351,7 @@ class BasicSchedule:
     def __str__(self):
         """Return a string representation of the BS"""
 
-        SPARE = ' '
+        spare = ' '
         line = f'BS{self.transaction_type}{pad_str(self.uid, 6)}'
         line += f'{as_cif_date(self.date_from)}{as_cif_date(self.date_to)}'
         line += f'{self.days_run}{pad_str(self.bank_hol, 1)}'
@@ -361,8 +362,8 @@ class BasicSchedule:
         line += f'{pad_str(self.speed, 3)}{pad_str(self.op_char, 6)}'
         line += f'{pad_str(self.seating, 1)}{pad_str(self.sleepers, 1)}'
         line += f'{pad_str(self.reservations, 1)}'
-        line += f'{SPARE}{pad_str(self.catering, 4)}'
-        line += f'{pad_str(self.branding, 4)}{SPARE}{self.stp_indicator}'
+        line += f'{spare}{pad_str(self.catering, 4)}'
+        line += f'{pad_str(self.branding, 4)}{spare}{self.stp_indicator}'
 
         return line
 
@@ -451,82 +452,25 @@ class TimingPoint:
             '1'
         )
 
-    @property
-    def engineering_allowance(self) -> int:
-        """Return the engineering allowance in seconds"""
+        if 'wta' in kwargs:
+            self._raw_wta = kwargs['wta']
+            self._wta = TimingPoint.get_time(self._raw_wta)
 
-        if hasattr(self, '_eng_all'):
-            return extrapolate_allowance(self._eng_all)
+        if 'wtp' in kwargs:
+            self._raw_wtp = kwargs['wtp']
+            self._wtp = TimingPoint.get_time(self._raw_wtp)
 
-        return 0
+        if 'wtd' in kwargs:
+            self._raw_wtd = kwargs['wtd']
+            self._wtd = TimingPoint.get_time(self._raw_wtd)
 
-    @property
-    def pathing_allowance(self) -> int:
-        """Return the pathing allowance in seconds"""
+        if 'pta' in kwargs:
+            self._raw_pta = kwargs['pta']
+            self._pta = TimingPoint.get_time(self._raw_pta)
 
-        if hasattr(self, '_pathing_all'):
-            return extrapolate_allowance(self._pathing_all)
-
-        return 0
-
-    @property
-    def performance_allowance(self) -> int:
-        """Return the performance allowance in seconds"""
-
-        if hasattr(self, '_perf_all'):
-            return extrapolate_allowance(self._perf_all)
-
-        return 0
-
-    @property
-    def platform(self) -> str:
-        """Return the planned platform"""
-
-        if hasattr(self, '_platform'):
-            return self._platform
-
-        return 'TBC'
-
-    @property
-    def line(self) -> str:
-        """Return the planned line out"""
-
-        if hasattr(self, '_line'):
-            return self._line
-
-        return ''
-
-    @property
-    def suffix(self) -> str:
-        """Returns the suffix"""
-
-        if not self._suffix:
-            return '1'
-
-        return self._suffix
-
-
-class LocationOrigin(TimingPoint):
-    """Represents a timing point at origin"""
-
-    def __init__(self, **kwargs):
-        """Initialisation"""
-
-        super().__init__(**kwargs)
-
-        wtd = f"{kwargs['wtd'][0:2]}:{kwargs['wtd'][2: 4]}"
-        if 'H' in kwargs['wtd']:
-            wtd += ':30'
-        else:
-            wtd += ':00'
-
-        self._raw_wtd = kwargs['wtd']
-        self.wtd = format_date(wtd).time()
-
-        ptd = f"{kwargs['ptd'][0:2]}:{kwargs['ptd'][2: 4]}:00"
-
-        self._raw_ptd = kwargs['ptd']
-        self.ptd = format_date(ptd).time()
+        if 'ptd' in kwargs:
+            self._raw_ptd = kwargs['ptd']
+            self._ptd = TimingPoint.get_time(self._raw_ptd)
 
         if 'plt' in kwargs:
             self._platform = validate_len(
@@ -538,6 +482,13 @@ class LocationOrigin(TimingPoint):
         if 'line' in kwargs:
             self._line = validate_len(
                 kwargs['line'],
+                [1, 2, 3],
+                ''
+            )
+
+        if 'path' in kwargs:
+            self._path = validate_len(
+                kwargs['path'],
                 [1, 2, 3],
                 ''
             )
@@ -569,6 +520,162 @@ class LocationOrigin(TimingPoint):
             ''
         )
 
+    @staticmethod
+    def get_time(time_value: str) -> str:
+        """Strips the time and convers to datetime"""
+
+        if not isinstance(time_value, str) or not time_value.strip():
+            return None
+
+        val = f'{time_value[0: 2]}:{time_value[2: 4]}'
+        if 'H' in time_value:
+            val += ":30"
+        else:
+            val += ":00"
+
+        val = format_date(val).time()
+
+        return val
+
+    @property
+    def engineering_allowance(self) -> int:
+        """Return the engineering allowance in seconds"""
+
+        if hasattr(self, '_eng_all'):
+            return extrapolate_allowance(self._eng_all)
+
+        return 0
+
+    @property
+    def engineering_allowance_raw(self) -> str:
+        """Return the engineering allowance as passed at init"""
+
+        if hasattr(self, '_eng_all'):
+            return self._eng_all
+
+        return ''
+
+    @property
+    def pathing_allowance(self) -> int:
+        """Return the pathing allowance in seconds"""
+
+        if hasattr(self, '_pathing_all'):
+            return extrapolate_allowance(self._pathing_all)
+
+        return 0
+
+    @property
+    def pathing_allowance_raw(self) -> str:
+        """Return the pathing allowance as passed at init"""
+
+        if hasattr(self, '_pathing_all'):
+            return self._pathing_all
+
+        return ''
+
+    @property
+    def performance_allowance(self) -> int:
+        """Return the performance allowance in seconds"""
+
+        if hasattr(self, '_perf_all'):
+            return extrapolate_allowance(self._perf_all)
+
+        return 0
+
+    @property
+    def performance_allowance_raw(self) -> str:
+        """Return the performance allowance as passed at init"""
+
+        if hasattr(self, '_perf_all'):
+            return self._perf_all
+
+        return ''
+
+    @property
+    def platform(self) -> str:
+        """Return the planned platform"""
+
+        if hasattr(self, '_platform'):
+            return self._platform
+
+        return 'TBC'
+
+    @property
+    def line(self) -> str:
+        """Return the planned line out"""
+
+        if hasattr(self, '_line'):
+            return self._line
+
+        return ''
+
+    @property
+    def path(self) -> str:
+        """Return the planned path in"""
+
+        if hasattr(self, '_path'):
+            return self._path
+
+        return ''
+
+    @property
+    def suffix(self) -> str:
+        """Returns the suffix"""
+
+        if not self._suffix:
+            return '1'
+
+        return self._suffix
+
+    @property
+    def raw_wtd(self) -> str:
+        """Return the wtd as provided at init"""
+
+        if hasattr(self, '_raw_wtd'):
+            return self._raw_wtd
+
+        return ""
+
+    @property
+    def raw_wtp(self) -> str:
+        """Return the wtp as provided at init"""
+
+        if hasattr(self, '_raw_wtp'):
+            return self._raw_wtp
+
+        return ""
+
+    @property
+    def raw_wta(self) -> str:
+        """Return the wta as provided at init"""
+
+        if hasattr(self, '_raw_wta'):
+            return self._raw_wta
+
+        return ""
+
+    @property
+    def raw_pta(self) -> str:
+        """Return the pta as provided at init"""
+
+        if hasattr(self, '_raw_pta'):
+            return self._raw_pta
+
+        return ""
+
+    @property
+    def raw_ptd(self) -> str:
+        """Return the ptd as provided at init"""
+
+        if hasattr(self, '_raw_ptd'):
+            return self._raw_ptd
+
+        return ""
+
+
+class LocationOrigin(TimingPoint):
+    """Represents a timing point at origin"""
+
     @classmethod
     def create_from_string(cls, lo_record: str):
         """Pass a CIF LO record, returns a LocationOrigin object"""
@@ -596,10 +703,12 @@ class LocationOrigin(TimingPoint):
         """Return a string representation of the LO"""
 
         line = f'LO{pad_str(self.tiploc, 7)}{pad_str(self.suffix, 1)}'
-        line += f'{pad_str(self._raw_wtd, 5)}{pad_str(self._raw_ptd, 4)}'
+        line += f'{pad_str(self.raw_wtd, 5)}{pad_str(self.raw_ptd, 4)}'
         line += f'{pad_str(self.platform, 3)}{pad_str(self.line, 3)}'
-        line += f'{pad_str(self._eng_all, 2)}{pad_str(self._pathing_all, 2)}'
-        line += f'{pad_str(self.activity, 12)}{pad_str(self._perf_all, 2)}'
+        line += f'{pad_str(self.engineering_allowance_raw, 2)}'
+        line += f'{pad_str(self.pathing_allowance_raw, 2)}'
+        line += f'{pad_str(self.activity, 12)}'
+        line += f'{pad_str(self.performance_allowance_raw, 2)}'
         line += f'{pad_str("", 37)}'
 
         return line
@@ -608,27 +717,81 @@ class LocationOrigin(TimingPoint):
 class LocationIntermediate(TimingPoint):
     """Represents an intermediate timing point"""
 
-    def __init__(self, **kwargs):
-        """Initialisation"""
+    @classmethod
+    def create_from_string(cls, li_record: str):
+        """Pass a CIF LI record, returns a LocationIntermediate object"""
+
+        if not isinstance(li_record, str) or not li_record.startswith('LI'):
+            raise ValueError('LI record is not of the required format')
+
+        if not len(li_record) == 80:
+            raise ValueError('LI record is not the required length')
+
+        return cls(**{
+            'tiploc': li_record[2: 9],
+            'suffix': li_record[9],
+            'wta': li_record[10: 15],
+            'wtd': li_record[15: 20],
+            'wtp': li_record[20: 25],
+            'pta': li_record[25: 29],
+            'ptd': li_record[29: 33],
+            'plt': li_record[33: 36],
+            'line': li_record[36: 39],
+            'path': li_record[40: 42],
+            'act': li_record[42: 54],
+            'eng_all': li_record[54: 56],
+            'pathing_all': li_record[56: 58],
+            'perf_all': li_record[58: 60]
+        })
+
+    def __str__(self) -> str:
+        """Return a string representation of the LI"""
+
+        line = f'LI{pad_str(self.tiploc, 7)}{pad_str(self.suffix, 1)}'
+        line += f'{pad_str(self.raw_wta, 5)}{pad_str(self.raw_wtd, 5)}'
+        line += f'{pad_str(self.raw_wtp, 5)}{pad_str(self.raw_pta, 4)}'
+        line += f'{pad_str(self.raw_ptd, 4)}'
+        line += f'{pad_str(self.platform, 3)}{pad_str(self.line, 3)}'
+        line += f'{pad_str(self.path, 3)}{pad_str(self.activity, 12)}'
+        line += f'{pad_str(self.engineering_allowance_raw, 2)}'
+        line += f'{pad_str(self.pathing_allowance_raw, 2)}'
+        line += f'{pad_str(self.performance_allowance_raw, 2)}'
+        line += f'{pad_str("", 20)}'
+
+        return line
 
 
 class LocationTerminating(TimingPoint):
     """Represents the terminating timing point"""
 
-    def __init__(self, **kwargs):
-        """Initialisation"""
+    @classmethod
+    def create_from_string(cls, lt_record: str):
+        """Pass a CIF LT record, returns a LocationTerminating object"""
 
-        super().__init__(**kwargs)
+        if not isinstance(lt_record, str) or not lt_record.startswith('LT'):
+            raise ValueError('LT record is not of the required format')
 
-        wta = f"{kwargs['wta'][0:2]}:{kwargs['wta'][2: 4]}"
-        if 'H' in kwargs['wta']:
-            wta += ':30'
-        else:
-            wta += ':00'
+        if not len(lt_record) == 80:
+            raise ValueError('LT record is not the required length')
 
-        self._raw_wta = kwargs['wta']
-        self.wta = format_date(wta).time()
+        return cls(**{
+            'tiploc': lt_record[2: 9],
+            'suffix': lt_record[9],
+            'wta': lt_record[10: 15],
+            'pta': lt_record[15: 19],
+            'plt': lt_record[19: 22],
+            'path': lt_record[22: 25],
+            'act': lt_record[25: 37]
+        })
 
-        pta = f"{kwargs['pta'][0:2]}:{kwargs['pta'][2: 4]}"
-        self._raw_pta = kwargs['pta']
-        self.pta = format_date(pta).time()
+    def __str__(self) -> str:
+        """Return a string representation of the LT"""
+
+        line = f'LT{pad_str(self.tiploc, 7)}{pad_str(self.suffix, 1)}'
+        line += f'{pad_str(self.raw_wta, 5)}'
+        line += f'{pad_str(self.raw_pta, 4)}'
+        line += f'{pad_str(self.platform, 3)}'
+        line += f'{pad_str(self.path, 3)}{pad_str(self.activity, 12)}'
+        line += f'{pad_str("", 43)}'
+
+        return line

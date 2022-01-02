@@ -1,10 +1,42 @@
 """Unit tests for schedule.py
 """
 
+# pylint: disable=C0301, C0413, E1101, C0116, C0115, W0621, R0201, C0103
+
 import sys
 sys.path.insert(0, './vstp')  # nopep8
 import pytest
 import schedule as sched
+
+
+@pytest.fixture
+def location_term():
+
+    return sched.LocationTerminating(**{
+        'tiploc': 'CREWE',
+        'suffix': '1',
+        'wta': '1400H',
+        'pta': '1402',
+        'plt': '7',
+        'path': 'DSL',
+        'act': 'TF'
+    })
+
+
+@pytest.fixture
+def location_interm():
+
+    return sched.LocationIntermediate(**{
+        'tiploc': 'CREWE',
+        'suffix': '1',
+        'wtp': '1200H',
+        'plt': '4',
+        'line': 'UFL',
+        'eng_all': '1H',
+        'pathing_all': 'H',
+        'perf_all': '2H',
+        'act': ''
+    })
 
 
 @pytest.fixture
@@ -133,3 +165,32 @@ class TestLocationOrigin:
         lo = 'LOGLGQHL  1703 17033  UEG    TB                                                 '
         res = sched.LocationOrigin.create_from_string(lo)
         assert str(res) == lo
+
+
+class TestLocationIntermediate:
+
+    def test_init(self, location_interm):
+
+        assert location_interm.__class__.__name__ == 'LocationIntermediate'
+        assert str(
+            location_interm).startswith('LICREWE  1          1200H        4  UFL               1HH 2H')
+
+    def test_create_from_string(self):
+
+        li = 'LILENZIE  1714 1714H     17141714         T                                     '
+        res = sched.LocationIntermediate.create_from_string(li)
+        assert str(res) == li
+
+
+class TestLocationTerminating:
+
+    def test_init(self, location_term):
+
+        assert location_term.__class__.__name__ == 'LocationTerminating'
+        assert str(location_term).startswith('LTCREWE  11400H14027  DSLTF')
+
+    def test_create_from_string(self):
+
+        lt = 'LTFALKRKG 1734 17341     TF                                                     '
+        res = sched.LocationTerminating.create_from_string(lt)
+        assert str(res) == lt
