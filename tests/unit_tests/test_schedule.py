@@ -3,6 +3,7 @@
 
 # pylint: disable=C0301, C0413, E1101, C0116, C0115, W0621, R0201, C0103
 
+from datetime import datetime
 import sys
 sys.path.insert(0, './vstp')  # nopep8
 import pytest
@@ -98,6 +99,40 @@ def test_extrapolate_allowance():
     assert sched.extrapolate_allowance(' ') == 0
     assert sched.extrapolate_allowance('') == 0
     assert sched.extrapolate_allowance('123') == 0
+
+
+def test_pad_str():
+
+    assert len(sched.pad_str('', 5)) == 5
+    assert sched.pad_str('12345', 2) == '12345'
+
+
+def test_as_cif_date():
+
+    now = datetime(1970, 1, 1).date()
+    assert sched.as_cif_date(now) == '700101'
+
+
+def test_validate_len():
+
+    assert sched.validate_len(
+        '12345',
+        [1, 2, 3, 4, 5],
+        None
+    ) == '12345'
+
+    assert sched.validate_len(
+        '12345',
+        [6],
+        None
+    ) == None
+
+
+def test_format_date():
+
+    now = '1970-01-01 12:00:00'
+    assert str(sched.format_date(now)) == '1970-01-01 12:00:00'
+    assert str(sched.format_date(now, True)) == '1970-01-01'
 
 
 class TestBasicSchedule:
