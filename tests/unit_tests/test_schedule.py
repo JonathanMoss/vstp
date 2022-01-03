@@ -138,7 +138,7 @@ def test_validate_len():
         '12345',
         [6],
         None
-    ) == None
+    ) is None
 
 
 def test_format_date():
@@ -251,7 +251,7 @@ class TestSchedule:
         bs = 'BSRG828851510191510231100100 POO2N75    113575825 DMUE   090      S            O'
         assert str(sched.Schedule.return_bs(bs)) == bs
 
-    def test_return_bs(self):
+    def test_return_bx(self):
 
         bx = 'BX         SRY                                                                  '
         assert str(sched.Schedule.return_bx(bx)) == bx
@@ -276,3 +276,7 @@ class TestSchedule:
         assert str(res[0]) == li
 
     def test_create_from_string(self, cif_schedule):
+
+        sched_obj = sched.Schedule.create_from_string(cif_schedule)
+        assert str(
+            sched_obj.basic_schedule) == 'BSRG828851510191510231100100 POO2N75    113575825 DMUE   090      S            O'

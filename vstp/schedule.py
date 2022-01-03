@@ -435,6 +435,12 @@ class Schedule:
     def __init__(self, **kwargs):
         """Initialisation"""
 
+        self.basic_schedule = kwargs['basic_schedule']
+        self.extra_schedule = kwargs['extra_schedule']
+        self.origin = kwargs['origin']
+        self.intermediates = kwargs['intermediates']
+        self.terminating = kwargs['terminating']
+
     @staticmethod
     def return_bs(schedule: str) -> object:
         """Pass a schedule, returns a BasicSchedule object"""
@@ -491,7 +497,14 @@ class Schedule:
         """Pass a correctly formatted string containing a CIF schedule record,
         returns a Schedule object"""
 
-        self.basic_schedule = Schedule.return_bs(schedule)
+        return cls(**{
+            'basic_schedule': Schedule.return_bs(schedule),
+            'extra_schedule': Schedule.return_bx(schedule),
+            'origin': Schedule.return_lo(schedule),
+            'intermediates': Schedule.return_li(schedule),
+            'terminating': Schedule.return_lt(schedule),
+
+        })
 
 
 class TimingPoint:
