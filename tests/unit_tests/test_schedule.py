@@ -11,6 +11,19 @@ import schedule as sched
 
 
 @pytest.fixture
+def cif_schedule():
+
+    bs = 'BSRG828851510191510231100100 POO2N75    113575825 DMUE   090      S            O'
+    bx = 'BX         SRY                                                                  '
+    lo = 'LOCREWE  11200H11594  UFL1HH TB          2H                                     '
+    li = 'LILENZIE  1714 1714H     17141714         T                                     '
+    li = li * 10
+    lt = 'LTFALKRKG 1734 17341     TF                                                     '
+
+    return f'{bs}{bx}{lo}{li}{lt}'
+
+
+@pytest.fixture
 def location_term():
 
     return sched.LocationTerminating(**{
@@ -229,3 +242,37 @@ class TestLocationTerminating:
         lt = 'LTFALKRKG 1734 17341     TF                                                     '
         res = sched.LocationTerminating.create_from_string(lt)
         assert str(res) == lt
+
+
+class TestSchedule:
+
+    def test_return_bs(self):
+
+        bs = 'BSRG828851510191510231100100 POO2N75    113575825 DMUE   090      S            O'
+        assert str(sched.Schedule.return_bs(bs)) == bs
+
+    def test_return_bs(self):
+
+        bx = 'BX         SRY                                                                  '
+        assert str(sched.Schedule.return_bx(bx)) == bx
+
+    def test_return_lo(self):
+
+        schedule = 'LOCREWE  11200H11594  UFL1HH TB          2H                                     '
+        assert str(sched.Schedule.return_lo(schedule)) == schedule
+
+    def test_return_lt(self):
+
+        schedule = 'LTFALKRKG 1734 17341     TF                                                     '
+        assert str(sched.Schedule.return_lt(schedule)) == schedule
+
+    def test_return_li(self):
+
+        li = 'LILENZIE  1714 1714H     17141714         T                                     '
+        schedule = li * 10
+        res = sched.Schedule.return_li(schedule)
+        assert isinstance(res, list)
+        assert len(res) == 10
+        assert str(res[0]) == li
+
+    def test_create_from_string(self, cif_schedule):

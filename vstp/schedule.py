@@ -1,6 +1,8 @@
 """classes that represent a schedule object"""
 
 # pylint: disable=R0902, R0912, R0903
+
+import re
 from datetime import datetime
 from dateutil.parser import parse as dt_parse
 
@@ -432,6 +434,64 @@ class Schedule:
 
     def __init__(self, **kwargs):
         """Initialisation"""
+
+    @staticmethod
+    def return_bs(schedule: str) -> object:
+        """Pass a schedule, returns a BasicSchedule object"""
+
+        bs_record = re.search('BS[0-9A-Z ]{78}', schedule)
+        if bs_record:
+            return BasicSchedule.create_from_string(bs_record.group(0))
+
+        return None
+
+    @staticmethod
+    def return_bx(schedule: str) -> object:
+        """Pass a schedule, returns a ExtraSchedule object"""
+
+        bx_record = re.search('BX[0-9A-Z ]{78}', schedule)
+        if bx_record:
+            return ExtraSchedule.create_from_string(bx_record.group(0))
+
+        return None
+
+    @staticmethod
+    def return_lo(schedule: str) -> object:
+        """Pass the schedule, returns a LocationOrigin object"""
+
+        loc_o = re.search('LO[0-9A-Z ]{78}', schedule)
+        if loc_o:
+            return LocationOrigin.create_from_string(loc_o.group(0))
+
+        return None
+
+    @staticmethod
+    def return_lt(schedule: str) -> object:
+        """Pass the schedule, returns a LocationTerminating object"""
+
+        loc_t = re.search('LT[0-9A-Z ]{78}', schedule)
+        if loc_t:
+            return LocationTerminating.create_from_string(loc_t.group(0))
+
+        return None
+
+    @staticmethod
+    def return_li(schedule: str) -> list:
+        """Pass the schedule, returns a list of LocationIntermediate objects"""
+
+        res = []
+
+        for record in re.finditer('LI[0-9A-Z ]{78}', schedule):
+            res.append(LocationIntermediate.create_from_string(record.group(0)))
+
+        return res
+
+    @classmethod
+    def create_from_string(cls, schedule: str) -> object:
+        """Pass a correctly formatted string containing a CIF schedule record,
+        returns a Schedule object"""
+
+        self.basic_schedule = Schedule.return_bs(schedule)
 
 
 class TimingPoint:
