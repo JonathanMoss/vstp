@@ -4,7 +4,7 @@
 # pylint: disable=R1716
 
 import json
-from bng_to_latlon import OSGB36toWGS84 as conv
+from bng_latlon import OSGB36toWGS84 as conv
 from haversine import haversine, Unit
 
 EAST_L = 135263
