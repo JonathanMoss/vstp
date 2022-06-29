@@ -31,5 +31,5 @@ path = Pathfinder('PADTON', 'PLYMTH')
 path.search()
 print()
 
-path = Pathfinder('GLGC', 'EUSTON')
+path = Pathfinder('GLGC', 'EUSTON', via=['SHFD', 'MOTHRWL'])
 path.search()
