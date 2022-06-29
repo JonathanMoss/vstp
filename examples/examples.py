@@ -31,5 +31,13 @@ path = Pathfinder('PADTON', 'PLYMTH')
 path.search()
 print()
 
-path = Pathfinder('GLGC', 'EUSTON', via=['SHFD', 'MOTHRWL'])
+path = Pathfinder('GLGC', 'EUSTON', via=['SHFD', 'MOTHRWL', 'HUYTON'])
+path.search()
+
+print()
+path = Pathfinder('GLGC', 'EUSTON', via=['YORK', 'CREWE', 'PNKRDG', 'BHAMNWS', 'NMPTN'])
+path.search()
+
+print()
+path = Pathfinder('ABRDEEN', 'PENZNCE')
 path.search()
