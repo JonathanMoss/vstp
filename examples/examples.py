@@ -13,12 +13,23 @@ f_import.import_network_links()
 # Define the path criteria
 PATH = Pathfinder('CREWE', 'DRBY')
 PATH.search()  # Start the search and output to STDOUT
+print()
 
 PATH = Pathfinder('DRBY', 'CREWE')
 PATH.search()
+print()
 
 path = Pathfinder('CREWE', 'DRBY', via=['STAFFRD'])
 path.search()
+print()
 
 path = Pathfinder('CREWE', 'DRBY', avoid=['ALSAGER'])
+path.search()
+print()
+
+path = Pathfinder('PADTON', 'PLYMTH')
+path.search()
+print()
+
+path = Pathfinder('GLGC', 'EUSTON')
 path.search()
