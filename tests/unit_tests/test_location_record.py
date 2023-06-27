@@ -32,7 +32,7 @@ class TestLocationRecord:
             'easting/northing': (383700, 354300),
             'end_date': '01-01-1995 00:00:00',
             'force_lpb': '',
-            'lat/lon': (53.08566483961731, -2.2448107258158285),
+            'lat/lon': (53.085665, -2.244811),
             'location_code': 'KIDSGRV',
             'location_name': 'Kidsgrove',
             'off_network_indicator': 'N',
@@ -48,7 +48,7 @@ class TestLocationRecord:
             'easting/northing': [383700, 354300],
             'end_date': '01-01-1995 00:00:00',
             'force_lpb': '',
-            'lat/lon': [53.08566483961731, -2.2448107258158285],
+            'lat/lon': [53.085665, -2.244811],
             'location_code': 'KIDSGRV',
             'location_name': 'Kidsgrove',
             'off_network_indicator': 'N',
@@ -101,4 +101,4 @@ class TestLocationRecord:
 
     def test_wgs_coordinates(self, record_from_file):
 
-        assert record_from_file.wgs_coordinates == (53.08566483961731, -2.2448107258158285)
+        assert record_from_file.wgs_coordinates == (53.085665, -2.244811)
