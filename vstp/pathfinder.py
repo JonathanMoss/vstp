@@ -6,11 +6,11 @@
 # pylint: disable=R0902
 # pylint: disable=R0912
 # pylint: disable=R0915
+# pylint: disable=R1710
 
 from network_links import NetworkLink
 from location_record import LocationRecord
 from err import BadViaList, BadAvoidList, BadTiplocError
-
 
 class Node:
     """Pathfinder Node"""
