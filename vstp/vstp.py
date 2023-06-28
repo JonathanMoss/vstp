@@ -9,7 +9,11 @@ import bplan_import as f_import
 f_import.import_location()
 f_import.import_network_links()
 
-psr = argparse.ArgumentParser()
+psr = argparse.ArgumentParser(
+    prog='vstp',
+    description='Runs VSTP style path queries',
+    epilog='...a work in progress'
+)
 psr.add_argument('start', type=str, help='The start TIPLOC')
 psr.add_argument('end', type=str, help='The end TIPLOC')
 psr.add_argument('--via', type=str, help='"TIPLOC, TIPLOC, ..." via location(s)')
