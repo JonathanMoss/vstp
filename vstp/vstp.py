@@ -14,6 +14,7 @@ psr.add_argument('start', type=str, help='The start TIPLOC')
 psr.add_argument('end', type=str, help='The end TIPLOC')
 psr.add_argument('--via', type=str, help='"TIPLOC, TIPLOC, ..." via location(s)')
 psr.add_argument('--avoid', type=str, help='"TIPLOC, TIPLOC, ..." avoid location(s)')
+psr.add_argument('--legs', action='store_true', default=False, help='Show output as grouped legs between via TIPLOCS')
 args = psr.parse_args()
 
 via = []
@@ -25,5 +26,5 @@ if args.via:
 if args.avoid:
     avoid = [tpl.strip() for tpl in args.avoid.split(',')]
 
-path = Pathfinder(args.start, args.end, via=via, avoid=avoid)
+path = Pathfinder(args.start, args.end, legs=args.legs, via=via, avoid=avoid)
 path.search()

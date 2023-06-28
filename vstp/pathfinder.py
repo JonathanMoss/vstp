@@ -40,12 +40,14 @@ class Node:
 class Pathfinder:
     """Class for finding the path between a TIPLOC pair"""
 
-    def __init__(self, start_tiploc: str, end_tiploc: str, via=None, avoid=None):
+    def __init__(self, start_tiploc: str, end_tiploc: str, via=None, avoid=None, legs=False):
         """Initialisation"""
 
         Pathfinder.validate_tiploc(start_tiploc)
         Pathfinder.validate_tiploc(end_tiploc)
 
+        self.as_legs = legs
+        
         self.via = via  # Tiplocs where the service MUST run via
         if self.via and not isinstance(self.via, list):
             raise BadViaList()
@@ -56,6 +58,8 @@ class Pathfinder:
 
         self.legs = []
         self.routing_leg_nodes = []
+        
+        self.route_locations = []
 
         # Create Start Node
         self.routing_leg_nodes.append(Node(start_tiploc))
@@ -104,6 +108,18 @@ class Pathfinder:
         if not NetworkLink.is_valid_tiploc(tiploc):
             raise BadTiplocError(tiploc)
 
+
+    def append_locations(self, tiploc: str) -> None:
+        """Updates a single list of validated tiploc locations"""
+
+        if self.route_locations:
+            if self.route_locations[len(self.route_locations) - 1] == tiploc:
+                return
+        
+        self.route_locations.append(tiploc)
+        if not self.as_legs:
+            print(tiploc)
+
     def search(self):
         """Kick off the route finding"""
 
@@ -122,8 +138,11 @@ class Pathfinder:
 
             if results:
                 for node in results:
-                    print(f'{tab}{node.tiploc}')
-
+                    if self.as_legs:
+                        print(f'{tab}{node.tiploc}')
+                    self.append_locations(node.tiploc)
+                        
+        
     def process_leg(self, start_node, end_node) -> list:
         """Process the leg passed, return the results"""
 
