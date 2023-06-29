@@ -1,5 +1,6 @@
 """Custom exceptions"""
 
+# pylint: disable=W1309
 
 class MissingPartFile(Exception):
     """Exception raised where the required BPLAN file extracts are missing

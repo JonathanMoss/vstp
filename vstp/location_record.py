@@ -2,8 +2,12 @@
 
 # pylint: disable=R0902
 # pylint: disable=R1716
+# pylint: disable=E0611
 
 import json
+
+from fuzzyfinder import fuzzyfinder
+
 from bng_latlon import OSGB36toWGS84 as conv
 from haversine import haversine, Unit
 
@@ -66,6 +70,16 @@ class LocationRecord:
             return haversine(wgs_1, wgs_2, unit=Unit.MILES)
         except Exception:  # pylint: disable=W0703
             return None
+
+    @classmethod
+    def match_locations(cls, search: str) -> list:
+        """Returns a list of matching locations"""
+        ret_val = []
+        for _, obj in cls._instances.items():
+            match = fuzzyfinder(search, [obj.location_code, obj.location_name])
+            if list(match):
+                ret_val.append(f'{obj.location_code}:{obj.location_name}')
+        return ret_val
 
     @classmethod
     def return_instance(cls, tiploc: str):

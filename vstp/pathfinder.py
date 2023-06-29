@@ -7,6 +7,7 @@
 # pylint: disable=R0912
 # pylint: disable=R0915
 # pylint: disable=R1710
+# pylint: disable=R0913
 
 from network_links import NetworkLink
 from location_record import LocationRecord
@@ -47,7 +48,7 @@ class Pathfinder:
         Pathfinder.validate_tiploc(end_tiploc)
 
         self.as_legs = legs
-        
+
         self.via = via  # Tiplocs where the service MUST run via
         if self.via and not isinstance(self.via, list):
             raise BadViaList()
@@ -58,7 +59,7 @@ class Pathfinder:
 
         self.legs = []
         self.routing_leg_nodes = []
-        
+
         self.route_locations = []
 
         # Create Start Node
@@ -106,6 +107,13 @@ class Pathfinder:
         """Raises an appropriate exception if the TIPLOC passed is not valid"""
 
         if not NetworkLink.is_valid_tiploc(tiploc):
+            suggestions = LocationRecord.match_locations(tiploc)
+            print(f'\n!! error, unknown TIPLOC: {tiploc} !!\n')
+            print('Suggestions are (or try searching for more):\n')
+            if suggestions:
+                for result in suggestions:
+                    print(f'\t{result.split(":")}')
+            print()
             raise BadTiplocError(tiploc)
 
 
@@ -115,7 +123,7 @@ class Pathfinder:
         if self.route_locations:
             if self.route_locations[len(self.route_locations) - 1] == tiploc:
                 return
-        
+
         self.route_locations.append(tiploc)
         if not self.as_legs:
             print(tiploc)
@@ -141,8 +149,7 @@ class Pathfinder:
                     if self.as_legs:
                         print(f'{tab}{node.tiploc}')
                     self.append_locations(node.tiploc)
-                        
-        
+
     def process_leg(self, start_node, end_node) -> list:
         """Process the leg passed, return the results"""
 

@@ -1,7 +1,6 @@
 """Functions for importing needed files"""
 
 import os
-from pathfinder import Pathfinder
 from location_record import LocationRecord
 from network_links import NetworkLink
 from err import MissingPartFile
@@ -23,7 +22,7 @@ def import_from_file(f_name: str) -> list:
 
     ret_list = []
 
-    with open(f_name, 'r') as open_file:
+    with open(f_name, 'r', encoding='utf-8') as open_file:
 
         for line in open_file:
             split_ln = line.split('\t')

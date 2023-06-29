@@ -68,6 +68,12 @@ class TestLocationRecord:
         )
 
         assert round(distance, 2) == 7.84
+        
+    def test_match_locations(self):
+        
+        matches = LOC.LocationRecord.match_locations('Kidsgrove')
+        assert isinstance(matches, list)
+        assert len(matches) > 0
 
     def test_return_instance(self):
 

@@ -5,7 +5,6 @@
 import json
 import functools
 
-
 class NetworkLink:
     """A prepresentation of a NWK record from BPLAN"""
 
