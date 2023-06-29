@@ -38,6 +38,8 @@ def import_timing_loads():
             tld.power_type = strip_value(record[7])
             tld.load = strip_value(record[8])
             tld.limiting_speed = strip_value(record[9])
+            if not tld.max_speed:
+                continue
             try:
                 ses.add(tld)
                 ses.commit()
