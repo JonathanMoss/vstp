@@ -117,7 +117,7 @@ class Pathfinder:
             raise BadTiplocError(tiploc)
 
 
-    def append_locations(self, tiploc: str) -> None:
+    def append_locations(self, tiploc: str, std_out=True) -> None:
         """Updates a single list of validated tiploc locations"""
 
         if self.route_locations:
@@ -126,9 +126,10 @@ class Pathfinder:
 
         self.route_locations.append(tiploc)
         if not self.as_legs:
-            print(tiploc)
+            if std_out:
+                print(tiploc)
 
-    def search(self):
+    def search(self, std_out=True):
         """Kick off the route finding"""
 
         for index, leg in enumerate(self.legs):
@@ -147,8 +148,9 @@ class Pathfinder:
             if results:
                 for node in results:
                     if self.as_legs:
-                        print(f'{tab}{node.tiploc}')
-                    self.append_locations(node.tiploc)
+                        if std_out:
+                            print(f'{tab}{node.tiploc}')
+                    self.append_locations(node.tiploc, std_out=std_out)
 
     def process_leg(self, start_node, end_node) -> list:
         """Process the leg passed, return the results"""
