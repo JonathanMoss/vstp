@@ -4,9 +4,12 @@
 import sys
 import os
 import argparse
+import pydantic
+from typing import List
 from pathfinder import Pathfinder
 import bplan_import as f_import
 from location_record import LocationRecord
+from models import Schedule
 from rich.console import Console
 from rich.markdown import Markdown
 from rich.table import Table
@@ -21,6 +24,28 @@ NO_ARGS="""
 # User Error
 Missing arguments, please run ```python3 vstp.py --help```
 """.strip()
+
+class FullTripTable(Table):
+    
+    HEADERS = ["#", "TIPLOC", "Name", "Mileage", "Path", "Arrive", "Platform", "Depart", "Line", "Activity", "Eng. Allowance", "Perf. Allowance", "Path. Allowance"]
+    STYLE = 'bold magenta'
+    
+    def __init__(self):
+        super().__init__(show_header=True, header_style=self.STYLE)
+        
+        for header in self.HEADERS:
+            self.add_column(header)
+        
+    def _add_row(self, items: list):
+        self.add_row(*items)
+        
+    def populate_table(self, all_items: list):
+        for item in all_items:
+            self._add_row(item)
+            
+    def populate_from_schedule(self, schedule: Schedule) -> None:
+        for row in schedule.rows:
+            self._add_row(row.__dict__.values())
 
 class RouteRequestTable():
     """"""
@@ -122,7 +147,7 @@ if args.build:
     def trip_table(cur_trip: list) -> str:
         locs = []
         for result in cur_trip:
-            rcd = LocationRecord._instances[result]
+            rcd = LocationRecord._instances[result[1]]
             locs.append(f'{rcd.location_code}:{rcd.location_name}')
         return TiplocTable(locs).table
     
@@ -134,20 +159,27 @@ if args.build:
             locs.append([str(index + 1), rcd.location_code, rcd.location_name])
         return locs
     
+    def get_link(tiploc_a: str, tiploc_b) -> object:
+        pass
+    
     current_trip = []
     if not LocationRecord.return_instance(args.build):
         CONSOLE.print(Markdown(f"# ERROR, invalid TIPLOC: ```{args.build}```"))
         sys.exit(1)
-    current_trip.append(args.build)
+        
+    # insert the origin point into the current trip
+    origin = LocationRecord._instances[args.build]
+    current_trip.append([len(current_trip), origin.location_code, origin.location_name])
+    
     while True and current_trip:
         CONSOLE.clear()
         if len(current_trip) > 1:
-            CONSOLE.print(Markdown(f"# Route Builder, START: ```{current_trip[0]}```, END: ```{current_trip[-1]}```"))
+            CONSOLE.print(Markdown(f"# Route Builder, START: ```{args.build}```, END: ```{current_trip[-1][1]}```"))
         else:
             CONSOLE.print(Markdown(f"# Route Builder, START: ```{args.build}```"))
         CONSOLE.print(Markdown('## Current Route'))
         CONSOLE.print(trip_table(current_trip))
-        links = get_links(current_trip[-1])
+        links = get_links(current_trip[-1][1])
         CONSOLE.print(Markdown('## Next Location Options'))
         print()
         table = LinkSelectTable(links).table
@@ -158,7 +190,7 @@ if args.build:
         if answer == "X":
             CONSOLE.clear()
             if len(current_trip) > 1:
-                CONSOLE.print(Markdown(f"# Route Builder, START: ```{current_trip[0]}```, END: ```{current_trip[-1]}```"))
+                CONSOLE.print(Markdown(f"# Route Builder, START: ```{current_trip[0][2]}```, END: ```{current_trip[-1][2]}```"))
             else:
                 CONSOLE.print(Markdown(f"# Route Builder, START: ```{args.build}```"))
                 CONSOLE.print(Markdown('## Current Route'))
@@ -168,7 +200,20 @@ if args.build:
             current_trip.pop()
         if answer.isnumeric():
             answer = int(answer) - 1
-            current_trip.append(links[answer][1])
+            next_loc = LocationRecord._instances[links[answer][1]]
+            current_trip.append([len(current_trip), next_loc.location_code, next_loc.location_name])
+        if answer == "M" and len(current_trip) > 1:
+            CONSOLE.clear()
+            CONSOLE.print(Markdown(f"# Route Builder, START: ```{current_trip[0][2]}```, END: ```{current_trip[-1][2]}```"))
+            schedule = Schedule.factory(current_trip)
+            tab = FullTripTable()
+            schedule.update_mileages(None)
+            tab.populate_from_schedule(schedule)
+            CONSOLE.print(tab)   
+
+            
+            sys.exit()
+            
     sys.exit(0)
 
 via = []

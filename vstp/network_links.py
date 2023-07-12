@@ -136,6 +136,18 @@ class NetworkLink:
             'final_direction': final_dir,
             'reversable': reversable
         }
+        
+    @classmethod
+    @functools.lru_cache()
+    def get_link(cls, tiploc_a, tiploc_b) -> object:
+        """return a specific link"""
+        if tiploc_a not in cls._instances:
+            return None
+
+        if tiploc_b not in cls._instances[tiploc_a]:
+            return None
+        
+        return cls._instances[tiploc_a][tiploc_b]
 
     @classmethod
     @functools.lru_cache()
