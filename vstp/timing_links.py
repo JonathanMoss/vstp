@@ -2,15 +2,18 @@
 
 # pylint: disable=E1101
 
+import os
 from typing import Union, Optional
 from sqlmodel import SQLModel, Field, Session, create_engine
 import pydantic
+
+DB_CON_STRING = os.getenv("DB_CON_STRING", 'sqlite:///vstp.db')
 
 class TimingLink(SQLModel, table=True):
     """Representation of a TLK record from BPLAN"""
 
     id: Optional[int] = Field(default=None, primary_key=True)
-    
+
     origin: str = pydantic.Field(
         title='Origin TIPLOC',
         max_len=7,
@@ -110,16 +113,18 @@ class TimingLink(SQLModel, table=True):
             exit_speed=values[10],
             srt=values[13]
         )
+
 def main():
-    engine = create_engine("sqlite:///tlk.db", echo=True)
+    """Entry point if running module"""
+    engine = create_engine(DB_CON_STRING, echo=False)
     session = Session(engine)
     SQLModel.metadata.create_all(engine)
-    
-    with open('TLK', 'r') as file:
-        for line in file.readlines()[:5]:
+
+    with open('TLK', 'r', encoding='utf-8') as file:
+        for line in file.readlines():
             session.add(TimingLink.bplan_factory(line))
-            
+
     session.commit()
-    
+
 if __name__ == "__main__":
     main()
