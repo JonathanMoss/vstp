@@ -3,8 +3,8 @@
 # pylint: disable=C0301, E0401, C0413, W0621
 
 import sys
-sys.path.insert(0, './vstp') # nopep8
-import timing_links as TLK
+sys.path.insert(0, './vstp/models') # nopep8
+import timing_link as TLK
 import pytest
 
 @pytest.fixture
@@ -23,6 +23,7 @@ class TestTimingLink:
         assert obj == 'TimingLink'
 
     def test_strip_strings(self, tlk_instance):
-        """test string stripping"""
+        """test string stripping/empty string parsing"""
         assert tlk_instance.origin == 'CREWE'
-        assert tlk_instance.route_guage == None
+        assert tlk_instance.route_guage is None
+        assert tlk_instance.speed == '75'

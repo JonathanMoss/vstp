@@ -16,72 +16,81 @@ class TimingLink(SQLModel, table=True):
 
     origin: str = pydantic.Field(
         title='Origin TIPLOC',
-        max_len=7,
-        min_len=3,
-        regex='[A-Z0-9]{3,7}'
+        max_length=7,
+        min_length=3,
+        regex="^[A-Z0-9]{3,7}$"
     )
 
     destination: str = pydantic.Field(
         title='Destination TIPLOC',
-        max_len=7,
-        min_len=3,
-        regex='[A-Z0-9]{3,7}'
+        max_length=7,
+        min_length=3,
+        regex="^[A-Z0-9]{3,7}$"
     )
 
     line_code: Union[str, None] = pydantic.Field(
         title='Running line code',
-        max_len=3,
-        regex='[A-Z0-9]{0,3}'
+        max_length=3,
+        min_length=1,
+        regex="^[A-Z0-9]{1,3}$",
     )
 
     traction_type: str = pydantic.Field(
         title='Traction type',
-        min_len=2,
-        max_len=6,
-        regex='[0-9A-Za-z-]{2,6}'
+        min_length=2,
+        max_length=6,
+        regex="^[0-9A-Za-z-+]{2,6}$"
     )
 
     trailing_load: Union[str, None] = pydantic.Field(
         title='Training load in tonnes',
-        min_len=1,
-        max_len=5,
-        regex='[0-9]{1,5}'
+        min_length=1,
+        max_length=5,
+        regex="^[0-9]{1,5}$"
     )
 
     speed: Union[str, None] = pydantic.Field(
         title='Maximum speed',
-        min_len=1,
-        max_len=3,
-        regex='[0-9]{1,3}'
+        min_length=1,
+        max_length=3,
+        regex="^[0-9]{1,3}$"
     )
 
     route_guage: Union[str, None] = pydantic.Field(
         title='Route availability code',
-        min_len=1,
-        max_len=3,
-        regex='[0-9A-Z]{1,3}'
+        min_length=1,
+        max_length=3,
+        regex="^[0-9A-Z]{1,3}$"
     )
 
     entry_speed: str = pydantic.Field(
         title='Entering the section - starting or passing',
-        min_len=1,
-        max_len=2,
-        regex='[0-1-]{1,2}'
+        min_length=1,
+        max_length=2,
+        regex="^[0-1-]{1,2}$"
     )
 
     exit_speed: str = pydantic.Field(
         title='Exiting the section - stopping or passing',
-        min_len=1,
-        max_len=2,
-        regex='[0-1-]{1,2}'
+        min_length=1,
+        max_length=2,
+        regex="^[0-1-]{1,2}$"
     )
 
     srt: str = pydantic.Field(
         title='Sectional running times mmm\'ss',
-        min_len=3,
-        max_len=7,
-        regex="[0-9'+]{3,6}"
+        min_length=3,
+        max_length=7,
+        regex="^[0-9'+]{3,7}$"
     )
+
+    @pydantic.validator('line_code', pre=True)
+    @classmethod
+    def to_upper(cls, value: str) -> Union[str, None]:
+        """Convert to upper case"""
+        if value:
+            return value.upper()
+        return value
 
     @pydantic.validator('*', pre=True)
     @classmethod
@@ -101,18 +110,27 @@ class TimingLink(SQLModel, table=True):
         values = bplan_line.split('\t')
         if not len(values) == 15:
             return None
-        return cls(
-            origin=values[2],
-            destination=values[3],
-            line_code=values[4],
-            traction_type=values[5],
-            trailing_load=values[6],
-            speed=values[7],
-            route_guage=values[8],
-            entry_speed=values[9],
-            exit_speed=values[10],
-            srt=values[13]
-        )
+
+        val_dict = {
+            'origin': values[2],
+            'destination': values[3],
+            'line_code': values[4],
+            'traction_type': values[5],
+            'trailing_load': values[6],
+            'speed': values[7],
+            'route_guage': values[8],
+            'entry_speed': values[9],
+            'exit_speed': values[10],
+            'srt': values[13]  
+        }
+
+        obj =  cls(**val_dict)
+
+        # Need to do this because we are mixing pydantic with SQLModel!
+        # https://github.com/tiangolo/sqlmodel/issues/52
+        obj.validate(val_dict)
+
+        return obj
 
 def main():
     """Entry point if running module"""

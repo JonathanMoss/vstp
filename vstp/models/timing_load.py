@@ -14,57 +14,57 @@ class TimingLoad(SQLModel, table=True):
 
     traction_type: str = pydantic.Field(
         title='Traction Type',
-        max_len=6,
-        min_len=1,
-        regex='[0-9A-Z-]{1,6}'
+        max_length=6,
+        min_length=1,
+        regex="^[0-9A-Z-x+/]{1,6}$"
     )
 
     trailing_load: Union[str, None] = pydantic.Field(
         title='Trailing Load (Tonnes)',
-        max_len=5,
-        min_len=1,
-        regex='[0-9]{1,5}'
+        max_length=5,
+        min_length=1,
+        regex="^[0-9]{1,5}$"
     )
 
     max_speed: Union[str, None] = pydantic.Field(
         title='Maximum Speed (MPH)',
-        min_len=1,
-        max_len=3,
-        regex='[0-9]{1,3}'
+        min_length=1,
+        max_length=3,
+        regex="^[0-9]{1,3}$"
     )
 
     ra_guage: Union[str, None] = pydantic.Field(
         title='Route Availability/Guage',
-        min_len=1,
-        max_len=3,
-        regex='[A_Z]{1,3}'
+        min_length=1,
+        max_length=3,
+        regex="^[A-Z]{1,3}$"
     )
 
     description: str = pydantic.Field(
         title='Description',
-        min_len=1,
-        max_len=64
+        min_length=1,
+        max_length=64
     )
 
     power_type: str = pydantic.Field(
         title='ITPS Power Type',
-        min_len=1,
-        max_len=3,
-        regex='[A-Z]{1,3}'
+        min_length=1,
+        max_length=3,
+        regex="^[A-Z]{1,3}$"
     )
 
     load: Union[str, None] = pydantic.Field(
         title='ITPS Load',
-        min_len=1,
-        max_len=4,
-        regex='[A-Z0-9]{1,3}'
+        min_length=1,
+        max_length=4,
+        regex="^[A-Z0-9]{1,4}$"
     )
 
     limiting_speed: Union[str, None] = pydantic.Field(
-        title='ITPS Limiting Speed',
-        min_len=1,
-        max_len=3,
-        regex='[0-9]{1,3}'
+        title='ITPS Limiting Speed (MPH)',
+        min_length=1,
+        max_length=3,
+        regex="^[0-9]{1,3}$"
     )
 
     @pydantic.validator('*', pre=True)
@@ -85,20 +85,29 @@ class TimingLoad(SQLModel, table=True):
         values = bplan_line.split('\t')
         if not len(values) == 10:
             return None
-        return cls(
-            traction_type=values[2],
-            trailing_load=values[3],
-            speed=values[4],
-            ra_guage=values[5],
-            description=values[6],
-            power_type=values[7],
-            load=values[8],
-            limiting_speed=values[9]
-        )
+
+        val_dict= {
+            'traction_type': values[2],
+            'trailing_load': values[3],
+            'max_speed': values[4],
+            'ra_guage': values[5],
+            'description': values[6],
+            'power_type': values[7],
+            'load': values[8],
+            'limiting_speed': values[9]
+        }
+
+        obj =  cls(**val_dict)
+        # Need to do this because we are mixing pydantic with SQLModel!
+        # https://github.com/tiangolo/sqlmodel/issues/52
+        obj.validate(val_dict)
+
+        return obj
+
 
 def main():
     """Entry point if running module"""
-    engine = create_engine(DB_CON_STRING, echo=True)
+    engine = create_engine(DB_CON_STRING, echo=False)
     session = Session(engine)
     SQLModel.metadata.create_all(engine)
 
