@@ -6,6 +6,7 @@ from sqlmodel import SQLModel, Field, Session, create_engine
 import pydantic
 
 DB_CON_STRING = os.getenv("DB_CON_STRING", 'sqlite:///vstp.db')
+NWK_FILE = os.getenv("NWK_FILE", 'NWK')
 
 class NetworkLink(SQLModel, table=True):
     """Representation of a BPLAN NWK record"""
@@ -174,7 +175,7 @@ def main():
     session = Session(engine)
     SQLModel.metadata.create_all(engine)
 
-    with open('NWK', 'r', encoding='utf-8') as file:
+    with open(NWK_FILE, 'r', encoding='utf-8') as file:
         for line in file.readlines():
             session.add(NetworkLink.bplan_factory(line))
 

@@ -6,6 +6,7 @@ from sqlmodel import SQLModel, Field, Session, create_engine
 import pydantic
 
 DB_CON_STRING = os.getenv("DB_CON_STRING", 'sqlite:///vstp.db')
+TLD_FILE = os.getenv("TLD_FILE", 'TLD')
 
 class TimingLoad(SQLModel, table=True):
     """Representation of a TLD record from BPLAN"""
@@ -111,7 +112,7 @@ def main():
     session = Session(engine)
     SQLModel.metadata.create_all(engine)
 
-    with open('TLD', 'r', encoding='utf-8') as file:
+    with open(TLD_FILE, 'r', encoding='utf-8') as file:
         for line in file.readlines():
             session.add(TimingLoad.bplan_factory(line))
 

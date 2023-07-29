@@ -2,12 +2,14 @@
 
 # pylint: disable=E1101
 
+from datetime import datetime, timedelta
 import os
 from typing import Union, Optional
 from sqlmodel import SQLModel, Field, Session, create_engine
 import pydantic
 
 DB_CON_STRING = os.getenv("DB_CON_STRING", 'sqlite:///vstp.db')
+TLK_FILE = os.getenv("TLK_FILE", 'TLK')
 
 class TimingLink(SQLModel, table=True):
     """Representation of a TLK record from BPLAN"""
@@ -84,6 +86,17 @@ class TimingLink(SQLModel, table=True):
         regex="^[0-9'+]{3,7}$"
     )
 
+    @property
+    def running_time(self) -> int:
+        """Return the SRT in seconds"""
+        raw = datetime.strptime(
+            self.srt,
+            "+%M'%S"
+        )
+
+        raw_time = raw.time()
+        return (raw_time.minute * 60) + raw_time.second
+
     @pydantic.validator('line_code', pre=True)
     @classmethod
     def to_upper(cls, value: str) -> Union[str, None]:
@@ -138,7 +151,7 @@ def main():
     session = Session(engine)
     SQLModel.metadata.create_all(engine)
 
-    with open('TLK', 'r', encoding='utf-8') as file:
+    with open(TLK_FILE, 'r', encoding='utf-8') as file:
         for line in file.readlines():
             session.add(TimingLink.bplan_factory(line))
 
