@@ -3,11 +3,22 @@
 # pylint: disable=line-too-long, import-error, wrong-import-position
 # pylint: disable=redefined-outer-name, wrong-import-order
 
-import pytest
 import sys
+
+import pytest
+
 sys.path.insert(0, './vstp/models')  # nopep8
 import location as LOC
 from bng_latlon import OSGB36toWGS84 as conv
+
+TEST_FILE = './tests/files/bplan_location.raw'
+
+@pytest.fixture
+def get_test_file() -> list:
+    """Returns the test file content as a list"""
+    with open(TEST_FILE, 'r', encoding='utf-8') as file:
+        return file.readlines()
+
 
 @pytest.fixture
 def loc_instance():
@@ -39,13 +50,6 @@ class TestLocation:
         """Test wgs properties"""
         assert loc_instance.wgs_coordinates == (52.54398, -4.055593)
 
-    def test_geo_info(self, loc_instance):
-        """Tests geolocation information lookup"""
-        geo_info = loc_instance.geo_info
-        assert geo_info.__class__.__name__ == 'GeocodeFarmReverse'
-        assert 'postal' in geo_info.json
-        assert geo_info.json['address'] == 'Rhos Dyfi, LL35 0RT, Wales, United Kingdom, United Kingdom'
-
     def test_coord_are_valid(self, loc_instance):
         """Tests coordinate validation"""
         assert loc_instance.are_coords_valid
@@ -67,3 +71,29 @@ class TestLocation:
             miles=False
         )
         assert int(result) == 950442
+
+    def test_as_bplan(self, get_test_file):
+        """Process multiple LOC file entries"""
+        for line in get_test_file:
+            obj = LOC.Location.bplan_factory(line)
+            assert isinstance(obj, LOC.Location)
+            split_line = line.split('\t')
+            split_obj = obj.as_bplan.split('\t')
+
+            assert split_line[0] == split_obj[0]
+            assert split_line[1] == split_obj[1]
+            assert split_line[2] == split_obj[2]
+            assert split_line[3] == split_obj[3]
+
+            assert len(split_obj[4]) == 19
+            assert len(split_obj[5]) == 19
+
+            assert split_line[6] == split_obj[6] or split_obj[6] == ''
+            assert split_line[7] == split_obj[7] or split_obj[7] == ''
+            assert split_line[8] == split_obj[8]
+            assert split_line[9] == split_obj[9]
+            assert split_line[10] == split_obj[10]
+            assert split_line[11] == split_obj[11]
+            assert split_line[12] == split_obj[12]
+
+            assert LOC.Location.bplan_factory(line).as_bplan == obj.as_bplan

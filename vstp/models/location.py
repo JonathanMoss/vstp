@@ -2,6 +2,7 @@
 
 # pylint: disable=E1101
 
+from datetime import datetime
 import os
 from typing import Optional, Union
 
@@ -177,6 +178,32 @@ class Location(SQLModel, table=True):
             return False
 
         return True
+
+    @staticmethod
+    def pad_value(text: str, length: int) -> str:
+        """Pad with spaces, return the string to the specified length"""
+        return text.ljust(length, ' ')
+
+    @property
+    def as_bplan(self) -> str:
+        """Return the record, as specified in the BPLAN schema"""
+        def to_string(value: object, pad=0) -> str:
+            """Return string if None"""
+            if not value:
+                return "".ljust(pad, ' ')
+
+            if value.isdigit():
+                if not int(value):
+                    return ""
+
+            return value
+
+        retval = f"LOC\tA\t{self.tiploc}\t{self.name}\t01-01-1970 00:00:00\t"
+        retval += f"{datetime.now().strftime('%d-%m-%Y %H:%M:%S')}\t{to_string(self.easting)}\t"
+        retval += f"{to_string(self.northing)}\t{self.tp_type}\t"
+        retval += f"{self.zone}\t{to_string(self.stanox)}\t{self.off_network}\t"
+        retval += f"{to_string(self.lpb, 1)}\n"
+        return retval
 
     @classmethod
     @pydantic.validate_arguments
