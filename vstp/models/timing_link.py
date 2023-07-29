@@ -2,7 +2,7 @@
 
 # pylint: disable=E1101
 
-from datetime import datetime, timedelta
+from datetime import datetime
 import os
 from typing import Union, Optional
 from sqlmodel import SQLModel, Field, Session, create_engine
@@ -41,7 +41,7 @@ class TimingLink(SQLModel, table=True):
         title='Traction type',
         min_length=2,
         max_length=6,
-        regex="^[0-9A-Za-z-+]{2,6}$"
+        regex="^[0-9A-Za-z-+/]{2,6}$"
     )
 
     trailing_load: Union[str, None] = pydantic.Field(
@@ -113,6 +113,34 @@ class TimingLink(SQLModel, table=True):
         if not stripped:
             return None
         return stripped
+    
+    @staticmethod
+    def pad_string(text: str, length: int = 0) -> str:
+        """Pad a string with spaces"""
+        return text.ljust(length, ' ')
+    
+    @property
+    def as_bplan(self) -> str:
+        """Return the record, as specified in the BPLAN schema"""
+
+        def to_string(value: object, pad=0) -> str:
+            """Return string if None"""
+            if not value:
+                return "".ljust(pad, ' ')
+
+            if value.isdigit():
+                if not int(value):
+                    return ""
+
+            return value
+
+        retval = f"TLK\tA\t{self.origin}\t{self.destination}\t{to_string(self.line_code)}\t"
+        retval += f"{self.traction_type}\t{to_string(self.trailing_load)}\t{self.speed}\t"
+        retval += f"{to_string(self.route_guage)}\t{self.entry_speed}\t{self.exit_speed}\t"
+        retval += f"01-01-1970 00:00:00\t{datetime.now().strftime('%d-%m-%Y %H:%M:%S')}\t"
+        retval += f"{self.srt}\t\n"
+
+        return retval
 
     @classmethod
     @pydantic.validate_arguments
@@ -136,6 +164,7 @@ class TimingLink(SQLModel, table=True):
             'exit_speed': values[10],
             'srt': values[13]  
         }
+        print(val_dict)
 
         obj =  cls(**val_dict)
 
