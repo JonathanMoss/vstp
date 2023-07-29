@@ -113,12 +113,7 @@ class TimingLink(SQLModel, table=True):
         if not stripped:
             return None
         return stripped
-    
-    @staticmethod
-    def pad_string(text: str, length: int = 0) -> str:
-        """Pad a string with spaces"""
-        return text.ljust(length, ' ')
-    
+
     @property
     def as_bplan(self) -> str:
         """Return the record, as specified in the BPLAN schema"""

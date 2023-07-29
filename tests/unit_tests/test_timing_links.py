@@ -15,7 +15,7 @@ def get_test_file() -> list:
     """Returns the test file content as a list"""
     with open(TEST_FILE, 'r', encoding='utf-8') as file:
         return file.readlines()
-    
+
 @pytest.fixture
 def tlk_instance():
     """Returns a TimingLink object"""
