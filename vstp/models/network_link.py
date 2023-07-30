@@ -1,5 +1,6 @@
 """Representation of a BPLAN NWK record"""
 
+from datetime import datetime
 import os
 from typing import Union, Optional
 from sqlmodel import SQLModel, Field, Session, create_engine
@@ -132,6 +133,30 @@ class NetworkLink(SQLModel, table=True):
         if not stripped:
             return None
         return stripped
+
+    @property
+    def as_bplan(self) -> str:
+        """Return the record, as specified in the BPLAN schema"""
+
+        def to_string(value: object, pad=0) -> str:
+            """Return string if None"""
+            if not value:
+                return "".ljust(pad, ' ')
+
+            if value.isdigit():
+                if not int(value):
+                    return ""
+
+            return value
+
+        retval = f"NWK\tA\t{self.origin}\t{self.destination}\t{to_string(self.line)}\t"
+        retval += f"{to_string(self.line_desc)}\t01-01-1970 00:00:00\t"
+        retval += f"{datetime.now().strftime('%d-%m-%Y %H:%M:%S')}\t{self.initial_dir}\t"
+        retval += f"{self.final_dir}\t{self.distance}\t{self.doop}\t"
+        retval += f"{self.doof}\t{self.retb}\t{self.zone}\t{self.reversable}\t"
+        retval += f"{to_string(self.power)}\t{self.route_avail}\t{to_string(self.max_len)}\n"
+
+        return retval
 
     @classmethod
     @pydantic.validate_arguments
