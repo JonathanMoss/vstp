@@ -1,0 +1,50 @@
+TLD	A	SRO	     	90	 	90 MPH Test Train	D	 	90
+TLD	A	66	695  	50	 	Class 66 Freight - 695tonnes at 50mph	D	695	50
+TLD	A	92	1250 	75	C	Class 92 Freight - 1250 tonnes at 75 mph, Containers	E	1250	75
+TLD	A	60	1400 	60	H	Class 60 Freight - 1400 tonnes at 60 mph, HAW	D	1400	60
+TLD	A	315	     	75	 	Class 315 EMU	EMU	315	75
+TLD	A	60	800  	45	 	Class 60 Freight - 800 tonnes at 45 mph	D	800	45
+TLD	A	66	400  	75	 	Class 66 Freight - 400 tonnes at 75mph	D	400	75
+TLD	A	91E-7	330  	110	 	Class 91 & 7 coaches (110mph)	E	91	110
+TLD	A	H56	1760 	35	 	Freight - Timing Reference 100 at 35 mph	D	1760	35
+TLD	A	59	1800 	45	H	Class 59 Freight 1800t @ 45mph	D	1800	45
+TLD	A	47	420  	40	 	Class 47 & 12 coaches (40 mph)	D	420	40
+TLD	A	56	1000 	60	 	Class 56 Freight - 1000 tonnes at 60mph	D	1000	60
+TLD	A	H56	715  	50	 	Freight - Timing Reference 40 at 50mph	D	715	50
+TLD	A	231	     	90	 	Class 231	DMU	231	90
+TLD	A	D3	     	70	 	DMU (Power Twin)	DMU	D3	70
+TLD	A	92	1600 	75	 	Class 92 Freight - 1600 tonnes at 75 mph	E	1600	75
+TLD	A	67	210  	100	 	Class 67 & 6 coaches (100 mph)	D	210	100
+TLD	A	66	800  	60	H	Class 66 Freight - 800 tonnes at 60 mph, HAW	D	800	60
+TLD	A	88	1400 	75	C	Class 88 Freight - 1400 tonnes at 75 mph, Containers	D	1400	75
+TLD	A	800-9D	     	100	 	Class 800 9 Car Diesel	DMU	800	100
+TLD	A	60	1000 	45	 	Class 60 Freight - 1000 tonnes at 45 mph	D	1000	45
+TLD	A	HST	     	125	 	High Speed Train (2+8)(125 mph)	HST	 	125
+TLD	A	323	     	90	 	Class 323 EMU	EMU	323	90
+TLD	A	H56	715  	60	 	Freight - Timing Reference 40 at 60 mph	D	715	60
+TLD	A	387	     	110	 	387 110	EMU	387	110
+TLD	A	92	800  	75	 	Class 92 freight - 800 tonnes at 75 mph	E	800	75
+TLD	A	08	     	15	 	Class 08 Shunter Trip Working	D	 	15
+TLD	A	66	1600 	45	H	Class 66 Freight - 1600 tonnes at 45 mph, HAW	D	1600	45
+TLD	A	SANDIT	     	0	 	Sandite Unit	EMU	 	60
+TLD	A	59	5000 	60	H	Class 59 Freight - 5000 tonnes at 60mph	 D	5000	60
+TLD	A	90	670  	75	CON	Class 90 Freight - 670 tonnes at 75 mph, Containers	E	670	75
+TLD	A	66	2800 	60	H	Class 66 Freight - 2800 tonnes at 60 mph, HAW	D	2800	60
+TLD	A	165PSW	     	90	 	165-1 2 Track - Paddington to Slough West ML	DMU	T	90
+TLD	A	387	     	100	 	387 100	EMU	387	100
+TLD	A	483	     	45	 	2 Car Isle of Wight EMU	EMU	483	45
+TLD	A	73	315  	90	 	Class 488/489 Gatwick Express	ED	 	90
+TLD	A	484	     	45	 	Class 484	EMU	484	45
+TLD	A	66	400  	60	 	Class 66 Freight - 400 tonnes at 60 mph	D	400	60
+TLD	A	165-P	     	75	 	165-P Chilterns	DMU	N	75
+TLD	A	66	3200 	60	 	Class 66 Freight - 3200 tonnes at 60 mph	D	3200	60
+TLD	A	SRO	     	8	 	8 MPH Test Train	D	 	8
+TLD	A	47	140  	90	 	Class 47 & 4 coaches (90 mph)	D	140	90
+TLD	A	H56	2800 	35	 	Freight - Timing Reference 160 at 35 mph	D	2800	35
+TLD	A	20	600  	40	 	2x20 LUL stock 40 mph TL600	D	600	40
+TLD	A	508	     	75	 	Class 508	EMU	 	75
+TLD	A	60	600  	45	 	Class 60 Freight - 600 tonnes at 45 mph	D	600	45
+TLD	A	H56	2540 	60	 	Freight - Timing Reference 145 at 60 mph	D	2600	60
+TLD	A	165-E	     	75	 	165-Evergreen	DMU	N	75
+TLD	A	31	70   	 90	 	Class31 & 2 coaches (90mph)	 D	 70	 90
+TLD	A	2x20	300  	40	 	Weedkiller Train (Basic Spraying)	D	300	40

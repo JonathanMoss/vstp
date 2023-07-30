@@ -77,6 +77,27 @@ class TimingLoad(SQLModel, table=True):
             return None
         return stripped
 
+    @property
+    def as_bplan(self) -> str:
+        """Return the record, as specified in the BPLAN schema"""
+
+        def to_string(value: object, pad=0) -> str:
+            """Return string if None"""
+            if not value:
+                return "".ljust(pad, ' ')
+
+            if value.isdigit():
+                if not int(value):
+                    return ""
+
+            return value
+
+        retval = f"TLD\tA\t{self.traction_type}\t{to_string(self.trailing_load)}\t"
+        retval += f"{self.max_speed}\t{to_string(self.ra_guage)}\t{self.description}\t"
+        retval += f"{self.power_type}\t{to_string(self.load)}\t{self.limiting_speed}\n"
+
+        return retval
+
     @classmethod
     @pydantic.validate_arguments
     def bplan_factory(cls, bplan_line: str) -> Union[object, None]:
