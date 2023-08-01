@@ -1,5 +1,7 @@
 """Representation of an Engineers Line Reference"""
 
+# pylint: disable=E1101
+
 import os
 import re
 from typing import Optional, Union
@@ -68,7 +70,7 @@ class EngineersLineRef(SQLModel, table=True):
         if stripped.lower() == 'nan':
             return None
         return stripped
-    
+
     @staticmethod
     @pydantic.validate_arguments
     def extrapolate_mileage(mileages: str) -> list:
@@ -77,7 +79,7 @@ class EngineersLineRef(SQLModel, table=True):
         data = re.findall("[0-9.]{1,10}", mileages)
         if len(data) == 2:
             return data
-        
+
         return [None, None]
 
     @classmethod
@@ -108,7 +110,7 @@ class EngineersLineRef(SQLModel, table=True):
         obj.validate(val_dict)
 
         return obj
-    
+
 class LORPride(pydantic.BaseModel):
     """Representation of a LOR/PRIDE record"""
 
@@ -156,7 +158,7 @@ class LORPride(pydantic.BaseModel):
         values = line.split('\t')
         if not len(values) == 3:
             return None
-        
+
         val_dict = {
             'code': values[0],
             'name': values[1],
@@ -164,7 +166,7 @@ class LORPride(pydantic.BaseModel):
         }
 
         return cls(**val_dict)
-    
+
 class ELRMapping(pydantic.BaseModel):
     """Representation of an ELR/LOR mapping record"""
 
@@ -216,20 +218,20 @@ class ELRMapping(pydantic.BaseModel):
         values = line.split('\t')
         if not len(values) == 4:
             return None
-        
+
         val_dict = {
             'elr': values[0],
             'code': values[3]
         }
-        print(val_dict)
 
-        return cls(**val_dict)    
+        return cls(**val_dict)
 
 def get_elr_mapping() -> list:
     """Parse the CSV, create a list of ELRMapping objects"""
-    
+
     with open(ELR_MAPPING, 'r', encoding='utf-8') as file:
-        return [ELRMapping.factory(line) for line in file.readlines()]
+        return [ELRMapping.factory(line)
+                for line in file.readlines() if 'no ELR' not in line]
 
 def get_pride_lor() -> list:
     """Parse the CSV, create a list of LORPride objects"""
@@ -237,14 +239,33 @@ def get_pride_lor() -> list:
     with open(PRIDE_LOR_CODES, 'r', encoding='utf-8') as file:
         return [LORPride.factory(line) for line in file.readlines()]
 
-
 def update_lor(session: Session) -> None:
     """Update ELR with LOR"""
 
     pride_lor = get_pride_lor()
     mapping = get_elr_mapping()
 
+    def return_lor(code: str) -> Union[LORPride, None]:
+        """Return None or the LORPride object"""
+        for obj in pride_lor:
+            if obj.code == code:
+                return obj
+        return None
 
+    for item in mapping:
+        lor = return_lor(item.code)
+        stmt = f"""
+        UPDATE engineerslineref
+        SET lor_reference = "{lor.code}",
+            lor_name = "{lor.name}",
+            ra_value = {lor.ra_value}
+        WHERE
+            elr = "{item.elr}";
+        """.strip()
+
+        session.execute(stmt)
+
+    session.commit()
 
 def main():
     """Entry point if running module"""
@@ -252,16 +273,14 @@ def main():
     session = Session(engine)
     SQLModel.metadata.create_all(engine)
 
-    
-    # with open(ELR_REFERENCE, 'r', encoding='utf-8') as file:
-    #     for line in file.readlines():
-    #         try:
-    #             session.add(EngineersLineRef.factory(line))
-    #         except pydantic.ValidationError as err:
-    #             print(f"Skipped: {line}\n\t{err}")
-    
-    session.commit()
+    with open(ELR_REFERENCE, 'r', encoding='utf-8') as file:
+        for line in file.readlines():
+            try:
+                session.add(EngineersLineRef.factory(line))
+            except pydantic.ValidationError as err:
+                print(f"Skipped: {line}\n\t{err}")
 
+    session.commit()
     update_lor(session)
 
 if __name__ == "__main__":
