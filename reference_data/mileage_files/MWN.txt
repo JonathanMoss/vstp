@@ -1,0 +1,12 @@
+later measure
+ 107.69	Marsh West Junction with MAC3
+ 108.05	Marsh North Junction with MEG (0.14)
+ 108.73	West Marsh Junction with PYE3 (4.79)
+	Grimsby docks
+ 110.10	GRIMSBY PIER
+
+earlier measure
+ 110.19	junction with MAC3
+ 110.74	GRIMSBY PIER
+
+Note that originally Grimsby Pier station was at 110.74 via the original link from MAC3; the routes are shared from approximately 109.54

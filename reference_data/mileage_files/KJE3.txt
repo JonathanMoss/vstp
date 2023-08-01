@@ -1,0 +1,10 @@
+   9.11	Southerham Junction with KJE2 (51.11) and STS (51.11)
+  11.14	GLYNDE
+  15.50	BERWICK (SUSSEX)
+  19.42	POLEGATE [1,3]
+  19.53	Polegate West Junction with EHP
+  19.60	POLEGATE [2]
+  19.68	Polegate Junction with PSC
+  21.39	Willingdon Junction with WJB (20.36)
+  21.75	HAMPDEN PARKÂ (SUSSEX)
+  23.73	EASTBOURNE

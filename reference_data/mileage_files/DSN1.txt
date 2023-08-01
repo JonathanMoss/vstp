@@ -1,0 +1,13 @@
+   0.29	Darlington South Junction with ECM5 (43.61)
+   0.67	Geneva Junction with GVA (0.34)
+   1.72	Maidendale Junction with Cleveland Bridge sidings
+   3.65	DINSDALE
+   4.28	Oak Tree Junction with FGC2 (4.21)
+   5.30	Goosepool goods depot
+   5.43	TEESSIDE AIRPORT
+   7.37	Urlay Nook goods depot
+   8.09	ALLENS WEST
+   8.17	YARM
+   8.20	junction with link to LEN3
+   8.55	junction with EDC
+   8.58	Eaglescliffe South Junction with LEN3 (56.75)

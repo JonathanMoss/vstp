@@ -1,0 +1,5 @@
+ 104.05	Humber Road Junction with BRI2
+ 104.08	coal export terminal sidings
+ 104.72	junction with Mineral Quay (Stora) sidings
+ 104.74	Immingham West Junction with INW
+ 105.10	Humber Road end on junction with KIL2 (0.00) and link to INW

@@ -1,0 +1,44 @@
+  13.03	Pontypridd North Junction with CAM
+  13.26	Rhondda Cutting Junction with POP (0.17)
+  13.50	Coke ovens yard
+  13.72	GYFEILLON
+  14.59	Trehafod Junction with CTD (16.53)
+  14.72	TREHAFOD formerly HAFOD
+  15.08	Eirw Branch Junction with EIW
+ ≈15.09	HAFOD
+  15.42	Llwyncelyn
+  16.10	PORTH [2]
+  16.13	Rhondda Fach Junction North with MDY
+  16.21	PORTH [1]
+  16.26	Cymmer Level
+  16.39	Troedyrhiw colliery
+  16.70	Dinas siding
+  17.30	PANDY [possibly at 17.23]
+  17.41	DINAS RHONDDA formerly D.; D. MID GLAMORGAN
+  18.03	TONYPANDY formerly TREALAW; T. & TREALAW
+  18.11	Pwllyrhebog Junction with PYZ
+  18.39	Llwynypia Lower
+  19.07	LLWYNYPIA
+  20.02	Ystrad gas siding
+  20.05	YSTRAD RHONDDA
+  20.32	GELLI
+  20.53	Maaendy Ystrad
+  20.76	TON PENTRE formerly YSTRAD; YSTRAD RHONDDA
+  21.28	PENTRE
+  21.45	Ty Ny Bedw
+  21.50	Cwm Parc Junction with Park colliery lines
+  22.02	TREORCHY
+  22.34	TYLACOCH
+  22.61	Ynyswen siding
+  22.70	YNYSWEN
+  23.08	Ynysfeio
+  23.29	Bute Merthyr
+  23.46	Treherbert locomotive depot
+  23.54	TREHERBERT
+  23.71	Rhondda & Swansea Bay/Treherbert Junction with RSB (0.00)
+  24.04	end of sidings
+  24.27	Dunraven Junction with BLA
+  24.43	BLAENCWM never opened
+  24.46	end of line
+
+Note that 24.27-24.46 was originally called Dunraven Siding

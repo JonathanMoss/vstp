@@ -1,0 +1,34 @@
+  (0.00)	PRESTON
+   0.40	Preston & Wyre Junction with CGJ6
+   0.67	MAUDLAND BRIDGE possibly not on this line
+   1.10	MAUDLAND [temporary 1991 station]
+   1.76	Ashton
+   3.05	LEA ROAD
+	COTTAM PARKWAY planned
+   3.54	Constable Lane
+   5.17	SALWICK
+   5.73	Spon Lane
+   6.73	TREALS ROAD
+   7.67	KIRKHAM & WESHAM formerly K.
+   7.78	Walker Moss & Company's siding
+   7.79	Rigby's siding
+   8.23	Wesham Mill siding
+   8.28	Kirkham North Junction with KBS1
+   8.36	Kirkham North Junction with KBS2
+  ≈9.03	Lytham Old Junction with Lytham to Wrea Green Line
+   9.15	Bradkirk
+  10.12	WEETON
+  12.28	SINGLETON
+  13.29	Todderstaffe
+  14.02	junction with goods lines
+  14.31	POULTON-LE-FYLDE formerly P.
+  14.33	gas works siding [on goods lines]
+  14.40	Poulton Le Fylde Junction with WPS
+  14.45	Poulton goods depot [end of goods lines]
+  14.78	Poulton No 4 Junction with POU (0.37)
+  16.32	LAYTON (LANCS) formerly BISPHAM
+  16.69	Blackpool North No 1 Junction with BCR
+  17.21	Corporation siding
+  17.30	Blackpool North No 2 Junction with BCR
+  17.49	BLACKPOOL NORTH [excursion platforms/post 1973 station]
+  17.58	BLACKPOOL NORTH formerly B.; B. TALBOT ROAD

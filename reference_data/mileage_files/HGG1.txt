@@ -1,0 +1,9 @@
+  21.35	Hurst Green Junction with SCU1
+  23.29	Crowhurst Junction with link to RTT
+  24.41	Crowhurst Brick And Tile Works siding
+  26.23	LINGFIELD
+  27.62	DORMANS
+  29.42	St Margarets Junction with EGH
+  30.04	EAST GRINSTEAD [Network Rail station]
+  30.16	EAST GRINSTEAD [Bluebell station]
+  30.26	junction with link to original terminus and HGG2 (16.70)

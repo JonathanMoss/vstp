@@ -1,0 +1,11 @@
+   2.17	junction with ELL1 (0.11)
+   2.22	Dalston Western Junction with DWW1
+   2.36	MILDMAY PARK
+   2.73	CANONBURY
+   3.12	Canonbury Western Junction with CFP
+   3.33	Highbury coal depot
+   3.36	HIGHBURY & ISLINGTON
+   3.45	junction with coal depot lines
+   3.66	end of line
+
+Note that this route fully parallels BOK1 as the south side of the formation

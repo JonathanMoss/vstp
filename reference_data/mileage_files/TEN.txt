@@ -1,0 +1,2 @@
+   0.00	Stansted North Junction with BGK (34.25)
+   0.49	Stansted East Junction with TLA (34.26)

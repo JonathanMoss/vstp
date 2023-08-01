@@ -1,0 +1,4 @@
+ 160.44	Miller's Dale Junction with AJM2
+ 161.15	Buxton Junction with CNB2 (0.30)
+ 161.64	Topley Pike
+ 164.32	Buxton East Junction with CNB4 and CNB5

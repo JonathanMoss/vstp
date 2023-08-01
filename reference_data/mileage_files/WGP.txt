@@ -1,0 +1,3 @@
+  95.37	Wigston South Junction with SPC3 and SPC4
+  95.63	Central Curve Junction West with Central Curve Junction North to Central Curve Junction West (Wigston) (0.10)
+  96.07	Glen Parva Junction with WNS (14.57)

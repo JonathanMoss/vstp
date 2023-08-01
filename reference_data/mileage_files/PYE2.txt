@@ -1,0 +1,7 @@
+   0.00	junction with PYE1 (106.50)
+   0.18	Freight Terminal siding
+   0.75	EIC Transport siding
+   2.00	Courtaulds siding
+   4.06	Tri-oxide Europe sidings
+   4.19	Pyewipe Road
+   4.33	junction with PYE3

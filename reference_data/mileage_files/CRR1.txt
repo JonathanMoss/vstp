@@ -1,0 +1,11 @@
+  (0.00)	CHESTER
+   0.19	Holyhead Junction with CNH2 (179.30)
+   0.35	Chester North Junction/Brook Lane Junction with CVS (0.00/0.24)
+   0.79	BACHE
+   1.33	UPTON-BY-CHESTER
+   2.74	MOLLINGTON
+   4.00	Dunkirk
+   5.11	CAPENHURST
+  ≈6.67	LEDSHAM [1] formerly SUTTON
+   6.71	LEDSHAM [2]
+   7.70	Hooton South Junction with CRR2 (7.70) and HHJ (0.00)

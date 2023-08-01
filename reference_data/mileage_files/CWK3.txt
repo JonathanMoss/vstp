@@ -1,0 +1,13 @@
+   4.40	Bidston East Junction with BEN and CWK2
+   4.62	original Bidston West Junction with BDS (0.18)
+   4.71	relocated Bidston West Junction with BDS (0.09)
+   4.75	BIDSTON
+   4.78	Bidston Dee Junction with WDB3 (0.09)
+   5.65	LEASOWE formerly L. CROSSING
+   6.29	MORETON (MERSEYSIDE) formerly M.
+   7.19	TOWN MEADOW proposed but not built
+   8.11	MEOLS
+   8.71	MANOR ROAD
+   9.27	HOYLAKE
+  10.34	junction with JCH (11.78)
+  10.46	WEST KIRBY

@@ -1,0 +1,4 @@
+   3.25	Phillips Siding Junction with POC1 and petroleum refinery sidings
+   3.27	PORT CLARENCE [later Port Clarence Ironworks goods depot]
+   5.01	Seal Sands Junction with SES (0.00)
+   5.21	end of head shunt

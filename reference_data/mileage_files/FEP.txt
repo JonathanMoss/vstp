@@ -1,0 +1,26 @@
+   0.00	zero point with ECM5 (56.22)
+   0.56	FERRYHILL
+   0.76	Ferryhill North Junction with KBF (14.44)
+   1.60	Coxhoe Junction with COE (0.00)
+   2.40	West Cornforth North Junction with link to KBF (0.47 long)
+   2.49	Tursdale Junction with ECM5 (58.71)
+   5.25	SHINCLIFFE
+   7.41	SHERBURN COLLIERY formerly S.
+   7.70	Sherburn Colliery Junction with BMS (0.00)
+   9.02	BELMONT JUNCTION formerly B.
+   9.10	Belmont Junction with DGL (0.00)
+   9.71	Auckland Junction with LDU (0.00)
+  10.07	LEAMSIDE [2]
+  10.14	LEAMSIDE [1]
+  11.60	junction with … (Rainton line)
+  11.68	Rainton Crossing siding
+  12.48	FENCEHOUSES
+  14.47	PENSHAW [2]
+  14.57	PENSHAW [1]
+  14.74	Penshaw Junction with PEW (0.00)
+  15.75	Washington South Junction with POB (7.78)
+  16.20	WASHINGTON
+  17.42	USWORTH
+  18.28	junction with Usworth colliery lines
+  19.70	Follingsby sidings
+  20.75	Pelaw Junction with LEN3 (98.16)

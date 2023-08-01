@@ -1,0 +1,4 @@
+   0.00	Sefton Junction with NMB (32.42)
+   0.40	Aintree Station Junction with SJO2 (4.62)
+   0.45	AINTREE formerly A.; A. SEFTON ARMS
+   1.00	Aintree Metal Box sidings

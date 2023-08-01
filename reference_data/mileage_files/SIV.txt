@@ -1,0 +1,11 @@
+ 320.77	ST ERTH formerly ST IVES ROAD
+ 321.02	St Ives Junction with MLN4 (320.73)
+ 321.49	LELANT SALTINGS
+ 322.06	LELANT
+ 323.78	CARBIS BAY
+≈325.07	junction with original route
+ 325.13	ST IVES (CORNWALL) [2]
+
+≈325.07	junction with realigned route
+ 325.18	ST IVES [1]
+ 325.21	end of line

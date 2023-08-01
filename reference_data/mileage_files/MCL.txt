@@ -1,0 +1,17 @@
+   0.00	MOORGATE formerly M. STREET
+   0.31	Aldersgate (Barbican) Junction with WXB (0.00)
+   0.35	BARBICAN formerly ALDERSGATE STREET; A.
+   0.44	Smithfield goods depot
+   0.46	junction with Snow Hill Junction to Smithfield Junction Curve
+   0.58	Farringdon Junction with FTL (0.00)
+   0.62	FARRINGDON formerly F. STREET; F. & HIGH HOLBORN
+   0.67	Farringdon LNE Goods Junction with FLD (0.00)
+   1.55	KINGS CROSS THAMESLINK formerly K. C. MIDLAND
+   1.57	junction with YRC [up line]
+   1.65	junction with YRC [down line]
+   2.11	LONDON ST PANCRAS INTERNATIONAL [low level platforms]
+   2.16	St Pancras Junction/Canal Tunnel Junction with CBI (0.00)
+   2.73	Dock Junction North with SPC1 (0.76)
+   3.40	KENTISH TOWN
+   3.58	Kentish Town Junction with SPC1 (1.65)
+   4.06	Carlton Road Junction with JRT1 (0.03) and SPC1 (2.13)

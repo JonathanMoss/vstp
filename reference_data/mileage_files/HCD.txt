@@ -1,0 +1,6 @@
+   0.00	Holmes Junction with TJC2 (163.46) and WBH (163.46)
+   0.03	South Curve Junction with MSC (161.72) and WBH (163.49)
+   0.27	junction with WBH (163.73)
+   0.62	Rotherham Central Junction with WME (4.40)
+
+Note that 0.00-0.27 was 163.46-163.73 in WBH

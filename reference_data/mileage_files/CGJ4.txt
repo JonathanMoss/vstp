@@ -1,0 +1,2 @@
+ 185.49	Winwick Junction with CGJ3 and WEE
+ 187.76	Golborne Junction with CGJ5 (0.53) and NGJ (0.53)

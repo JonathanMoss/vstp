@@ -1,0 +1,8 @@
+   0.00	Garforth East Junction with HUL4 (12.78)
+   2.62	KIPPAX
+   3.22	Bowers Row colliery
+   3.39	BOWERS
+   4.42	LEDSTON formerly LEDSTONE
+   4.60	Ledston unloading hopper
+   6.14	Castleford East Junction with CET (0.00)
+   6.17	Castleford East Junction with NOC (20.39)

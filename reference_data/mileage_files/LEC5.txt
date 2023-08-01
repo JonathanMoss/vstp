@@ -1,0 +1,11 @@
+ 157.20	junction with LEC4
+ 157.53	Crewe South Junction with KCS1 (8.27)
+ 157.60	Crewe South Junction with SYC (0.00)
+ 157.61	Crewe South Junction with KCS2
+ 157.70	exchange sidings
+ 158.00	CREWE
+ 158.18	Crewe North Junction with CMP1 and CNH1
+ 158.55	Thomas Street Junction with LLI up line
+ 158.70	Crewe Wharf sidings
+ 158.73	junction with LLI down line
+ 159.00	end on junction with CGJ1

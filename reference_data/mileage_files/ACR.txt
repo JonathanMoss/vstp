@@ -1,0 +1,23 @@
+  56.35	Ashford E Junction with XTD
+  60.23	WYE RACECOURSE
+  60.32	WYE
+  65.09	CHILHAM
+  67.14	CHARTHAM
+  69.45	Harbledown Junction with EVL (0.00) and intersection under FDM (61.22)
+  69.72	Canterbury Junction B with link to FDM (0.39 long)
+  70.27	CANTERBURY WEST formerly C.
+  70.34	junction with CYW
+  72.58	STURRY
+  74.67	CHISLET formerly C. COLLIERY
+  76.68	GROVE FERRY & UPSTREET formerly G. F.
+  81.64	MINSTER formerly M.; M. THANET
+  81.67	original and later Minster West Junction with MSW
+  81.69	intermediate Minster West Junction with MSW
+  82.17	Minster East Junction with BME1 (0.00)
+  83.41	EBBSFLEET & CLIFFSEND
+  83.61	THANET PARKWAY
+  85.53	junction with RNS
+  85.57	ST LAWRENCE PEGWELL BAY
+  85.60	junction with link to RMS
+  85.67	RAMSGATE [2] and junction with VIR (79.21)
+  86.16	RAMSGATE TOWN [1] formerly R.

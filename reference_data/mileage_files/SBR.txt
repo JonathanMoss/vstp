@@ -1,0 +1,18 @@
+  32.11	Cambridge Junction with ECM1
+  33.32	Hitchin East Junction with DCF (34.05)
+  34.37	LETCHWORTH [1]
+  34.10	start of carriage sidings
+  34.50	LETCHWORTH GARDEN CITY [2] formerly L.
+  35.13	Letchworth goods depot
+  35.46	junction with carriage sidings
+  36.47	BALDOCK
+  41.00	ASHWELL & MORDEN formerly A.
+  44.72	ROYSTON
+  47.75	MELDRETH formerly M. & MELBOURN
+  48.70	Cam cement company's siding
+  49.67	SHEPRETH
+  49.78	former GN/GE ownership boundary
+  50.70	junction with Barrington Light Railway
+  50.77	FOXTON
+  52.49	HARSTON
+  55.26	Shepreth Branch Junction with BGK (53.06)

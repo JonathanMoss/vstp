@@ -129,7 +129,7 @@ class Location(SQLModel, table=True):
         if not len(values) == 13:
             return None
 
-        val_dict= {
+        val_dict = {
             'tiploc': values[2],
             'name': values[3],
             'easting': values[6],

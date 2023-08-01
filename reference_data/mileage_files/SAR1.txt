@@ -1,0 +1,3 @@
+   2.52	South Acton Junction with BOK5
+   2.71	Bollo Lane Junction with Acton Lane West Junction to Bollo Lane Junction Curve (10.01)
+   3.17	Gunnersbury Junction with ATG (9.76) and SAR2 (9.76)

@@ -1,0 +1,20 @@
+   0.00	Burton Salmon Junction with SMJ3 (16.69) and later divergence with NOC
+   2.10	Ferrybridge Junction with JMM (0.00)
+   2.27	Ferrybridge North Junction with FKW
+   2.29	FERRYBRIDGE
+   2.38	Ferrybridge South Junction with PEF
+   4.25	junction with PLP (0.00)
+   4.31	PONTEFRACT BAGHILL formerly P.
+   6.70	ACKWORTH
+   8.02	Brackenhill Junction with BLR (0.00)
+  10.25	Intersection Bridge at Hemsworth East with HBR3 (≈46.70)
+  10.50	Moorthorpe North Junction with SEP (0.00)
+  11.24	Moorthorpe Junction with SKM (0.57)
+  11.29	MOORTHORPE formerly M.; M. & SOUTH KIRBY
+  11.64	junction with FRC1 (0.00)
+  13.45	FRICKLEY formerly CLAYTON
+  14.64	THURNSCOE
+  15.17	Hickleton Junction with GOC and link to DVR1 (0.36 long)
+  15.50	GOLDTHORPE
+  16.56	BOLTON-UPON-DEARNE formerly HICKLETON; B.-ON-D.
+  17.25	Dearne Junction with SMJ1 (168.54) and WAD (0.67)

@@ -1,0 +1,52 @@
+  92.68	Tramway Junction with BAG2 (92.68) and SWM2 (113.54)
+  92.77	Gloucester Goods Junction with goods yard
+  93.12	GLOUCESTER EASTGATE formerly G.
+  93.23	Barton Street Junction with GHO
+  93.28	GLOUCESTER later goods depot
+  94.60	Tuffley Junction with BGL1 (94.10)
+  94.73	Tuffley Junction with TUF
+  94.70	Quedgeley sidings
+	QUEDGELEY
+  96.60	Quedgeley sidings
+  97.45	motorway bridge
+  98.59	HARESFIELD
+  99.68	relocated Standish Junction with SWM1 (106.74)
+  99.74	original Standish Junction with SWM1 (106.68)
+ 101.42	Stonehouse Junction with NAI
+ 101.59	STONEHOUSE BRISTOL ROAD formerly S.
+ 103.40	FROCESTER
+ 105.30	CAM & DURSLEY
+ 105.38	original Dursley Branch Junction with DLY
+ 105.42	relocated Dursley Branch Junction with DLY
+ 105.47	COALEY formerly DURSLEY JUNCTION; C. JUNCTION
+ 107.66	Berkeley Road Junction with SAW (0.00)
+ 108.00	BERKELEY ROAD
+ 109.12	Berkeley Road South/Berkeley Loop South Junction with BYP (1.22)
+ 112.10	Rendall's sidings
+ 113.15	CHARFIELD [1]
+ 113.18	CHARFIELD [2] [planned]
+ 115.08	WICKWAR
+ 119.54	Yate Main Line Junction with THO (0.00)
+ 119.60	YATE
+ 119.75	Yate South Junction with YAT (119.75/1.34)
+ 120.03	Yate South Junction with WTS
+ 122.20	Westerleigh training school
+ 122.21	Coalpit Heath Branch Junction with CHZ (0.00)
+ 122.40	Westerleigh sidings
+≈124.44	MANGOTSFIELD [1]
+ 124.46	Mangotsfield North Junction with MBL
+ 125.06	MANGOTSFIELD [2]
+ 125.13	Mangotsfield Station Junction with MAP (0.00)
+ 126.34	STAPLE HILL
+ 127.09	FISHPONDS
+ 127.77	Kingswood Junction with KIG
+ 129.12	Lawrence Hill Junction with BAW
+ 129.22	Lawrence Hill Junction with BPS
+ 129.41	Barrow Road depot
+ 129.68	Gloucester Line Junction with MLN1 (118.02)
+
+Portion previously in YAT
+ 120.03	Yate South Junction with WTS
+ 121.28	Westerleigh West Junction with SWB (107.11)
+
+Note that 129.12-129.32 is now part of BAW, and 120.03-122.65 is now WTS

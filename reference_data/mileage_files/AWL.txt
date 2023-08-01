@@ -1,0 +1,3 @@
+   0.00	Poplar Junction with MLN1 (4.15)
+   0.08	Acton East Junction with MLN1 (4.07)
+   0.49	Acton Wells Junction with BOK5 (0.72)

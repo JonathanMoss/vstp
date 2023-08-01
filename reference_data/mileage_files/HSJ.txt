@@ -1,0 +1,4 @@
+ 132.47	Handsworth Junction with DCL
+ 132.49	THE HAWTHORNS
+ 133.21	SMETHWICK GALTON BRIDGE
+ 133.32	Smethwick Junction with GSJ1 (4.08) and GSJ2 (133.32)

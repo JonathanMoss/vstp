@@ -1,0 +1,9 @@
+  91.03	Mossend South Junction with MDW (91.08) and SCM1 (91.08)
+  91.12	Milnwood Junction with MDE (0.00)
+  91.14	Milnwood Junction with JEB (1.79)
+  91.38	original Mossend North Junction with MDN (0.00)/MDNX (0.06)
+  91.42	MOSSEND and relocated Mossend North Junction with MDN (-0.06)/MDNX (0.00)
+ ≈91.42	Mossend North Junction with MWF (0.39)
+  93.65	Whifflet South Junction with SYE (9.63)
+  94.02	WHIFFLET
+  94.05	Whifflet North Junction with SCM3 (94.05) and RSL2 (0.00)

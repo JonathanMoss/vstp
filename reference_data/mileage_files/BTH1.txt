@@ -1,0 +1,30 @@
+   1.49	South Bermondsey Junction with LBC
+   1.63	SOUTH BERMONDSEY
+   2.02	Uttley Junction
+   2.29	Old Kent Road Junction with Old Kent Road to New Cross Gate Curve (0.00)
+   2.32	Old Kent Road Junction with ELL4
+   2.35	OLD KENT ROAD
+   2.58	QUEENS ROAD (PECKHAM) formerly P.
+   3.18	Cow Lane Junction with CAT (5.30)
+   3.36	PECKHAM RYE
+   3.47	Peckham Rye Junction with ATL
+   3.52	Peckham Rye EMU depot
+   4.23	EAST DULWICH formerly CHAMPION HILL
+   4.64	NORTH DULWICH
+   5.43	Knight's Hill sidings
+   6.01	Tulse Hill North Junction with HHT (4.76)
+   6.07	TULSE HILL
+   6.15	Tulse Hill South Junction with WTH
+   6.20	Tulse Hill South Junction with HHT (5.15) and LTH (6.20)
+   7.48	STREATHAM (GREATER LONDON) formerly S.
+   7.57	Streatham Junction with SSC
+   8.09	Streatham South Junction with SLJ (6.42)
+   8.12	Streatham South Junction with SNS (6.48)
+   8.15	Streatham South Junction with SMS1 (0.00)
+   9.19	MITCHAM EASTFIELDS
+  10.25	Mitcham North Junction with MJW (2.78)
+  10.30	MITCHAM JUNCTION
+  10.34	Mitcham South Junction with CMJ (3.08)
+  11.41	HACKBRIDGE
+  12.30	CARSHALTON
+  13.45	Sutton East Junction with BTH2 (14.66) and NFE (14.66)

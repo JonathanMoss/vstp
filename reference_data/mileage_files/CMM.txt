@@ -1,0 +1,19 @@
+   0.00	BURRY PORT
+   0.23	Burry Port Dock Junction with SAE (0.00)
+   0.27	Ashburnham Tinplate Works Junction with ATZ
+   0.46	junction with Gwscwm colliery lines
+   1.21	PEMBREY
+   2.11	CRAIGLON BRIDGE
+   3.22	PINGED
+	MILK PLATFORM ? passenger use
+   4.10	Trimsaran Branch Junction with TRI
+   4.39	Kidwelly Loop South Junction with KIP
+   4.74	Kidwelly Branch Junction with KID1 (0.00)
+   4.77	TRIMSARAN ROAD
+   5.42	Old Carway Junction with OCZ (0.00)
+   6.12	GLYN ABBEY formerly PONTNEWYDD
+   7.61	PONTYATES
+   8.55	PONTHENRY
+  11.04	PONTYBEREM
+  12.48	junction with colliery lines
+  12.52	CWMMAWR

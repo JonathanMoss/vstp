@@ -1,0 +1,26 @@
+   0.00	end on junction with NEM3 (0.00)
+   0.05	HIGH STREET
+   0.07	junction with BGN
+   0.32	High Street Junction with HST (0.00)
+   0.55	BELLGROVE
+   0.69	Bellgrove Junction with SGN (2.58)
+   1.55	PARKHEAD NORTH
+   1.70	Parkhead North Junction with PAD (0.71)
+   2.36	CARNTYNE
+   3.17	SHETTLESTON
+   3.25	junction with ZZC5
+   3.30	Shettleston Junction with HBN
+   4.30	GARROWHILL
+   5.30	EASTERHOUSE
+   6.44	BARDGEDDIE
+   7.02	Heatheryknowe
+   7.75	BLAIRHILL
+   8.43	Sunnyside Junction with GNE and SYE
+   8.51	COATBRIDGE SUNNYSIDE
+   8.72	Greenside Junction with SMN
+   9.50	COATDYKE
+  10.38	AIRDRIE
+  11.60	junction with NEM1
+  11.65	DRUMGELLOCH [1]
+  11.71	DRUMGELLOCH [2]
+  12.23	junction with ABX

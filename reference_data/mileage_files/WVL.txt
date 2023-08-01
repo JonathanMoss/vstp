@@ -1,0 +1,60 @@
+   0.00	Courtybella (Town Dock) Junction with NNM
+   0.07	Waterloo Junction with NWL (0.00)
+   0.25	Maesglas Junction with NML (0.00) and Maesglas Lower Junction to Maesglas Junction (0.24)
+   0.73	original Park Junction with GAE (160.15)
+   0.77	Park Junction (Western Loop) with NWN (0.56)
+   1.02	relocated Park Junction with GAE (160.24)
+   1.03	junction with Park Mile to Alexandra Docks (0.00)
+   2.05	Bassaleg Junction with BJR (0.00)
+   2.13	BASSALEG JUNCTION formerly RHYMNEY J.; B. J.; B.
+   2.21	PYE CORNER
+   2.53	junction with earlier alignment
+   3.15	Rogerstone marshalling yard
+   3.18	ROGERSTONE [1]
+   3.20	TYDU formerly TYDEE; on earlier alignment
+   3.29	junction with earlier alignment
+   3.31	Pontymister
+   3.61	ROGERSTONE [2]
+   4.53	TYNYCWM
+   5.12	RISCA & PONTYMISTER [2]
+   5.44	RISCA [1]
+   5.47	Risca Junction with NMP
+   6.14	Lime Kilns siding
+   6.18	Lime Kiln Junction with HRD1
+   6.28	Cymbyr colliery
+   7.06	CROSSKEYS
+   7.33	Cox's Quarry siding
+   7.67	bridge under HRD2 (1.08)
+   8.17	CWMCARN
+   8.21	CHAPEL BRIDGE
+   8.47	Abercarn Colliery Junction with ACZ (0.00)
+   9.27	ABERCARN
+   9.33	junction with HSZ
+   9.65	CELYNEN SOUTH formerly C.
+  10.42	NEWBRIDGE [1]
+  10.45	NEWBRIDGE [2]
+  11.13	CELYNEN NORTH
+  11.40	CRUMLIN LOW LEVEL formerly C.
+  12.07	Crumlin Navigation
+  12.74	Llanhilleth Branch Junction with LHI (6.63)
+ ≈13.17	LLANHILLETH [1]
+  13.29	LLANHILLETH [3]
+  13.37	LLANHILLETH [2]
+  13.68	Aberbeeg locomotive depot
+  14.20	Aberbeeg Junction with EBW
+  14.24	ABERBEEG
+  14.64	junction with Six Bells colliery lines
+  15.35	SIX BELLS
+  15.39	Cwmnantygroes
+  15.68	junction with Abertillery tin works lines
+  16.05	junction with CMT
+  16.16	ABERTILLERY
+  17.29	Rose Heyworth colliery
+  17.71	BOURNVILLE MON formerly TYLERS ARMS
+  18.35	Tylers Arms
+  18.62	BLAINA
+  18.73	Yew Tree
+  19.72	Coalbrookvale
+  20.11	NANTYGLO
+  20.30	Machine Siding Junction with BVZ (0.00)
+  20.37	Nantyglo end on junction with BWN (1.34)

@@ -1,0 +1,7 @@
+ 181.76	Warrington South Junction with CGJ2 (181.74/181.76) and CHW2 (17.76)
+ 182.11	WARRINGTON BANK QUAY
+ 182.32	Warrington goods depot
+ 183.24	Dallam Branch Junction with Dallam Lane branch (0.00)
+ 183.40	Dallam Royal Mail terminal
+ 184.53	WINWICK formerly W. QUAY
+ 185.49	Winwick Junction with CGJ4 and WEE

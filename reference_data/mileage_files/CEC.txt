@@ -1,0 +1,2 @@
+   0.04	Carnforth Station Junction with CBC1 (0.38)
+   0.25	Carnforth East Junction with SJC (0.31)

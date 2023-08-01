@@ -1,0 +1,49 @@
+   0.00	Neath & Brecon Junction with VON (41.18)
+   0.05	Cadoxton goods depot
+   0.13	Neath (N&B) locomotive depot
+   0.25	junction with NYZ
+   0.78	CADOXTON TERRACE
+   1.29	PENSCYNOR
+   2.04	CILFREW
+   2.17	tin works siding
+   3.07	Ty Isaf siding
+   3.76	Blaenant
+   4.19	Dulris Merthyr colliery
+   4.30	CEFN COED COLLIERY
+   4.75	Llwyn Llanc quarry
+   5.07	Llwynon colliery
+   5.40	CRYNANT
+   5.50	Cryant colliery siding
+   6.50	CRYNANT NEW COLLIERY
+   7.43	BRYNTEG COLLIERY also called B. & NANTYCEFN
+   7.54	Dillwyn/Nantycaen colliery
+   7.67	Brynteg colliery
+   8.10	Ynysdawley
+   8.53	SEVEN SISTERS
+   8.66	colliery
+   9.39	PANTYFFORDD
+   9.59	Network Rail/private site boundary (from 20 May 2023)
+   9.62	junction with Onllwyn washery lines
+  10.06	Dulaais colliery
+  10.21	colliery
+  10.23	ONLLWYN
+  10.30	Onllwyn Junction with MMZ (0.00)
+  10.36	junction with Onllwyn washery lines
+  11.09	COLBREN JUNCTION formerly CAPEL C. J.
+  11.20	Colbren Junction with YSG (0.00)
+  14.02	Penwyllt brick works
+  14.05	Formbys siding
+  14.24	start of Hobbs Quarries Ltd siding
+  14.33	CRAIG-Y-NOS PENWYLLT formerly P.
+  14.48	end of Hobbs Quarries Ltd siding
+  16.67	Bwlch
+  19.06	Cray waterworks
+  20.79	CRAY
+  24.42	DEVYNOCK & SENNYBRIDGE formerly D.
+  27.28	ABERCAMLAIS
+  27.44	PENPONT
+  28.36	ABERBRAN
+  30.45	CRADOC
+  32.54	Brecon Ely Place goods depot
+  33.01	BRECON MOUNT STREET later goods depot
+  33.05	end on junction with BND (0.00)

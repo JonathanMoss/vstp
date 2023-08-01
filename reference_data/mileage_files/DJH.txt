@@ -1,0 +1,20 @@
+  11.09	Daisyfield Junction with FHR5
+  11.20	DAISYFIELD
+  13.20	RAMSGREAVE & WILPSHIRE
+  13.42	WILPSHIRE
+  15.51	LANGHO [2]
+  15.55	LANGHO [1]
+  17.60	WHALLEY (LANCASHIRE)
+  20.43	Primrose siding
+  20.71	Foulsyke siding
+ ≈21.16	CLITHEROE [1]
+  21.26	CLITHEROE [2]
+  21.60	Horrocksford Junction with HOK (0.00)
+  22.52	Bankfield siding
+  22.60	Bellman Park siding
+  23.17	CHATBURN [1]
+  23.21	CHATBURN [2]
+  25.76	RIMINGTON
+  28.52	GISBURN
+  30.40	NEWSHOLME
+  34.66	Hellifield South Junction with SKW1 (231.14)

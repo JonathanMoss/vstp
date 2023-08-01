@@ -1,0 +1,10 @@
+  27.28	Capledrae and junction with KCD
+  27.64	junction with sidings
+  27.66	Kirkness Farm siding
+  28.30	junction with sidings
+  28.77	Westfield
+  30.66	Kinglassie colliery siding
+  31.21	Kinglassie Road
+  33.04	junction with TNY (33.28)
+
+Note that TNY is sometimes considered part of this route

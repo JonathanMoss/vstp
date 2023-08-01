@@ -1,0 +1,7 @@
+  18.36	SLOUGH
+  18.44	Windsor Branch Junction with MLN1
+  18.52	Slough locomotive depot
+  18.67	Bath Road Junction with SLO (0.19)
+  19.12	CHALVEY
+  21.19	WINDSOR & ETON CENTRAL
+  21.20	original end of line

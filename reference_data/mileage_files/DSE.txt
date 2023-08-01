@@ -1,0 +1,50 @@
+   1.57	Edge Hill East Junction with WJL3 (191.75) and WJL4 (191.75)
+   2.08	junction with EWG (0.00)
+   2.09	Waterloo Branch Junction with SCT1 (0.24)
+   2.29	WAVERTREE TECHNOLOGY PARK
+   2.54	Olive Mount Junction with OME3 (0.10)
+   3.47	BROAD GREEN
+   5.14	ROBY
+   5.55	HUYTON
+   5.77	relocated Huyton Junction with SBH1 (-0.15)
+   6.12	original Huyton Junction with SBH1 (0.00)
+   6.19	Huyton Quarry Junction with CHQ (0.00)
+   6.48	HUYTON QUARRY
+   7.52	WHISTON
+   8.72	RAINHILL
+  10.11	LEA GREEN [1]
+  10.57	LEA GREEN [2]
+  11.44	junction with link to SOM (0.51 long)
+  11.64	St Helens Junction with SHS2 (0.37) and SSO (0.36)
+  11.70	ST HELENS JUNCTION
+  13.38	COLLINS GREEN
+  14.51	Earlestown West Junction with EEE (187.15)
+  14.58	EARLESTOWN
+  14.75	Earlestown East Junction with WEE (187.10)
+  15.60	NEWTON-LE-WILLOWS
+  16.19	Newton-Le-Willows Junction with NGJ (0.00)
+  16.61	Parkside Junction with PJL (0.00)
+  18.53	Kenyon Junction with BKJ (0.00)
+  18.69	KENYON JUNCTION
+  20.65	GLAZEBURY & BURY LANE
+ ≈21.66	FLOW MOSS
+  22.52	ASTLEY
+ ≈23.13	LAMBS COTTAGE
+  23.65	BARTON MOSS [1]
+  24.44	BARTON MOSS [2]
+  26.46	PATRICROFT
+  26.53	Patricroft Junction with PJM (0.00)
+  27.13	Eccles Junction with ETW (0.00)
+  27.46	ECCLES (MANCHESTER)
+  27.56	Eccles Station Junction with SCN (0.00)
+  28.42	WEASTE
+  29.09	SEEDLEY
+  29.56	CROSS LANE
+  29.67	Salford gas works
+  30.34	ORDSALL LANE
+  30.37	Ordsall Lane Junction with COL (190.28) and OLW (190.28)
+  30.64	Irwell Street Junction with OCD (190.34)
+  30.69	Salford West Junction with MVE1 (0.66)
+  31.12	Deal Street Junction with MVE1 (0.43)
+ (31.27)	MANCHESTER EXCHANGE
+ (31.45)	junction with MVE1 (0.12)

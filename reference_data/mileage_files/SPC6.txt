@@ -1,0 +1,15 @@
+ 118.60	Ratcliffe Junction with SPC5
+ 119.16	Trent South Junction with TSN1 and THL
+ 119.58	Trent West Junction with TES (0.30)
+ 119.62	Sheet Stores Junction with SSJ1
+ 120.22	Sawley Junction with TNT (120.72)
+ 120.28	LONG EATON formerly SAWLEY JUNCTION
+ 121.42	SAWLEY formerly BREASTON
+ 122.29	DRAYCOTT & BREASTON formerly D.
+ 124.54	BORROWASH [2] formerly B.; B. & OCKBROOK
+≈125.00	BORROWASH [1]
+ 125.67	SPONDON
+ 126.28	Spondon Junction with SPC7
+ 127.47	Chaddesden sidings
+ 128.10	Derby South Junction with DNC
+ 128.30	Derby Junction with SPC8 (128.08)

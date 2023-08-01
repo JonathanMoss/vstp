@@ -1,0 +1,2 @@
+   0.09	Longhedge A Junction with BSP1 (1.58) and FLL2 (1.58)
+   0.41	Factory Junction with BSF (1.67)

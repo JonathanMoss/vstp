@@ -1,0 +1,50 @@
+  84.00	Fisherton Short Mile junction with BAE1 (83.72)
+  85.34	Wilton Junction with SAL (132.33)
+  86.11	WILTON SOUTH formerly W.
+  91.72	DINTON
+  93.37	divergence with MOD
+  96.14	TISBURY
+ 101.13	SEMLEY
+ 105.18	GILLINGHAM (DORSET) formerly G.
+ 111.46	connection with TEP (36.51)
+ 111.79	TEMPLECOMBE [1]
+ 112.02	TEMPLECOMBE [2] and connection with SAD (36.47)
+ 114.31	MILBORNE PORT
+ 118.04	SHERBORNE
+ 122.03	junction with original LSW Yeovil branch
+	sidings with connection to CMY
+ 122.34	Yeovil Junction with YJP (0.00)
+ 122.37	junction with YVT (0.00)
+ 122.48	YEOVIL JUNCTION
+ 124.67	SUTTON BINGHAM
+ 127.73	Hardington siding
+	HARDINGTON SIGNAL BOX
+ 131.33	CREWKERNE
+ 134.20	Hewish sidings
+ 139.31	Chard Junction with CJB (0.00)
+ 139.35	CHARD JUNCTION formerly C. ROAD
+ 142.27	Coaxden siding
+ 144.41	AXMINSTER
+ 144.50	junction with LYM (0.09)
+ 147.63	SEATON JUNCTION formerly COLYTON J.
+ 147.75	Seaton Junction with SEB (0.00)
+ 154.56	HONITON
+ 155.23	ROUNDBALL
+ 159.18	Sidmouth Junction with SID (159.22)
+ 159.22	SIDMOUTH JUNCTION formerly FENITON; OTTERY ROAD; OTTERY ST MARY; OTTERY ROAD & FENITON
+ 159.24	FENITON
+ 163.02	WHIMPLE
+ 166.15	CRANBROOK (DEVON)
+ 166.57	BROAD CLYST
+ 168.44	PINHOE
+ 168.72	Poltimore sidings
+ 169.40	WHIPTON BRIDGE
+ 170.05	Exmouth Junction loco depot
+ 170.13	Exmouth Junction carriage and wagon works
+ 170.26	Exmouth Junction with EMT (0.00)
+ 170.40	Exmouth Junction concrete works
+ 170.42	MOUNT PLEASANT ROAD
+ 170.72	ST JAMES PARK (EXETER) formerly LIONS HOLT; ST J. P.
+ 171.08	junction with ECG
+ 171.30	EXETER CENTRAL formerly E. QUEEN STREET
+ 172.04	Exeter St Davids Junction with MLN1 (194.00)

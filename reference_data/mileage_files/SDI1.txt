@@ -1,0 +1,9 @@
+ 206.14	Briton Ferry Up Flying Loop Junction with SWM2 [up line only]
+ 206.52	down line junction with SWM2
+ 207.17	Neath Canalside Junction with NEB (18.43)
+ 207.67	Dyvenor Junction with RSB (19.16)
+ 208.33	Jersey Marine North Junction with JER (1.24)
+ 208.39	LLANDARCY
+ 208.49	end on junction with SDI2 (0.00)
+
+Note that 206.14-207.67 was formerly part of RSB and 207.67-208.33 was formerly NEL

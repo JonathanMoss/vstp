@@ -1,0 +1,4 @@
+  99.39	Brocklesby East Junction with MAC3
+ 100.31	Ulceby South Junction with HAU (1.45)
+ 100.36	ULCEBY
+ 100.44	Ulceby North Junction with BAR and BRI2

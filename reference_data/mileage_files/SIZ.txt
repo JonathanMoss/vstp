@@ -1,0 +1,13 @@
+  91.40	Saxmundham Junction with ESK
+  94.26	proposed Leiston West Junction with new Leiston Abbey line (0.00)
+  95.11	LEISTON
+  95.79	Sizewell
+  96.05	end of nuclear sidings
+  97.39	THORPENESS
+  99.42	ALDEBURGH
+  99.45	end of line
+
+Leiston Abbey line
+   0.00	proposed Leiston West Junction with original line (94.26)
+   1.60	start of sidings
+   2.59	end of sidings

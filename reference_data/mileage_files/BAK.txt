@@ -1,0 +1,20 @@
+   0.00	Kilmarnock Junction with GSW (33.48) and ZZA8 (0.00)
+   0.11	junction with ZZA7 (0.00)
+   0.24	Grange siding
+   0.67	ST MARNOCKS formerly KILMARNOCK
+   1.10	St Marnocks Junction
+   1.51	Moorfield tile works
+   1.72	Annandale
+   1.78	Thirdpart Junction with GHB (0.00)
+   2.13	Third Part siding
+   2.28	Fairlie Branch Junction with FIE (0.00)
+   2.49	GATEHEAD
+   3.47	Lathmill siding
+   4.09	Craig Colliery Junction with colliery lines
+   4.56	DRYBRIDGE
+   5.71	Shewalton Moss Junction with HIL (0.00) and ZZA6 (5.71)
+   6.32	Parkthorn siding
+   6.61	junction with ZZA5 (0.00)
+   6.74	Gateside siding
+   7.50	BARASSIE
+   7.57	Barassie Junction with AYR4 (33.05)

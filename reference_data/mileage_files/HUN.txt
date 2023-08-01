@@ -1,0 +1,5 @@
+   0.00	Hunterston Junction with LGS2 (36.46)
+   2.71	start of Hunterston low level sidings
+   3.32	start of run round loop
+   3.38	end of run round loop
+   3.58	end of Hunterston ore terminal

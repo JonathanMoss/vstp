@@ -1,0 +1,10 @@
+  13.33	end on junction with PED3
+  13.51	WATH ON DEARNE
+  14.01	Wath Central Junction with WAD (0.00)
+  15.00	Mexborough West Junction with SJM1 (167.17)
+  15.39	Mexborough West Junction with SWW (0.00) and WAE (0.74)
+ ≈15.41	MEXBOROUGH [early station]
+  15.43	Mexborough West Junction with link to WME (0.15 long)
+  15.64	Mexborough East Junction with PED5 (15.64), SJM2 (15.64) and WME (10.17)
+
+Note that 15.00-15.64 is duplicated in SJM2

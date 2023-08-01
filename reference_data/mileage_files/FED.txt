@@ -1,0 +1,15 @@
+  83.57	Felixstowe Beach Junction with FEL
+  84.09	junction with curve to FEL (0.37 long)
+  84.65	FELIXSTOWE BEACH
+  84.70	start of sidings
+  85.22	Felixstowe Dock Junction with Freightliner terminal
+  85.51	FELIXSTOWE PIER
+  85.54	junction with TFN (2.13)
+
+Original route
+   0.00	Felixstowe Town Junction with FEL (84.22)
+   1.08	FELIXSTOWE BEACH
+   1.70	FELIXSTOWE PIER
+   1.77	end of line
+
+The original route joined FEL facing Felixstowe.  It was rebuilt facing Ipswich as a small part of the later Felixstowe Docks complex

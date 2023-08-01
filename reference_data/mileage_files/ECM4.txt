@@ -1,0 +1,10 @@
+ 182.79	Colton Junction with ECM3 (182.79) and NOC (5.41)
+ 184.59	COPMANTHORPE
+ 186.45	Chaloners Whin Junction with TCW2 (186.14)
+ 188.01	YORK HOLGATE EXCURSION also known as H. BRIDGE; Y. RACECOURSE [or 187.73?]
+ 188.07	Holgate Junction with HOS (0.00)
+≈188.20	junction with line to first permanent terminus
+ 188.40	YORK and end on junction with ECM5 (0.00)
+(≈188.52)	YORK permanent terminus, later goods depot
+
+Note that north of Chaloners Whin this line was originally measured via Selby (continuing the TCW2 count); south of Chaloners Whin this line was originally measured from York (forming the start of the NOC count)

@@ -1,0 +1,7 @@
+ 123.00	Trowse Lower Junction with ETN (123.00) and LTN1 (113.68)
+ 123.15	TROWSE
+ 123.37	Trowse swing bridge
+ 123.43	Swing Bridge Junction with NCW (0.00)
+ 123.60	Thorpe Junction with NOL (0.29)
+ 123.68	junction with THG
+ 124.09	NORWICH formerly N.; N. Thorpe

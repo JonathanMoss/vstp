@@ -1,0 +1,11 @@
+ 242.42	end of shunt spur
+ 242.54	Tavistock Junction with MLN1
+ 242.76	later zero point
+ 243.08	junction with LAN2 (0.12)
+ 243.25	start of Marsh Mills china clay works lines
+ 243.50	end of line
+
+Note that this line was remiled to give a continuous measure with LAN2, thus:
+
+   0.00	zero point with MLN1 (242.76)
+   0.12	junction with LAN2

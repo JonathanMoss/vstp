@@ -1,0 +1,16 @@
+   0.31	Rutherglen North Junction with ARG1 (0.31) and RNC (0.29)
+   0.40	connection with LNR
+   0.50	Strathclyde Junction with GLL
+   1.01	DALMARNOCK
+   1.41	BRIDGETON formerly B. CROSS
+   1.49	junction with CBX (100.48)
+   1.73	GLASGOW GREEN
+   2.40	GLASGOW CROSS
+   2.60	ARGYLE STREET
+   3.08	GLASGOW CENTRAL low level
+   3.42	ANDERSTON
+   4.03	EXHIBITION CENTRE (GLASGOW) formerly STOBCROSS; FINNIESTON
+   4.40	junction with GCL (mileage unknown)
+   4.41	Finnieston East Junction with NEM3 (2.19) [down line]
+   4.44	FINNIESTON
+   4.74	Finnieston West Junction with NEM3 (2.53) [up line]

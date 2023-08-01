@@ -1,0 +1,13 @@
+   0.00	Whitacre Junction with DBP3 (31.69) and KJW (31.69)
+   1.55	SHUSTOKE
+   4.04	ARLEY & FILLONGLEY
+   4.60	Arley colliery
+   7.17	Tunnel colliery
+   8.10	Stockingford Branch Junction with SFB (0.00)
+   8.31	STOCKINGFORD
+   9.54	NUNEATON [2]
+   9.59	Abbey Junction with NMA/PVS
+   9.62	NUNEATON [1]
+   9.63	Abbey Junction with AJW (0.00)
+  10.07	bridge under MYC (0.09)
+  10.18	Nuneaton North Junction with LEC2 (97.36)

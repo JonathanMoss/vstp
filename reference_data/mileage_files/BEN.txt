@@ -1,0 +1,9 @@
+   4.40	Bidston East Junction with CWK2 and CWK3
+   4.61	original Bidston North Junction with BDS (query mileage)
+   4.70	relocated Bidston North Junction with BDS (0.37)
+   4.73	Seacombe Junction with SJU
+   5.13	New Brighton Junction No 1 with link to SJU (0.17 long)
+   5.48	WALLASEY VILLAGE
+   5.73	WALLASEY GROVE ROAD formerly W.
+   6.54	WARREN
+   7.18	NEW BRIGHTON

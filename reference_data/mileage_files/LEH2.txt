@@ -1,0 +1,9 @@
+Original measure
+   0.00	Pannal Junction with LEH1 (14.46) and LEN1 (14.46)
+   0.61	Crimple Junction with LEH3 (17.50) and LEN1 (17.50)
+
+Later measure
+  14.46	Pannal Junction with LEH1 and LEN1
+  15.29	Crimple Junction with LEH3 (15.20) and LEN1 (17.50)
+
+Note that LEH2 previously ended officially at 15.20 but was later corrected by 9ch

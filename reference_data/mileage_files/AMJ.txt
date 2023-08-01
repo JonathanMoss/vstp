@@ -1,0 +1,3 @@
+   0.00	Ashton Moss South Junction with DJO2 (1.24)
+   0.27	Ashton Moss North Junction with MVL1 (5.55) [up line]
+   0.40	Ashton Moss North Junction with MVL1 (5.41) [down line]

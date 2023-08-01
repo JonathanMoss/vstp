@@ -1,0 +1,15 @@
+   5.09	junction with TWM
+   5.21	Denbeath colliery
+   5.54	start of dock lines
+   5.75	junction with dock lines
+   6.27	Inverleven salt works siding
+   6.28	start of Leven dock lines
+   6.40	Methil East junction with Leven dock lines
+   6.49	Kirklane East
+   6.51	Durie foundary siding
+	LEVEN
+   6.69	Creosote works siding
+   6.79	Kirkland siding and junction with EFL (5.54)
+   7.34	East Fife Central Junction with EFC (0.00), EFL (4.65) and MTL1 (4.65)
+
+Note that 6.79 - 7.34 is also 5.54 - 4.65 in EFL

@@ -1,0 +1,12 @@
+   0.00	Kidsgrove Central Junction with CMD1 (13.68)
+   0.07	KIDSGROVE
+   1.35	Lawton Junction with SAB (0.00)
+   1.66	Alsager Junction with AUD (7.37)
+   1.79	Casson's siding
+   2.05	Alsager sidings
+   2.33	ALSAGER
+   4.03	RADWAY GREEN
+   4.67	Barthomley
+   8.05	North Staffordshire sidings
+   8.27	Crewe South Junction with LEC5 (157.53)
+   8.32	junction with KCS2 (157.55)

@@ -1,0 +1,10 @@
+  36.04	Park Lane Junction with CBR1 (0.00) and WOP (36.04)
+  37.25	Penns goods depot
+  37.57	PENNS
+  39.56	SUTTON COLDFIELD TOWN formerly S. C.; S. C. T.; S. C.
+  40.09	SUTTON PARK
+  42.39	STREETLY
+  44.70	ALDRIDGE
+  44.73	Aldridge Junction with WWH
+  46.73	Lichfield Road Junction with HTW
+  47.54	Ryecroft Junction with BJW2 (6.70)

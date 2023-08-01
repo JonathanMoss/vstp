@@ -1,0 +1,4 @@
+  42.21	Boroughbridge Gates Junction with LEN1 (42.21), LLP1 (29.72) and LLP3 (0.00)
+  42.25	NORTHALLERTON LOW
+  42.36	NORTHALLERTON [war time emergency platforms]
+  42.79	Northallerton East/Low Junction with LEN2 (0.36) and LEN3 (42.79)

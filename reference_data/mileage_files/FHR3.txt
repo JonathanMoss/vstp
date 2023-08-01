@@ -1,0 +1,5 @@
+   1.42	Lostock Hall Junction with FHR2 (1.42) and LHL (0.77)
+   1.49	Lostock Hall Junction with LHJ (26.18)
+   1.70	Whittle International sidings
+   1.73	junction with BBS
+   2.12	Bamber Bridge Junction with FHR4 (2.12) and link to LHJ (0.49 long)

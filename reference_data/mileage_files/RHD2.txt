@@ -1,0 +1,4 @@
+   1.00	end on junction with RHD1
+   1.01	bridge under ECN2 (12.10)
+   2.25	start of dockyard sidings
+	end of sidings

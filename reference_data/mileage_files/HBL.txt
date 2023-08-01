@@ -1,0 +1,3 @@
+   0.00	Hest Bank Junction with CGJ7 (3.10)
+   0.02	HEST BANK
+   1.30	Bare Lane Junction with MSM (0.44)

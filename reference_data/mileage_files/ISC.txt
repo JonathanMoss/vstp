@@ -1,0 +1,5 @@
+   0.00	Newsham North Junction with EJM (12.74)
+   0.34	junction with BYH1
+   0.36	ownership boundary (NR/RJB mining)
+   2.07	Bates Staithes
+   2.30	end of line

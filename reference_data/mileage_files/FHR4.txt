@@ -1,0 +1,18 @@
+   2.12	Bamber Bridge Junction with FHR3 (2.12) and link to LHJ (0.49 long)
+   2.24	junction with BBS
+   2.29	BAMBER BRIDGE
+   4.26	GREGSON LANE
+   5.24	HOGHTON
+   6.25	HOGHTON TOWER
+   7.43	PLEASINGTON
+   8.40	Cherry Tree Junction with CCT (29.73)
+   8.50	CHERRY TREE
+   9.24	MILL HILL (LANCS) formerly M. H.
+   9.57	junction with LNWR goods depot lines
+  10.07	junction with BBS4
+  10.11	Blackburn Bolton Junction with BBB (24.08)
+  10.13	junction with King Street Minerals lines
+  10.25	junction with BBS2
+  10.27	junction with BBS1
+  10.42	BLACKBURN
+  10.50	junction with FHR5

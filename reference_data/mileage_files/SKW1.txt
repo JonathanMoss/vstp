@@ -1,0 +1,22 @@
+ 221.68	Skipton North Junction with TJC3
+ 224.79	GARGRAVE
+ 227.71	BELL BUSK
+ 230.63	HELLIFIELD [1] [later goods depot]
+ 231.14	Hellifield South Junction with DJH (34.66)
+ 231.20	HELLIFIELD [2]
+ 231.32	Hellifield engine shed
+ 232.41	LONG PRESTON
+ 232.48	Fylde Water Board's siding
+ 234.39	SETTLE JUNCTION
+ 234.42	Settle Junction with SAC
+ 236.27	GIGGLESWICK formerly SETTLE; SETTLE OLD
+ 236.38	Spencer's siding
+ 238.69	Eldroth
+ 242.02	CLAPHAM (NORTH YORKSHIRE)
+ 242.04	Clapham Junction with INN
+ 246.23	BENTHAM also formerly known as HIGH B.
+ 246.33	Angus' siding
+ 246.35	Procters Mill siding
+ 247.23	LOW BENTHAM [later goods depot]
+ 249.38	WENNINGTON
+ 249.44	Wennington Junction with SJC (9.45) and SKW2 (249.44)

@@ -1,0 +1,4 @@
+   0.00	Esholt Junction with GUE1 (204.32) and ILK1 (204.32)
+   1.02	ESHOLT
+   2.29	BAILDON
+   3.38	Guiseley Junction with TJC3 (205.44)

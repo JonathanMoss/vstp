@@ -1,0 +1,25 @@
+   0.21	Camperdown Junction with ECN2 (59.77)
+   1.46	WARD STREET
+   1.74	STANNERGATE
+   2.27	ROODYARDS
+   2.79	WEST FERRY
+   3.38	BROUGHTY FERRY
+   3.77	junction with Broughty Pier Line (0.36)
+   4.00	junction with DDF (0.39)
+   5.00	BALMOSSIE
+   5.26	Milton siding
+   5.72	MONIFIETH
+   7.23	BUDDON
+   8.67	BARRY LINKS
+   9.37	Taymouth
+   9.43	Tenant's Vitriol Works
+   9.52	Panmure siding
+   9.70	GOLF STREET
+  10.33	CARNOUSTIE
+  11.27	Panbride
+  12.16	EAST HAVEN
+  14.79	Kelly Bleachfield
+  15.13	ELLIOT JUNCTION and junction with EJC (0.00)
+  16.45	ARBROATH
+  16.53	junction with harbour lines
+  17.17	St Vigean's Junction with ABG (17.17) and ECN4 (17.55)

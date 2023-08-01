@@ -1,0 +1,7 @@
+ 200.091km	Fawkham Junction with VIR (22.51)
+ 201.308km	start of overhead electrification
+ 202.170km	end of third rail electrification
+≈203.602km	divergence with END (≈24.70)
+ 206.012km	Southfleet Junction with TRL3 (40.150km)
+
+Note that this line was partly built on the site of END

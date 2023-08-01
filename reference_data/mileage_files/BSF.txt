@@ -1,0 +1,7 @@
+   0.72	Battersea Pier Junction with VIR
+   1.26	connection with BSP1
+   1.38	Stewarts Lane Junction with SLC8
+   1.67	Factory Junction with FLL1 (0.41)
+   1.75	Factory Junction with ATL (6.58) and VIR (1.68)
+
+Note that 0.72 - 1.26 was previously BSF1 and 1.26 - 1.75 was previously BSF2

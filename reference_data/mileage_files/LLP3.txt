@@ -1,0 +1,2 @@
+   0.00	Boroughbridge Gates Junction with LEN1 (42.21), LLP1 (29.72) and LLP2 (42.21)
+   0.69	Longlands Junction with ECM5 (29.01)

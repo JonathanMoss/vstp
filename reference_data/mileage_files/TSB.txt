@@ -1,0 +1,17 @@
+   0.00	Tyseley South Junction with BCV (125.73) and DCL (125.73)
+   0.56	SPRING ROAD
+   1.22	HALL GREEN
+   2.48	YARDLEY WOOD
+   3.66	SHIRLEY
+   4.60	WHITLOCKS END
+   5.59	WYTHALL formerly GRIMES HILL; GRIMES HILL & W.
+   6.65	EARLSWOOD (WEST MIDLANDS) formerly E. LAKES; E.
+   7.50	THE LAKES
+   8.56	WOOD END
+  10.43	DANZEY
+  13.30	junction with HLP (3.40)
+  13.41	HENLEY-IN-ARDEN
+  15.22	WOOTTON WAWEN
+  17.11	Alcester Branch Junction with ARB (0.00)
+  17.22	Bearley North Junction with Bearley Loop (0.33)
+  17.69	Bearley West Junction with HSA (12.50)

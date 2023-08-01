@@ -1,0 +1,3 @@
+   0.19	Muirhouse Central Junction with MEN2 (0.19) and TSS (0.04)
+   0.32	Muirhouse North Junction with CTC (0.00)
+   0.70	Eglinton Street Junction with WCM2 (101.39)

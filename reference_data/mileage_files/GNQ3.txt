@@ -1,0 +1,12 @@
+   0.00	Llanymynech South Junction with GNQ4 (24.23)
+   0.58	CARREGHOFA
+   0.61	Llanfyllin Branch Junction with Llanymynech Curve
+  ≈0.69	Canal siding
+   1.67	Rhydmeredydd siding
+   2.32	Blodwell Junction with GNQ5 (2.44)
+   2.36	BLODWELL [2] same as BLODWELL JUNCTION?
+  ≈2.39	BLODWELL [1] same as LLANYBLODWELL?
+   2.51	Llanddu Junction with GNQ2 (2.25)
+  ≈2.64	Llanddu siding
+   3.67	start of Nantmawr quarry lines
+   3.74	end of line

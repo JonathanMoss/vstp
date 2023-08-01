@@ -1,0 +1,3 @@
+   0.01	Bescot Junction with PBJ (8.50)
+   0.08	Bescot Junction with WGL (0.27)
+   0.65	Walsall Pleck Junction with BJW2 (5.42) and DPJ (5.42)

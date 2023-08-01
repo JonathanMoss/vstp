@@ -1,0 +1,4 @@
+   5.73	South Tottenham East Junction with TAH1 and TAH2
+   6.22	Tottenham West Junction with TSE2 (5.54) and Tottenham West Junction to North Junction Curve (6.22)
+
+Note that TAH1 previously included this route

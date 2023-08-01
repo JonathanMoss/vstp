@@ -1,0 +1,13 @@
+   0.24	Waterloo Branch Junction with DSE (2.09)
+   0.52	Edge Lane Junction with OME3 (0.00/0.52)
+   0.60	EDGE LANE
+   1.03	Stanley cattle depot
+   1.12	STANLEY
+   1.31	junction with Stanley cattle depot line
+   1.66	TUE BROOK
+   2.36	BRECK ROAD
+   3.43	WALTON & ANFIELD formerly W.
+   3.75	SPELLOW
+   4.49	junction with SCT2
+   5.07	Bootle Canada Dock
+   5.23	end of line

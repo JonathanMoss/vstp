@@ -1,0 +1,11 @@
+   0.00	BRIGHTON
+   0.13	Montpelier Junction with VTB3 (50.31)
+   0.23	junction with goods incline
+   0.57	LONDON ROAD (BRIGHTON) formerly L. R.
+   0.76	Kemp Town Junction with KTB
+   1.56	MOULSECOOMB
+   3.39	FALMER [2]
+  ≈4.00	FALMER [1]
+   5.76	Ashcombe
+   7.77	LEWES
+   8.03	Lewes Junction with KJE1 (50.03)

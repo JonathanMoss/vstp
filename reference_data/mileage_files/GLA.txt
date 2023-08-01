@@ -1,0 +1,9 @@
+   0.00	Gaerwen Junction with CNH3 (245.15)
+   2.24	HOLLAND ARMS
+   2.27	Holland Arms Junction with RDW (0.00)
+   4.40	LLANGEFNI
+   7.10	LLANGWYLLOG
+  11.06	LLANERCHYMEDD
+  14.47	RHOSGOCH
+  17.31	AMLWCH [excursion platform]
+  17.54	AMLWCH

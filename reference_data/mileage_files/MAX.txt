@@ -1,0 +1,8 @@
+  (0.00)	DUMFRIES
+   0.24	Castle Douglas Branch Junction (later Maxwelltown Goods Junction) with GSW (91.48)
+   1.70	MAXWELLTOWN
+   2.00	junction with Scottish Oils siding
+   2.71	junction with ZZC3 (0.00)
+   3.06	end of sidings
+
+Note that 0.24-3.01 is shared with CJD

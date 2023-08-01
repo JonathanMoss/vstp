@@ -1,0 +1,7 @@
+   0.00	Uddingston Junction with WCM2 (93.50)
+   0.53	junction with ZZE4
+   2.30	BELLSHILL
+   3.04	Mossend West Junction with MDW (91.50)
+  ≈3.04	Mossend West Junction with MWF (0.00)
+   3.58	Mossend East Junction with MDE (0.31)
+   3.63	Mossend East Junction with EGS2 (0.40) and MDN (0.40)

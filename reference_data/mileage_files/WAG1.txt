@@ -1,0 +1,35 @@
+  47.43	Wakefield Kirkgate West Junction with MVN2 (47.43) and WWK (0.26)
+  47.62	WAKEFIELD KIRKGATE
+  47.69	original junction with MVN2
+  48.28	Calder Bridge Junction with CTL (0.00)
+  48.76	Oakenshaw Junction with OAJ
+  49.44	Crofton West Junction with HPC (173.22)
+  49.49	Crofton West Junction with DVR1
+  50.13	Crofton East Junction with CEF (0.00)
+  50.23	Crofton East Junction with OSC (183.04)
+  50.29	CROFTON
+  51.59	Sharlston colliery
+  51.73	SHARLSTON
+  52.15	STREETHOUSE
+  53.71	FEATHERSTONE
+  55.64	PONTEFRACT TANSHELF
+  56.36	Pontefract West Junction with CPM1 (56.42)
+  56.40	PONTEFRACT MONKHILL
+  56.63	Pontefract Junction with PLP (0.66)
+  57.43	Pontefract Monkhill Goods Junction with PEF (3.06)
+  58.20	Knottingley West Junction with FKW (2.71)
+  58.21	Knottingley West Junction with KWS
+  58.37	KNOTTINGLEY
+  58.69	Knottingley East Junction with KES (0.20)
+  61.10	Kellingley colliery
+  62.55	WHITLEY BRIDGE
+  63.02	Whitley Bridge Junction with EGG1 (0.00)
+  63.26	junction with link to EGG1 (0.20 long)
+  64.41	HENSALL
+ ≈65.60	junction with link to ECM2
+  65.66	Drax Branch Junction with DRA1 (0.00)
+  66.08	Intersection Bridge at Gowdall with HBR3 (35.53)
+  68.13	SNAITH
+  70.75	RAWCLIFFE
+  72.26	Rawcliffe Bridge Junction with GOR
+  73.52	Engine Shed Junction/Goole Junction/West Junction with WAG2 (0.64) and WAG3 (73.52)

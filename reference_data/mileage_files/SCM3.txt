@@ -1,0 +1,35 @@
+  94.05	Whifflet North Junction with RSL2 (0.00) and SCM2 (94.05)
+  94.13	WHIFFLET LOWER formerly W. LOW LEVEL
+  94.49	Coatbridge Junction with RCB (7.04)
+  94.63	COATBRIDGE CENTRAL formerly C.
+  95.16	junction with ZZD2
+  95.59	junction with ZZD2
+  95.63	Gartsherrie South Junction with GHE
+  95.69	GARTSHERRIE formerly GARGILL
+  95.75	Gartsherrie LNE Junction with BEL (6.53)
+  96.50	Garnqueen South Junction with BEL (6.01)
+  97.10	GLENBOIG
+  97.14	Garnqueen North Junction with CBD1 (1.33)
+ 100.43	GREENFAULDS
+ 101.18	CUMBERNAULD
+ 106.45	Greenhill Junction with BBE
+ 106.62	GREENHILL
+ 106.63	Greenhill Lower Junction with GHL (0.60)
+ 108.30	Camelon Junction with CEN (0.00)
+ 108.76	Carmuirs West Junction with CMS (0.00)
+ 108.77	Denny Branch Junction South with DSK
+ 109.43	Larbert Junction with PMT (26.35)
+ 109.45	Denny Branch (North) Junction with DEY (0.00)
+ 110.17	LARBERT formerly L. JUNCTION
+ 112.40	Alloa Junction with ALL (0.00)
+ 114.26	Plean Junction with PLN (0.00) and ZZE5 (0.00)
+ 115.73	BANNOCKBURN
+ 118.09	Stirling Middle Junction with SAA (0.00)
+ 118.24	STIRLING
+ 118.38	Balloch Line Junction with FAC (0.00)
+ 121.10	BRIDGE OF ALLAN [2]
+ 121.16	BRIDGE OF ALLAN [1]
+ 123.19	DUNBLANE
+ 123.40	Oban Junction with SCM4 (123.40) and OBA (0.00)
+
+Note that 95.75-96.50 is duplicated in BEL

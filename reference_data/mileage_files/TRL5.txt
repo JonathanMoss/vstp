@@ -1,0 +1,4 @@
+ 35.555km	North Kent Line Connection Junction with TRL3
+ 36.741km	EBBSFLEET INTERNATIONAL
+ 37.373km	Springhead Road Junction with HDR (22.27) [up line]
+ 37.581km	Springhead Road Junction with HDR (22.42) [down line]

@@ -1,0 +1,4 @@
+  46.56	Woodhouse Junction with MAC3
+  47.40	BEIGHTON [2]
+  47.46	BEIGHTON [1]
+  48.06	Beighton Junction with CHR (155.48)

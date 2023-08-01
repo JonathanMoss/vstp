@@ -1,0 +1,4 @@
+   1.68	end of oil sidings
+   2.21	Bellfield Junction with RIC1 (1.06) and GHB (2.21)
+
+Note that this line is entirely within GHB

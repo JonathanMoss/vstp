@@ -1,0 +1,12 @@
+   8.34	up line junction with BML1
+   8.48	down line junction with BML1
+   8.51	RAYNES PARK
+   9.04	convergence with up and down lines
+   9.57	MOTSPUR PARK
+  10.11	Motspur Park Junction with MPC
+  10.53	WORCESTER PARK
+  11.74	STONELEIGH
+  12.78	EWELL WEST
+  14.11	junction with BTH2 (18.65)
+  14.18	EPSOM
+  14.27	junction with BTH2 (19.03) and BTH3 (14.27)

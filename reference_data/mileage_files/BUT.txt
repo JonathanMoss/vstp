@@ -1,0 +1,3 @@
+   0.00	Long Dyke Junction with SWM2 (169.22)
+   0.20	Newtown East Junction with Tyndall Field sidings
+   0.73	junction with CAR (≈0.05) and CSS (0.00)

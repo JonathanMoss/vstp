@@ -1,0 +1,4 @@
+   0.00	LONDON WATERLOO INTERNATIONAL
+   0.39	International Junction with RDG1
+
+Note that this route was originally part of, and in 2018 was reabsorbed into, RDG1

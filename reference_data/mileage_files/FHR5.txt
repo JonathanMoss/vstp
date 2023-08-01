@@ -1,0 +1,31 @@
+  10.50	junction with FHR4
+  11.09	Daisyfield Junction with DJH
+  11.56	Great Harwood Junction with NLC (9.03)
+  13.26	RISHTON
+  14.76	CHURCH & OSWALDTWISTLE
+  15.57	Accrington West Junction with Accrington West Curve (22.10)
+  15.64	ACCRINGTON
+  15.73	Accrington North Junction with CTA2 (22.02)
+  17.41	HUNCOAT [2]
+  17.78	HUNCOAT [1]
+  18.73	HAPTON
+  20.05	Rose Grove West Junction with PRG (0.00)
+  20.32	ROSE GROVE
+  21.03	Gannow Junction with FHR6 and GJC
+
+
+Before 7 October 1973 there appeared to be an alternative measure in simultaneous use, thus:
+  24.50	junction with FHR4
+  25.09	Daisyfield Junction with DJH (11.09)
+  25.56	Great Harwood Junction with NLC (9.03)
+  27.26	RISHTON
+  28.76	CHURCH & OSWALDWISTLE
+  29.55	Accrington West Junction with Accrington West Curve (22.10)
+  29.64	ACCRINGTON
+  29.73	Accrington North Junction with CTA2 (22.02)
+  31.41	HUNCOAT [2]
+  31.78	HUNCOAT [1]
+  32.73	HAPTON
+  34.05	Rose Grove West Junction with PRG (0.00)
+  34.32	ROSE GROVE
+  35.03	Gannow Junction with FHR6 (21.03) and GJC (21.03)

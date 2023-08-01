@@ -1,0 +1,113 @@
+   0.00	LONDON LIVERPOOL STREET
+   0.23	junction with LVS
+   0.34	BISHOPSGATE formerly B. LOW LEVEL
+   0.49	East London Junction with East London Joint Railway
+   1.07	Bethnal Green West Junction with BIY (0.00)
+   1.10	BETHNAL GREEN formerly B. G. JUNCTION
+   1.14	Bethnal Green East Junction with BGK
+   1.30	MILE END
+   1.55	GLOBE ROAD & DEVONSHIRE STREET
+   1.61	junction with Devonshire Street lines
+   2.02	Canal Junction with MED
+   2.29	COBORN ROAD [2]
+	COBORN ROAD [1] formerly OLD FORD
+   2.73	Bow Junction with GFB (3.28)
+  (3.21)	PUDDING MILL LANE [DLR station]
+   3.21	Midland Junction with BDM (0.00)
+   3.32	Thornton Fields Junction with TFC
+   3.32	Pudding Mill Lane Junction with XRC2/XRE (14.978km) [westbound]
+   3.42	Pudding Mill Lane Junction with XRC2/XRE (14.886km) [eastbound]
+   3.52	Stratford Western Junction with SSW
+   3.54	Carpenters Road South Junction with CNS (1.12)
+   3.70	Stratford Central Junction West with CST (0.00)
+   3.76	Stratford Central Junction East with SDC
+   4.03	STRATFORD (LONDON)
+   4.05	junction with Stratford goods depot lines
+   4.15	Stratford goods depot
+   4.16	junction with Maryland Curve (0.00)
+   4.39	MARYLAND formerly M. POINT
+   5.21	FOREST GATE
+   5.63	Forest Gate Junction with FGW (5.63/0.00)
+   6.02	Forest Gate goods depot
+   6.19	MANOR PARK
+   7.28	ILFORD
+   7.63	Ilford Depot London End Junction with ICS
+   7.74	Ilford goods depot
+   8.11	junction with NPB
+   8.30	Ilford Depot Country End Junction with ICS
+   8.31	Seven Kings Junction with Ilford East Curve (0.00)
+   8.45	SEVEN KINGS
+   9.23	GOODMAYES
+   9.79	CHADWELL HEATH
+  11.39	CROWLANDS [built but never opened]
+	junction with RGW
+  12.30	ROMFORD
+  12.52	Romford Junction with ROU (0.13)
+  13.41	GIDEA PARK formerly SQUIRRELS HEATH & G. P.; G. P. & SQUIRRELS HEATH
+  14.76	HAROLD WOOD
+  18.16	BRENTWOOD formerly B & WARLEY
+  20.16	SHENFIELD formerly S. & HUTTON JUNCTION; S. & HUTTON
+  20.22	Shenfield Junction with SSV
+  23.50	INGATESTONE
+  27.26	MARGARETTING
+  29.60	CHELMSFORD [2]
+ ≈29.69	CHELMSFORD [1]
+  29.64	junction with CDY
+  30.01	Chelmsford goods depot
+  30.17	junction with CDY
+  32.17	New Hall
+  32.35	BEAULIEU PARK under construction
+  32.38	BOREHAM HOUSE
+  34.16	Chantry
+  35.74	HATFIELD PEVEREL formerly H.
+  37.25	Blunts Hall
+  38.39	junction with WIM
+  38.47	WITHAM
+  38.53	Witham Junction with WIM
+  38.55	junction with BRA (24.15)
+  42.21	KELVEDON
+  42.26	junction with KET (0.00)
+  46.49	MARKS TEY formerly M. T. JUNCTION
+  46.53	Marks Tey Junction with SUD
+  49.41	Chitts Hill
+  50.72	Colchester South Junction with CER
+  51.49	junction with CER
+  51.52	COLCHESTER
+  51.65	Colchester Junction with COC
+  54.00	Parsons Heath
+  56.01	ARDLEIGH
+  57.57	Dedham
+  59.35	MANNINGTREE formerly M. JUNCTION
+  59.46	Manningtree South Junction with MAH
+  59.69	Manningtree North Junction with NTE (0.00)
+  63.10	BENTLEY formerly B. JUNCTION
+  63.17	junction with HAD
+  65.25	Belstead
+  67.65	repositioned Halifax Junction with GRW
+  67.67	Halifax Junction with GRW (0.00)
+  68.59	IPSWICH
+  68.68	junction with IRR
+  68.72	Ipswich Goods Junction with IUP
+  69.41	East Suffolk Junction with ESK and IUP
+  70.37	Europa Junction with BFC (0.00)
+  71.15	BRAMFORD
+  73.43	CLAYDON
+  74.12	Barham
+  77.07	NEEDHAM MARKET formerly N.
+  80.46	STOWMARKET
+  82.69	HAUGHLEY formerly H. ROAD JUNCTION; H. ROAD; H. WEST
+  82.74	connection to HAL (0.02)
+  82.79	Haughley Junction with CCH (40.52)
+  86.46	FINNINGHAM
+  91.33	Mellis Junction with MEY (0.00/91.33)
+  91.30	MELLIS
+  94.79	DISS
+  97.40	BURSTON
+ 100.42	junction with TIB (0.04)
+ 100.46	TIVETSHALL
+ 104.09	FORNCETT
+ 104.41	junction with FWW1
+ 106.56	FLORDON
+ 109.69	SWAINSTHORPE
+ 112.67	Trowse Upper Junction with VIG
+ 113.68	Trowse Lower Junction with ETN (123.00) and LTN2 (123.00)

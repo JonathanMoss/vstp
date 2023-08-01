@@ -1,0 +1,5 @@
+   0.24	Ynysawdre/Ogmore Junction with OGM (0.24) and PBZ (0.24/6.59)
+   0.54	Brynmenyn Loop Junction with BLZ (0.00)
+   0.55	Brynmenyn Junction with GAW2 (0.00)
+
+Note that this line is duplicated in OGM

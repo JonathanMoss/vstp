@@ -1,0 +1,4 @@
+   0.00	Dalton Junction with CBC1 (24.38)
+   0.45	Goldmire Junction with link to Millwood Junction on CBC1 (0.51 long)
+   0.46	Goldmire Junction with link to Oaklea Junction on CBC1 (0.31 long)
+   0.76	Park South Junction with CBC1 (32.77)

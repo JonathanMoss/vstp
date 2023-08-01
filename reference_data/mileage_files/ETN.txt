@@ -1,0 +1,20 @@
+  71.67	Ely North Junction with BGK
+  73.21	Padnal siding
+  74.25	PRICKWILLOW [may be at 74.78]
+  77.17	SHIPPEA HILL
+  82.39	LAKENHEATH
+  86.32	BRANDON
+  90.70	Two Mile Bottom siding
+  93.50	THETFORD
+  93.64	junction with SBT (12.47)
+  97.65	ROUDHAM JUNCTION
+  97.68	Roudham Junction with RJS (18.41)
+ 101.35	HARLING ROAD
+ 104.36	ECCLES ROAD
+ 108.19	ATTLEBOROUGH
+ 111.27	SPOONER ROW
+ 113.69	Wymondham South Junction with NOE (0.03)
+ 113.72	WYMONDHAM
+ 114.09	junction with FWW1 (110.58)
+ 117.77	HETHERSETT
+ 123.00	Trowse Lower Junction with LTN1 (113.68) and LTN2 (123.00)

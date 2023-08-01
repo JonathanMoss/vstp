@@ -1,0 +1,15 @@
+  21.03	Gannow Junction with FHR5 and GJC
+  21.67	BURNLEY MANCHESTER ROAD
+ ≈21.77	BURNLEY THORNEYBANK
+  22.43	TOWNELEY formerly ORGAN ROW
+  25.30	HOLME
+  26.20	Copy Pit summit
+  27.32	PORTSMOUTH
+  28.22	CORNHOLME
+  30.22	STANSFIELD HALL
+  30.24	Whiteplatts Junction with SFO (19.54) [earlier alignment]
+  30.25	Stansfield Hall Junction with SFO (19.47) [later alignment]
+  30.54	Hall Royd Junction with MVN2 (19.61)
+
+Before 7 October 1973 the measure was thus (full details not yet known):
+  28.44	BURNLEY MANCHESTER ROAD

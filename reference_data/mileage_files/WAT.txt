@@ -1,0 +1,19 @@
+  43.53	relocated Dalrymple Junction with STR1
+  43.66	original Dalrymple Junction with STR1
+  45.05	Pleasantfield
+  45.72	Potterston Junction with … (Coylton branch)
+  46.61	HOLLYBUSH
+  48.27	Holehouse Junction with HBE (0.00)
+  48.32	HOLEHOUSE JUNCTION
+  49.04	Smithson Junction with colliery lines
+  50.24	PATNA [1]
+	PATNA [2]
+  50.68	Jellieston siding
+  52.22	WATERSIDE [1]
+  52.29	WATERSIDE [2]
+  52.62	junction with iron works
+  52.65	DUNASKIN
+  52.70	Dunaskin Junction with DLN
+  54.29	Chalmerston loading pad
+  54.49	MINNIVEY
+  55.36	Pennyvenie colliery

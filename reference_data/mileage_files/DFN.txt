@@ -1,0 +1,11 @@
+  53.05	Keith Junction with ANI1 (53.05) and ANI2 (30.40)
+  53.17	KEITH
+  53.66	KEITH TOWN
+  54.17	junction with Strathmill Distillery sidings
+  54.29	Strathisla siding
+  56.54	AUCHINDACHY
+  58.13	TOWIEMORE
+  59.46	DRUMMUIR
+  63.36	junction with Parkmore siding line (0.00)
+  64.00	DUFFTOWN
+  64.13	end on junction with DTE

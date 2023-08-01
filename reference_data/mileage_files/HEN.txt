@@ -1,0 +1,6 @@
+  31.01	TWYFORD
+  31.04	junction with MLN1
+  32.68	WARGRAVE
+  33.61	SHIPLAKE
+  35.48	HENLEY-ON-THAMES
+  35.50	end of line

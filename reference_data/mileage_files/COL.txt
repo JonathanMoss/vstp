@@ -1,0 +1,10 @@
+ 188.48	Manchester Piccadilly East Junction with CMP2
+ 188.65	MANCHESTER PICCADILLY
+ 189.29	MANCHESTER OXFORD ROAD
+ 189.57	DEANSGATE formerly KNOTT MILL; K. M. & D.
+ 189.67	Castlefield Junction with CDM1 (0.37)/MAJ (33.57)
+ 190.05	Water Street Junction with OCD
+ 190.23	Liverpool Road Junction/Ordsall Lane Junction with OLL1 (0.00)
+ 190.28	Ordsall Lane Junction with DSE (30.37) and OLW (190.28)
+
+Note that the area covered by Liverpool Road Junction and Ordsall Lane Junction was later known in its entirety by the latter name

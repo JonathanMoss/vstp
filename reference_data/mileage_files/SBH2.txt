@@ -1,0 +1,4 @@
+   5.12	St Helens Station Junction with SBH1 (5.12) and SHS1 (7.16)
+   5.16	ST HELENS CENTRAL formerly ST. H. SHAW STREET
+   5.44	Pocket Nook Junction with PNB (0.60)
+   5.66	Gerards Bridge Junction with SBH3 (5.66) and SRD (7.69)

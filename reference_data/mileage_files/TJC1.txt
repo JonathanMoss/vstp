@@ -1,0 +1,28 @@
+ 146.59	Tapton Junction with CHR and SPC9
+ 146.72	divergence with CHR
+ 147.77	SHEEPBRIDGE
+ 149.57	Unstone Branch sidings
+ 149.62	Unstone Branch Junction with UNS
+ 150.14	UNSTONE
+ 151.18	Unstone Branch Junction North with UNS (151.68)
+ 151.44	DRONFIELD
+ 153.73	Dore South Junction with MAS
+ 154.20	DORE & TOTLEY
+ 154.31	original Dore Station Junction with DWS (0.38)
+ 154.52	relocated Dore Station Junction with DWS (0.60)
+ 154.75	BEAUCHIEF & ABBEYDALE
+ 155.62	MILLHOUSES & ECCLESALL
+ 156.05	Engine Shed Junction with engine shed lines
+ 156.37	Ecclesall engine shed
+ 156.51	junction with Heeley goods depot lines
+ 156.65	Heeley goods depot
+ 157.10	HEELEY
+ 157.66	junction with Queen's Road goods depot lines
+ 158.06	Queen's Road goods depot
+ 158.19	Granville Road
+ 158.28	junction with Pond Street goods depot lines
+ 158.40	SHEFFIELD and Pond Street goods depot
+ 158.77	Nunnery Main Line Junction with NUJ1
+ 159.35	ATTERCLIFFE ROAD
+ 160.18	Mill Race
+ 160.34	Grimesthorpe Junction with TJC2 (160.34) and WRB2 (0.00)

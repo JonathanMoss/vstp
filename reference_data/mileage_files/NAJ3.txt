@@ -1,0 +1,15 @@
+   0.00	Ashendon Junction with NAJ2 (33.69)
+   0.27	Ashendon Junction with GUA (164.75) [down line]
+   1.18	DORTON
+   3.31	BRILL & LUDGERSHALL
+   6.32	BLACKTHORN
+   8.26	Bicester South Junction with BSG (0.00)
+   8.45	junction with WEJ
+   9.27	BICESTER NORTH
+  13.12	ARDLEY
+  17.39	AYNHO PARK
+  17.44	Aynho Park Junction [divergence of up and down lines]
+  18.26	Aynho Junction with DCL (81.10) [up line]
+  18.29	Aynho Junction with DCL (81.12) [down line]
+
+Note that Ashendon Junction up line junction is on NAJ2

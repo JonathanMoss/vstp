@@ -1,0 +1,20 @@
+Original alignment
+ 125.56	Radford Junction with MJT1 and MJT2
+ 126.52	Moss' timber yard
+ 127.36	BASFORD
+ 128.15	Basford Junction with LSB
+ 128.76	BULWELL
+ 129.53	junction with BPC
+ 130.05	Bestwood Park Junction with BWD
+ 131.65	HUCKNALL
+≈131.69	HUCKNALL BYRON
+ 132.69	LINBY
+ 134.20	NEWSTEAD
+ 134.65	ANNESLEY
+ 135.28	Kirkby Tunnel South Portal
+ 135.57	Kirkby Tunnel North Portal
+ 136.55	Kirkby Junction/Kirkby Station Juncton with PBS1 (138.50) [original alignment] and PBS2 (136.55) [original alignment]
+
+1972 alignment
+ 134.20	NEWSTEAD
+ 136.66	Kirkby Lane End Junction with PBS1 (138.31)

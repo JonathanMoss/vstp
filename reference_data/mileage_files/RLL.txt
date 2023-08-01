@@ -1,0 +1,8 @@
+  68.25	junction with RDG2
+  68.54	Reading East Junction with MLN1 (35.61)
+
+  35.38	Western/Wessex boundary
+  35.42	bridge under MLN1
+  35.61	Reading East Junction with MLN1
+
+Note that this line is sometimes referred to as RRL in error

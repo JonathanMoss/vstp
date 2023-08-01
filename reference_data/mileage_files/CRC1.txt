@@ -1,0 +1,3 @@
+   5.10	Camden Road West Junction with BOK1 (5.10) and BOK2 (0.00)
+   5.20	Camden coal depot
+   5.23	Hampstead Road Junction with CRC2

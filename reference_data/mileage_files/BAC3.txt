@@ -1,0 +1,7 @@
+ 149.35	Elmton & Creswell Junction with PSE
+ 151.30	Clown Junction with link to WEC2 (0.10 long)
+ 151.34	junction with Southgate colliery lines
+ 151.46	CLOWNE & BARLBOROUGH formerly CLOWN; CLOWNE
+ 152.09	Barlborough colliery
+ 154.15	Oxcroft Junction with OXO (0.00)
+ 155.10	Seymour Junction with BAC2 (152.21), BOC1 (7.61) and SEY (152.21)

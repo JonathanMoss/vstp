@@ -1,0 +1,14 @@
+  59.46	Manningtree South Junction with LTN1
+  59.67	Manningtree East Junction with NTE (0.24)
+  61.14	MISTLEY
+  61.19	Mistley Junction with MII (0.00)
+  62.46	BRADFIELD
+  63.71	PRIORY
+  65.06	WRABNESS
+  67.35	junction with HOL
+  68.02	Parkeston Goods Junction with HPQ and PGQ
+  68.72	HARWICH INTERNATIONAL formerly H. PARKESTON QUAY; H. I. PORT
+  69.65	junction with HOL (69.21)
+  70.19	DOVERCOURT
+  70.61	HARWICH TOWN formerly H.
+  71.00	train ferry link span

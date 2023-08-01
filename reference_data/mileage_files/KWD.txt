@@ -1,0 +1,20 @@
+ 144.31	Kingswinford Junction with OWW
+ 144.35	Kingswinford Junction with Moor Lane Goods Branch (0.00)
+ 144.59	BROCKMOOR
+ 145.02	Ley's siding
+ 145.19	Bromley Basin
+ 145.34	Dandos siding
+ 145.38	BROMLEY
+ 145.79	Kingswinford siding
+ 146.24	PENSNETT
+ 146.66	GORNAL
+ 147.02	Baggeridge Junction with ASK
+ 148.75	HIMLEY
+ 150.59	WOMBOURN
+ 152.20	PENN
+ 154.14	COMPTON
+ 155.08	TETTENHALL
+ 155.48	Courtaulds South
+ 155.64	Courtaulds North
+ 155.79	Oxley Branch Junction with Codsall Loop
+ 156.48	Oxley Middle Junction with WSJ2 (143.49)

@@ -1,0 +1,5 @@
+   0.00	MANCHESTER VICTORIA and end on junction with MVE1
+   0.09	Manchester Victoria East Junction with MVN1
+   0.12	link to MVB1
+   1.28	Miles Platting Junction with ORG (0.00)
+   1.30	junction with MPR1 and MVL1

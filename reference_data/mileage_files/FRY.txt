@@ -1,0 +1,13 @@
+original LSWR measure
+ 232.73	Friary Junction with SUT2 (244.60)
+ 233.30	Turnchapel Branch Junction with TUR (0.00)
+ 233.36	junction with VQZ and FGB
+ 233.65	PLYMOUTH FRIARY
+
+later GWR measure
+ 244.60	Friary Junction with SUT2
+ 245.09	Friary locomotive depot
+ 245.17	Turnchapel Branch Junction with TUR (0.00)
+ 245.23	junction with VQZ and FGB
+ 245.52	Plymouth Friary goods depot
+ 245.53	PLYMOUTH FRIARY

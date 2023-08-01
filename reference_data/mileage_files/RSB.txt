@@ -1,0 +1,50 @@
+   0.00	Rhondda & Swansea Bay/Treherbert Junction with THT (23.71)
+   0.44	BLAENRHONDDA formerly BLAEN-RHONDDA
+   1.34	Blaenycwm
+   3.50	BLAENGWYNFI
+   4.27	Gelli Junction with BAL (12.66)
+   5.40	1960 connection with BAL (11.53)
+   5.59	CYMMER AFAN [2] formerly C.; CWM CYMMER
+  ≈5.78	CYMMER [1]
+   7.03	DUFFRYN RHONDDA
+   8.13	Upper Cynon
+   8.45	CYNONVILLE
+   8.53	Argoed colliery
+  10.08	PONTRHYDYFEN
+  10.19	junction with PDZ (0.00)
+  10.52	Oakwood Junction with SWJ (3.08)
+  11.36	Tymaen Junction with TNZ
+  11.67	CWMAVON GLAM formerly C.
+  12.23	Copper Miners Junction with tin works lines
+  13.09	Velindre
+  13.44	Aberavon Branch Junction with AVN (0.46)
+  13.46	ABERAVON TOWN formerly A.; A. PORT TALBOT
+  13.50	Plough Junction with PJE1
+  13.52	Plough Junction with ADU
+  14.00	North Bank Junction with PNT (0.00)
+  14.06	Burrows Junction with Port Talbot (Burrows Junction) Dock Line
+  14.35	ABERAVON SEA SIDE
+  16.31	BAGLAN SANDS
+  16.45	Baglan Junction with BJZ
+  17.18	Vernon
+  17.19	junction with BFZ (0.22)
+  17.20	Briton Ferry Junction with RSB1 (17.20) and SWM2 (205.74)
+  17.41	Briton Ferry Up Flying Loop Junction with SWM2 (206.14)
+  18.07	Court Sart Junction with SWM2 (206.57)
+  18.28	junction with RSB1
+  18.30	junction with BJZ
+  18.34	junction with Court Sart Branch to GWR (mileage unknown)
+  18.43	Neath Canalside Junction with NEB
+  19.13	Neath Loop Junction with NEL (0.48)
+  19.16	Dyvenor Junction with NEL (0.46)/SDI1 (207.67)
+  19.23	Dyvenor Junction with DYZ
+  19.64	Copper Works North Junction with copper works sidings
+  20.01	Copper Works South Junction with copper works sidings
+  20.06	CAPE
+  20.23	Jersey Marine South Junction with VON (44.18)
+  21.13	JERSEY MARINE
+  22.25	BALDWINS
+  23.29	Danygraig Junction with Danygraig Branch
+  23.44	DANYGRAIG
+  24.28	Swansea Harbour Branch Junction with RSZ
+  24.38	SWANSEA RIVERSIDE formerly S.; S. DOCKS

@@ -1,0 +1,9 @@
+   0.00	Billingham Junction with LEN3 (63.69)
+   0.73	BELASIS LANE
+   1.13	Belasis Lane Junction with HAH1 (0.00)
+   1.73	Haverton Hill Junction with BBK (65.26)
+   2.02	HAVERTON HILL
+   2.68	junction with Port Clarence station spur
+   3.05	junction with Port Clarence sidings
+   3.08	PORT CLARENCE
+   3.25	Phillips Siding Junction with POC2 and petroleum refinery sidings

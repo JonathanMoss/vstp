@@ -1,0 +1,14 @@
+  12.14	end on junction with SJO2
+  12.15	ORMSKIRK
+  12.20	junction with SKE (30.33)
+  14.61	BURSCOUGH JUNCTION
+  15.02	Burscough South Junction with BSK (0.32)
+  15.31	intersection bridge over WBS3 (27.31)
+  15.44	Burscough North Junction with BNF (0.34)
+  17.49	RUFFORD
+  20.18	CROSTON
+	CROSTON ROYAL ORDNANCE DEPOT
+  22.36	COCKER BAR
+  23.03	MIDGE HALL
+  24.63	Moss Lane Junction with MLL
+  25.64	Farington Curve Junction with FHR1 (0.06)

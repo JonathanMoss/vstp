@@ -1,0 +1,15 @@
+   5.51	Maryhill Park Junction with MLA (0.00) and MRL2 (4.40)
+   5.57	MARYHILL formerly M.; M. PARK
+   6.03	Maryhill East Junction with KVB (0.00)
+   6.04	SUMMERSTON
+   6.19	Garscube colliery
+   6.37	GILSHOCHILL formerly LAMBHILL
+   6.69	LOCHBURN
+   6.72	chemical works siding
+   7.38	POSSILPARK
+   7.46	POSSILPARK & PARKHOUSE
+   7.49	junction with RUN (0.00)
+   7.59	Saracen goods station
+   7.76	ASHFIELD
+   8.08	Cowlairs North Junction with CSN (0.21)
+   8.26	Cowlairs West Junction with EGM1 (1.67) and SGN (0.00)

@@ -1,0 +1,172 @@
+   0.00	LONDON KINGS CROSS
+   0.18	junction with YRC [up line] (2.05)
+   0.20	KINGS CROSS (YORK ROAD)
+   0.22	junction with YRC [down line] (2.13)
+  ≈0.51	KING'S CROSS FUNERAL STATION
+   0.57	Belle Isle Junction with CBI (0.53)
+   0.60	Maiden Lane
+   0.64	Copenhagen Junction with CRF1/NLI (0.00)
+   1.23	Holloway cattle sidings
+   1.39	Islington Vestry Electric siding
+   1.42	junction with sidings
+   1.51	HOLLOWAY & CALEDONIAN ROAD formerly H.
+   2.02	Clarence yard
+   2.15	junction with yard lines
+   2.33	Finsbury Park South Junction with CFP (4.33) and MEB1 (3.37)
+   2.41	FINSBURY PARK formerly SEVEN SISTERS ROAD
+   2.48	junction with HBB
+   3.20	junction with Hornsey depot
+   3.32	HARRINGAY formerly H.; H. WEST and Harringay Junction with HPW (0.00)
+   4.04	HORNSEY
+   4.24	Metropolitan Water Board's siding
+   4.68	junction with HDB [down line]
+   4.78	ALEXANDRA PALACE formerly WOOD GREEN
+   5.07	Wood Green North Junction with HDB [up line]
+   6.35	NEW SOUTHGATE formerly COLNET HATCH & S.
+   8.30	OAKLEIGH PARK
+  ≈9.07	NEW BARNET [1] formerly B.
+   9.12	NEW BARNET [2]
+  10.46	HADLEY WOOD
+  12.57	POTTERS BAR formerly P. B. & SOUTH MIMMS; P. B.; P. B. & SOUTH MIMMS
+  14.14	Hawkshead siding
+  14.37	BROOKMANS PARK
+  15.50	WELHAM GREEN
+  15.54	Marshmoor siding
+  17.54	HATFIELD
+  17.59	Hatfield Junction with HSS/SAH and WHE
+  20.25	WELWYN GARDEN CITY [2]
+  20.38	divergence with WLN
+  20.40	WELWYN GARDEN CITY [1] [possibly only on WLN]
+  20.43	divergence with WHE
+  21.20	Digswell
+  22.00	WELWYN NORTH formerly W.
+  23.69	Woolmer Green siding
+  25.03	KNEBWORTH
+  26.45	Langley Junction with HDB (28.01) [up line]
+  26.59	Langley Junction with HDB (28.15) [down line]
+  27.01	Langley siding
+  27.45	STEVENAGE [2]
+  28.46	STEVENAGE [1]
+  29.70	Wymondley siding
+  31.74	HITCHIN
+  32.11	Cambridge Junction with SBR
+  32.17	Midland Junction with HIB (16.00)
+  32.21	Ransom's Lime Works sidings
+  32.53	Hitchin North Junction with DCF
+  33.69	Cadwell siding
+  35.36	Associated Portland Cement Manufacturer's siding
+  35.56	THREE COUNTIES formerly ARLESEY ASYLUM SIDING
+  35.61	junction with asylum line
+  36.70	ARLESEY & HENLOW formerly ARLSEY & SHEFFORD ROAD; A.; A. & S. R.
+  37.03	ARLESEY
+  37.13	London & Arlesley Brick siding
+  38.53	Langford goods depot
+  40.77	Smart's siding
+  41.13	BIGGLESWADE
+  43.76	junction with BCA (24.62)
+  44.10	SANDY
+  44.15	Sandy North Junction with link to BCA
+  44.41	Love's Brick siding
+  47.41	TEMPSFORD
+  49.69	Little Barford CEGB siding
+  51.58	ST NEOTS
+  55.76	OFFORD & BUCKDEN formerly O.
+  56.12	Superior International siding
+  58.56	Huntingdon South Junction with SIB2 (75.66)
+  58.70	HUNTINGDON formerly H.; H. NORTH
+  61.06	Stukeley
+  63.42	ABBOTS RIPTON formerly ABBOTTS R.
+  65.43	Woodwalton
+  67.20	Connington South Junction with CTP
+  69.29	junction with RAN (69.29/0.00)
+  69.32	HOLME
+  70.78	Stilton Fen
+  72.49	YAXLEY & FARCET formerly Y.
+  72.58	Norman Cross brick siding
+  73.05	Beeby's brick siding
+  73.26	Fletton Crown & Crowhurst Brick Company's siding
+  73.71	New Peterborough Brick Company's siding
+  74.20	Plowman's siding
+  74.71	Fletton Junction with FAS (0.00)
+  75.00	Fletton goods depot
+  75.02	Fletton Junction with FOM (0.00)
+  75.08	Farrow & Company's siding
+  76.19	junction with EMP (100.60)
+  76.29	PETERBOROUGH formerly P.; P. NORTH
+  76.45	Spital Junction with PMJ (22.02)
+  76.57	junction with PHS
+  77.00	Westwood
+  77.36	Beeby's siding
+  77.41	New England siding
+  77.77	junction with PHS
+  78.17	New England North Junction with PMJ (20.31)
+  79.40	Werrington Junction with WEB
+  79.51	Jacked Portal crossing over WDU (0.67)
+  81.56	Helpston Junction with PMJ (16.71)
+  84.67	TALLINGTON
+  88.33	junction with EST (0.19)
+  88.47	junction with EBO (0.05)
+  88.52	ESSENDINE
+  90.20	commemorative Mallard 126mph sign
+  92.16	LITTLE BYTHAM
+  93.20	Adamantine clinker works siding
+ ≈95.67	SWAYFIELD
+  97.07	CORBY GLEN formerly C.; C. LINCS
+  99.60	Stoke
+ 101.31	Waltham Branch Junction/Stainby Branch Junction/Highdyke Junction with HIS (0.00)
+ 101.46	Highdyke
+ 102.03	GREAT PONTON
+ 104.10	Saltersford siding
+ 105.38	GRANTHAM
+ 105.64	junction with GMS
+ 106.08	Nottingham Branch Junction with NOG1
+ 109.06	Peascliffe
+ 109.54	BARKSTON formerly BARKSTONE
+ 109.56	Barkston South Junction with GRS1
+ 110.11	Barkston North Junction with link to Honington (0.00)
+ 111.43	HOUGHAM
+ 115.30	CLAYPOLE
+ 116.70	Balderton
+ 119.03	Barnby
+ 119.73	Newark South Junction with BON (9.15)
+ 120.08	NEWARK NORTHGATE formerly N.
+ 120.45	Newark Joint Curve Junction with NCM (17.65/0.44)
+ 120.51	Newark Crossing South Junction with NSE (0.00)
+ 120.63	flat crossing with NOB1 (17.67)
+ 122.65	Muskham goods depot
+ 126.28	CARLTON ON TRENT
+ 127.31	CROW PARK
+ 131.21	DUKERIES JUNCTION
+ 131.59	junction with Tuxford Chord (0.57)
+ 131.73	TUXFORD NORTH formerly T.
+ 138.44	Retford South Curve Junction with Retford Branch (0.00)
+ 138.49	RETFORD
+ 138.55	Retford Western Junction with WHR (64.29)
+ 138.73	Retford goods depot
+ 139.13	Babworth
+ 141.59	BARNBY MOOR & SUTTON
+ 143.76	RANSKILL
+≈145.11	junction with HAC (≈18.05)
+ 145.65	SCROOBY
+ 147.56	BAWTRY
+ 147.67	Bawtry Junction with MSS (147.67/7.61)
+ 151.25	ROSSINGTON
+ 152.00	Loversall Carr Junction with LCR
+ 152.19	Loversall Carr Junction with DVR1 (72.51)
+ 152.36	Loversall Junction with LCJ
+ 153.18	Black Carr Junction with BCB (116.44)
+ 153.69	junction with DUY
+ 154.13	Decoy North Junction with DDY (154.13) and SPD5 (117.46)
+ 155.28	junction with DDY
+ 155.34	junction with DUY
+ 155.38	Bridge Junction with SJB (22.54)
+ 155.58	South Yorkshire Junction with PED5 (22.56)
+ 155.77	DONCASTER formerly D.; D. CENTRAL
+ 156.26	Marshgate Junction with DOW (0.00)
+ 156.28	Marshgate Junction with DOL1
+ 158.05	ARKSEY formerly STOCKBRIDGE
+ 158.45	Bentley Colliery Junction South with BCO (0.00)
+ 158.68	Bentley Colliery Junction North with BNJ (0.00)
+ 160.16	Shaftholme Junction with ECM2 (160.16) and KWS (68.75)
+
+Note that, owing to formation widening in the Sandy area, part of the BCA formation (formerly running beside and parallel to ECM1) is subsumed into ECM1

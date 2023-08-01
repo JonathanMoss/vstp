@@ -1,0 +1,7 @@
+ 309.25	junction with FAL2 (309.24)
+ 311.13	PENMERE
+ 312.09	FALMOUTH TOWN
+ 312.22	junction with dock branch
+ 312.46	FALMOUTH DOCKS
+ 312.49	end of line
+ 312.51	boundary with dock lines

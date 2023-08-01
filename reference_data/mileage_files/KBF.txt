@@ -1,0 +1,9 @@
+  11.06	end on junction with FLH
+  11.24	junction with … (Kelloe line)
+  11.64	COXHOE BRIDGE
+  13.19	WEST CORNFORTH
+  13.20	West Cornforth Station Junction with link to FEP (0.47 long)
+  13.62	Coxhoe Junction with BIF (8.22)
+  14.09	Kelloe Bank Foot Junction with ECM5 (57.50)
+  14.44	Ferryhill North Junction with FEP (0.76)
+  15.00	Kelloe Access Line Junction with ECM5 (56.69)

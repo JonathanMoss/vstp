@@ -1,0 +1,73 @@
+  33.44	GB&K Junction with DAK (33.44) and GBK (23.39)
+  33.48	Kilmarnock Junction with BAK (0.00) and ZZA8 (0.00)
+  33.54	Kilmarnock goods depot
+  33.59	KILMARNOCK
+  34.41	Kay Park Junction with RIC1 (0.00)
+  35.03	Alan Cilmour & Co's siding
+  35.23	Portland iron works siding
+  35.36	Galston Branch Junction with DAS1
+  35.40	Portland iron works siding
+  35.43	HURLFORD
+  35.49	junction with DVL (possibly also DAS1)
+  35.66	Barleith siding
+  36.04	Barleith pit no 1
+  36.24	Barleith pit no 2
+  36.48	Dykehead pit
+  37.72	Woodhead
+  40.40	Garrochburn goods depot
+	MOSSGIEL TUNNEL
+  43.10	relocated Mauchline Junction with ANN (50.17)
+  43.12	MAUCHLINE
+  43.23	original Mauchline Junction with ANN (50.30)
+  43.25	Ballochmyle Quarry siding
+  44.32	Kennedy's siding
+  45.12	Brackenhill Junction with CTR (0.00)
+  45.20	Sir J Boswell's siding
+  46.03	Barony
+  47.46	AUCHINLECK
+  47.56	Muirkirk Branch Junction with MKK
+  49.13	Rodanhead pit
+  49.35	Old Cumnock pit
+  49.51	OLD CUMNOCK formerly C.
+  49.74	Cumnock Junction with Logan Junction to Old Cumnock Curve (0.00)
+  52.36	Polouhap siding
+  54.05	Bank Junction with KSH
+  54.21	junction with New Cumnock iron works branch
+  54.57	Pathhead
+  55.00	NEW CUMNOCK
+  56.24	Mansfield siding
+  58.41	Upper Cairn
+  62.31	KIRKCONNEL
+  63.69	Bankhead siding
+  64.18	Gateside siding
+  65.44	Sanquhar tile works
+  65.53	SANQUHAR
+  67.77	Mennock siding
+  70.39	Ardoch
+  74.33	CARRONBRIDGE
+  77.50	THORNHILL
+  77.74	Gatelawbridge quarry
+  80.19	CLOSEBURN
+  84.37	AULDGIRTH
+  86.38	start of deviation
+  87.31	end of deviation
+  88.33	HOLYWOOD formerly KILLYLUNG
+  90.07	Cairn Valley Junction with CVR (15.51)
+  91.48	Castle Douglas Branch Junction (later Maxwelltown Goods Junction) with MAX/CJD (0.24)
+  91.49	Lockerbie Junction with DSB (0.00)
+	DUMFRIES [1]
+  91.63	DUMFRIES [3]
+  91.78	DUMFRIES [2] later goods depot
+  95.57	RACKS
+  98.35	Ironhirst
+ 100.24	RUTHWELL
+ 103.70	CUMMERTREES
+ 105.19	POWFOOT
+ 107.21	ANNAN
+ 107.46	Solway Junction with SFK (0.00)
+ 109.75	Eastriggs
+ 110.62	EASTRIGGS formerly DORNOCK
+ 113.13	RIGG
+ 115.12	GRETNA GREEN [2]
+ 115.26	GRETNA GREEN [1] formerly GRETNA
+ 116.13	Gretna Junction with WCM1 (8.57)

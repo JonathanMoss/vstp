@@ -1,0 +1,35 @@
+   0.00	junction with LEC1 (46.38)
+   0.36	junction with south facing link to LEC1
+   0.64	Flyover Junction with BFO (0.00)
+   5.15	SWANBOURNE
+   7.10	WINSLOW [1]
+   7.36	WINSLOW [2]
+   9.29	VERNEY JUNCTION
+   9.37	Verney Junction with MCJ2 (50.56) and BVJ (0.08)
+  11.16	CLAYDON
+  12.57	Claydon L&NE Junction with MCJ4 (0.41)
+  15.05	MARSH GIBBON & POUNDON
+  17.14	LAUNTON
+  18.44	Bicester gas works
+  18.79	junction with WEJ (8.76)
+  19.00	Gavray Junction with BSG (0.52)
+  19.34	BICESTER TOWN formerly B.; B. LONDON ROAD
+  19.40	BICESTER VILLAGE
+  19.51	Bicester goods yard
+  20.00	connection to Central Ordnance depot
+  20.52	WENDLEBURY
+  22.65	CHARLTON
+  24.07	ODDINGTON
+  25.27	ISLIP [1]
+  25.35	ISLIP [2]
+  27.51	OXFORD PARKWAY
+  27.58	OXFORD ROAD
+  27.59	Oxford Road Junction with WOL (0.00)
+  28.29	junction with Woodstock Curve (0.37?)
+  28.46	Woodstock Road
+  28.79	WOLVERCOTE
+  30.09	Oxford North Junction with DCL (64.45)
+  30.20	PORT MEADOW formerly SUMMERTOWN
+  30.52	Oxford New Junction with ONJ1
+  30.75	junction with DCL (63.66)
+  31.22	OXFORD REWLEY ROAD

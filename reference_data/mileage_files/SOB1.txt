@@ -1,0 +1,2 @@
+   0.00	Snailwell Junction with SOB2 (1.54) and SOB3 (1.54)
+   0.63	Chippenham Junction with CCH (16.04)

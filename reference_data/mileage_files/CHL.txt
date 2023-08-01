@@ -1,0 +1,7 @@
+  92.21	Barnwood Junction with BAG2
+  92.23	Engine Shed Junction with BAG2
+  92.35	junction with GNY2
+  92.52	GLOUCESTER T
+  92.55	Gloucester New yard
+  92.77	junction with GNY2
+  93.09	Gloucester Yard Junction with BGL1 (93.09) and SWM2 (113.03)

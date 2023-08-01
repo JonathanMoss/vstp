@@ -1,0 +1,5 @@
+   0.00	Copenhagen Junction with ECM1 (0.64)
+   0.06	Kings Cross Incline Junction with CRF3
+   0.30	junction with CRF2 (4.45)
+
+Note that this route was rebuilt on a modified alignment in connection with Channel Tunnel rail link works and redesignated NLI

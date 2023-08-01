@@ -1,0 +1,11 @@
+ 150.61	Perth South Junction with SCM4 and SCM5 (21.23)
+ 151.08	St Leonards Junction with SCM5 (20.76)
+ 151.25	PERTH
+ 151.36	Perth [North British] goods depot
+ 151.65	Dovecoteland goods depot
+ 152.16	MUIRTON
+ 152.77	Almond Valley Junction with AVB (0.00)
+ 155.41	LUNCARTY
+ 156.37	STRATHORD
+ 156.52	junction with SDB (0.00)
+ 158.38	Stanley Junction with HGL2 (7.02) and KAS (158.38)

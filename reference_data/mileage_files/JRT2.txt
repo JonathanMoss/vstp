@@ -1,0 +1,3 @@
+   2.00	Mortimer Street Junction with JRT1 (0.18) and Engine Shed Junction to Mortimer Street Junction Curve (2.00)
+   2.06	HIGHGATE ROAD
+   2.42	Junction Road Junction with GOJ (0.58) and TAH1 (2.42)

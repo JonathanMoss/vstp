@@ -1,0 +1,11 @@
+73.73	Kettering North Junction with SPC3 [later junction]
+74.46	Glendon South Junction with SPC3 [original junction]
+77.04	GEDDINGTON
+79.32	Corby North Junction with BSC (0.00)
+79.40	CORBY [3]
+79.42	CORBY [1]
+79.45	CORBY [2]
+83.01	GRETTON
+84.76	HARRINGWORTH
+90.11	MANTON
+90.23	Manton Junction with GSM2 (90.23) and PMJ (0.00)

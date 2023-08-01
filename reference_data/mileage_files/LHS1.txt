@@ -1,0 +1,10 @@
+   0.00	Portobello Junction with ECM8 (3.29)
+   0.05	Portobello bottle works siding
+   0.19	Westbank brickworks siding
+   0.30	Baileyfield siding
+   0.51	King's Road siding
+   2.22	Seafield Junction with LHS2
+   2.38	Seafield siding
+   2.42	Chemical company's siding
+   2.51	Gas works siding
+	end of docks lines

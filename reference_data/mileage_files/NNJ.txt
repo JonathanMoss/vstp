@@ -1,0 +1,3 @@
+   8.38	Northwich South Junction with NSN and SNJ
+   8.47	divergence with NSN
+   8.66	Northwich Station Junction with CDM2 (20.52)

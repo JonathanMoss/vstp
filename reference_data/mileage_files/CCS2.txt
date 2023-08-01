@@ -1,0 +1,7 @@
+  14.06	junction with CCS1 (14.06) and MIR2 (2.79)
+  15.10	junction with Brook Street to Shore Road Line
+  15.30	Canning Street North Junction with dock lines
+  15.40	junction with dock lines
+  15.42	Cathcart Street goods depot
+
+Note that the line onwards from 15.40 to Cavendish sidings is owned by the dock company

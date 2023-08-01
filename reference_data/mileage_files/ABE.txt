@@ -1,0 +1,4 @@
+   0.00	Allington West Junction with NOG1 (108.69)
+   0.34	Allington North Junction with ACD (0.25)
+   4.04	Barkston East Junction with line from Barkston North Junction (0.39)
+   4.08	Barkston East Junction with GRS1 (110.12)

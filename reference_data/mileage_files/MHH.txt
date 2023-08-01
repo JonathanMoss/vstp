@@ -1,0 +1,15 @@
+Original measure
+   0.53	Heysham Line Junction with MSM (2.06) and SKW2 (263.25)
+   0.00	Torrisholme Junction No 2/West Junction with HTJ (263.01)
+ 265.59	MIDDLETON ROAD
+ 266.14	junction with power station lines
+ 266.42	HEYSHAM PORT
+ 266.66	HEYSHAM HARBOUR formerly H.
+
+Later measure
+   0.00	later junction with MSM (1.71)
+   0.38	Torrisholme Junction No 2/West Junction with HTJ (263.01)
+   3.18	MIDDLETON ROAD
+   3.53	junction with power station lines
+   4.01	HEYSHAM PORT
+   4.25	HEYSHAM HARBOUR formerly H.

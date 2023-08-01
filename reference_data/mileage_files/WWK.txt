@@ -1,0 +1,2 @@
+   0.00	Westgate South Junction with DOL2 (175.38)
+   0.26	Wakefield Kirkgate West Junction with MVN2 (47.43) and WAG1 (47.43)

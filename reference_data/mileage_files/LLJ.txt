@@ -1,0 +1,4 @@
+   0.00	Llandudno Junction with CNH3 (223.55)
+   0.64	Deganwy goods depot
+   1.16	DEGANWY
+   3.14	LLANDUDNO

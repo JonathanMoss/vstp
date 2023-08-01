@@ -1,0 +1,6 @@
+  32.00	junction with NOB1 and NOB4
+  32.24	junction with LIA (2.21)
+  32.40	Boultham Junction with BHP (0.00) and LIA (2.33)
+  32.70	West Holmes Junction with SPD3 (83.29)
+
+Note that 32.24-32.40 is shared with LIA

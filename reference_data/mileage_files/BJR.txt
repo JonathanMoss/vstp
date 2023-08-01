@@ -1,0 +1,34 @@
+   0.00	Bassaleg Junction with WVL (2.05)
+   0.23	BASSALEG
+   0.30	junction with NSZ
+   1.38	RHIWDERIN
+   3.41	CHURCH ROAD
+   4.34	junction with Bassaleg locomotive works lines
+   4.19	Machen quarry
+   4.69	later end of line
+   5.01	MACHEN
+   5.03	Machen Junction with CPY
+  (5.37)	WHITE HART
+   6.70	TRETHOMAS
+   7.69	BEDWAS
+   9.38	Duffryn Isaf Junction with PRS (15.40)
+   9.71	LLANBRADACH COLLIERY
+  12.44	MAESYCWMMER formerly M.; M. & HENGOED
+  13.22	Maesycwmmer Junction with MAE (10.69)
+  13.61	FLEUR DE LIS
+  14.30	PENGAM (MON) formerly P.; P. & FLEUR-DE-LIS; FLEUR-DE-LIS
+  15.10	Aberbargoed Junction with BDP
+  15.79	BARGOED COLLIERY
+  16.16	ABERBARGOED [1, 3] formerly A.; BARGOED & A.
+  16.26	ABERBARGOED [2] formerly BARGOED & A.
+  17.21	CWMSYFIOG COLLIERY formerly CWMSYFIOG & BRITHDIR; CWMSYFIOG
+  17.50	CWMSYFIOG
+  17.55	ELLIOT PIT
+  18.00	ELLIOT PIT COLLIERY
+  18.39	NEW TREDEGAR formerly N. T.; WHITEROSE; N. T. & WHITEROSE; N. T. & TIRPHIL
+  19.23	NEW TREDEGAR COLLIERY
+  19.58	New Tredegar Colliery Junction North with NTB (21.62)
+  19.73	MCCLAREN COLLIERY
+  19.79	ABERTYSSWG
+  20.70	RHYMNEY LOWER formerly R.; R. & PONTLOTTYN; R. PWLL UCHAF
+  20.78	end of line and junction with colliery lines

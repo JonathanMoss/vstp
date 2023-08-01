@@ -1,0 +1,37 @@
+   0.00	London Road Junction with SPC7 (128.23) and SPC8 (127.54)
+   0.05	junction with carriage and wagon works lines
+   0.50	RAMSLINE
+   1.16	PEARTREE formerly PEAR TREE & NORMANTON
+   1.27	Melbourne Junction with MJS1 (131.15)
+   4.50	Stenson Junction with SSJ2 (132.12)
+   5.16	North Stafford Junction with NSS (30.10)
+   6.03	WILLINGTON
+   6.11	REPTON & WILLINGTON formerly W.; W. & R.
+   9.49	Wetmore Junction with HAB
+   9.76	junction with HAB
+  10.00	North Stafford Junction with BUB (3.27)
+  10.21	Horninglow Junction with HOW
+  10.27	Guild Street Junction with GSB
+ ≈10.60	BURTON-ON-TRENT [1] formerly B.
+  10.67	BURTON-ON-TRENT [2]
+  11.02	Mosley Street Branch Junction with MST (0.00)
+  11.19	Leicester Junction with SHO2 (127.01)
+  11.20	Leicester Junction with KSL (127.00)
+  12.15	Branston Junction with BCJ (127.19)
+  12.32	BRANSTON
+  14.52	BARTON & WALTON
+  14.55	Barton North Junction with depot lines
+  15.20	Central Rivers depot
+  15.65	Barton South Junction with depot lines
+  16.22	Wichnor Junction with BJW3 (23.33)
+  16.42	WICHNOR
+  17.49	CROXALL formerly OAKLEY & ALREWAS; O.
+  19.37	ELFORD formerly HASELOUR; H. & E.; E. & H.; H.
+  23.34	junction with TCV
+  23.58	TAMWORTH formerly T.; T. High Level
+  24.24	Glascote North Junction with colliery lines
+  24.46	Glascote South Junction with colliery lines
+  25.47	WILNECOTE (STAFFS) formerly W. & FAZELEY
+  28.29	Kingsbury Branch Junction with KBC (0.00)
+  29.20	KINGSBURY
+  29.39	Kingsbury Junction with DBP2 and KJW

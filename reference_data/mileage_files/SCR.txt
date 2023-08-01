@@ -1,0 +1,5 @@
+  23.03	Speke Junction with WJL3 (187.15)
+  23.52	Garston Junction with AEG (0.27)
+  24.04	GARSTON CHURCH ROAD
+  24.26	GARSTON DOCK
+  24.35	junction with HXS1 (4.63)

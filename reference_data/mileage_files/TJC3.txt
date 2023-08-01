@@ -1,0 +1,150 @@
+ 161.77	Masborough Station South Junction with CHR (161.77) and TJC2 (163.74)
+ 162.00	ROTHERHAM MASBOROUGH formerly M. R.; M.; M. & R.; R. M.; R.
+ 162.24	Masborough Station North Junction with CHR
+ 162.52	Car House colliery
+ 163.15	Greasborough Junction with PAY (0.00)
+ 163.78	PARKGATE & RAWMARSH formerly R.; R. & Park Gate
+ 164.43	Aldwarke South Junction with ASN
+ 164.48	Aldwarke North Junction with ANS (7.00)
+ 164.63	[later] Aldwarke Junction with WME (7.17)
+ 164.64	Joint Line Junction with RSC (13.29)
+ 164.70	Roundwood, Parkgate and Rawmarsh sidings
+ 164.73	[later] junction with WME (7.26)
+ 165.50	Charlesworth's colliery sidings
+ 165.76	KILNHURST WEST formerly K.
+ 166.60	Swinton Junction South with SMJ1
+ 166.74	SWINTON TOWN [2] formerly S.
+ 167.03	Swinton Junction North with SJM1
+ 167.09	SWINTON [1]
+ 167.18	Swinton Junction with SWW (0.39)
+ 167.71	Wath Road Junction with SMJ1
+ 169.06	WATH NORTH formerly W.; W. & BOLTON; W.-ON-DEARNE
+ 169.24	Wath Main colliery
+ 170.63	DARFIELD [1]
+ 171.28	DARFIELD [2]
+ 172.05	Dearne Valley colliery
+ 172.45	Houghton Main colliery
+ 172.68	Dearne Valley North Junction with GRC1
+ 173.61	Storrs Mill Junction with Grimethorpe Colliery line (0.62 long)
+ 174.76	Station South Junction with STC (174.77)
+ 175.08	CUDWORTH formerly BARNSLEY
+ 175.41	Cudworth South Junction with BAM1
+ 175.75	Cudworth North Junction with MKB1 (0.34)
+ 176.07	Hull & Barnsley Goods Junction with Hull & Barnsley lines
+ 176.18	Carlton exchange sidings
+ 176.42	Wharncliffe Woodmoor Colliery sidings
+ 177.27	ROYSTON & NOTTON [2]
+ 177.50	intersection bridge under OON (mileage unknown)
+ 177.68	Havercroft & Hodroyd Colliery sidings
+ 177.73	junction with Monckton Main colliery lines
+ 178.00	Hodroyd Colliery sidings
+ 178.20	intersection bridge under OON (mileage unknown)
+ 178.26	Royston Junction with ROY
+ 178.30	Lodges siding
+ 178.35	ROYSTON & NOTTON [1]
+ 178.39	Royston Goods Junction with link to OON (mileage unknown)
+ 178.57	Musgroves siding
+ 181.14	WALTON formerly SANDAL & W.
+ 181.40	West Riding Junction with SBM (0.56)
+ 181.52	bridge over DOL1 (mileage unknown)
+ 181.71	Oakenshaw South Junction with OAJ (49.41) and OSC (181.71)
+ 182.12	bridge over L&Y lines (mileage unknown) and junction with West Sharlston Colliery sidings
+ 182.19	OAKENSHAW [later goods depot]
+ 182.28	Oakenshaw North Junction with OSC
+ 183.09	Snydale Branch Junction with SNO
+ 184.07	St John's colliery sidings
+ 184.56	Goose Hill Junction with MVN2 (50.31)
+ 184.65	junction with WBK (0.51)
+ 185.11	NORMANTON
+ 185.64	Scott's siding
+ 186.03	Altofts Junction with NOC (23.54)
+ 186.19	Pope & Pearsons sidings
+ 186.34	ALTOFTS formerly A. & WHITWOOD
+ 187.09	Whitwood colliery siding
+ 187.34	original Methley Junction with MEW2 (1.12)
+ 187.38	relocated Methley Junction with MEW1 (1.16)
+ 187.40	Methley Junction with MEP (1.16)
+ 188.28	METHLEY NORTH formerly M.
+ 188.45	Briggs & Company Saville Pit sidings
+ 189.71	Bentley's siding
+ 190.02	WOODLESFORD
+ 190.50	Waterloo & Woodlesford Colliery Company's sidings
+ 191.77	Rothwell Haigh colliery
+ 192.00	junction with East & West Yorkshire line
+ 192.45	Stourton Junction with LOS (184.00)
+ 192.74	Stourton sidings
+ 193.18	Hunslet Wagon Works
+ 193.42	Aireside Steel & Iron Company's sidings
+ 193.48	Hunslet South Junction with Balm Lane goods depot lines
+ 193.55	Hunslet sidings
+ 193.67	Balm Lane goods depot
+ 193.69	HUNSLET [1]
+ 193.75	Nicholson & Middleton's sidings
+ 194.14	HUNSLET [2]
+ 194.37	Hunslet Goods Junction with DTL
+≈195.00	junction with Holbeck depot
+ 195.20	Engine Shed Junction with ELN
+ 195.33	intersection bridge under DOL4 (mileage unknown)
+ 195.42	LEEDS (WHITEHALL)
+ 195.45	Whitehall SE Junction with Whitehall Spur
+ 195.52	Whitehall East Junction with DOL2 (185.30)
+ 195.57	Whitehall West Junction with DOL2 (185.25)
+	intersection bridge under DOL3 (185.29)
+ 195.68	HOLBECK [low level]
+ 196.16	Armley Junction with LEH1 (0.16)
+ 196.65	ARMLEY CANAL ROAD formerly A.
+ 198.24	KIRKSTALL
+ 199.16	KIRKSTALL FORGE [1] [later goods depot]
+ 199.25	KIRKSTALL FORGE [2]
+ 199.58	NEWLAY & HORSFORTH formerly N.
+ 200.77	CALVERLEY & RODLEY formerly C.; C. BRIDGE
+ 201.79	Apperley Junction with ILK1
+ 202.56	APPERLEY BRIDGE [1] formerly A. B.; A. B. & RAWDON
+ 202.65	APPERLEY BRIDGE [down platform]
+ 202.72	APPERLEY BRIDGE [2] [mid point]
+ 202.79	APPERLEY BRIDGE [up platform]
+ 203.21	Bradford Corporation siding
+ 205.44	Guiseley Junction with GUE2 (3.38)
+ 205.54	Shipley East Junction with SBF
+ 205.72	SHIPLEY (YORKS)
+ 206.01	Shipley West Junction with BIB (0.17)
+ 206.37	Salt's Saltaire Mills siding and Shipley Stone siding
+ 206.51	SALTAIRE
+ 207.17	Hirst Wood sidings
+ 208.68	BINGLEY [2]
+ 209.01	BINGLEY [1]
+ 209.45	CROSSFLATTS
+ 211.30	Keighley Gas Works siding
+ 211.43	THWAITES
+ 211.57	Strong Close Works siding
+ 211.67	Ambler & Dickinsons siding
+ 211.75	Watson & Whalley's siding and Butterfields siding
+ 212.06	KEIGHLEY and Clapham Brothers' siding
+ 212.18	Keighley Station Junction with KWV (0.00)
+ 212.28	Keighley Timber Company's siding
+ 212.33	junction with line to Clapham Brothers siding, Beadmans Wagon Repair Works siding and Prince Smith & Sons Works siding
+ 215.04	STEETON & SILSDEN formerly STEETON
+ 216.55	KILDWICK & CROSS HILLS [1] formerly K.
+ 216.59	Kildwick Gas Company's siding
+ 216.73	KILDWICK & CROSS HILLS [2]
+ 218.20	CONONLEY
+ 219.79	Snaygill
+ 220.51	Robinsons Stone siding
+ 220.72	intersection bridge under SKS1 (mileage unknown)
+ 221.11	SKIPTON [1]
+ 221.21	SKIPTON [2]
+ 221.35	Skipton Station North Junction with SKS1 (222.68)
+ 221.45	Skipton exchange sidings
+ 221.68	Skipton North Junction with SKW1
+ 225.05	ELSLACK
+ 226.19	Bends Lime Works siding
+ 226.30	THORNTON-IN-CRAVEN formerly T.
+ 227.53	EARBY
+ 228.28	Barnoldswick Junction with BRK
+ 228.42	Earby Ammunition Works siding
+ 230.23	FOULRIDGE
+ 232.25	exchange sidings
+ 232.38	COLNE
+ 232.39	junction with GJC (27.36)
+
+Note that 166.60-167.71 is duplicated in SMJ1

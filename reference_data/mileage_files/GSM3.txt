@@ -1,0 +1,9 @@
+ 103.72	Syston South Junction with SPC5
+ 104.22	Syston East Junction with SEN (0.17)
+ 107.02	REARSBY
+ 108.33	BROOKSBY
+ 110.17	FRISBY
+ 111.35	ASFORDBY
+ 113.36	Melton Junction with GSM2 (105.70) and GSM4 (105.70)
+
+Note that some sources claim that 103.72-104.22 form GSM5.  However, no official source found refers to GSM5

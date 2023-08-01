@@ -1,0 +1,3 @@
+   0.15	relocated High Meads Junction with CHM (0.15) and LLS2 (0.65)
+   0.23	original High Meads Junction with CHM (0.23) and LLS2 (0.73)
+   0.59	Temple Mills East Junction with SDC (4.45)

@@ -1,0 +1,13 @@
+ 288.26	later Burngullow Junction with MLN3
+ 288.50	original Burngullow Junction with MLN3
+ 288.67	Crugwallins siding
+ 289.71	High Street siding
+ 289.72	junction with SDZ
+ 290.61	junction with SDZ (290.50)
+ 291.31	Drinnick Mill Junction with DNG
+ 292.18	Restowrack siding
+ 292.35	Kernick
+ 292.79	Central Treviscoe
+ 293.46	Parkandillack
+ 295.54	junction with RET (0.07)
+ 295.61	St Dennis Junction with NEW (294.21)

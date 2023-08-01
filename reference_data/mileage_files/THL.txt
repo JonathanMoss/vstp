@@ -1,0 +1,4 @@
+ 119.16	Trent South Junction with SPC6 and TSN1
+ 120.51	Meadow Lane Junction with AML (0.00)
+ 121.06	Toton East Junction with overbridge line to Toton down sidings
+ 121.36	Toton Junction with TCC (121.26)

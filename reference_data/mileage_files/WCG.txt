@@ -1,0 +1,3 @@
+   0.00	Watford High Street Junction with CWJ (16.55)
+   0.17	junction with Cardiff Road power station branch
+   0.28	Croxley Junction with CCG1 (16.61) and CCG2 (16.61)

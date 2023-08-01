@@ -1,0 +1,23 @@
+  50.21	Worting Junction with BML1
+  52.26	OAKLEY
+  55.45	OVERTON
+  59.08	WHITCHURCH (HAMPSHIRE) formerly W.; W. NORTH
+  61.11	HURSTBOURNE
+  61.26	junction with HTF
+  66.09	connection with AKJ (0.10)
+  66.19	ANDOVER formerly A.; A. JUNCTION
+  66.26	junction with LUD1
+  67.61	Red Post Junction with LUD1 (67.61) and LUD2 (0.00)
+  72.49	GRATELEY
+  73.02	Newton Tony Junction with ABY
+	AMESBURY JUNCTION
+ ≈75.00	divergence with ABY
+  75.43	junction with link to ABY [up line] (0.31 long (mean))
+  75.53	junction with link to ABY [down line] (0.31 long (mean))
+  77.50	IDMISTON
+  78.23	PORTON
+  82.11	Laverstock North Junction with LAV
+  82.36	Salisbury Tunnel Junction with RTJ2 (96.05)
+  83.28	junction with Market House line
+  83.43	SALISBURY
+  83.72	Fisherton Short Mile with BAE2 (84.00)

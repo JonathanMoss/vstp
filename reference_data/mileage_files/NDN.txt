@@ -1,0 +1,24 @@
+ 179.26	junction with DAC
+ 182.72	YEOFORD
+ 183.69	Coleford Junction with DAC
+ 185.67	COPPLESTONE
+ 187.38	MORCHARD ROAD
+ 189.65	LAPFORD
+ 193.57	EGGESFORD
+ 197.51	KINGS NYMPTON
+ 200.38	PORTSMOUTH ARMS
+ 204.52	UMBERLEIGH
+ 207.02	CHAPELTON (DEVON)
+ 211.07	Barnstaple Loop West Junction with BAZ (209.19)
+ 211.24	Barnstaple Junction locomotive depot
+ 211.25	BARNSTAPLE
+ 211.32	Barnstaple Junction with ILF
+ 213.78	FREMINGTON
+ 217.57	INSTOW
+ 220.06	junction with BFD
+ 220.25	BIDEFORD
+ 221.69	Bartlett's siding
+ 225.30	TORRINGTON
+ 225.33	end on junction with THJ (0.00)
+
+Note that from 179.26 to 183.69, NDN runs on the same trace as DAC

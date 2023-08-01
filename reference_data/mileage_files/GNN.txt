@@ -1,0 +1,3 @@
+   0.00	New Greenburn Junction with KSH (54.60)
+   0.55	ownership boundary NR/mine
+   2.13	Greenburn mine

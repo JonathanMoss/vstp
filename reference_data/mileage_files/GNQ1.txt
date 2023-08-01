@@ -1,0 +1,7 @@
+   0.00	Oswestry Branch Junction with WSJ2 (189.41)
+   0.65	PARK HALL
+   2.05	junction with lines to terminus
+   2.13	Oswestry North Junction with GNQ4 (18.10)
+
+   2.05	junction with main route
+   2.19	OSWESTRY

@@ -1,0 +1,19 @@
+  19.03	Arundel Junction South with BLI1
+  19.31	Ford Junction with FJL (0.00/60.25)
+  19.55	FORD
+  21.02	YAPTON
+  22.29	BARNHAM
+  22.35	Barnham Junction with BBR
+  23.46	WOODGATE
+  26.54	DRAYTON
+  27.27	Portfield sidings
+  28.51	CHICHESTER
+  28.62	connection with CSY (link is 0.10 long and connects at 0.05)
+  29.27	divergence from FCL1 (29.27/71.51)
+  30.12	FISHBOURNE (SUSSEX)
+  31.43	BOSHAM
+  33.14	NUTBOURNE
+  34.16	SOUTHBOURNE
+  35.50	EMSWORTH
+  36.66	WARBLINGTON
+  37.25	Havant Junction with WPH1 (66.18) and WPH2 (37.25)

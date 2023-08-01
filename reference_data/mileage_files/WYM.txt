@@ -1,0 +1,4 @@
+  58.34	mileage junction with SPC2
+  59.00	Wymington (or Sharnbrook) tunnel portal
+  60.05	Wymington (or Sharnbrook) tunnel portal
+  62.07	mileage junction with SPC2 (62.02)

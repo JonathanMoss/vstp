@@ -1,0 +1,17 @@
+   3.76	Stratford Central Junction East with LTN1
+   4.03	STRATFORD
+   4.31	Chobham Farm Junction with link to DWW2 (0.38 long)
+   4.45	Temple Mills East Junction with LLS1 (0.59)
+   4.49	junction with SMP (0.58)
+   4.52	Loughton Junction with EPP
+   4.55	junction with STM
+   4.61	junction with batching sidings
+   5.06	Manor yard
+   5.17	Ruckholt Road Junction with Stratford traction maintenance depot
+   5.58	Orient Way sidings
+   5.75	Temple Mills West Junction with STM
+   6.25	LEA BRIDGE [1]
+   6.30	LEA BRIDGE [2]
+   6.34	Lea Bridge Junction with HFL
+   7.10	Coppermill Junction with CHF (0.00)
+   7.14	Coppermill North Junction with BGK (4.74)

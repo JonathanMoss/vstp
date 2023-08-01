@@ -1,0 +1,14 @@
+  39.43	Newton Junction with AYR6
+  39.45	junction with ZZA2
+  39.66	Blackhouse Junction with HBJ (0.22)
+  41.43	Auchincruive Junction with Auchincruive sidings
+  41.59	AUCHINCRUIVE
+  43.01	Mossblown Junction with PAB (40.06)
+  43.49	Drumley Pit
+  43.52	Annbank Junction with KCH1/ACL
+  43.57	ANNBANK
+  45.76	TARBOLTON
+  50.11	junction with ZZA1 (0.00)
+  50.17	relocated Mauchline Junction with GSW (43.10)
+  50.19	MAUCHLINE
+  50.30	original Mauchline Junction with GSW (43.23)

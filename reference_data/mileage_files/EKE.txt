@@ -1,0 +1,15 @@
+   0.00	Busby Junction with GBK (3.18)
+   0.53	THORNLIEBANK
+   0.65	Brassey's siding
+   0.75	Washwall's old siding
+   1.14	Washwall's new siding
+   1.45	GIFFNOCK
+   2.56	CLARKSTON [1]
+   2.69	CLARKSTON [2]
+	junction with east-facing link to NNH
+	junction with CLP (0.00)
+   3.54	BUSBY and junction with BPT
+   4.54	THORNTONHALL
+   6.14	HAIRMYRES
+   7.60	EAST KILBRIDE
+   7.64	junction with EKB

@@ -1,0 +1,6 @@
+   0.00	Bushbury (Oxley) Junction with PBJ (15.23)
+  ≈0.41	junction with BUY (≈142.57)
+  ≈0.56	junction with DCL (≈142.55)
+   1.02	Stafford Road Junction with DCL (143.02), WSJ1 (142.79) and WSJ2 (143.02)
+
+Note that 0.00-≈0.41 was formerly in BUY, and ≈0.45-1.02 was formerly in DCL

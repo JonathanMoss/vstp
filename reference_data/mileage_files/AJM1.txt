@@ -1,0 +1,19 @@
+ 137.41	Ambergate South Junction with SPC8 [from 17 February 2019]
+ 137.61	Ambergate South Junction with SPC8
+ 137.74	Ambergate South Junction with SPC8
+ 138.10	Ambergate Station Junction with curve back to SPC8
+ 138.18	AMBERGATE
+ 138.26	Ambergate West Junction with Ambergate North Curve (0.23)
+ 140.13	WHATSTANDWELL [2] formerly W. BRIDGE
+ 140.34	WHATSTANDWELL BRIDGE [1] later goods depot
+ 141.24	High Peak Junction with CHP1 (24.06)
+ 143.10	CROMFORD
+ 143.73	MATLOCK BATH
+ 145.00	MATLOCK formerly M. BRIDGE
+ 145.32	MATLOCK RIVERSIDE
+≈147.00	DARLEY DALE [1]
+ 147.15	DARLEY DALE [2]
+ 148.29	ROWSLEY SOUTH
+ 148.70	Rowsley sidings
+ 149.11	Goods & Engine Shed Branch Junction with AJM2
+ 149.39	ROWSLEY later goods depot

@@ -1,0 +1,33 @@
+ 175.32	end on junction with DOL1
+ 175.38	Westgate South Junction with WWK (0.00)
+≈175.55	WAKEFIELD WESTGATE [1]
+ 175.65	WAKEFIELD WESTGATE [2]
+ 175.68	Wakefield Westgate goods depot
+ 176.14	Balne Lane Junction/Ossett Branch Junction with WAJ
+ 176.53	Wrenthorpe sidings
+ 176.76	Wrenthorpe North Junction with Wrenthorpe Curve (0.00)
+ 178.14	Lofthouse South Junction with LOM (178.14/5.03)
+ 178.19	LOFTHOUSE & OUTWOOD formerly L. & WRENTHORPE
+ 178.26	OUTWOOD
+ 178.43	Lofthouse North Junction with Lofthouse North Curve (0.00)
+ 178.47	Lofthouse Colliery Junction with LOS
+ 179.76	sidings
+ 180.09	ARDSLEY
+ 180.11	Ardsley Junction with GIB
+ 181.05	bridge under BEB (mileage unknown)
+ 182.33	Beeston South Junction with BEB (0.00)
+ 182.37	Beeston North Junction with … (Hunslet branch)
+ 183.20	BEESTON
+ 184.22	Gelderd Road Junction with DOL4 (41.43?)
+ 184.39	Wortley South Junction with WWS
+ 185.02	Copley Hill Junction with MDL1 (42.03) and MDL2 (42.03)
+ 185.03	Holbeck Junction with DOL3 (185.03) and LBE1 (0.00)
+ 185.18	HOLBECK [high level]
+ 185.25	Whitehall West Junction with MDL2 (42.25) and TJC3 (195.57)
+ 185.26	Whitehall Road Junction with WRG
+ 185.30	Whitehall East Junction with TJC3 (195.52)
+ 185.45	Leeds West Junction/Leeds North Junction with ELN (195.53)
+ 185.50	Leeds Canal Junction with DOL4 (42.47)
+ 185.70	LEEDS formerly L. NEW/L. WELLINGTON; L. CITY and end on junction with HUL4 (20.50)
+
+Note that 185.02-185.25 is shared with MDL2

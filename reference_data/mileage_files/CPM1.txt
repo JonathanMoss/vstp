@@ -1,0 +1,6 @@
+  56.42	Pontefract West Junction with WAG1 (56.36)
+  56.65	Prince Of Wales colliery
+  58.20	GLASSHOUGHTON
+  58.36	Glasshoughton colliery sidings
+  58.74	Cutsyke sidings
+  59.03	Cutsyke Junction with CPM2 (0.61) and MEP (59.03)

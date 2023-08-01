@@ -1,0 +1,14 @@
+   0.00	Cowlairs West Junction with EGM1 (1.67) and MRL1 (8.26)
+   0.32	Sighthill West Junction with PNS (0.30)
+   0.40	Neilson's siding
+   0.42	SPRINGBURN
+   0.55	Sighthill East Junction with CBD2 (103.46)
+   0.71	Barnhill Junction with SIG
+   0.73	BARNHILL
+   1.37	GARNGAD
+   2.06	ALEXANDRA PARADE formerly A. PARK
+   2.13	Haghill Junction with PAD (0.00)
+   2.33	DUKE STREET
+   2.58	Bellgrove Junction with NEM2 (0.69)
+
+Note that 0.00-0.71 is duplicated in SIG

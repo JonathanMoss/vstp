@@ -1,0 +1,6 @@
+ 119.62	Sheet Stores Junction with SPC6
+ 122.73	Gateway West Junction with Gateway Terminal sidings lines
+ 123.28	CASTLE DONNINGTON & SHARDLOW formerly C. D.
+ 123.33	junction with Castle Donnington power station lines
+ 126.19	WESTON-ON-TRENT
+ 127.27	Chellaston East Junction with MJS1 (127.27) and MJS2 (10.72)

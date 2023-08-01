@@ -1,0 +1,75 @@
+   0.00	LONDON VICTORIA
+   0.29	junction with VTB1
+   0.38	junction with Grosvenor carriage shed lines
+   0.51	end of Grosvenor carriage shed
+   0.72	Battersea Pier Junction with BSF
+   1.49	Linford Street Junction with AHG (2.50)
+   1.68	Factory Junction with ATL (6.58) and BSF (1.75)
+   1.74	Clapham goods depot
+   2.15	Voltaire Road Junction with ATL (6.39)
+   2.65	Shepherd's Lane Junction with ATL (5.65)
+   3.08	Brixton Junction with CAT
+   3.14	BRIXTON formerly B. & SOUTH STOCKWELL
+   3.70	Herne Hill North Junction with HHH (4.30)
+   3.76	HERNE HILL
+   4.06	Herne Hill South Junction with HHH (4.46) and HHT (4.06)
+   5.02	WEST DULWICH formerly D.
+   5.57	SYDENHAM HILL
+   7.15	PENGE EAST formerly P.
+   7.66	KENT HOUSE
+   8.34	Beckenham Junction with BBJ (11.38)
+   8.43	Beckenham Junction with NBB (10.04)
+   8.53	BECKENHAM JUNCTION formerly B.
+   9.57	Shortlands Junction with CAT (10.73)
+   9.75	Shortlands Junction with RVC (0.48)
+  10.03	SHORTLANDS formerly BROMLEY
+  10.71	BROMLEY SOUTH formerly B.
+  11.76	BICKLEY formerly SOUTHBOROUGH ROAD
+  12.38	Bickley Junction with TLP1
+  12.49	Bickley Junction with TLP2
+  12.79	St Mary Cray Junction with CSM1 (11.71)
+  13.35	St Mary Cray Junction with CSM3 (12.30)
+  14.57	ST MARY CRAY
+  17.31	SWANLEY
+  17.37	Swanley Junction with SBJ
+  17.52	SWANLEY JUNCTION formerly SEVENOAKS JUNCTION
+  20.41	FARNINGHAM ROAD formerly F.
+  21.18	FARNINGHAM HOME FOR LITTLE BOYS
+  22.51	Fawkham Junction with END (22.51)/FJS (200.091km)
+  23.30	LONGFIELD formerly FAWKHAM ROAD; FAWKHAM
+  25.76	MEOPHAM
+  26.71	SOLE STREET
+  32.71	ROCHESTER BRIDGE
+  33.01	Rochester Bridge Junction with HDR (31.34)
+  33.15	junction with old route
+  33.34	ROCHESTER [2]
+  33.61	ROCHESTER [1]
+  34.25	CHATHAM
+  35.75	GILLINGHAM (KENT) formerly NEW BROMPTON; G.
+  36.16	Gillingham Junction with CYD (0.00)
+  38.74	RAINHAM (KENT) formerly R. & NEWINGTON; R.
+  41.42	NEWINGTON
+  43.70	Sittingbourne Western Junction with WMS
+  44.18	Sittingbourne Eastern Junction with SEJ1 (0.00)
+  44.59	SITTINGBOURNE formerly S.; S. & MILTON; S. & MILTON REGIS
+  47.74	TEYNHAM
+  51.77	FAVERSHAM
+  52.05	junction with FEK
+  52.07	Faversham Junction with FDM
+  58.54	WHITSTABLE TOWN formerly W.; W.-ON-SEA
+  59.06	WHITSTABLE formerly W. TOWN & TANKERTON; W. & TANKERTON
+  60.45	CHESTFIELD & SWALECLIFFE
+ ≈62.40	HERNE BAY [1]
+  62.58	HERNE BAY [2]
+  63.52	Eddington
+  66.52	Reculvers
+  70.03	junction with Manston Camp line
+  70.56	BIRCHINGTON-ON-SEA formerly B.
+  72.35	WESTGATE-ON-SEA
+  73.69	MARGATE formerly M.; M. WEST
+  74.10	junction with link to RMS
+  74.42	MARGATE EAST formerly E. M.
+  77.09	BROADSTAIRS
+  77.73	Harbour Junction with RHB (77.73/0.00)
+  78.26	DUMPTON PARK
+  79.21	RAMSGATE and junction with ACR (85.67)

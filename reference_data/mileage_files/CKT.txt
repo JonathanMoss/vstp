@@ -1,0 +1,3 @@
+   0.00	Craiglockhart Junction with SUB2 (1.17)
+   0.35	junction with ZZB9
+   0.48	Slateford Junction with ECA2 (99.01) and ECA3 (99.01)

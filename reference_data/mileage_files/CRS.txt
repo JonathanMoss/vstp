@@ -1,0 +1,5 @@
+  42.71	end on junction with NSM
+  42.72	SHERINGHAM
+  44.39	WEST RUNTON
+  45.17	Runton West Junction with RNW1 (13.63)
+  45.64	Runton East Junction with WHC2 (13.48) and WHC3 (45.64)

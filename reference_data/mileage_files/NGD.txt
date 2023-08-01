@@ -1,0 +1,3 @@
+   0.00	London Road Junction with NEC2 (59.49)
+   0.21	M&CR and NER Junction with CAA
+   0.25	Bog Junction with SCG (0.44) and UCJ (1.07)

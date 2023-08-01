@@ -1,0 +1,2 @@
+   0.61	Langside Junction with GBA (0.61) and LFS1 (101.17)
+   1.19	Muirhouse South Junction with GBK (1.19) and MEN2 (0.00)

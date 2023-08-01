@@ -1,0 +1,64 @@
+  78.00	Northam Short Mile Junction with BML1 (77.68)
+  78.15	Northam Junction with SOY
+  78.24	NORTHAM
+  78.32	junction with link to SOY (0.16 long)
+  79.02	SOUTHAMPTON WEST END formerly S. BLECHYNDEN
+  79.19	SOUTHAMPTON CENTRAL formerly S. WEST; S. C.; S.
+  79.78	down line junction with MIS
+  80.11	MILLBROOK (HANTS) formerly M.
+  80.27	up line junction with MIS
+  81.70	REDBRIDGE
+  81.76	Redbridge Junction with RTJ1 (23.31)
+  82.43	TOTTON
+  82.52	junction with ETY
+  82.67	Totton Junction East with TTF
+  83.30	Totton Junction West with TTF
+  85.34	ASHURST NEW FOREST formerly LYNDHURST ROAD
+  88.06	BEAULIEU ROAD
+  92.66	BROCKENHURST formerly B.; B. & LYMINGTON; B.; B. JUNCTION
+  93.25	Brockenhurst Junction with BLP
+  93.55	Lymington Junction with BTW
+  93.60	Lymington Junction with BLP
+  95.45	SWAY
+  96.30	Hordle
+  97.30	Arnewood
+  98.44	NEW MILTON
+ 101.05	HINTON ADMIRAL formerly H.
+ 104.18	junction with RCH (112.23)
+ 104.28	CHRISTCHURCH
+ 106.14	BOSCOMBE [1]
+ 106.24	POKESDOWN formerly BOSCOMBE [2]; P. BOSCOMBE
+ 106.58	junction with Bournemouth East line
+ 106.66	BOSCOMBE [3]
+ 107.41	junction with Bournemouth Central goods depot lines
+≈107.65	BOURNEMOUTH EAST [1] formerly B.
+ 107.68	Bournemouth Central goods depot
+ 108.02	BOURNEMOUTH formerly B. EAST [2]; B. CENTRAL
+ 108.65	MEYRICK PARK
+ 110.15	junction with Branksome east curve
+ 110.48	Branksome Junction with BBD9 (1.12)
+ 110.51	BRANKSOME
+ 111.76	PARKSTONE (DORSET) formerly P.
+ 113.62	POOLE
+ 114.25	Holes Bay Junction with BJP (118.46)
+ 115.70	Hamworthy Junction with HAG
+ 115.73	Hamworthy Junction with BJH (118.77)
+ 115.77	HAMWORTHY formerly POOLE JUNCTION; H. JUNCTION
+	HOLTON
+ 118.61	HOLTON HEATH
+ 120.05	Sandyford siding
+ 120.62	WAREHAM [1]
+ 120.70	WAREHAM (DORSET) formerly W. [2]
+ 121.77	Worgret Junction with FUR (126.30)
+ 125.62	junction with Bovington Camp line
+ 125.69	WOOL
+ 127.69	Winfrith sidings
+ 130.24	MORETON (DORSET) formerly M.
+ 131.12	WOODSFORD CROSSING
+ 135.28	Edison & De Matto siding
+ 135.54	junction with terminus lines
+ 135.70	DORCHESTER SOUTH formerly D. [2]
+ 135.74	DORCHESTER [1] terminus
+ 136.15	Dorchester Junction with BML3 (162.14) and WEY (162.14)
+
+Note that 135.54 - 136.15 was originally considered to be Dorchester Junction, with the main line running to the terminus

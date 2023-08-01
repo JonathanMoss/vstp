@@ -1,0 +1,23 @@
+ 120.26	Parson Street Junction with MLN1
+ 120.52	Northville Building Company's siding
+ 120.60	West Loop North Junction with POW (0.30)
+ 121.18	Ashton Junction with BWW (1.26)
+ 121.30	ASHTON GATE
+ 121.63	CLIFTON BRIDGE
+ 122.37	NIGHTINGALE VALLEY
+ 124.42	Oakwood
+ 125.26	HAM GREEN
+ 126.12	PILL reopening proposed
+ 126.32	Portbury Dock Junction with PBY
+ 127.12	PORTBURY SHIPYARD
+ 127.77	PORTBURY
+≈129.29	PORTISHEAD [3] proposed
+ 129.32	junction with timber jetty line
+ 129.52	junction with new line
+ 129.66	junction with WCA (14.27/0.00)
+ 129.75	PORTISHEAD [1]
+≈130.25	PORTISHEAD PIER
+ 130.29	Portishead pier
+
+ 129.52	junction with old line
+ 129.65	PORTISHEAD [2]

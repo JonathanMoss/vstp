@@ -1,0 +1,16 @@
+  61.72	Wokingham Junction with GTW2 (61.72) and RDG1 (36.35)
+  62.08	WOKINGHAM
+  64.10	WINNERSH
+  64.72	WINNERSH TRIANGLE
+  66.01	EARLEY
+  67.76	Reading Spur Junction with RNJ
+  68.23	junction with original route and ROJ
+  68.25	junction with RLL
+  68.30	junction with RLL2
+  68.34	junction with stabling sidings
+  68.48	end of stabling sidings
+  68.68	READING
+
+  68.23	junction with realigned route
+ ≈68.54	READING SOUTHERN [1]
+  68.68	READING SOUTHERN [2]

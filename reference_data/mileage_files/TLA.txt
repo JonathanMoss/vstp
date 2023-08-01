@@ -1,0 +1,3 @@
+  33.54	Stansted South Junction with BGK
+  34.26	Stansted East Junction with TEN (0.49)
+  36.67	STANSTED AIRPORT

@@ -1,0 +1,17 @@
+   5.74	Lewisham Crossover Junctions with BEX (5.74) and NTL (7.53)
+   6.04	LEWISHAM formerly L.; L. JUNCTION
+   6.21	Courthill Loop Junction North with NCS
+   6.41	Ladywell Junction with LLL (6.29 or 6.41)
+   6.62	LADYWELL
+   7.42	CATFORD BRIDGE
+   8.67	LOWER SYDENHAM [1]
+   9.02	LOWER SYDENHAM [2]
+   9.44	NEW BECKENHAM [2]
+   9.51	New Beckenham Junction with NBB
+   9.60	NEW BECKENHAM [1]
+  10.25	CLOCK HOUSE
+  11.06	ELMERS END
+  11.12	Elmers End Junction with EEA
+  12.34	EDEN PARK
+  13.19	WEST WICKHAM
+  14.34	HAYES (KENT) formerly H.

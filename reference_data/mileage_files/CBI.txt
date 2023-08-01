@@ -1,0 +1,2 @@
+   0.00	St Pancras Junction/Canal Tunnel Junction with MCL (2.16)
+   0.53	Belle Isle Junction with ECM1 (0.57)

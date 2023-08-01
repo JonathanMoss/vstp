@@ -1,0 +1,24 @@
+  24.57	Glazebrook East Junction with MAJ
+  25.36	CADISHEAD
+  26.36	PARTINGTON
+  27.19	junction with Partington coal basin lines
+  28.12	later start of line
+  29.29	WEST TIMPERLEY
+  30.08	Skelton West Junction with SDJ1 (0.39)
+  30.12	Skelton East Junction with SJD (0.00)
+  31.19	BAGULEY
+  33.42	NORTHENDEN
+  33.56	Northenden Junction with EJN (3.65)
+  35.03	CHEADLE NORTH
+  35.49	Exchange sidings
+  35.64	Cheadle Junction with NMC2 (181.71)
+  36.33	Heaton Mersey East Junction with MSD1 (0.66)
+  37.04	junction with Wellington Road goods depot lines
+  37.24	Wellington Road goods depot
+  37.52	TEVIOT DALE
+  38.11	PORTWOOD [later goods depot]
+  38.23	Portwood sidings and later start of line
+  38.26	Brinnington Junction with BMM (1.22)
+  39.46	Bredbury Junction with RJB (179.59)
+  40.14	junction with GMC
+  40.56	Woodley Junction with RYH1 (179.44) and RYH2 (8.74)

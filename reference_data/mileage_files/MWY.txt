@@ -1,0 +1,19 @@
+Later measure
+   0.00	Mwyndy Junction with ELY (0.47)
+   1.04	Maesaraul Junction with LTR
+   1.23	Maesaraul siding
+   1.50	Explosive siding
+   2.12	Scull's siding
+   2.23	Llwynsaer siding
+   2.45	Dowlais siding
+   2.63	Brofiscin lime works
+
+Original measure
+   0.47	Mwyndy Junction with ELY
+   1.51	Maesaraul Junction with LTR (1.04)
+   1.70	Maesaraul siding
+   2.17	Explosive siding
+   2.59	Scull's siding
+   2.70	Llwynsaer siding
+   3.12	Dowlais siding
+   3.30	Brofiscin lime works

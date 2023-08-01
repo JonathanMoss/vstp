@@ -1,0 +1,11 @@
+   0.00	Norton On Tees South Junction with LEN3 (61.71)
+   0.28	Norton On Tees West Junction with NWE (0.30)
+   1.24	Carlton East Junction with SSD (0.00) [later Redmarshall East Junction]
+   1.42	Intersection Bridge with Stockton & Castle Eden Line (3.63)
+   2.07	REDMARSHALL formerly CARLTON
+   2.15	junction with Redmarshall Loop (0.72)
+   3.74	STILLINGTON
+   5.06	Stillington North Junction with SIM (6.14)
+   8.32	SEDGEFIELD
+   9.50	junction with colliery lines
+  10.72	Ferryhill South Junction with ECM5 (56.36)

@@ -1,0 +1,4 @@
+  42.03	Copley Hill Junction with DOL2 (185.02) and MDL1 (42.03)
+  42.25	Whitehall West Junction with DOL2 (185.25)
+
+Note that this route is shared with DOL2.  See also 42.12 in WRG.

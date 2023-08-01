@@ -1,0 +1,8 @@
+  14.77	Purley North Junction with VTB2 (13.14)
+  15.13	PURLEY
+  15.23	Purley Chipstead Line Junction with TAT
+  16.29	KENLEY
+  17.58	WHYTELEAFE
+  18.18	WHYTELEAFE SOUTH
+  18.53	HALLILOO
+  19.70	CATERHAM

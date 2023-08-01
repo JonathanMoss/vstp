@@ -1,0 +1,10 @@
+  24.44	Grosmont Junction with MBW2 (29.66) and RLG (24.44)
+  24.51	Whitby Branch Junction track connection with Malton line
+  25.48	Dorsley Bank siding
+  27.63	SLEIGHTS
+  29.12	Sneaton siding
+  29.31	RUSWARP
+  29.77	intersection bridge under SCW (≈20.25)
+  30.36	Whitby Bog Hall Junction with BOG (51.71)
+  30.61	WHITBY
+  30.69	run round ground frame

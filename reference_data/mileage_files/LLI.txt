@@ -1,0 +1,3 @@
+ 157.71	Salop Goods Junction with BHI (157.71) and GSG (0.37)
+ 158.55	Thomas Street Junction with LEC5 [up line]
+ 158.73	junction with LEC5 [down line]

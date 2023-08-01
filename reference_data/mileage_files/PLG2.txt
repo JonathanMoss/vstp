@@ -1,0 +1,3 @@
+   0.00	High Street Junction with PLG1 (101.15)
+   0.12	Greensfield Junction with Redheugh Incline (0.74)
+   0.21	Greensfield Junction with HLK (0.16)

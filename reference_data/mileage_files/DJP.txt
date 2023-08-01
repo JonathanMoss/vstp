@@ -1,0 +1,49 @@
+  78.60	relocated Dovey Junction with SBA2
+  78.74	original Dovey Junction with SBA2
+  79.03	DOVEY JUNCTION
+  80.54	GOGARTH
+  82.29	ABERTAFOL
+  84.08	PENHELIG
+  84.76	Aberdovey Harbour Junction with Aberdovey Harbour Branch (0.00)
+  85.02	ABERDOVEY
+  88.56	TYWYN
+  91.09	TONFANAU
+  92.31	Tonfanau quarry siding
+  93.24	LLANGELYNIN
+  95.20	LLWYNGWRIL
+  97.72	FAIRBOURNE
+  98.64	Dolgelley Branch Junction with Barmouth Loop (0.22)
+  99.00	MORFA MAWDDACH
+  99.05	Barmouth Junction with RUA (52.23)
+  99.60	Barmouth viaduct (mid point)
+ 100.50	BARMOUTH
+ 102.13	LLANABER
+ 104.37	TALYBONT
+ 105.50	DYFFRYN ARDUDWY
+ 107.70	LLANBEDR
+ 108.46	PENSARN (GWYNEDD)
+ 109.17	LLANDANWG
+ 111.12	HARLECH
+ 113.55	TYGWYN
+ 114.42	TALSARNAU
+ 115.63	LLANDECWYN
+ 116.47	PENRHYNDEUDRAETH
+ 117.58	MINFFORDD and bridge under RFF (1.79)
+ 117.79	start of 2011 deviation
+ 118.28	Garth quarry siding [on original route]
+ 118.34	end of 2011 deviation
+ 119.50	flat crossing with Welsh Highland Railway
+ 119.61	junction with Beddgelert Siding (0.00)
+ 119.77	PORTHMADOG
+ 121.56	Wern siding
+ 123.38	BLACK ROCK
+ 124.74	CRICCIETH
+ 128.18	AFON WEN
+ 128.28	Afon Wen Junction with CNV (18.40)
+ 129.29	PENYCHAIN formerly BUTLINS P.
+ 130.76	ABERERCH
+ 132.13	junction with original line
+ 132.70	PWLLHELI [2]
+
+ 132.13	junction with later line
+ 132.27	PWLLHELI [1]

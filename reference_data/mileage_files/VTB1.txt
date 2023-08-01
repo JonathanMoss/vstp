@@ -1,0 +1,27 @@
+   0.00	LONDON VICTORIA
+   0.29	junction with VIR
+   0.73	junction with BSP1
+   1.16	Battersea Park Junction with ATL (7.35)
+   1.23	BATTERSEA PARK formerly YORK ROAD; YORK ROAD & B. P.; B. P. & YORK ROAD
+   2.04	Pouparts Junction with BSP2 (2.20)
+   2.57	CLAPHAM JUNCTION
+   2.66	Falcon Junction with WLL (0.00)
+   3.05	NEW WANDSWORTH
+	WANDSWORTH COMMON [1]
+   4.05	WANDSWORTH COMMON [2]
+   4.52	BALHAM formerly B.; B. & UPPER TOOTING
+   4.69	Balham Junction with BBJ
+   6.06	Streatham North Junction with SLJ
+   6.16	Streatham North Junction with SNS
+   6.42	junction with SSC (8.10)
+   6.48	STREATHAM COMMON formerly S. C.; GREYHOUND LANE
+   6.53	Streatham goods depot
+   7.36	NORBURY
+   8.54	THORNTON HEATH
+   8.57	Thornton Heath goods depot
+   9.31	SELHURST
+   9.37	Selhurst Junction with NYD (9.46)
+   9.43	Selhurst Junction with SNF and WCS
+   9.69	Selhurst Emergency Spur Junction with ESS
+   9.76	Windmill Bridge Junction with LBW (9.61) [slow lines]
+  10.03	Windmill Bridge Junction with LBW (9.69) [fast lines] and VTB2 (9.69)

@@ -1,0 +1,2 @@
+   0.00	Soho East Junction with SSP (2.38)
+   0.22	Soho North Junction with RBS2 (2.38)

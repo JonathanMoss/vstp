@@ -1,0 +1,8 @@
+  10.11	Motspur Park Junction with RPE
+  11.05	MALDEN MANOR
+  12.06	TOLWORTH
+  13.25	CHESSINGTON NORTH
+  13.73	CHESSINGTON SOUTH
+  14.32	end of line
+
+Note that an additional 2.37 was planned but never completed, to join BTH3 0.12 north east of Kingston Road Bridge in Leatherhead

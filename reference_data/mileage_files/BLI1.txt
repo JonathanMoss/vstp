@@ -1,0 +1,33 @@
+   0.00	BRIGHTON
+   0.05	Brighton West Coast Junction with VTB3 (50.42)
+   0.09	junction with BPJ (50.39)
+   0.73	HOVE [1] later goods depot
+   0.76	HOLLAND ROAD
+   1.28	Hove Junction with PPH (50.48)
+   1.35	HOVE [2] formerly CLIFTONVILLE; WEST BRIGHTON; H. & WEST BRIGHTON
+   1.65	goods depot
+   1.74	ALDRINGTON
+  ≈1.79	DYKE JUNCTION
+   2.01	Dyke Junction with BDD (0.00)
+   2.73	PORTSLADE [2] formerly P.; P & WEST HOVE
+	PORTSLADE [1]
+   3.47	FISHERSGATE
+   4.30	SOUTHWICK
+   4.66	KINGSTON-ON-SEA formerly K.
+   5.14	Kingston On Sea goods depot
+   5.69	SHOREHAM-BY-SEA formerly S.; S. HARBOUR
+   6.12	Shoreham Junction with BVS1 (57.61)
+   6.73	SHOREHAM AIRPORT formerly BUNGALOW TOWN
+   8.19	LANCING
+   9.55	EAST WORTHING formerly HAM BRIDGE
+ ≈10.41	WORTHING [1]
+  10.46	WORTHING [2] formerly W.; W. CENTRAL
+  11.30	WEST WORTHING
+  12.13	DURRINGTON-ON-SEA
+  13.07	GORING-BY-SEA formerly G.
+  15.44	ANGMERING
+  17.68	ARUNDEL & LITTLEHAMPTON
+  17.74	LYMINSTER
+  19.01	Arundel Junction North with TBH1 (59.74)
+  19.03	Arundel Junction South with TBH2
+  19.25	Littlehampton Junction with FJL (60.57/0.31) and BLI2 (60.57)

@@ -1,0 +1,9 @@
+  14.59	Gwaun Cae Gurwen Branch Junction with GNT
+  14.67	GARNANT
+  14.72	Raven Junction with CRZ
+  15.11	GORS Y GARNANT
+  15.55	RED LION CROSSING
+  15.78	Abernant Junction with CMG (0.00)
+  16.13	GWAUN CAE GURWEN
+  16.15	Gwaun Cae Gurwen Junction with CRZ (≈16.13) and GGZ (0.00)
+  16.67	junction with colliery sidings

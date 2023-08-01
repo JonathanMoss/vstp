@@ -1,0 +1,6 @@
+ 244.41	Mount Gould Junction with PLO (0.34)/SUT1 (244.45) and LAS (244.45)
+ 244.46	Mount Gould South Junction with PLZ
+ 244.60	Friary Junction with FRY
+ 245.18	Northeys Junction with link to Cattewater branch
+ 245.37	North Quay Branch Junction with NQY
+ 245.62	Sutton Harbour

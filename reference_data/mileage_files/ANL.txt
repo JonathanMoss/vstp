@@ -1,0 +1,19 @@
+   3.24	Old Oak Common Junction with MLN1
+   3.43	OLD OAK LANE
+   3.65	NORTH ACTON [1]
+   4.07	North Acton Junction with NAV
+   4.08	NORTH ACTON [2]
+   4.46	PARK ROYAL
+   4.68	Park Royal Branch Junction with PRL (0.00/4.68)
+   5.03	PARK ROYAL WEST
+   5.28	TWYFORD ABBEY
+   5.41	BRENTHAM
+  (6.54)	PERIVALE London Underground station
+   6.65	PERIVALE
+   7.15	Greenford East Junction with GEC (8.70)
+   7.49	Greenford West Junction with WEL1 (8.77)
+   7.64	GREENFORD
+   8.51	temporary connection with London Underground lines
+   8.59	NORTHOLT
+  (8.67)	NORTHOLT London Underground station
+  10.15	Northolt Junction with NAJ1 (0.00) and NAJ2 (0.00)

@@ -1,0 +1,22 @@
+  52.07	Faversham Junction with VIR
+  55.18	SELLING
+  58.59	Chartham siding
+  61.03	Canterbury Junction A with link to ACR (0.39 long)
+  61.22	intersection over ACR (69.45)
+  61.65	CANTERBURY EAST
+  64.58	BEKESBOURNE
+  67.60	ADISHAM
+  68.66	AYLESHAM
+  69.60	SNOWDOWN
+  71.04	junction with EKR
+  71.60	SHEPHERDSWELL
+  73.41	STONEHALL & LYDDEN
+  75.09	KEARSNEY
+  75.69	Deal Junction with Kearsney Loop (99.00)
+  76.32	Buckland Junction with BME2 (99.05)
+  77.26	DOVER PRIORY
+  77.72	Ferry Dock Junction with DFD
+  77.75	DOVER HARBOUR
+  77.76	Hawkesbury Street Junction with HSE (76.53)
+  78.07	Dover goods depot [formerly ADMIRALTY PIER station?]
+  78.18	junction with XTD (76.56)

@@ -1,0 +1,23 @@
+ 133.60	Uttoxeter Line Junction with LEC3 (133.60) and SUX (12.60)
+ 133.61	junction with WND (0.00)
+ 136.69	GREAT BRIDGEFORD
+ 137.40	Little Bridgeford Junction with temporary construction siding
+ 137.42	Little Bridgeford Junction with LEC6
+ 138.30	Shallowford
+ 138.41	later Norton Bridge Junction with NBS (4.15)
+ 138.68	NORTON BRIDGE [2]
+ 138.72	earlier Norton Bridge Junction with NBS (3.56)
+≈139.02	NORTON BRIDGE [1]
+ 140.00	Heamies Bridge mileage change with LEC6 (139.64)
+ 141.25	Badnall wharf
+ 143.32	STANDON BRIDGE
+ 145.38	Stableford
+ 147.43	WHITMORE
+ 149.41	Madeley Junction with HCM3 (0.00)
+ 150.09	MADELEY
+ 152.05	Wrinehill
+ 153.21	BETLEY ROAD
+ 156.16	Basford Hall Junction with BHI
+ 156.20	Basford Hall Junction with CIL
+ 157.03	Basford Wood
+ 157.20	junction with LEC5

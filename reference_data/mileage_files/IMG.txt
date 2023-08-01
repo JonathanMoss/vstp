@@ -1,0 +1,8 @@
+Earlier measure
+   0.00	original Bamfurlong Junction with CGJ5 (4.26)
+   0.18	Bamfurlong Sidings Junction with CGJ5 (4.43)
+   0.79	Ince Moss Junction with SBH3 (12.09)
+
+Measure used by 2022
+   0.00	Bamfurlong Sidings Junction with CGJ5 (4.43)
+   0.61	Ince Moss Junction with SBH3 (12.09)

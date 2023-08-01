@@ -1,0 +1,5 @@
+   0.00	Eccles Station Junction with DSE (27.56)
+   0.05	Eccles sand siding
+   0.54	Weaste Junction (ownership boundary NR/Manchester Ship Canal)
+   0.72	Manchester Docks goods depot
+   1.03	end of Weaste depot

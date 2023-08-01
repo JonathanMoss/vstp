@@ -1,0 +1,21 @@
+   9.72	Shirebrook East Junction with PSE (145.62)
+  10.19	Shirebrook South Junction with CLN1
+  10.59	Warsop Junction with SWP (0.00)
+  12.19	WARSOP
+  13.17	Welbeck Colliery Junction with WKC (0.00)
+  14.47	Clipstone sidings
+  15.15	Clipstone West Junction with CWS (11.04)
+  15.40	Clipstone East Junction with CEM (11.09)
+  16.47	EDWINSTOWE
+  17.21	Thoresby Colliery Junction with TYC (0.00)
+  18.11	OLLERTON
+  19.27	Ollerton West Junction with REX1 (0.00)
+  19.45	Ollerton Colliery Junction with OCB
+	junction with link to BEC
+  20.15	Boughton Junction with BEC (0.00)
+  20.55	BOUGHTON
+  23.75	TUXFORD
+  24.41	Tuxford Great Central Junction with Tuxford Chord (0.00)
+  24.79	DUKERIES JUNCTION
+  27.53	High Marnham power station
+  28.01	end on junction with CLN3

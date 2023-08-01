@@ -1,0 +1,7 @@
+   6.32	Mansfield colliery and end on junction with MFD1
+   8.05	junction with colliery lines
+   9.08	Rufford Junction with RUC1 (0.00)
+   9.13	Clipstone Colliery Junction with CCN
+  10.61	Duke of Portland's Siding
+  10.66	Clipstone South Junction with CWS
+  11.09	Clipstone East Junction with HIM (15.40)

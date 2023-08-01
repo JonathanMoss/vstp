@@ -1,0 +1,4 @@
+   0.00	Herbrandston Junction with MIL (283.12)
+   1.06	Amoco Junction with sidings
+   2.34	property boundary (NR/Elf Oil)
+   3.15	end of line

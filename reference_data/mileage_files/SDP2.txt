@@ -1,0 +1,8 @@
+  84.10	Fareham East Junction with ETF (84.10) and SDP1 (14.15)
+  84.21	FAREHAM
+  84.27	Fareham West Junction with FTB
+  87.35	PORTCHESTER formerly PORCHESTER
+  88.59	PAULSGROVE
+  90.06	COSHAM
+  90.43	Cosham Junction with FJJ (90.43/41.04)
+  91.01	Portcreek Junction with WPH2 (41.03)

@@ -1,0 +1,5 @@
+  -0.06	relocated Mossend North Junction with SCM2 (91.42)
+   0.00	original Mossend North Junction with SCM2 (91.42)
+   0.40	Mossend East Junction with EGS1 (3.63) and EGS2 (0.40)
+
+Note that -0.06 to 0.00 is duplicated in MDNX

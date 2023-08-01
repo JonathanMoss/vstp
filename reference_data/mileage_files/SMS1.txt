@@ -1,0 +1,6 @@
+   0.00	Streatham South Junction with BTH1 (8.15)
+   0.76	TOOTING
+   1.01	Tooting Junction with MPT (5.51)
+   2.18	HAYDONS ROAD formerly HAYDENS LANE
+   3.05	WIMBLEDON formerly W. & MERTON
+   3.06	junction with SMS2 (7.20)

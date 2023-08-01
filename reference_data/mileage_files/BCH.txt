@@ -1,0 +1,11 @@
+  16.39	Dalreoch Junction with HBH/NEM7
+  16.62	Dalreoch quarry
+  17.46	Cordale Branch Junction with DQN
+  18.11	RENTON
+  19.20	ALEXANDRIA and junction with DIL (0.00)
+  19.25	junction with FER (0.00)
+  20.27	Forth & Clyde Junction with FAC (30.00)
+  20.38	BALLOCH [2]
+  20.45	BALLOCH CENTRAL formerly B. [1]
+  20.76	BALLOCH PIER
+  21.05	end of pier

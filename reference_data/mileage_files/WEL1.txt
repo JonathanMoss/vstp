@@ -1,0 +1,9 @@
+   6.56	West Ealing Junction with MLN1
+   7.04	Drayton Green Junction with HAN (0.36)
+   7.07	DRAYTON GREEN
+  ≈7.41	CASTLE BAR PARK [1]
+   7.44	CASTLE BAR PARK [2]
+   8.24	SOUTH GREENFORD
+   8.44	Greenford South Junction with GEC
+   8.65	junction with WEL2
+   8.77	Greenford West Junction with ANL (7.49)

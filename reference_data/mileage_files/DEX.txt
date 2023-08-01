@@ -1,0 +1,42 @@
+ 123.72	Rectory Junction with NOG1
+ 124.31	junction with sewerage works lines
+ 124.51	Colwick exchange sidings
+ 125.21	Colwick North Junction with NGC (0.61)
+ 125.61	GEDLING
+ 126.45	Gedling colliery
+ 128.27	Arno Vale
+ 128.74	Daybrook Junction with NSR (3.55)
+ 128.79	DAYBROOK
+ 129.65	Wright's siding
+ 129.72	Nottingham Corporation Hospital siding
+ 129.76	Leen Valley Junction with LVY
+ 130.62	Basford East Junction with link to Bagthorpe Junction (on MCJ3) (up line 0.67 long; down line 0.54 long)
+ 130.68	Basford West Junction with link to Bulwell South Junction (on MCJ3) (0.42 long)
+ 130.72	BASFORD & BULWELL
+(131.21)	Cinder Hill/Babbington colliery
+ 131.34	Babbington Junction with Cinder Hill/Babbington colliery line
+ 132.25	Nuthall sand siding
+ 132.51	Nuthall sidings and junction with Watnall colliery line (1.04 long)
+ 134.12	KIMBERLEY
+ 134.62	Awsworth Junction with PIG
+ 135.35	AWSWORTH
+ 136.71	ILKESTON
+ 137.22	Heanor Branch Junction with HER
+ 137.27	Stanton Branch Junction with SNL
+ 138.03	West Hallam Branch Junction with West Hallam Coal & Iron works lines (0.30 long)
+ 139.30	junction with Stanley Colliery lines
+ 139.47	WEST HALLAM
+(139.54)	Stanley Colliery
+ 143.27	BREADSALL
+ 143.76	Race Course siding
+ 145.59	DERBY FRIARGATE
+ 146.01	Derby Goods Junction with Derby Goods Branch
+ 146.16	Derby Cattle Junction with Derby Cattle Branch
+ 148.15	MICKLEOVER
+ 152.04	ETWALL
+ 153.35	EGGINTON
+ 153.45	Egginton East Junction with NSS (26.74)
+ 153.46	Egginton West Junction with NSS (26.73)
+ 154.69	Dove Junction with BUB (0.69)
+
+Note that 153.45 to 153.46 is shared with NSS

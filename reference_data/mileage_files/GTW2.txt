@@ -1,0 +1,12 @@
+  48.34	Ash Junction with ATF (35.50) and GTW1 (35.50)
+  49.18	ASH
+  50.01	Aldershot South Junction with NSA (50.01/0.00)
+  51.18	NORTH CAMP
+ ≈53.08	junction with link to BML1
+  53.16	FARNBOROUGH NORTH
+  55.58	BLACKWATER
+  56.44	Patterson's siding
+	SANDHURST [1]
+  57.22	SANDHURST (BERKS) [2]
+  58.66	CROWTHORNE
+  61.72	Wokingham Junction with RDG1 (36.35) and RDG2 (61.72)

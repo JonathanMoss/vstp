@@ -1,0 +1,6 @@
+   0.00	Seal Sands Junction with POC2 (5.01)
+   1.31	BASF sidings
+   1.43	Monsanto siding
+   1.52	Simon Storage South siding
+   2.23	Simon Storage North siding
+   2.44	end of line

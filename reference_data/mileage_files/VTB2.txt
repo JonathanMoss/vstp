@@ -1,0 +1,18 @@
+   9.69	Windmill Bridge Junction with LBW (9.69) and VTB1 (10.03)
+  10.06	junction with goods depot lines
+  10.28	EAST CROYDON formerly C.; C. EAST; E. C. MAIN
+  10.32	goods depot
+ ≈10.36	junction with Central Croydon branch (0.29 long)
+  11.21	SOUTH CROYDON
+  11.29	South Croydon Junction with SCU1
+  12.34	PURLEY OAKS
+  13.14	Purley North Junction with PAT (14.77)
+  13.29	PURLEY formerly GODSTONE ROAD; GODSTONE ROAD CATERHAM JUNCTION; CATERHAM JUNCTION
+  14.24	Stoats Nest Junction with RED1
+  14.35	Purley goods depot
+  14.66	COULSDON NORTH formerly STOATS NEST; C. & SMITHAM DOWNS; C. WEST
+  16.60	Star Lane
+  17.24	start of Quarry tunnel
+  18.40	end of Quarry tunnel
+  20.04	Worsted Green
+  21.37	Earlswood junction with VTB3 (21.31)

@@ -1,0 +1,84 @@
+ 143.02	Stafford Road Junction with DCL (143.02), OXC (1.02) and WSJ1 (142.79)
+ 143.49	Oxley Middle Junction with Oxley depot lines and KWD (156.48)
+ 144.12	Oxley North Junction with Codsall Loop (156.32)
+ 145.66	BILBROOK formerly BIRCHES & B.
+ 146.02	Bill Brook siding
+ 146.41	CODSALL formerly CODSAL
+ 149.38	ALBRIGHTON
+ 150.69	COSFORD formerly C. AERODROME
+ 151.24	Neachley siding
+ 152.63	Ruckley
+ 154.24	SHIFNAL
+ 156.19	Madeley Junction with MJI1
+ 157.22	Hollinswood Junction with Stirchley Branch/Old Park Branch/Botfields Siding (0.00)
+ 157.40	TELFORD CENTRAL
+ 158.31	OAKENGATES formerly O.; O. WEST
+ 159.43	NEW HADLEY
+ 160.22	Ketley Junction with MJI2 (166.63)
+ 160.49	Haybridge siding
+ 160.73	Donnington Junction with Telford International Rail Freight Park line (0.00)
+ 160.75	Stafford Junction with WND (18.31)
+ 161.27	WELLINGTON (SHROPSHIRE) formerly W.; W. SALOP; W. TELFORD WEST; W.
+ 161.67	Market Drayton Junction with MKT
+ 162.76	ADMASTON
+ 163.70	Allscott
+ 165.18	WALCOT
+ 167.63	UPTON MAGNA
+ 170.03	Belvedere Bridge
+ 170.57	North Wales Junction with Potteries Loop (0.65)
+ 171.05	ABBEY FOREGATE
+ 171.15	Abbey Foregate Junction with AFE (0.25)
+ 171.39	Wellington Junction with SHL (0.11)
+ 171.46	SHREWSBURY
+ 171.54	Crewe Junction with SYC (32.29)
+ 172.02	Coton Hill South
+ 172.33	Coton Hill North
+ 175.37	LEATON
+ 176.78	OLDWOODS
+ 179.11	BASCHURCH
+ 180.35	STANWARDINE
+ 183.15	HAUGHTON
+ 184.63	REDNAL & WEST FELTON formerly R.
+ 187.63	WHITTINGTON LOW LEVEL formerly W.
+ 189.41	Oswestry Branch Junction with GNQ1 (0.00)
+ 189.50	GOBOWEN
+ 191.36	WESTON RHYN formerly PRESGWYN, PREESGWEENE
+ 192.02	TREHOWELL
+ 192.54	CHIRK
+ 193.05	Brynkinalt siding
+ 193.20	Black Park Junction with Black Park Branch
+≈193.75	LLANGOLLEN ROAD
+ 194.12	WHITEHURST formerly LLANGOLLEN ROAD
+ 194.44	Fron Branch Junction with FRO (0.00)
+≈195.00	RHOSYMEDRE [1]
+ 195.20	CEFN
+ 195.63	RHOSYMEDRE [2]
+ 196.30	Llangollen Line Junction with RUA (0.00)
+ 196.47	Plas Madoc Junction with PDC (0.00)
+ 197.04	RUABON
+ 197.16	original Gardden Lodge Junction with POY (0.00)
+ 197.31	relocated Gardden Lodge Junction with POY (0.15)
+ 197.39	WYNNVILLE
+ 198.08	Vauxhall colliery
+ 198.46	JOHNSTOWN & HAFOD
+≈199.20	RHOS
+ 199.76	Bersham
+ 200.62	Rhos Junction with RHO (0.00)
+ 201.21	Croes Newydd South Fork Junction with CSF
+ 201.42	Croes Newydd North Fork Junction with WAM/CNG (0.00)
+ 201.62	Wrexham South Junction with WDB1 (0.43)
+ 201.66	WREXHAM GENERAL
+ 202.07	connection with WDB1 (0.65)
+ 202.46	Wrexham colliery
+ 203.19	Wheatsheaf Junction with WSH (0.00)
+ 203.25	RHOSROBIN
+ 203.56	United colliery
+ 204.78	GRESFORD
+ 205.59	Marford
+ 206.48	ROSSETT
+ 208.15	PULFORD
+ 209.71	BALDERTON
+ 211.37	Saltney Dee Junction with SGB (0.00)
+ 211.57	SALTNEY
+ 212.02	Saltney Junction with CNH3 (181.09)
+ 212.12	Holyhead Junction with CNH3 (180.79)

@@ -1,0 +1,17 @@
+  13.36	original and 2020 junction with VON
+  13.45	NELSON & LLANCAIACH
+  13.53	intermediate Taff Bargoed Junction with VON
+  14.43	TRELEWIS
+  15.31	TAFF MERTHYR COLLIERY
+  17.02	BEDLINOG
+  17.11	BEDLINOG COLLIERY down platform
+  17.14	BEDLINOG COLLIERY mean
+  17.17	BEDLINOG COLLIERY up platform
+  20.35	CWM BARGOED
+  20.43	Fochriw Junction with FBZ (0.00) and junction with Cwmbargoed colliery lines
+  20.70	junction with Cwmbargoed colliery lines
+  20.75	later end of line
+  21.28	PENYDARREN
+  22.15	Furnace Tops Branch Junction with FTS
+  22.64	Dowlais Cae Harris locomotive depot
+  22.77	DOWLAIS CAE HARRIS

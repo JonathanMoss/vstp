@@ -1,0 +1,4 @@
+ 151.69	junction with FWR1
+ 151.78	NR/colliery boundary from 6 April 2019
+ 152.60	junction with link to FWR1
+ 153.31	end of colliery line

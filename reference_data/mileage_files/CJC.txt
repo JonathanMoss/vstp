@@ -1,0 +1,9 @@
+   4.38	Clapton Junction with BGK
+   4.74	Hall Farm Junction with CHF (0.23)
+   4.79	Hall Farm East Junction with HFL (7.06)
+   5.55	ST JAMES STREET (WALTHAMSTOW) formerly S. J. S.
+   6.16	WALTHAMSTOW CENTRAL formerly HOE STREET; HOE STREET W.
+   7.07	WOOD STREET formerly WALTHAMSTOW W. S.
+   8.52	HIGHAMS PARK formerly HALE END; HALE P.
+  10.12	CHINGFORD [1]
+  10.33	CHINGFORD [2]

@@ -1,0 +1,40 @@
+   0.00	ABERDEEN formerly A. JOINT and junction with ECN5 (241.08)
+   0.30	SCHOOLHILL
+   0.67	HUTCHEON STREET
+   1.20	KITTYBREWSTER
+   1.49	Kittybrewster Junction with WRO (1.69)
+   1.59	[relocated] Kittybrewster Junction with WRO (1.79)
+   2.17	DON STREET
+   2.47	WOODSIDE
+   3.15	PERSLEY
+   4.04	BUCKSBURN formerly BUXBURN
+   5.11	STONEYWOOD
+  ≈6.00	DYCE [1]
+   6.05	Dyce Junction with DPH
+   6.20	DYCE [2]
+   6.61	connection with Raiths Farm sidings
+   8.20	PITMEDDEN
+  10.43	KINALDIE
+  13.29	KINTORE [1]
+  13.53	KINTORE [2] and junction with KAB
+  15.44	Port Elphinstone
+  16.11	junction with IRM
+  16.23	INVERURIE [1] formerly INVERURY
+  16.72	INVERURIE [2]
+  20.10	junction with IMD
+  20.18	INVERAMSAY
+  21.29	PITCAPLE
+  24.46	OYNE
+  25.79	BUCHANSTONE
+  27.42	INSCH
+  31.07	WARDHOUSE
+  32.64	KENNETHMONT
+  35.65	GARTLY
+  40.67	HUNTLY
+  45.24	ROTHIEMAY
+  48.15	CAIRNIE JUNCTION
+  48.29	Cairnie Junction with ELC
+  48.78	junction with link to ELC
+  49.00	GRANGE
+  49.62	Burnmouth
+  53.05	Keith Junction with ANI2 (30.40) and DFN (53.05)

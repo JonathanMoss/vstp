@@ -1,0 +1,2 @@
+   0.00	Adwick Junction with DOL1 (160.65)
+   0.61	Skellow Junction with CJS (160.59)

@@ -1,0 +1,12 @@
+  30.44	Holm Junction with ARH and LGS1
+  30.68	Parkhouse Junction with PCL (0.21)
+  30.79	gas work sidings
+  35.10	WEST KILBRIDE
+  36.46	Hunterston Junction with HUN (0.00)
+  36.47	Hunterston Junction with ZZC2
+  37.10	Poteath
+  38.69	Fairlie High Junction with British Energy sidings
+  39.01	FAIRLIE formerly F.; F. TOWN; F. HIGH
+  39.58	junction with Admiltary sidings
+  39.79	FAIRLIE PIER on Admiralty line
+  42.07	LARGS

@@ -1,0 +1,26 @@
+  10.40	junction with MVE1
+  10.50	BOLTON formerly B.; B. TRINITY STREET
+  10.55	Bolton West Junction with BBB
+  10.66	Newport Street Junction with BTG (0.13)
+  13.39	Lostock Junction with LCN
+  13.52	LOSTOCK
+  15.06	LOSTOCK LANE
+	Lostock Lane Junction with LJC (1.12) [see note]
+  15.50	HORWICH PARKWAY
+  16.55	Red Moss Junction with HBD (3.27)
+  16.59	Red Moss Junction with HSF
+  17.14	BLACKROD
+  17.27	Blackrod Junction with HOT (0.00)
+  18.55	Gringleford Bar Junction with line to Blackrod Junction
+  19.15	ADLINGTON (LANCASHIRE) formerly A.
+  19.44	Adlington Junction with BAD (3.45) and ELK (0.00)
+ ≈21.32	RAWLINSON BRIDGE
+  22.14	CHORLEY [temporary down platform, 2016]
+  22.20	CHORLEY
+  22.25	junction with CCT
+  24.39	BUCKSHAW PARKWAY
+  24.46	CHORLEY ROYAL ORDNANCE FACTORY
+  25.18	EUXTON
+  25.31	Euxton Junction with CGJ5 (16.22)
+
+Note that the link at Lostock Lane Junction was never laid

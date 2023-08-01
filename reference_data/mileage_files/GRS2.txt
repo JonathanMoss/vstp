@@ -1,0 +1,11 @@
+ 112.00	junction with GRS1
+ 114.53	ANCASTER
+ 118.42	RAUCEBY
+ 120.29	Sleaford West Junction with SNW (1.34)
+ 120.53	SLEAFORD and junction with BSA (17.30)
+ 121.21	Sleaford East Junction with SSE (0.43)
+ 125.57	HECKINGTON
+ 130.25	SWINESHEAD
+ 133.48	HUBBERTS BRIDGE
+ 135.57	Wyberton
+ 137.06	Sleaford Junction with GRS3 (106.70) and LNL1 (106.70)

@@ -1,0 +1,17 @@
+   8.67	West Croydon Junction with LBW
+   9.26	Norwood Fork Junction divergence with LBW
+   9.49	Gloucester Road Junction with WCS (9.66)
+   9.61	St James Junction with ESS (9.73)
+  10.35	WEST CROYDON formerly C.
+  10.59	junction with CMJ (5.65)
+  11.40	WADDON
+  12.21	BANDON
+  13.05	WALLINGTON formerly CARSHALTON
+  13.72	CARSHALTON BEECHES
+ ≈14.00	BEECHES
+  14.66	Sutton East Junction with BTH1 (13.45) and BTH2 (14.66)
+  14.75	SUTTON (LONDON) formerly S.; S. SURREY; S. GREATER LONDON
+  16.01	BELMONT formerly CALIFORNIA
+  17.40	BANSTEAD formerly B.; B. & BURGH HEATH
+  18.57	EPSOM DOWNS [2]
+  18.78	EPSOM DOWNS [1]

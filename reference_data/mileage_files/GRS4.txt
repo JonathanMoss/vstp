@@ -1,0 +1,6 @@
+   0.26	Firsby East Junction with GRS3 (122.22) and Firsby East Curve (0.26)
+   2.24	THORPE CULVERT
+   4.15	WAINFLEET
+   5.78	HAVENHOUSE
+   8.04	SEACROFT
+   9.17	SKEGNESS

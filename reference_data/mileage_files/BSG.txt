@@ -1,0 +1,6 @@
+   0.00	Bicester South Junction with NAJ3 (8.26)
+   0.52	Gavray Junction with OXD (19.00)
+
+Note that this line is sometimes referred to as WEJ, possibly in error or as an interim before full design had taken place, thus:
+   8.45	junction with NAJ3
+   8.76	junction with OXD (18.79)

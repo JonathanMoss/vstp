@@ -1,0 +1,4 @@
+   0.09	Manchester Victoria East Junction with MVM
+   0.73	Cheetham Hill Junction with CQR
+   1.15	Smedley Viaduct Junction with CGL (1.30)
+   2.30	Thorpes Bridge Junction with MPR1 (2.16)

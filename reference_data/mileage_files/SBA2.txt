@@ -1,0 +1,44 @@
+  31.23	Buttington Junction with GNQ4 (31.23) and SBA1 (16.22)
+  33.55	junction with original route
+  33.70	WELSHPOOL [2]
+  34.24	junction with original route
+  36.09	Kilkewydd siding
+  38.19	FORDEN
+  40.16	MONTGOMERY
+  43.66	ABERMULE
+  43.75	Kerry Branch Junction with KER (0.00)
+  45.72	PENARTH
+  47.10	NEWTOWN [1]
+  47.58	NEWTOWN (POWYS) [2]
+  48.23	junction with Newtown Goods Depot (0.00)
+  49.47	SCAFELL
+  50.28	Penstrowedd siding
+  52.18	junction with MLT
+  52.28	MOAT LANE JUNCTION
+  52.51	MOAT LANE
+  53.19	Van Branch Junction with VAN (0.00)
+  53.31	CAERSWS
+  55.02	PONTDOLGOCH
+  56.08	Clatter Crossing
+  59.14	CARNO
+  61.27	TALERDDIG
+  64.56	LLANBRYNMAIR
+  68.14	COMMINS COCH
+  69.71	crossover to DML
+  70.01	CEMMES ROAD and junction with DML (0.04)
+  75.04	MACHYNLLETH
+  78.60	relocated Dovey Junction with DJP
+  78.74	original Dovey Junction with DJP
+  79.03	DOVEY JUNCTION
+  79.60	GLANDYFI
+  85.17	YNYSLAS
+  85.38	junction with Ynyslas Timber Creosoting Siding (0.00)
+  87.27	BORTH
+  89.61	LLANDRE
+  91.28	BOW STREET
+  95.49	junction with AYT (41.15)
+  95.60	ABERYSTWYTH
+
+  33.55	junction with diverted route
+  33.78	WELSHPOOL [1]
+  34.24	junction with diverted route

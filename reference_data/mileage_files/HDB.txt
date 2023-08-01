@@ -1,0 +1,22 @@
+   4.68	junction with ECM1 [down line]
+   4.78	ALEXANDRA PALACE formerly WOOD GREEN
+   5.07	Wood Green North Junction with ECM1 [up line] and start of Bounds Green depot
+   5.10	junction with PGS (8.11) in Bounds Green depot
+   5.40	end of Bounds Green depot
+   5.55	BOWES PARK
+   6.50	PALMERS GREEN formerly P. G. & SOUTHGATE
+   7.63	WINCHMORE HILL
+   8.35	GRANGE PARK
+   8.42	Grange Park Junction with line to original station
+   9.09	ENFIELD CHASE [2] formerly E.
+   9.12	ENFIELD [1] later goods station
+   9.69	GORDON HILL
+  11.40	CREWS HILL
+  13.17	CUFFLEY formerly C.; C. & GOFFS OAK
+  16.56	BAYFORD
+  19.48	HERTFORD NORTH formerly H.
+  22.14	STAPLEFORD
+  23.72	WATTON-AT-STONE formerly W.; W.-A.-S. HERTS
+  26.25	Bragbury
+  28.01	Langley Junction with ECM1 (26.45) [up line]
+  28.15	Langley Junction with ECM1 (26.59) [down line]

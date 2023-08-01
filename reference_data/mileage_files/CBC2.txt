@@ -1,0 +1,25 @@
+   0.00	WHITEHAVEN
+   0.16	Bransty Junction with CBC1 (74.73)
+   0.62	junction with Queens dock lines (? existence)
+   1.33	PARTON
+   1.40	Parton Junction with GGN (7.32)
+   4.11	Harrington Iron Works
+   4.50	HARRINGTON
+   5.45	Moss Bay iron works
+   5.78	Derwent iron works/British Steel sidings
+   6.69	WORKINGTON formerly W.; W. MAIN
+   7.12	junction with Merchants Quay branch (0.13 long)
+   7.18	Derwent Junction with CWN (8.12)
+   7.31	Derwent Junction with Workington docks branch
+   7.65	WORKINGTON NORTH
+	SIDDICK JUNCTION COLLIERY
+   8.23	relocated Siddick Junction with SBL1 (11.12)
+   8.24	SIDDICK JUNCTION
+   8.28	original Siddick Junction with SBL1 (11.17)
+   9.43	ST HELENS COLLIERY
+  10.42	FLIMBY
+  11.03	FLIMBY COLLIERY
+  11.44	Docks Branch Junction with MDB (0.00)
+  11.77	Solway iron works
+  12.01	Ellenborough colliery
+  12.05	Maryport Junction with CBC3 (0.00)

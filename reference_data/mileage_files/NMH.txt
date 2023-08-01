@@ -1,0 +1,14 @@
+   0.00	Duston West Junction with BPH (3.74)
+   0.29	Duston North Junction with BDN (0.18)
+   0.59	junction with HNR (65.57)
+
+   2.32	Market Harborough Junction with HNR (67.36)
+   4.71	PITSFORD & BRAMPTON
+   7.34	SPRATTON
+   8.13	BRIXWORTH
+  10.36	LAMPORT
+  14.03	KELMARSH
+  15.21	CLIPSTON & OXENDON
+  18.45	Northampton Line Junction with RSD (17.38)
+
+Note that 0.59-2.32 is part of HNR

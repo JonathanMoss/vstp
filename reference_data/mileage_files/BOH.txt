@@ -1,0 +1,2 @@
+   0.00	Hartburn Junction with LEN3 (59.14)
+   0.44	Bowesfield Junction with DSN2 (10.76)

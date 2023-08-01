@@ -1,0 +1,8 @@
+ 122.70	Mapperley Goods Branch Junction with TCC
+ 123.65	divergence with TCC
+ 124.48	Stanton New works
+ 126.25	Oakwell brick works
+ 127.06	West Hallam Colliery Branch Junction with West Hallam colliery lines (to 127.27 main line owned)
+ 127.19	Mapperley Colliery Branch Junction with SSM
+ 127.25	Manners Colliery Branch Junction with MCO (0.00)
+ 127.77	junction with Shipley colliery lines

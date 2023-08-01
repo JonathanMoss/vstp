@@ -1,0 +1,9 @@
+  17.79	later Drem Junction with ECM8
+  18.15	connection [original junction] with ECM8
+  20.20	DIRLETON
+  22.00	Williamston
+  22.25	NORTH BERWICK [2]
+  22.40	NORTH BERWICK [1]
+
+Extension to harbour planned but never completed
+  22.67	North Berwick harbour

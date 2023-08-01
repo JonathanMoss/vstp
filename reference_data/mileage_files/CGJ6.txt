@@ -1,0 +1,17 @@
+   0.00	PRESTON (LANCS) and junction with CGJ5 (21.57)
+   0.30	Preston & Longridge Junction with PDB (0.00)
+   0.40	Preston & Wyre Junction with PBN
+   0.70	Green Bank siding
+   1.26	OXHEYS
+   4.61	BARTON & BROUGHTON
+   6.72	ROEBUCK
+   7.34	BROCK
+   9.35	Garstang & Catterall Junction with KEL (0.00)
+   9.39	GARSTANG & CATTERALL formerly G.
+ ≈12.16	SCORTON [1]
+  12.56	SCORTON [2]
+  15.21	BAY HORSE
+  16.54	GALGATE
+  19.70	Lancaster Old Junction with Lancaster goods depot lines
+  20.35	LANCASTER terminus, later goods depot
+  20.78	LANCASTER and junction with CGJ7 (0.00)

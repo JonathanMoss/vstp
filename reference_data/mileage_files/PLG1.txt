@@ -1,0 +1,4 @@
+ 100.68	Park Lane Junction with LEN3
+ 101.15	High Street Junction with PLG2 (0.00)
+
+Note that this line runs parallel to, and at one time formed two of the four tracks of, LEN3

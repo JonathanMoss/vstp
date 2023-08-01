@@ -1,0 +1,16 @@
+   0.00	Barnsley Junction with MAC2 (29.13) and PED1 (29.13)
+   1.31	West Silkstone Junction with WOR
+   2.21	SILKSTONE COMMON
+   3.63	DODWORTH
+   4.18	start of deviation
+   4.71	end of deviation new route (4.68)
+
+   4.18	start of deviation old route
+   4.68	end of deviation
+   5.47	SUMMER LANE formerly BARNSLEY
+   6.08	Court House Junction with BAM2 (174.77)
+   6.43	Barnsley Station Junction with BAH2 (52.60)
+   6.54	BARNSLEY formerly B. EXCHANGE; B.; B. INTERCHANGE
+   7.50	Quarry Junction with PED3 (7.50) and SHB (173.48)
+
+Note that this route has a deviation for which a separate ELR wasn't issued.  The current route is 0.03 longer than originally.

@@ -1,0 +1,21 @@
+   1.66	Windsor Bridge North Junction with MVE1
+   2.21	PENDLETON
+   2.57	BRINDLE HEATH
+   2.78	junction with BHA
+   3.32	IRLAMS O' TH' HEIGHT
+   4.30	PENDLEBURY
+   5.04	SWINTON
+   5.11	Swinton goods depot
+   5.28	junction with goods depot lines
+   5.57	Moorside goods depot
+   5.61	MOORSIDE
+   5.73	junction with goods depot lines
+   7.25	junction with goods depot lines
+   7.42	WALKDEN and Walkden goods depot
+   9.31	Peel Hall
+  10.48	Peel Wood colliery
+  11.01	ATHERTON
+  11.59	HAG FOLD
+  12.57	DAISY HILL
+  13.41	Dobbs Brow Junction with WHO
+  14.64	Crow Nest Junction with LCN (17.18) and WBS2 (14.64)

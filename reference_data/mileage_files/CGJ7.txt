@@ -1,0 +1,55 @@
+   0.00	LANCASTER and junction with CGJ6 (20.78)
+   0.10	Lancaster Junction with GLB (0.00)
+   0.12	connection with LAC (260.46)
+   1.72	Morecambe South Junction with MSM (0.00)
+   3.07	HEST BANK
+   3.10	Hest Bank Junction with HBL (0.00)
+   4.34	BOLTON LE SANDS
+   5.62	Carnforth North Junction with CBC1 (0.00)
+   6.01	later junction with CBC1 (0.19)
+   6.19	CARNFORTH
+   6.41	Hematite Iron Company's works
+  10.58	BURTON & HOLME
+  13.42	MILNTHORPE
+  15.40	Hincaster Junction with AHR (5.25)
+  15.51	Hincaster siding
+  18.79	junction with OXW (-0.13)
+  19.11	OXENHOLME LAKE DISTRICT formerly KENDAL JUNCTION; O.
+  19.12	junction with OXW (0.00)
+  20.55	Peat Lane
+  22.44	Hay Fell
+ ≈24.10	GRAYRIGG [1]
+  24.20	Lambrigg
+  26.10	GRAYRIGG [2]
+ ≈27.54	LOW GILL [1]
+  27.63	Low Gill goods depot
+  27.74	LOW GILL [2] formerly L. G. JUNCTION
+  28.10	Low Gill Junction with INL (0.00)
+  30.12	Dillicar
+  32.01	Tebay South Junction with DNT (49.75) [down line]
+  32.03	junction with goods depot lines
+  32.13	TEBAY
+  32.14	Tebay North Junction with DNT (49.62) [up line]
+  37.58	SHAP SUMMIT
+  39.12	Hardendale quarry
+  39.59	SHAP
+  41.62	Harrisons lime works
+  44.62	Bessie Ghyll
+ ≈46.77	junction with CCV (≈0.74)
+  47.04	CLIFTON & LOWTHER formerly C.
+  48.03	Eden Valley Junction with EDE (21.73)
+  50.13	Eamont Bridge Junction with PEL (0.00)
+  50.71	junction with CKP (30.59)
+  50.72	junction with goods depot lines
+  51.20	PENRITH (NORTH LAKES) also referred to as P. THE NORTH LAKES; formerly P.
+  51.31	Penrith goods depot
+  53.72	Kitchenhill
+  56.02	PLUMPTON
+  58.30	CALTHWAITE
+  61.59	SOUTHWAITE
+  64.15	WREAY
+  65.67	BRISCO
+  67.59	Upperby Bridge Junction with UCJ (0.00)
+  68.67	Carlisle South Junction with CBC3 (27.49)
+  68.73	Carlisle South Junction with NEC2 (60.03)
+  69.09	CARLISLE and junction with WCM1 (0.00)

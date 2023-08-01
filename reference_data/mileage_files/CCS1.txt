@@ -1,0 +1,6 @@
+  13.30	Rock Ferry South Junction with CRR2
+  13.43	ROCK FERRY
+  14.06	junction with CCS2 (14.06) and MIR2 (2.79)
+  14.14	Green Lane Junction with CCS3
+  14.53	BIRKENHEAD TOWN
+  15.14	BIRKENHEAD WOODSIDE

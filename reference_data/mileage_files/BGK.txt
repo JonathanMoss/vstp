@@ -1,0 +1,96 @@
+   1.14	Bethnal Green East Junction with LTN1
+   1.61	CAMBRIDGE HEATH
+   2.35	LONDON FIELDS
+   2.55	Reading Lane Junction with GRE
+   2.78	HACKNEY DOWNS
+   3.04	Hackney Downs North Junction with HDT
+   3.46	QUEENS ROAD built but never opened
+   3.78	CLAPTON
+   4.29	Clapton goods depot
+   4.38	Clapton Junction with CJC
+   4.74	Coppermill North Junction with SDC (7.14)
+   5.41	Tottenham South Junction with TSE2
+   5.57	Tottenham North Junction with Tottenham West Junction to North Junction Curve (6.37)
+   6.00	TOTTENHAM HALE formerly T.; T. H.; T.
+   6.73	NORTHUMBERLAND PARK formerly MARSH LANE; PARK.
+   7.47	MERIDIAN WATER
+   7.57	ANGEL ROAD formerly EDMONTON; WATER LANE
+   7.62	Angel Road Junction with ARE
+   9.64	junction with PES
+   9.71	PONDERS END
+  10.61	BRIMSDOWN
+  11.65	ENFIELD LOCK [2]
+	ENFIELD LOCK [1] formerly ORDNANCE FACTORY
+  12.63	WALTHAM CROSS [2] formerly W. C.; W. C. & ABBEY
+ ≈12.73	WALTHAM CROSS [1] formerly W.
+  13.71	Cheshunt Junction with HDT (14.28)
+  14.01	CHESHUNT [2]
+ ≈14.08	CHESHUNT [1]
+  14.32	CADMORES LANE CHESHUNT
+  15.23	Rochford siding
+  17.05	BROXBOURNE & HODDESDON [1] formerly B.
+  17.17	BROXBOURNE [2] formerly B. & HODDESDON
+  18.38	Broxbourne Junction with HEB
+  18.65	junction with Rye House sidings
+  20.09	ROYDON
+  22.59	HARLOW TOWN formerly NETTESWELL; BURNT MILL, NETTESWELL
+  24.36	HARLOW MILL formerly H.
+  26.57	SAWBRIDGEWORTH
+  28.17	Spellbrook
+  30.27	BISHOPS STORTFORD
+  30.31	Bishops Stortford Junction with BSB (0.00)
+  33.28	STANSTED MOUNTFITCHET formerly STANSTEAD; STANSTED
+  33.54	Stansted South Junction with TLA
+  34.25	Stansted North Junction with TEN (0.00)
+  35.45	ELSENHAM (ESSEX)
+  35.48	junction with link to ELT (0.33 long including reversal at 0.14 from this junction)
+ (35.62)	end of reversing link
+  39.72	NEWPORT (ESSEX) formerly N.
+  41.46	junction with AEB
+  41.55	AUDLEY END formerly ENDEN
+  45.56	GREAT CHESTERFORD formerly C.
+  45.60	junction with GCD
+  46.15	Chesterford Junction with CDS (0.00)
+  48.00	junction with Duxford sidings
+  49.01	WHITTLESFORD PARKWAY formerly W. BRIDGE
+  50.53	Sawston siding
+  52.32	Shelford Junction with SDH (89.71)
+  52.36	SHELFORD (CAMBS)
+  53.06	Shepreth Branch Junction with SBR (55.26)
+	CAMBRIDGE SOUTH
+  55.31	Hills Road Junction with BCA (45.53)
+  55.32	junction with CBE
+  55.41	Cambridge goods depot
+  55.52	CAMBRIDGE
+  56.28	original Coldham Lane Junction with CCH (0.00)
+  56.51	relocated Coldham Lane Junction with CCH (0.23)
+  57.17	Barnwell Junction with CML (1.46)
+  57.53	CHESTERTON
+  57.54	Chesterton Junction with SIB1
+  57.75	CAMBRIDGE NORTH
+  61.01	WATERBEACH
+  65.48	Stretham Fen
+  69.33	Sutton Branch Junction with SIE (17.33)
+  69.79	Ely Dock Junction with SOB2 (12.33)
+  70.30	ELY
+  71.63	Ely North Junction with EMP and EWC
+  71.67	Ely North Junction with ETN
+  76.00	LITTLEPORT
+  81.42	HILGAY formerly H. FEN
+ ≈83.03	OUSE BRIDGE
+  84.31	junction with DSF (1.56)
+  84.41	DENVER formerly D. ROAD GATE
+  86.08	DOWNHAM MARKET formerly D.
+  88.33	STOW BARDOLPH formerly S.
+  89.61	HOLME formerly H. GATE
+  90.59	Magdalen Road Junction with WIG (103.06)
+ ≈90.66	WATLINGTON [1] formerly W.; MAGDALEN ROAD
+  90.66	WATLINGTON down platform
+  90.70	WATLINGTON mean
+  90.75	WATLINGTON up platform
+  92.57	ST GERMANS
+  95.30	Kings Lynn M&GN Junction with SOL (36.17)
+  95.31	Kings Lynn Harbour Junction with HAR
+  96.50	Kings Lynn Junction with KLY (96.50) and MIT (0.22)
+  96.53	Hunstanton Branch Junction with KLH
+  96.75	KINGS LYNN formerly L.

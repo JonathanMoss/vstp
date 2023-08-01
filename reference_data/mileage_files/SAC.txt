@@ -1,0 +1,50 @@
+ 234.42	Settle Junction with SKW1
+ 236.40	SETTLE formerly S. NEW
+ 238.10	Craven Lime Company's siding
+ 238.26	Murgatroyds siding
+ 240.27	Helwith Bridge Granite Company's siding
+ 240.76	Ribblesdale Lume Company's siding
+ 241.20	junction with AQL
+ 242.38	Delaneys siding
+ 242.43	HORTON-IN-RIBBLESDALE formerly H.
+ 244.68	Selside
+ 246.43	Craven Lime Company's siding
+ 247.20	RIBBLEHEAD formerly BATTY GREEN
+ 247.50	start of Ribblehead/Blea Moor/Batty Moss viaduct
+ 247.70	end of Ribblehead/Blea Moor/Batty Moss viaduct
+ 249.25	start of Blea Moor tunnel
+ 250.65	end of Blea Moor tunnel
+ 253.32	DENT
+ 256.47	Hawes Junction with HGE
+ 256.55	GARSDALE formerly HAWES JUNCTION; H. J. & G.
+ 259.56	Ais Gill summit
+ 263.21	Mallerstang
+ 266.47	KIRKBY STEPHEN formerly K. S.; K. S. & RAVENSTONEDALE; K. S. WEST
+ 268.54	intersection bridge over DNT (mileage unknown)
+ 269.61	CROSBY GARRETT
+ 274.64	ORMSIDE
+ 276.78	Appleby South Junction with link to EDE (0.32 long; never completed)
+ 277.22	APPLEBY
+ 277.27	Appleby North Junction with WAR
+ 277.77	Butlers siding
+ 280.15	LONG MARTON
+ 281.66	British Gypsum sidings
+ 283.28	NEW BIGGIN
+ 283.48	Boazman's siding
+ 284.59	CULGAITH
+ 288.23	LANGWATHBY formerly LONGWATHBY
+ 289.56	LITTLE SALKELD
+ 290.76	Plaster sidings
+ 291.31	Barker Tomlinson Co's/Long Meg siding
+ 292.50	LAZONBY & KIRKOSWALD formerly L.
+ 297.34	Bullen's siding
+ 298.09	ARMATHWAITE
+ 301.10	Robinson's siding
+ 301.23	COTEHILL
+ 302.69	Lonsdale Brickworks siding
+ 302.77	Howe & Company's sidings and Hamiltons siding
+ 303.13	Beaty's Brickworks siding
+ 304.12	CUMWHINTON
+ 305.28	SCOTBY
+ 307.14	Petteril Bridge Junction with NEC2 (59.26)
+ 307.18	Petteril goods depot

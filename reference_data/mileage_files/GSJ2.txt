@@ -1,0 +1,18 @@
+ 133.32	Smethwick Junction with GSJ1 (4.08) and HSJ (133.32)
+ 133.37	SMETHWICK WEST
+ 134.03	ROOD END
+ 134.42	Oldbury Junction with OLD
+ 134.47	LANGLEY GREEN [2] formerly OLDBURY & L.G.
+ 134.57	LANGLEY GREEN [1]
+ 136.00	junction with Cakemore sidings
+ 136.14	ROWLEY REGIS formerly R.R. & BLACKHEATH
+ 137.25	Old Hill North Junction with HND2
+ 137.30	OLD HILL and Old Hill South Junction with WED
+ 138.65	Cradley Junction with CGV (0.00)
+ 138.70	CRADLEY HEATH formerly C. H. & CRADLEY
+ 139.73	Hayes Lane Junction with HLN (0.00)
+ 140.14	LYE (WEST MIDLANDS)
+ 140.42	Timmis's siding
+ 141.06	Stourbridge North Junction with OWW (142.50)	
+
+Note that this is part of the Stourbridge Extension Line, the remainder being HSJ

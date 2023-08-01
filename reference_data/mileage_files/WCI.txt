@@ -1,0 +1,6 @@
+   0.00	Shell Junction with DSN2 (19.32)
+   1.03	ownership boundary (NR/Huntsman Chemicals)
+   1.38	ICI Wilton Junction with coal hopper line (0.00)
+   1.78	weighbridge house
+   2.61	junction between Cleveland (Wilton) Freightliner Terminal and HMD Filling Bay lines
+   3.19	end of line

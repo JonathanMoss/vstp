@@ -1,0 +1,14 @@
+   0.11	East Somerset Junction with WEY (120.74)
+   2.26	WANSTROW
+   3.50	Limmer Junction with Merehead East Curve
+   4.57	Merehead West Junction with Merehead Quarry Branch
+   5.57	CRANMORE
+   6.03	CRANMORE WEST
+   6.06	Mendip Mountain Hill quarry
+   6.52	DOULTING and siding
+   6.54	MERRYFIELD
+   7.40	MENDIP VALE
+   9.03	SHEPTON MALLET HIGH STREET formerly S. M.
+  13.65	WELLS [East Somerset] [later goods depot]
+  13.79	WELLS PRIORY ROAD formerly W.
+  14.02	Wells Junction with CVB (14.02) and WEZ (5.35)

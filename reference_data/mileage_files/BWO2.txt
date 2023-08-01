@@ -1,0 +1,2 @@
+   0.00	Butterwell Junction with ECM7 (20.63)
+   0.60	junction with BWO1 (0.00/6.29) (Butterwell ground frame A)

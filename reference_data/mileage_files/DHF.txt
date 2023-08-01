@@ -1,0 +1,3 @@
+   0.68	Flyover Junction (Summit) with BFO
+  ≈1.51	junction with BLT1 (≈47.33)
+   1.71	Denbigh Hall South Junction with LEC1 (47.52)

@@ -1,0 +1,5 @@
+ (-0.19)	UPMINSTER
+   0.00	Upminster East Junction with FSS2 (15.39)
+   3.05	OCKENDON
+   5.38	CHAFFORD HUNDRED LAKESIDE formerly C. H.
+   6.56	West Thurrock Junction with TLL (19.03)

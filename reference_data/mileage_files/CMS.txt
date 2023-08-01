@@ -1,0 +1,2 @@
+   0.00	Carmuirs West Junction with SCM3 (108.76)
+   0.40	Carmuirs East Junction with PMT (25.79)

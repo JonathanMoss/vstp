@@ -1,0 +1,10 @@
+  40.69	Keymer Junction with VTB3
+  40.76	KEYMER JUNCTION
+  44.31	PLUMPTON [race platform]
+  44.42	PLUMPTON
+  47.31	COOKSBRIDGE
+  49.68	Goods Lines No 1 Junction with Lewes avoiding line
+  49.74	LEWES
+  50.03	Lewes Junction with BTL (8.03)
+  50.04	Lewes Junction with SCU2 (8.04)
+  50.29	Old Southerham Junction with KJE2 (50.40) and Lewes avoiding line (50.40)

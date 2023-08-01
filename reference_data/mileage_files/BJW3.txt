@@ -1,0 +1,23 @@
+   6.79	Ryecroft Junction with BJW2 (6.79) and RRN1 (0.00)
+	RUSHALL
+   9.04	Leighs Wood Branch Junction with LWB (0.00)
+   9.31	PELSALL
+  10.04	Ryders Hayes sidings and approx. location of RYDERS HAYS
+  10.08	Walsall Wood Colliery
+  10.11	Norton Branch Junction with CKC (5.42)
+  11.44	BROWNHILLS HIGH STREET formerly B.
+  12.37	Anglesea and Cannock Chase Colliery sidings
+  13.49	HAMMERWICH
+  16.17	Sanfields Siding
+  16.47	Lichfield City Junction with ALC2 (13.37)
+  16.69	LICHFIELD CITY [2]
+	LICHFIELD CITY [1]
+  17.01	Brewery company's siding
+  18.06	LICHFIELD TRENT VALLEY
+  18.13	Lichfield Trent Valley Junction with LTV (0.22)
+  18.17	LICHFIELD TRENT VALLEY JUNCTION
+  19.77	BROOKHAY
+  22.04	ALREWAS
+  23.01	sidings
+  23.13	WICHNOR
+  23.33	Wichnor Junction with DBP1 (16.22)

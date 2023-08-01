@@ -1,0 +1,53 @@
+  69.59	Annesley North Junction with BEI
+ ≈69.77	HOLLINWELL & ANNESLEY GOLF
+  73.55	HUCKNALL CENTRAL formerly H. TOWN
+  74.06	junction with Hucknall colliery lines (0.14 long)
+ ≈75.10	BULWELL HALL
+  76.10	Bulwell North Junction with BED
+  76.15	BULWELL COMMON
+  76.31	Bulwell South Junction with link to Basford West Junction (on DEX) (0.42 long)
+  77.27	Bagthorpe Junction with link to Basford East Junction (on DEX) (up line 0.67 long; down line 0.54 long)
+  77.71	NEW BASFORD
+  78.45	CARRINGTON
+  79.37	NOTTINGHAM VICTORIA
+  79.71	Weekday Cross Junction with NHL (128.25)
+  80.28	NOTTINGHAM ARKWRIGHT STREET
+  80.40	Nottingham goods depot
+  81.03	connection with goods depot line
+  83.66	RUDDINGTON
+  84.16	Ruddington Station Junction with Nottingham Transport Heritage Centre
+  86.09	Gotham Branch Junction with GOT (0.00)
+  86.14	Gotham Moor
+  87.39	RUSHCLIFFE
+  88.36	EAST LEAKE
+  89.77	Barnstone Lime Company's siding
+  92.23	junction with RUD
+  92.32	bridge over SPC5 (111.41)
+  92.66	SIGNAL BOX HALT
+  93.02	LOUGHBOROUGH CENTRAL
+  95.06	QUORN & WOODHOUSE
+  97.16	Swithland Junction with Mountsorrel quarry lines
+  97.72	ROTHLEY
+ 100.46	BELGRAVE & BIRSTALL
+ 100.59	LEICESTER NORTH
+ 102.73	LEICESTER CENTRAL
+	junction with link to WNS (mileages unknown)
+ 104.03	bridge under KSL (98.53)
+ 107.50	WHETSTONE
+ 112.07	ASHBY MAGNA
+ 115.78	LUTTERWORTH
+ 122.61	RUGBY CENTRAL
+ 127.36	BRAUNSTON & WILLOUGHBY formerly W.
+ 134.39	CHARWELTON
+ 136.79	WOODFORD HALSE formerly W. & HINTON
+ 137.11	Woodford North Junction with Woodford West to North Curve (0.35)
+ 138.60	Culworth Junction with BBG (0.00)
+ 139.77	CULWORTH
+ 143.45	HELMDON
+ 146.64	BRACKLEY CENTRAL
+ 151.48	FINMERE
+	TWYFORD BRIDGE ? passenger station
+ 156.72	Calvert Junction with MCJ4 (0.00)
+ 157.39	CALVERT
+ 159.10	Grendon Underwood Junction with GUA
+ 161.50	Quainton Road Junction with MCJ2 (44.48)

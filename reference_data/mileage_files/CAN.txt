@@ -1,0 +1,26 @@
+ 245.10	Carmarthen Junction with SWM2
+ 245.30	P&T Loop Junction with CNW (0.19)
+ 245.50	Carmarthen locomotive depot
+ 245.55	CARMARTHEN [2]
+ 245.65	later end of line
+ 245.74	CARMARTHEN [1]
+ 246.08	Carmarthen Town goods depot
+ 247.06	Abergwili Junction with LCL (13.25)
+ 249.11	BRONWYDD ARMS
+ 250.22	CWMDWYFRAN
+ 250.57	LLWYFAN CERRIG
+ 251.30	DANYCOED
+ 252.14	CONWIL
+ 255.25	LLANPUMPSAINT
+ 260.27	PENCADER
+ 260.61	Pencader Junction with AYT (0.00)
+ 263.69	LLANDYSSUL formerly LLANDYSSIL
+ 265.48	PENTRECOURT
+ 267.63	Teifi Valley Railway maintenance depot
+ 267.68	HENLLAN [1]
+ 267.76	HENLLAN [2]
+ 268.15	FOREST
+ 268.32	PONTPRENSHITW
+ 268.78	LLANDYFRIOG
+ 269.45	PONT GOCH
+ 270.67	NEWCASTLE EMLYN

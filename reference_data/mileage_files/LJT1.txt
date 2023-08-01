@@ -1,0 +1,19 @@
+   0.30	junction with CNH3 (223.12)
+   1.39	GLAN CONWY formerly LLANSAINTFFRAID; G. CONWAY
+   5.05	TAL-Y-CAFN formerly T.-Y-C.; T.-Y-C. & EGLWYSBACH
+   8.12	DOLGARROG
+  11.17	LLANRWST [1] later goods station see note
+  11.17	NORTH LLANRWST formerly L. [2]; L. & TREFRIW
+  11.57	LLANRWST [3]
+  15.02	BETWS-Y-COED formerly BETTWS-Y-C.
+  19.29	PONT-Y-PANT
+  20.62	DOLWYDDELAN formerly D.; DOLWYDDELEN
+  22.48	ROMAN BRIDGE
+ ≈26.50	BLAENAU FFESTINIOG [1]
+  27.27	BLAENAU FFESTINIOG [2]
+  27.35	original junction with LJT2 (25.43)
+  27.41	BLAENAU FFESTINIOG [3]
+  27.52	point beside current end of RFF (13.57)
+  27.53	later junction with LJT2 (25.25)
+
+Note that Llanrwst [1] station was on an adjacent alignment to later North Llanrwst

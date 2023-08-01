@@ -1,0 +1,13 @@
+   6.15	Werneth Junction with MPR2 (6.15) and MPR4 (6.77)
+   6.28	OLDHAM WERNETH
+   7.07	OLDHAM CENTRAL
+   7.20	junction with OAG2 (5.32)
+   7.40	OLDHAM MUMPS
+   8.09	DERKER
+   8.19	Hartford Works goods depot
+   8.32	Royton Junction with RON
+   8.38	ROYTON formerly R. JUNCTION
+  10.10	SHAW & CROMPTON formerly S.; S. & C.; S.
+  11.64	NEW HEY
+  12.69	MILNROW
+  14.27	Rochdale Junction/Oldham Branch Junction with MVN2 (10.63)

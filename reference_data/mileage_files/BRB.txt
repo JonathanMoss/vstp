@@ -1,0 +1,8 @@
+ (-0.14)	junction with MLN1 (9.20)
+   0.00	SOUTHALL and zero point with MLN1 (9.06)
+   0.22	junction with AEC Works lines
+   1.39	TRUMPERS CROSSING
+   2.67	refuse terminal
+   2.73	Brentford Town goods depot
+   3.31	BRENTFORD
+   3.77	Brentford Dock goods depot

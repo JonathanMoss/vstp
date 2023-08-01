@@ -1,0 +1,13 @@
+  30.62	junction with WJK
+  31.40	Fazakerley goods depot
+  32.01	AINTREE RACECOURSE
+ ≈32.10	AINTREE CINDER LANE
+  32.42	Sefton Junction with AFL (0.00)
+  32.68	FORD
+  33.75	LINACRE ROAD
+  34.02	Mersey Branch Junction with NMM
+  34.32	junction with SCO (0.23)
+  35.26	North Mersey goods depot
+  35.28	junction with dock lines
+
+Note that the two Aintree station sites probably overlapped

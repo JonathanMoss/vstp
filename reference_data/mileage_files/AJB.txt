@@ -1,0 +1,3 @@
+   0.00	Addlestone Junction with VWW (19.72)
+   0.67	Byfleet Junction with BML1 (20.18) up line
+   0.77	Byfleet Junction with BML1 (20.27) down line

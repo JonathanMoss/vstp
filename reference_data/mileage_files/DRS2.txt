@@ -1,0 +1,2 @@
+   0.14	end on junction with DRS1
+   0.27	Headfield Junction with DMP (41.35)/DRS3 (0.00)

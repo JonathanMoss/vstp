@@ -1,0 +1,2 @@
+   0.00	Hartford West Junction with CDM2 (22.23)
+   0.29	Hartford North Junction with HEG (22.10) and HNO (0.29)

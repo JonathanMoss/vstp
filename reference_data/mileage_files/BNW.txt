@@ -1,0 +1,3 @@
+   0.00	Boldon East Junction with LEN3 (94.63)
+  ≈0.15	Boldon North Junction with BNY2
+   0.20	Boldon North Junction with BGE (0.32)

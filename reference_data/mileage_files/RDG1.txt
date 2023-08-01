@@ -1,0 +1,54 @@
+   0.05	LONDON WATERLOO
+   0.39	International Junction with JAT
+   1.29	VAUXHALL
+   1.78	Nine Elms Junction with AHG
+   2.50	original junction with Nine Elms Goods Branch (1.07)
+   2.54	QUEENSTOWN ROAD (BATTERSEA)
+   2.63	relocated junction with Nine Elms Goods Branch (1.20)
+   3.17	Clapham West London Junction with SCC
+   3.57	Ludgate GW Junction with CJL (0.37) and FLL3 (2.58)
+   3.68	junction with CLJ9
+   3.74	CLAPHAM JUNCTION
+   4.60	WANDSWORTH TOWN formerly W.
+   5.09	Point Pleasant Junction with PPW
+   5.72	PUTNEY
+   6.40	Kenmore
+   7.07	BARNES
+   7.15	Barnes Junction with HOU
+   7.51	junction with link to Barnes Bridge (0.26)
+   8.21	MORTLAKE formerly M.; M. & EAST SHEEN
+   9.03	NORTH SHEEN
+   9.49	junction with SAR2 (12.27)
+   9.57	RICHMOND (LONDON)
+  10.66	ST MARGARETS (LONDON)
+  11.22	TWICKENHAM [2]
+  11.33	TWICKENHAM [1]
+  11.49	Twickenham Junction with TSJ
+  11.69	Twickenham & Teddington Electric Supply Company siding
+  12.43	WHITTON (LONDON)
+  13.03	Whitton Junction with HJW (14.39)
+  13.35	Feltham Junction with HOU (14.38)
+  14.68	FELTHAM
+  17.40	ASHFORD (SURREY) formerly A.; A. MIDDLESEX; A.
+  19.02	STAINES formerly S.; S. CENTRAL
+  19.06	Staines East Junction with SWE
+  19.31	West Thames Junction with Staines West Chord to SWE [0.26 long]
+  21.02	EGHAM
+  23.06	junction with VWW (24.74)
+  23.15	VIRGINIA WATER
+  23.33	junction with VWC (24.71)
+  25.11	LONGCROSS
+  26.71	SUNNINGDALE formerly S.; S. & BAGSHOT; S.; S.& WINDLESHAM
+  27.72	Drake & Mount siding
+  28.01	Ascot & District gas works siding
+  28.79	ASCOT (BERKS) formerly A.; A. & SUNNINGHILL
+  29.04	junction with AAV
+  29.17	ASCOT RACE PLATFORM
+  29.79	ASCOT WEST
+  30.54	Whitmoor
+  31.09	MARTIN'S HERON
+  32.24	BRACKNELL
+  32.67	Down Mill brick works siding
+  33.41	Amen Corner goods platform
+  34.11	Buckhurst
+  36.35	Wokingham Junction with GTW2 (61.72) and RDG2 (61.72)

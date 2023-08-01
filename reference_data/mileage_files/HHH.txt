@@ -1,0 +1,23 @@
+   0.00	HOLBORN VIADUCT
+   0.12	junction with FTL (0.30) [original alignment]
+   0.19	LUDGATE HILL
+   0.21	junction with FTL (0.39) [later alignment]
+   0.30	LONDON BLACKFRIARS
+   0.46	Blackfriars goods depot
+   0.53	BLACKFRIARS BRIDGE
+   0.55	junction with Blackfriars goods branch
+   0.62	Blackfriars Junction with BMJ
+   1.12	BOROUGH ROAD
+   1.37	Elephant And Castle goods depot
+   1.47	ELEPHANT & CASTLE
+   2.00	Walworth Road goods depot
+   2.20	WALWORTH ROAD
+   3.03	CAMBERWELL
+   3.08	Camberwell goods depot
+   3.34	Loughborough Junction with LTC
+   3.39	Loughborough Junction with LOC
+   3.48	LOUGHBOROUGH JUNCTION
+   3.77	junction with Herne Hill goods depot lines (0.34 long)
+   4.30	Herne Hill North Junction with VIR (3.70)
+   4.37	HERNE HILL
+   4.46	Herne Hill South Junction with HHT (4.06) and VIR (4.06)

@@ -1,0 +1,10 @@
+  19.06	Staines East Junction with RDG1
+  19.25	Staines High Street Junction with Staines West Chord to RDG1 [0.26 long]
+  19.52	Staines West Junction with SWX
+  19.64	Staines reservoir siding
+  20.05	junction with Staines Moor Junction (18.76)
+  21.40	WRAYSBURY [2]
+ ≈21.60	WRAYSBURY [1]
+  22.48	SUNNYMEADS
+  23.63	DATCHET
+  25.52	WINDSOR & ETON RIVERSIDE formerly W.; W. & E.

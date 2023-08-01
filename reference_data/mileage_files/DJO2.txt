@@ -1,0 +1,5 @@
+   0.53	Crowthorne Junction with DJO1 (5.28) and OAG1 (0.53)
+   1.24	Ashton Moss South Junction with AMJ (0.00)
+   1.36	junction with Oldham Road goods depot lines
+   1.50	OA&GB Junction with MVL1 (6.07)
+  (1.62)	Oldham Road goods depot

@@ -1,0 +1,26 @@
+  (0.00)	NORWICH
+   0.29	Thorpe Junction with LTN2 (123.60)
+   0.54	Wensum Junction sidings
+   0.60	Wensum Junction with NCW (0.28)
+   1.66	WHITLINGHAM
+   1.69	Whitlingham Junction with WHC1
+   3.38	Postwick
+   4.66	BRUNDALL GARDENS
+   5.62	BRUNDALL
+   5.73	Brundall Junction with NAY
+   7.62	BUCKENHAM
+  10.00	CANTLEY
+  12.13	REEDHAM (NORFOLK) [2]
+ ≈12.27	REEDHAM [1]
+  12.28	Reedham Junction with RBY
+  15.68	HADDISCOE [1] [later goods depot]
+  16.08	junction with HSW
+  16.11	HADDISCOE [2] formerly H. LOW LEVEL
+  16.45	Marsh Junction with HNE (0.00)
+  18.00	SOMERLEYTON
+  22.04	OULTON BROAD NORTH
+  22.14	Oulton Broad North Junction with ESK (116.27)
+  23.00	Lowestoft Coke Ovens Junction with YAL (0.00)
+  23.41	LOWESTOFT
+
+Note that 0.29 - 5.73 was previously part of NAY.  Possibly to 23.58 including fish market line

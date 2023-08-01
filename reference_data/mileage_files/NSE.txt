@@ -1,0 +1,2 @@
+   0.00	Newark Crossing South Junction with ECM1 (120.51)
+   0.21	Newark Crossing East Junction with NOB1 (17.74)

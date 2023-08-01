@@ -1,0 +1,2 @@
+   0.00	Brecon Curve Junction with SHL (50.53)
+   0.19	Brecon Curve Junction with HNL2 (149.43)

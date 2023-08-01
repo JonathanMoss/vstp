@@ -1,0 +1,12 @@
+  35.05	Lochgreen Junction with AYR5 (2.15) and TRN (35.05)
+  35.16	Monkton New Sand siding
+  35.46	MONKTON
+  36.76	PRESTWICK INTERNATIONAL AIRPORT and Monkton Junction with PAB
+  37.34	PRESTWICK TOWN formerly P.
+  38.73	Falkland Junction with AYH2
+  39.33	NEWTON-ON-AYR
+  39.41	Newton Junction with AYH1 (0.00)
+  39.43	Newton Junction with ANN
+  39.70	Hawkhill Junction with HBJ (0.00) and ZZA2 (39.70)
+ ≈40.35	AYR [1]
+  40.49	AYR [2] and junction with STR1

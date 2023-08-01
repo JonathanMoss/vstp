@@ -1,0 +1,15 @@
+  56.20	Ashford D Junction with XTD
+  60.04	Ruckinge siding
+  61.51	HAM STREET formerly H. S.; H. S. & ORLESTONE
+  64.50	APPLEDORE (KENT) formerly A.
+  64.58	Appledore Junction with APL
+  71.36	RYE (SUSSEX) formerly R.
+  73.07	junction with RYE
+  73.22	WINCHELSEA
+  75.72	SNAILHAM
+  77.43	DOLEHAM
+  77.59	Doleham siding
+  78.65	THREE OAKS
+  81.42	ORE
+  82.31	Hastings goods depot
+  82.34	HASTINGS and junction with TTH (62.33)

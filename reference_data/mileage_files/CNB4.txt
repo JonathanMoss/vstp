@@ -1,0 +1,4 @@
+ 164.32	Buxton East Junction with CNB3 and CNB5
+ 164.53	Buxton North Junction with BEJ (18.65)
+ 164.73	original end of sidings
+ 165.12	later (2019) end of sidings

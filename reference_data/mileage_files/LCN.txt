@@ -1,0 +1,9 @@
+  13.39	Lostock Junction with MVE2
+  13.53	LOSTOCK JUNCTION
+  14.20	CHEW MOOR
+  14.27	Chew Moor Junction with LJC (0.00)
+  14.71	Westhoughton goods depot
+  15.06	Metal Box Company's siding
+  15.25	WESTHOUGHTON
+  17.13	Crow Nest Junction with HBD (0.00)
+  17.18	Crow Nest Junction with WBS1 (14.64) and WBS2 (14.64)

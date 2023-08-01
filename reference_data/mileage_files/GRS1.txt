@@ -1,0 +1,6 @@
+ 109.56	Barkston South Junction with ECM1
+ 109.63	BARKSTON
+ 110.12	Barkston East Junction with ABE (4.08)/ABE2 (0.39)
+ 111.69	HONINGTON
+ 111.72	Honington Junction with BLN
+ 112.00	junction with GRS2

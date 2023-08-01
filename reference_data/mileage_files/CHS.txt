@@ -1,0 +1,3 @@
+   0.00	Horbury Junction with MVN2 (45.38)
+   0.64	Flockton sidings
+   1.53	Crigglestone Junction with BAH1 (45.56) and BAH2 (45.56)

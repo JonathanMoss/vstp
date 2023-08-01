@@ -1,0 +1,1205 @@
+CY240	Gloucester Barnwood Junction to Severn Tunnel Junction Replaced GW700 from 2016; existence of this code not confirmed	8✖Caerwent branch RA4
+CY1540	Whitland to Pembroke Dock Replaced GW950 from 2012	7✖Pembroke - Pembroke Dock RA6
+EA1000	All Lines	nan
+EA1010	Liverpool Street to Seven Kings	8
+EA1011	Seven Kings to Ipswich	8
+EA1012	Ipswich to Trowse Junction	8
+EA1013	Trowse Junction to Norwich Replaced by new EA1013 from 19 April 2014	8
+EA1013	Trowse Swing Bridge to Wensum Junction via Through Sidings/Wensum Curve Replaced old EA1013 from 19 April 2014	8
+EA1020	Carpenters Road South Junction to Carpenters Road North Junction	8
+EA1030	Forest Gate Junction to Woodgrange Park Junction	8
+EA1040	Romford to Upminster	8
+EA1050	Shenfield Junction to Southend Victoria	7
+EA1060	Wickford Junction to Southminster	7
+EA1070	Witham to Braintree	6
+EA1080	Marks Tey Junction to Sudbury	6
+EA1090	Colchester Junction to Clacton	7
+EA1100	East Gate Junction and Hythe Junction to Colchester Town	7
+EA1110	Thorpe-le-Soken to Walton-on-Naze	7
+EA1120	Manningtree (North and South Junctions) to Harwich Town	8
+EA1130	Griffin Wharf Branch	8
+EA1140	Ipswich Docks Branch	1
+EA1150	Channelsea South Junction to Stratford Central Junction West	8
+EA1160	Bethnal Green East Junction to Bishops Stortford	8✖Bethnal Green Junction - Hackney Downs Junction RA4 from 16 April 2011
+EA1161	Bishops Stortford to Ely North Junction	8
+EA1162	Ely North Junction to Kings Lynn	8
+EA1170	Hackney Downs North Junction to Enfield Town	8
+EA1180	Reading Lane Junction to Navarino Road Junction (Graham Road Curve)	8
+EA1190	Bury Street Junction to Cheshunt Junction	8
+EA1200	Clapton Junction to Chingford	7
+EA1210	Broxbourne Junction to Hertford East	9
+EA1220	Stansted (South and North Junctions) to Stansted Airport	8
+EA1230	Royston to Shepreth Branch Junction	9
+EA1240	Chesterton Junction to Fen Drayton	6
+EA1250	South Lynn to Kings Lynn Harbour	6
+EA1260	Kings Lynn Harbour Branch	6
+EA1270	Kings Lynn Junction to Middleton Towers	8
+EA1280	Stratford Central Junction East to Coppermill Junction	8
+EA1290	Tottenham South Junction to South Tottenham East Junction	8
+EA1300	South Tottenham West Junction to Seven Sisters Junction	8
+EA1310	Camden Road West Junction to Richmond	8✖Gunnersbury - Richmond RA4 (from 19 July 2008; previously RA6)
+EA1320	Camden Road West Junction to North Woolwich Replaced by new EA1320 from 14 May 2007	8
+EA1320	Camden Road West Junction to Stratford Low Level Replaced old EA1320 from 14 May 2007; replaced by new EA1320 from 2 January 2009	8
+EA1320	Camden Road West Junction to Stratford Platforms 1 and 2 Replaced old EA1320 from 2 January 2009	8
+EA1325	Dalston Junction to New Cross/New Cross Gate Replaced by new EA1325 from 1 January 2011	8
+EA1325	Highbury And Islington to New Cross/New Cross Gate Replaced old EA1325 from 1 January 2011; replaced by new EA1325 and SO511 from 25 June 2022	8
+EA1325	Highbury And Islington to Dalston West Curve Replaced old EA1325 from 25 June 2022	8
+EA1327	Silwood Junction to Old Kent Road Junction From 23 June 2012; replaced by SO681 from 25 June 2022	8
+EA1330	South Acton Junction to Old Kew Junction & New Kew Junction	8
+EA1340	Stratford Lea Junction to High Meads Junction	8
+EA1350	Channelsea North Junction to Temple Mills East Junction	8
+EA1360	Dudding Hill Junction to Acton Wells Junction	8
+EA1370	Gospel Oak to Barking Tilbury Line Junction West	8
+EA1375	Whitemoor Junction to Whitemoor Yard Intended from 1 December 2022 but not adopted	?
+EA1380	Fenchurch Street to Shoeburyness	8✖Fenchurch St - Gas Factory Junction (to 16 April 2011)/Barking (from 16 April 2011) RA3
+EA1390	Barking Tilbury Line Junction East to Pitsea (via Tilbury)	8
+EA1395	Barking Riverside Branch Seen by September 2021	8?
+EA1400	Gas Factory Junction to Bow Junction	3✖Certain locos of higher RA are permitted
+EA1410	Upminster to West Thurrock Junction	8
+EA1420	Thames Haven Junction to Thames Haven	8
+EA1430	East Suffolk Junction to Oulton Broad North Junction	7✖East Suffolk Junction - Westerfield Junction RA8
+EA1440	Westerfield Junction to Felixstowe Town	7
+EA1450	Trimley to Port of Felixstowe North Quay Terminal	7
+EA1460	Felixstowe Beach Junction to Felixstowe Beach	7
+EA1470	Norwich Thorpe Junction to Lowestoft	7✖Wensum Curve RA6
+EA1474	See EA1744	nan
+EA1480	Whitlingham Junction to Cromer	6
+EA1490	Cromer to Sheringham	6
+EA1500	Brundall Junction to Yarmouth (via Acle)	7
+EA1510	Reedham Junction to Yarmouth	7
+EA1520	Saxmundham Junction to Sizewell	7
+EA1530	Coldham Lane Junction to Haughley Junction	8
+EA1540	Chippenham Junction to Ely Dock Junction	8
+EA1550	Ely North Junction to Ely West Junction (Ely West Curve)	8
+EA1560	Ely North Junction to Peterborough	8
+EA1570	March (East and West Junctions) to Wisbech	8✖Whitemoor - Wisbech RA6
+EA1575	Whitemoor Junction to Whitemoor Yard From 2 July 2023	?
+EA1580	Ely North Junction to Trowse Junction	8
+EA1744	Europa Junction to Boss Hall Junction/Bacon Factory Chord As defined; EA1474 looks a more likely original intention but is not used	10
+EA5380	North Pole Junction to Acton Wells Junction Code given in 1998 and 2003 notices	8
+EA5390	Acton Canal Wharf to Willesden Code given in 1998 and 2003 notices	8
+EA5440	Acton Wells Junction to Acton East Code given in 1998 and 2003 notices	8
+EA8990	Norwich Crown Point depot	8
+EA9980	Code given in 1998 and 2003 notices without definition	nan
+EA9990	Other lines Code given in 1998 and 2003 notices	nan
+GW100	Paddington to Penzance (via Box) Replaced by GW103, GW105 and GW108 from November 1999	nan
+GW103	Paddington to Uffington Replaced part of GW100 from November 1999	8
+GW105	Uffington to Fordgate (via Box) Replaced part of GW100 from November 1999	8
+GW107	Worle Junction to Uphill Junction (via Weston-super-Mare) Replaced GW550 from November 1999	8
+GW108	Fordgate to Penzance Replaced part of GW100 from November 1999	7✖Fordgate - Burngullow Junction RA8
+GW110	Old Oak Common West to South Ruislip (exclusive)	8
+GW117	Greenford East Junction to Greenford South Junction	8
+GW130	Acton Wells Junction (exclusive) to Acton East	8
+GW174	West Ealing to Greenford West Junction	8
+GW175	Greenford (LUL) Bay Junction to Greenford Station	8
+GW176	Drayton Green to Hanwell Junction	8
+GW178	Southall to Brentford Goods	8
+GW180	Heathrow Airport Junction to Heathrow Terminal 4 Replaced by new GW180 from 10 April 2007	8
+GW180	Heathrow Airport Junction to Heathrow Terminals 4 and 5 Replaced old GW180 from 10 April 2007	8
+GW182	West Drayton to Colnbrook	8
+GW184	Slough to Windsor & Eton	3✖Was RA6 to 16 April 2011
+GW185	Maidenhead to Marlow	6
+GW187	Twyford to Henley-on-Thames	4
+GW190	Reading Spur Junction to Reading New Junction	8
+GW195	Reading Southern Junction to Reading East Junction (Reading Low Level Line) From 6 June 2015	8
+GW200	Didcot to Heyford (exclusive)	8
+GW210	Reading to Wokingham	?
+GW220	Reading Oxford Road Junction to Reading West Junction	8
+GW225	Reading Caversham Road Junction to Oxford Road Junction (Reading Feeder Lines)	8
+GW240	Didcot East Junction to Didcot North Junction (via Avoiding Line)	8
+GW250	Foxhall Junction to Didcot West Curve Junction	8
+GW254	Appleford stone terminal branch	?
+GW260	Kennington Junction to Morris Cowley	7
+GW276	Bicester Eastern Perimeter Road Level Crossing to Oxford North Junction Replaced by GW277 from 14 September 2015	7
+GW277	Oxford North Junction to Oxford Parkway (exclusive) Replaced GW276 from 14 September 2015	8
+GW300	Abbotswood Junction to Stoke Works Junction (via Worcester Shrub Hill) Replaced by MD900 from 27 March 2021; fully removed from Sectional Appendix 20 November 2021	8
+GW310	Wolvercot Junction to Norton Junction Replaced by MD910 and new GW310 from 27 March 2021	7
+GW310	Wolvercot Junction to Pershore Replaced old GW310 from 27 March 2021	7
+GW317	Honeybourne Ground Frame to Long Marston	7
+GW340	Worcester Shrub Hill to Shelwick Junction Replaced by MD940 from 27 March 2021; fully removed from Sectional Appendix 20 November 2021	7
+GW350	Worcester Tunnel Junction to Henwick Replaced by MD950 from 27 March 2021; fully removed from Sectional Appendix 20 November 2021	7
+GW370	Droitwich Spa to Cutnall Green Merged into MD430 from 27 March 2021; fully removed from Sectional Appendix 20 November 2021	8
+GW400	Barnt Green (exclusive) to Westerleigh Junction (via Dunhampstead) Replaced by GW401 and part of MD306 from 21 October 2017	8
+GW401	Ashchurch (inclusive) to Westerleigh Junction Replaced GW400 from 21 October 2017	8
+GW425	Berkeley Road Junction to Sharpness	6
+GW430	Yate Middle Junction to Tytherington Replaced by new GW430 from 24 July 2004	8
+GW430	Yate Middle Junction (outgoing or incoming lines) to Tytherington Replaced old GW430 from 24 July 2004	8
+GW440	Yate South Junction to Westerleigh	8
+GW450	Stoke Gifford Junction to Bristol East Junction	8
+GW451	Filton Junction to Filton West Junction (Filton Curve)	7✖Was RA8 to 14 January 2012
+GW454	Severn Beach to Narroways Hill Junction	7
+GW456	Easton Road Junction to Barrow Road	?
+GW468	South Marston Junction to Keypoint Euroterminal	?
+GW470	Highworth Junction to Rover Sidings	8
+GW480	Swindon to Standish Junction	8
+GW490	Gloucester Yard Junction to Horton Road Junction	8
+GW500	Reading to Cogload Junction (via Westbury and Frome Avoiding Lines)	8
+GW505	Reading Triangle DMU Sidings From 6 June 2022	?
+GW510	Westbury North Junction to Bathampton Junction	8
+GW520	Westbury East Loop Junction to Hawkeridge Junction	8
+GW521	Westbury East Loop Junction to Hawkeridge Junction Believed to be listed in error	nan
+GW523	Thingley Junction to Bradford Junction	8
+GW528	Bristol North Somerset Junction to Bristol West Junction (via St Philips Marsh)	8
+GW530	Bristol North Somerset Junction to Dr Days Junction	8
+GW540	Filton Junction to Patchway Junction	8
+GW548	Parson Street Junction to Portbury	8
+GW550	Worle Junction to Uphill Junction (via Weston-super-Mare) Replaced by GW107 November 1999	8
+GW560	Heywood Road Junction to Fairwood Junction (via Westbury)	8
+GW570	Clink Road Junction to Blatchbridge Junction (via Frome)	8
+GW572	Frome North Junction to Whatley Quarry	6
+GW580	East Somerset Junction to Cranmore	8
+GW590	Castle Cary to 130m 00ch (Weymouth Line)	8
+GW600	Wootton Bassett Junction to Pilning Replaced GW800 from November 1999	8
+GW600	Reading New Junction to Reading Spur Junction Believed to be listed in error	8
+GW602	Norton Fitzwarren Junction to Norton Fitzwarren WSR boundary	8
+GW606	Cowley Bridge Junction to Barnstaple	5✖Cowley Bridge Junction - Crediton RA6
+GW608	Crediton Junction to Coleford (Meldon Line) Replaced by GW608 from 6 September 2021	6
+GW608	Crediton to Meldon (Okehampton Line) Replaced old GW608 and GW609 from 6 September 2021	6
+GW609	Coleford to Meldon Merged into GW608 from 6 September 2021	6
+GW610	Crannaford Level Crossing (incl) to Exeter St Davids	8
+GW611	Exmouth Junction to Exmouth	6
+GW613	City Basin Junction to Marsh Barton	8
+GW618	Newton Abbot East Junction to Heathfield	6
+GW620	Newton Abbot West Junction to Goodrington Carriage Sidings (Paignton)	6
+GW621	Paignton to Goodrington Sidings	6
+GW626	Tavistock Junction to Marsh Mills	8
+GW628	Laira Junction to Cattewater (via Speedway Junction) Replaced by new GW628 from 22 January 2011	5✖Laira Junction - Plymouth Friary RA7
+GW628	Laira Junction/Lipson Junction to Cattewater Replaced old GW628 from 22 January 2011	5✖Laira Junction - Plymouth Friary RA7
+GW629	Laira Junction to Mount Gould Junction via Maintenance Depot	7?
+GW630	Lipson Junction to Speedway Junction	7
+GW637	St Budeaux Junction to Gunnislake	5✖Bere Alston - Gunnislake RA4
+GW640	Liskeard to Looe (via Coombe)	4
+GW642	Coombe (exclusive) to Moorswater	4
+GW650	Lostwithiel to Fowey Carne Point	6
+GW660	Par to Newquay	6✖Par - Goonbarrow Junction RA8
+GW661	St Blazey to Par Harbour	6
+GW672	Burngullow to Parkandillack	5✖Par - Drinnick Mill RA6; full route was RA6 to 14 January 2012
+GW680	Penwithers Junction to Falmouth	6
+GW690	St Erth to St Ives	5
+GW700	Gloucester Barnwood Junction to Severn Tunnel Junction Occasionally replaced by CY240 from 2016	8✖Caerwent branch RA4
+GW704	Wye Valley Junction to Tidenham Quarry	?
+GW705	Caldicot Level Crossing Ground Frame to Sudbrook Code deleted 8 November 2008	6
+GW710	Llanwern Works East Connection to Llanwern Works West Connection (via British Steel Service Lines)	8
+GW720	Uskmouth to East Usk Junction	8
+GW730	Sutton Bridge Junction (exclusive) to Newport Maindee West Junction Replaced by new GW730 from 4 August 2001	8
+GW730	Shrewsbury Severn Bridge Junction to Newport Maindee West Junction Replaced old GW730 and MD820 from 4 August 2001	8
+GW731	Abbey Foregate to Ruabon Replaced part of MD801 from 4 August 2001	8
+GW732	Abbey Foregate to English Bridge Junction Replaced MD815 from 4 August 2001	8
+GW733	Sutton Bridge Junction to Aberystwyth Replaced MD825 from 4 August 2001	5✖Sutton Bridge Junction - Welshpool RA7
+GW734	Dovey Junction to Pwllheli Replaced MD830 from 4 August 2001	5
+GW735	Shrewsbury Crewe Junction to Nantwich Replaced MD835 from 4 August 2001	8
+GW736	Gobowen South to Llanddu Junction Replaced MD840 from 4 August 2001	5
+GW740	Maindee East Junction to Maindee North Junction	8
+GW750	Hereford Brecon Curve Ground Frame to MEB Siding	8
+GW770	Ebbw Vale South Ground Frame to Gaer Junction (Western Valley Line) Replaced by new GW770 from 30 November 2007	8
+GW770	Ebbw Vale Parkway to Gaer Junction (Western Valley Line) Replaced old GW770 from 30 November 2007; replaced by new GW770 from 10 May 2015	5✖Was RA8 to 14 January 2012
+GW770	Ebbw Vale Town to Gaer Junction (Western Valley Line) Replaced old GW770 from 10 May 2015	5
+GW773	Machen Quarry to Park Junction	6
+GW780	Ebbw Junction to Park Junction	8
+GW784	Alexandra Dock Junction to 160m 27ch (boundary with ABP Newport Docks)	8
+GW790	Pengam Junction to 4m 54ch (boundary with ABP Cardiff Docks) Replaced by new GW790 from 29 June 2015	7
+GW790	Pengam Junction to Tidal Sidings Replaced old GW790 from 29 June 2015	7
+GW800	Wootton Bassett Junction to Pilning Replaced by GW600 November 1999	8
+GW810	Rhymney to Queen Street North Junction	6
+GW819	Penrhiwfelin Ground Frame to Ystrad Mynach North Line disconnected by 19 December 2007: unclear whether code deleted at same time	?
+GW820	Cwmbargoed to Ystrad Mynach South	8
+GW828	Coryton to Heath Junction	6
+GW830	Merthyr Tydfil to Barry Island (via Cardiff Queen Street)	6✖Cardiff Queen St - Barry RA8
+GW834	Hirwaun to Abercynon	6
+GW835	Treherbert to Pontypridd Junction	6
+GW839	Queen Street South Junction to Cardiff Bay	6
+GW840	Radyr Junction to Cardiff Radyr Branch Junction (via City Lines)	8
+GW850	Leckwith Loop South Junction to North Junction	8
+GW860	Penarth Curve North Junction to Penarth Curve South Junction	8
+GW864	Cogan Junction to Penarth	6
+GW870	Barry to Bridgend Barry Junction (Vale of Glamorgan Line)	8
+GW871	Ford's Junction to Waterton	8
+GW873	Llantrisant East Ground Frame to Cwm Llantwit	?
+GW874	Bridgend Llynfi Junction to Llynfi Replaced by new GW874 by 2016	6
+GW874	Bridgend Llynfi Junction to Maesteg Replaced old GW874 by 2016	6
+GW875	Tondu to Pontycymmer	?
+GW877	Tondu to Port Talbot Docks (Ogmore Vale Extension)	6
+GW878	Newlands Loop Junction to Newlands Junction	8
+GW887	Margam Yard Junction to Margam Middle Junction	8
+GW888	Margam Moors Junction to Margam Abbey Works East Junction	8
+GW890	Court Sart Junction/Up Flying Loop Junction to Morlais Junction	8
+GW892	Jersey Marine Junction South to Glyn Neath	6
+GW893	Onllwyn to Neath & Brecon Junction	6
+GW894	Jersey Marine Junction North to Jersey Marine Junction South	8
+GW897	Grovesend Colliery Loop Junction to Hendy Junction	6✖Was RA8 to 14 January 2012
+GW900	Pilning to Fishguard Harbour	7✖Pilning - Landore and Llandeilo Junction - Clarbeston Road RA8
+GW906	Swansea Loop East Junction to Swansea Loop West Junction	7
+GW910	Craven Arms to Llandeilo Junction (Central Wales Line)	5✖Pantyffynnon - Morlais Junction RA6; Morlais Junction - Llandeilo Junction RA8
+GW915	Gwaun-Cae-Gurwen to Pantyffynnon	5
+GW923	Cwmmawr to Kidwelly	8 presumed
+GW930	Carmarthen Junction to Carmarthen Station	8
+GW940	Carmarthen Station to Carmarthen Bridge Junction	8
+GW950	Whitland to Pembroke Dock Occasionally replaced by CY1540 from 2012	7✖Pembroke - Pembroke Dock RA6
+GW960	Clarbeston Road to Milford Haven	8
+GW970	Gulf Oil Branch Junction to Waterston Gulf Oil Refinery	8
+GW980	Herbrandston Junction to Robeston Amoco Sidings	8
+GW990	Trecwn to Letterston Junction	?
+GW1000	All Lines	nan
+GW4501	Stoke Gifford Junction to Bristol Bulk Handling Terminal	7
+GW5001	Beechgrove Ground Frame (incl) to Westbury North Junction	8
+GW5401	Filton West Junction to Patchway Junction (Patchway Chord)	7 or 8 conflicting information
+GW6135	Exeter Railway Junction to Alphington Road	?
+GW8001	Long Dyke Junction to 0m 33ch (boundary with ASW Castle Works)	?
+GW8901	Jersey Marine Junction South to Jersey Marine	6
+GW9001	Landore Junction to Swansea	7
+LN101	Kings Cross to Shaftholme Junction	9✖Fletton-Peterborough RA8 from 16 April 2011 then RA9 from 12 September 2015; Newark Northgate - Retford RA8
+LN105	Moorgate to Finsbury Park	9
+LN110	Canonbury West Junction to Finsbury Park	9
+LN115	Copenhagen Road (formerly Freight Terminal) Junction to Camden Road East Junction Replaced by new LN115 from 3 February 2007	10
+LN115	Copenhagen Road Junction to Camden Road Central Junction Replaced old LN115 from 3 February 2007	10
+LN120	Wood Green North Junction to Langley Junction (via Hertford)	9
+LN125	Hitchin Cambridge Junction to Coldham Lane Junction	9
+LN126	Down Cambridge flyover: Hitchin North Junction to Hitchin East Junction From 24 June 2013	9
+LN130	Fletton Junction to Orton Mere	8
+LN135	Kings Dyke to Crescent Junction	9
+LN145	Marholm Junction To Glinton Junction (Werrington Diveunder)	9?
+LN147	Helpston Junction to Uffington Level Crossing	9
+LN150	Flyover East Junction to Decoy North Junction	8
+LN155	Flyover East Junction to Loversall Junction (Up Loversall Curve)	8
+LN160	Loversall Carr Junction to Flyover West Junction	8
+LN165	Harringay Park Junction to Harringay Junction	9
+LN170	Werrington Junction to Flyover East Junction via Lincoln Replaced part of MD650 from 1 April 2000	8
+LN175	Sleaford South Junction to Sleaford East Junction Replaced MD655 from 1 April 2000	8
+LN180	Sleaford West Junction to Sleaford North Junction Replaced MD660 from 1 April 2000	8
+LN185	Barkston South Junction to Skegness Replaced by new LN185 from 3 October 2005	7✖Barkston South Junction - Boston RA8
+LN185	Allington West Junction to Skegness Replaced old LN185 from 3 October 2005	7✖Barkston South Junction - Boston RA8
+LN190	Barkston East Junction to Allington Junction Replaced part of MD665 from 1 April 2000; replaced by new LN190 from 3 October 2005	10
+LN190	Allington East Junction to Allington North Junction (Allington Chord) From 3 October 2005	8
+LN195	Grantham Nottingham Branch Junction to Allington Junction Replaced MD670 from 1 April 2000; replaced by new LN195 from 3 October 2005	8
+LN195	Barkston East Junction to Allington Junction Replaced MD670 from 1 April 2000	8
+LN195	Grantham Nottingham Branch Junction to Bottesford West Junction From 3 October 2005	8
+LN200	Wrawby Junction to Pelham Street Junction Replaced MD675 from 1 April 2000	8
+LN205	Newark Castle to Swinderby	8
+LN206	Staythorpe to West Holmes Junction Replaced part of MD625 from 1 April 2000; replaced by new LN206 from 7 November 2016	8
+LN206	Newark Flat Crossing (inclusive) to West Holmes Junction Replaced old LN206 from 7 November 2016	8
+LN210	Newark Crossing Curve Line	8
+LN215	Boultham Junction to Pyewipe Junction Replaced MD680 from 1 April 2000	8
+LN220	Bessacarr Junction to Black Carr Junction	8
+LN225	Cleethorpes to Retford	8
+LN230	Retford Western Junction to Thrumpton West Junction See also LN748	8
+LN235	Rossington Colliery Branch Code deleted from 6 April 2019	9
+LN240	Doncaster Bridge Junction to St James Junction See also LN832	8
+LN245	Doncaster Marshgate to Marsh Lane Junction	9
+LN600	Doncaster Black Carr Junction to Reston GSP Replaced by new LN600 by 2016	9✖Newcastle - Heaton RA8 (from 16 April 2011); Temple Hirst Junction - Colton Junction RA10
+LN600	Shaftholme Junction to Reston GSP Replaced LN600 by 2016	9✖Newcastle - Heaton RA8 (from 16 April 2011); Temple Hirst Junction - Colton Junction RA10
+LN618	York Holgate Junction to Skelton Junction	9
+LN620	King Edward Bridge East Junction to King Edward Bridge North Junction (East Curve)	9
+LN622	Forth Branch	8
+LN624	Northallerton Castle Hills Junction to Redmire	8
+LN626	Northallerton High Junction to Northallerton East Junction	8
+LN627	Northallerton Longlands Junction to Newcastle East Junction (via the coast)	8
+LN628	Northallerton Longlands Junction to Newcastle East Junction (via the coast) Replaced by LN627	8
+LN628	South Hylton to Sunderland South Junction	8
+LN629	Pelaw Metro Junction to Pelaw South Junction	8
+LN630	Darlington South Junction to Eaglescliffe South Junction Replaced by LN631	8
+LN630	Pelaw North Junction to Pelaw Metro Junction	8
+LN631	Darlington South Junction to Eaglescliffe South Junction	8
+LN632	Stockton Cut Junction to Saltburn	8
+LN634	Guisborough Junction to Whitby	7
+LN636	Beam Mill to Slag Road (Lackenby)	8
+LN638	Grangetown (Shell Junction) to Cleveland Freightliner Terminal	8
+LN640	ICI Wilton Coal Terminal Branch	8
+LN642	Saltburn West Junction to Boulby Potash Mine	8
+LN644	Hartburn Curve	8
+LN646	Norton-on-Tees South to Ferryhill South Junction	8
+LN648	Norton-on-Tees West to Norton-on-Tees East	8
+LN650	Kelloe Bank Foot Branch Code deleted from 2 June 2012 or 10 January 2015	8
+LN652	Billingham-on-Tees to Seal Sands Storage	8
+LN654	Thought to be Belasis Lane to Haverton Hill Exchange Sidings	8
+LN656	Seaton-on-Tees Branch	8
+LN658	Thought to be Clarence Road (Hartlepool) to Hartlepool Docks	?
+LN659	Thought to be Easington Colliery Branch or Seabanks Branch	?
+LN660	Thought to be Dawdon Junction to Seaham Harbour	8
+LN661	Thought to be Ryhope Grange to Murton Colliery	?
+LN662	Ryhope Grange to Hendon	8
+LN664	Boldon East Junction to Boldon North Junction	8
+LN666	Boldon West Junction to Tyne Coal Terminal	8
+LN668	Not allocated?	nan
+LN670	Jarrow Branch	8
+LN672	Wardley to Pelaw Junction	8
+LN674	High Level Junction Bridge Junction to Greensfield Junction (West Curve)	8
+LN676	Park Lane Junction to King Edward Bridge South Junction	8
+LN678	Darlington North Junction to Eastgate	8
+LN680	Thought to be Forth Goods Branch	8
+LN682	King Edward Bridge South Junction to Carlisle North Junction	8
+LN684	Low Fell Junction to Norwood Junction	8
+LN694	Benton North Junction to Morpeth North Junction via Bedlington	8
+LN696	Hepscott Junction to Morpeth Junction	8
+LN698	Butterwell South Branch	8
+LN700	Butterwell North Branch	8
+LN702	Bedlington North to Lynemouth Colliery BC	8
+LN704	Bates Branch Code deleted 10 November 2015	8
+LN706	West Sleekburn Junction to North Blyth	8
+LN708	Winning to Marchey's House	8
+LN720	Doncaster Black Carr Junction to Skelton Bridge	9✖Newcastle - Heaton RA8 (from 16 April 2011); Temple Hirst Junction - Colton Junction RA10
+LN722	Flyover East Junction to Decoy North Junction See also LN150	8
+LN724	York Holgate Junction to Skelton Junction	9
+LN726	Gainsborough Lea Road to Flyover East Junction Replaced part of MD650 from 1 April 2000	8
+LN728	Wrawby Junction to Howsham Level Crossing Replaced MD625 from 1 April 2000; code deleted 9 August 2007 to remove duplication with LN200	8
+LN730	Newark Castle to Swinderby	8
+LN732	Newark Crossing Curve Line See also LN210	8
+LN734	Boultham Junction to Pyewipe Junction See also LN215. Given as exact duplicate of LN618 in 2019, probably in error	8
+LN736	Cleethorpes to Nunnery Main Line Junction via Retford	8
+LN738	Great Coates No 1 to Union Dock	8
+LN740	Grimsby Marsh West Junction to Humber Road Junction	8
+LN741	Habrough Junction to Ulceby South Junction	8
+LN742	Killingholme to Brocklesby Junction	8
+LN744	Ulceby North Junction to Barton-on-Humber	8
+LN746	Cottam Power Station Branch Line taken out of use 30 May 2021	8
+LN748	Retford Western Junction to Thrumpton West Junction	8
+LN750	Woodburn Junction to Deepcar	8
+LN752	Wrawby Junction to Marshgate Junction	8
+LN754	Scunthorpe Foreign Ore Branch	10
+LN756	Scunthorpe Trent Junction to Roxby	8
+LN758	Brancliffe East Junction to Kirk Sandal Junction	8
+LN760	Firbeck Junction to Harworth Colliery	7
+LN762	St Catherines Junction to Decoy South Junction (St Catherines Curve)	8
+LN764	Low Ellers Curve	8
+LN766	Bentley Junction to Hexthorpe Junction (Doncaster Avoiding Line)	8
+LN768	Mansfield Woodhouse to Shireoaks East Junction	8
+LN770	Pinxton to Bentinck Colliery Code used in 1998/99; see also LN3276	7
+LN772	Warsop Junction to Shirebrook Junction	9
+LN774	Barrow Hill North Junction to Elmton & Creswell	7
+LN776	Hall Lane Junction to Foxlow Junction	7
+LN778	Seymore Junction to Bolsover	7
+LN780	Oxcroft Branch	7
+LN782	Woodend Junction to Shireoaks West Junction	8
+LN784	High Marnham to Shirebrook East Junction	8✖Shirebrook South Junction - Shirebrook East Junction RA10
+LN786	Bevercotes Colliery Branch	?
+LN788	Thoresby Colliery Branch Line removed from Sectional Appendix 26 January 2019	7
+LN790	Rufford No. 1 Coal Stacking Site to Clipstone East Junction Line abandoned 4 March 2017	8
+LN794	Bilsthorpe Colliery Branch Code deleted 10 July 2010	8
+LN796	Rufford Colliery Branch Line taken out of use 22 January 2011; line abandoned 4 March 2017	8
+LN798	Clipstone Colliery Branch Code deleted 22 January 2011	7
+LN800	Clipstone South Junction to Clipstone West Junction Line taken out of use 22 January 2011	8
+LN802	Welbeck Colliery Branch	7
+LN804	Clay Cross North Junction to Gascoine Wood (via Sheffield) Replaced by new LN804 from 30 August 2008	8✖Milford Junction - Gascoine Wood RA10; Ferrybridge - Milford Junction RA9
+LN804	Tapton Junction to Gascoine Wood (via Sheffield) Replaced LN804 from 30 August 2008	8✖Milford Junction - Gascoine Wood RA10; Ferrybridge - Milford Junction RA9
+LN806	Tapton Junction to Masborough Junction	8
+LN807	Dore South Junction to Dore West Junction	8
+LN807A	Dore Station Junction to Totley Tunnel East	8
+LN8071	Dore Station Junction to Totley Tunnel East	8
+LN808	Dore Station Junction to Totley Tunnel East	8
+LN808	Shepcote Lane Junction to Treeton North Junction Replaced by LN809	10
+LN809	Dore Station Junction to Totley Tunnel East unclear if intended	8
+LN809	Shepcote Lane Junction to Tinsley Yard East Junction Replaced LN808	10
+LN810	Shepcote Lane West Junction to Tinsley South Junction	10
+LN812	Shepcote Lane East Junction to Broughton Lane Junction	10
+LN814	Tinsley North Junction to Sheffield Tram Transfer Line	?
+LN815	Parkgate Junction to Sheffield Tram Parkgate Transfer Line	8
+LN816	Beighton Junction to Woodhouse Junction	8
+LN818	Holmes Curve	10
+LN820	Goldthorpe Colliery Branch	?
+LN822	Frickley Colliery Branch	8
+LN824	Moorthorpe Junction to South Kirkby Junction	8
+LN826	Doncaster South Yorkshire Junction to Swinton Junction North/South	8
+LN828	Mexborough Junction to Aldwarke Junction via Kilnhurst	8
+LN830	Aldwarke Junction to Woodburn Junction	8
+LN832	Doncaster Bridge Junction to St James Junction	8
+LN834	Thrybergh Junction to Silverwood Colliery	unknown
+LN836	Doncaster Marshgate Junction to Whitehall Junction Replaced by new LN836	9
+LN836A	Doncaster Marshgate Junction to Neville Hill East Junction	9
+LN8361	Doncaster Marshgate Junction to Neville Hill East Junction	9
+LN836	Doncaster Marshgate Junction to Neville Hill East Junction Replaced old LN836	9
+LN838	Leeds East Junction to York Skelton Junction (via Harrogate) Replaced by new LN838	8
+LN838A	Leeds Armley Junction to York Skelton Junction (via Harrogate)	8
+LN8381	Leeds Armley Junction to York Skelton Junction (via Harrogate)	8
+LN838	Leeds Armley Junction to York Skelton Junction (via Harrogate) Replaced old LN838	8
+LN840	Leeds Engine Shed Junction to Whitehall Junction Replaced by new LN840	8
+LN840A	Leeds Engine Shed Junction to Whitehall East Junction	8
+LN8401	Leeds Engine Shed Junction to Whitehall East Junction	8
+LN840	Leeds Engine Shed Junction to Whitehall East Junction Replaced old LN840	8
+LN842	Stainforth Junction to Adwick Junction Replaced by new LN842 from 1 June 2014	8
+LN842	Thorpe Marsh to Adwick Junction Replaced old LN842 from 1 June 2014	8
+LN844	Applehurst Loop	9
+LN846	Carcroft Junction to Skellow Junction	9
+LN848	Hare Park Junction to Crofton West Junction	8
+LN850	Wakefield Westgate South Junction to Wakefield Kirkgate West Junction	9
+LN852	Holbeck West Junction to Bradford Interchange Replaced by new LN852	8
+LN852A	Holbeck Junction to Bradford Interchange	8
+LN8521	Holbeck Junction to Bradford Interchange	8
+LN852	Holbeck Junction to Bradford Interchange Replaced old LN852	8
+LN854	Hall Royd Junction to Colton North Junction	9✖Goose Hill - Altofts Junction RA8
+LN856	Hall Royd Junction to Skelton Junction	9✖Goose Hill - Altofts Junction RA8
+LN858	Milner Royd Junction to Bradford Mill Lane Junction	8
+LN859	Greetland Junction to Dryclough Junction	8
+LN859A	Bradley Junction to Bradley Wood Junction	8
+LN8591	Bradley Junction to Bradley Wood Junction	8
+LN860	Diggle Junction to Leeds Holbeck East Junction Replaced by new LN860	8✖Diggle Junction - Heaton Lodge Junction RA9
+LN860A	Diggle Junction to Copley Hill East Junction	8✖Diggle Junction - Heaton Lodge Junction RA9
+LN8601	Diggle Junction to Copley Hill East Junction	8✖Diggle Junction - Heaton Lodge Junction RA9
+LN860	Diggle Junction to Copley Hill East Junction Replaced old LN860	8✖Diggle Junction - Heaton Lodge Junction RA9
+LN861	Bradley Junction to Bradley Wood Junction	8
+LN862	Barnsley Station Junction to Huddersfield	2✖Barnsley Station Junction - Lockwood RA8
+LN864	Dewsbury Railway Street Branch	6
+LN866	Not allocated?	nan
+LN868	Wincobank Junction to Horbury Junction	7✖To 16 April 2011: Wincobank Junction - Barnsley Station Junction RA8. From 16 April 2011: Wincobank Junction - Barnsley Station Junction RA8; Crigglestone Junction - Horbury Junction RA5; remainder RA7
+LN870	Wakefield, Turners Lane Junction to Calder Bridge Junction	8
+LN872	Altofts Junction to Leeds North Junction Replaced by new LN872	8
+LN872A	Altofts Junction to Leeds West Junction	8
+LN8721	Altofts Junction to Leeds West Junction	8
+LN872	Altofts Junction to Leeds West Junction Replaced old LN872	8
+LN874	Methley Junction to Whitwood Junction	8
+LN875	Castleford West Junction to Pontefract West Junction	8
+LN876	Castleford East Junction to Ledston	unknown
+LN878	Sherburn Junction to Gascoigne Wood	8
+LN880	York to Scarborough	8✖York platform 2 and inspection siding RA3; from 12 May 2012 York platform 4 to single line section RA6
+LN882	Wakefield Kirkgate West Junction to Goole Potters Grange	8
+LN884	Oakenshaw South Junction to Oakenshaw Junction	8
+LN886	Monk Bretton Loop to Crofton East Junction	8
+LN888	Shaftholme Junction to Ferrybridge North Junction Replaced by new LN888 from 1 June 2014	9
+LN888	Stainforth Junction to Ferrybridge North Junction Replaced old LN888 from 1 June 2014	9
+LN889	Shaftholme Junction to Haywood Junction From 1 June 2014	9
+LN890	Not allocated?	nan
+LN892	Ferrybridge Branch Replaced by new LN892 from 29 August 2006	8
+LN892	Pontefract East Junction to Ferrybridge South Junction Replaced old LN892 from 29 August 2006	8
+LN894	Knottingley South Junction to Knottingley East Junction	9
+LN896	Drax Power Station Branch	8
+LN898	Leeds West Junction to Hull Replaced by new LN898	8
+LN898A	Neville Hill East Junction to Hull	8
+LN8981	Neville Hill East Junction to Hull	8
+LN898	Neville Hill East Junction to Hull Replaced old LN898	8
+LN899	Hessle East Junction to connection to Hull Dairycoates Unloading Bunker	8
+LN900	Neville Hill West Junction to Hunslet East	10
+LN902	Micklefield Junction to Church Fenton North Junction	9
+LN904	Hambleton South Junction to Hambleton West Junction	10
+LN906	Hambleton East Junction to Hambleton North Junction	10
+LN908	Selby West Junction to Canal Junction	9
+LN910	Temple Hirst Junction to Selby South Junction	9
+LN912	Thorne Junction to Gilberdyke Junction	8
+LN914	Hull Paragon to Seamer West	6✖Hull - West Parade North Junction RA8; West Parade North Junction - Walton Street Junction RA7
+LN916	Hessle Road to Saltend	7✖Hessle Road - Springbank North Junction RA8
+LN918	Springbank North Junction to Walton Street Junction	8
+LN920	Analby Road Junction to West Parade North Junction	8
+LN922	Leeds Wortley Junction to Hellifield South Junction Replaced by new LN922	8
+LN922A	Whitehall West Junction to Hellifield South Junction	8
+LN9221	Whitehall West Junction to Hellifield South Junction	8
+LN922	Whitehall West Junction to Hellifield South Junction Replaced old LN922	8
+LN924	Apperley Junction to Ilkley	7
+LN926	Dockfield Junction to Esholt Junction	5✖Was RA2 7 January 2009 to 22 October 2011
+LN928	Shipley East Junction to Bradford Forster Square	8
+LN930	Skipton Middle Junction to Rylstone	8
+LN932	Shipley South Junction to Shipley West Junction	8
+LN3140	Bedford St Johns (exclusive) to Bedford Station Junction Replaced part of MD140 from 3 December 2005	8
+LN3201	St Pancras to Chesterfield (via Derby) Replaced MD201 from 3 December 2005; replaced by new LN3201 from 30 August 2008	8
+LN3201	St Pancras to Tapton Junction (via Derby) Replaced LN3201 from 30 August 2008	8
+LN3204	Trent South Junction to Nottingham East Junction Replaced MD204 from 3 December 2005	8
+LN3205	Trent South Junction to Nottingham East Junction Replaced MD205 from 3 December 2005 (presumed)	8
+LN3207	Trent East Junction to Clay Cross South Junction Replaced MD207 from 3 December 2005; replaced by new LN3207 from 30 August 2008	8
+LN3207	Trent East Junction to Clay Cross North Junction Replaced old LN3207 from 30 August 2008; subsumed LN3267 from 17 October 2009	8
+LN3210	Junction Road Junction to Carlton Road Junction (Tottenham Lines) Replaced MD210 from 3 December 2005	8
+LN3213	Moorgate to Carlton Road Junction (Moorgate Lines) Replaced MD213 from 3 December 2005; replaced by new LN3213 from 7 December 2009	8✖Moorgate - Kentish Town South Junction RA5
+LN3213	Farringdon to Kentish Town Replaced old LN3213 from 7 December 2009	8✖Moorgate - Kentish Town South Junction RA5
+LN3214	Canal Tunnel Junction to Belle Isle Junction	3
+LN3216	Faringdon Junction to Blackfriars Replaced MD216 from 3 December 2005	8
+LN3219	Cricklewood Curve Junction to Dudding Hill Junction Replaced MD219 from 3 December 2005; replaced by new LN3219 from 17 August 2013	8
+LN3219	Cricklewood Curve Junction to Route Boundary (EA1360) (Dudding Hill) Replaced LN3219 from 17 August 2013	8
+LN3222	Brent Curve Junction to Dudding Hill Junction Replaced MD222 from 3 December 2005	8
+LN3225	Luton Bute St to Dunstable Replaced MD225 from 3 December 2005 (presumed)	8
+LN3228	Trent East Junction to Sheet Stores Junction Replaced MD228 from 3 December 2005	8
+LN3231	Wigston South Junction to Glen Parva Junction Replaced MD231 from 3 December 2005	8
+LN3232	Wigston North Junction to Hinkley Replaced part of MD232 from 3 December 2005	8
+LN3234	Syston East Junction to Syston North Junction Replaced MD234 from 3 December 2005	8
+LN3237	Loughborough South Junction to Hotchley Hill Replaced MD237 from 3 December 2005	8
+LN3240	Little Eaton Junction to Denby Replaced MD240 from 3 December 2005; code deleted 2 May 2015	7
+LN3243	Duffield Junction to Wirksworth Station Ground Frame Replaced MD243 from 3 December 2005 (presumed)	8
+LN3246	Ambergate Junction to Matlock Replaced MD246 from 3 December 2005	8
+LN3249	Lenton South Junction to Lenton North Junction Replaced MD249 from 3 December 2005	8
+LN3252	Mansfield Junction to Trowell Junction Replaced MD252 from 3 December 2005; replaced by new LN3252 from 4 August 2007	8
+LN3252	Mansfield Junction to Trowell South Junction From 4 August 2007	8
+LN3255	Radford Junction to Kirkby Lane End Junction Replaced MD255 from 3 December 2005	8✖Newstead - Kirkby Lane End Junction RA7
+LN3258	Bestwood Park Junction to Calverton Colliery Replaced MD258 from 3 December 2005	8
+LN3261	Trent South Junction to Meadow Lane Junction (High Level Goods Lines) Replaced MD261 from 3 December 2005; replaced by new LN3261 from 17 October 2009	8
+LN3261	Trent South Junction to Toton South Junction (High Level Lines) Replaced old LN3261 from 17 October 2009	8
+LN3264	Attleborough Junction to Toton Junction (High Level Lines) Replaced MD264 from 3 December 2005; replaced by new LN3264 from 17 October 2009	8
+LN3264	Attleborough Junction to Meadow Lane Junction (Attenborough Curve) Replaced old LN3264 from 17 October 2009	8
+LN3267	Stapleford & Sandiacre to Stanton Gate Replaced MD267 from 3 December 2005; merged into LN3207 from 17 October 2009	8
+LN3270	Codnor Park Junction to Ironville Junction Ground Frame Replaced MD270 from 3 December 2005; code deleted 4 August 2007	8
+LN3273	Pye Bridge Junction to Shirebrook Junction Replaced MD273 from 3 December 2005; replaced by new LN3273 from 4 August 2007	8
+LN3273	Codnor Park Junction to Shirebrook Junction Replaced old LN3273 from 4 August 2007	8
+LN3276	Pinxton to Bentinck Colliery Replaced MD276 from 3 December 2005	7
+LN3279	Tibshelf and Blackwell Branch Junction to Silverhill Colliery Replaced MD279 from 3 December 2005	8
+LN3340	Alrewas (exclusive) to Wichnor Junction Replaced part of MD340 from 3 December 2005	8
+LN3501	Derby London Road Junction to Tamworth (exclusive) Replaced part of MD501 from 3 December 2005	8
+LN3505	North Stafford Junction to Stoke Junction (exclusive) Replaced part of MD505 from 3 December 2005	8
+LN3510	Glebe Street Junction to Caldon Colliery Replaced MD2510 from 3 December 2005 (presumed)	8
+LN3515	Melbourne Junction to Sinfin Replaced MD515 from 3 December 2005	8
+LN3520	Sheet Stores Junction to Stenson Junction Replaced MD520 from 3 December 2005	8
+LN3525	Knighton South Junction to Leicester Junction Replaced MD525 from 3 December 2005	8
+LN3530	Coalfields Farm Ground Frame to Coalville Junction Replaced MD530 from 3 December 2005 (presumed)	8
+LN3535	Birmingham Curve Junction to Branston Junction Replaced MD535 from 3 December 2005	8
+LN3601	Kettering North Junction to Manton Junction Replaced MD601 from 3 December 2005	8
+LN3605	Corby BSC Works to Corby North Replaced MD605 from 3 December 2005	8
+LN3610	Corby Automotive Terminal to Corby North Replaced MD610 from 3 December 2005	8
+LN3615	Helpston Junction (exclusive) to Syston South Junction Replaced MD615 from 3 December 2005	8
+LN3620	Melton Junction Ground Frame to Asfordby Replaced MD620 from 3 December 2005	8
+LN3625	Nottingham East Junction to Newark Castle (exclusive) Replaced MD625 from 3 December 2005; replaced by new LN3625 from 7 November 2016	8
+LN3625	Nottingham East Junction to Newark Flat Crossing (exclusive) Replaced old LN3625 from 7 November 2016	8
+LN3630	Collingham to West Holmes Replaced MD630 from 3 December 2005 (presumed)	8
+LN3635	Bottesford West Junction (exclusive) to Netherfield Junction Replaced part of MD635 from 3 December 2005; replaced by new LN3635 from 7 November 2016	8
+LN3635	Allington West Junction (exclusive) to Netherfield Junction Replaced old LN3635 from 7 November 2016	8
+LN3640	Rectory Junction to Cotgrave Colliery Replaced MD640 from 3 December 2005 (presumed)	8
+LN3645	Netherfield Junction to Gedling Colliery Replaced MD645 from 3 December 2005	6
+MD101	Euston to Armitage Junction (exclusive) Relief lines removed to separate MD166 from 5 November 2016	8
+MD105	Hanslope Junction to Rugby (via Northampton)	8
+MD110	Norton Bridge to Stone Replaced by NW5008	8
+MD115	Colwich to Congleton Now part of NW5009	8
+MD116	Kidsgrove to Crewe South Junction Replaced by NW1005	8
+MD120	Camden Junction to Watford Junction DC Lines	8
+MD125	Watford High Street Junction to Croxley Green Now deleted (line closed)	7
+MD130	Watford Yard Ground Frame to St Albans Abbey Replaced by new MD130 from 29 December 2014	7
+MD130	Watford Junction to St Albans Abbey Replaced old MD130 from 29 December 2014	7
+MD135	Harlesden Junction to Willesden Carriage Shed South Replaced by MD136 and MD137 from 5 November 2016	8
+MD136	Harlesden Junction to Wembley Central (Willesden Carriage Shed Lines) Replaced MD135 from 5 November 2016	8
+MD137	Harlesden Junction to Wembley Central (Wembley Yard Lines) Replaced MD135 from 5 November 2016	8
+MD140	Bletchley to Bedford Station Junction Part replaced by LN3140 from 3 December 2005	8
+MD145	Camden Road Junction to Camden Junction	8
+MD150	Kensal Green Junction to Willesden Suburban Junction	8
+MD155	Kensal Green Junction to Harlesden Junction (City Lines)	8
+MD160	Willesden High Level Junction to Mitre Bridge Junction	8
+MD165	North Pole Junction to Acton Wells Junction Replaced by MD166 and MD167 from 5 November 2016	8
+MD166	North Pole Junction to Wembley Replaced part of MD101 and part MD165 from 5 November 2016	8
+MD167	Mitre Bridge Junction to Acton Wells Junction (South West Lines) Replaced part MD165 from 5 November 2016	8
+MD170	Acton Canal Wharf to Willesden	8
+MD175	Brackmills to Northampton South Junction	8
+MD180	Rugby Trent Valley Junction to New Bilton	7
+MD201	St Pancras to Chesterfield (via Derby) Replaced by LN3201 from 3 December 2005	8
+MD204	Trent South Junction to Nottingham East Junction Replaced by LN3204 from 3 December 2005	8
+MD205	Trent South Junction to Nottingham East Junction Replaced by LN3205 from 3 December 2005 (presumed)	8
+MD207	Trent East Junction to Clay Cross South Junction Replaced by LN3207 from 3 December 2005	8
+MD210	Junction Road Junction to Carlton Road Junction (Tottenham Lines) Replaced by LN3210 from 3 December 2005	8
+MD213	Moorgate to Carlton Road Junction (Moorgate Lines) Replaced by LN3213 from 3 December 2005	8✖Moorgate - Kentish Town South Junction RA5
+MD216	Faringdon Junction to Blackfriars Replaced by LN3216 from 3 December 2005	8
+MD219	Cricklewood Curve Junction to Dudding Hill Junction Replaced by LN3219 from 3 December 2005	8
+MD222	Brent Curve Junction to Dudding Hill Junction Replaced by LN3222 from 3 December 2005	8
+MD225	Luton Bute St to Dunstable Replaced by LN3225 from 3 December 2005 (presumed)	8
+MD228	Trent East Junction to Sheet Stores Junction Replaced by LN3228 from 3 December 2005	8
+MD231	Wigston South Junction to Glen Parva Junction Replaced by LN3231 from 3 December 2005	8
+MD232	Wigston North Junction to Nuneaton South Junction Replaced by new MD232 and LN3232 from 3 December 2005	8
+MD232	Abbey Junction to Hinckley (exclusive) Replaced old MD232 from 3 December 2005; replaced by new MD232 from 26 June 2021	8
+MD232	Hinckley (exclusive) to Abbey Junction Replaced old MD232 from 26 June 2021	8
+MD233	Midland Yard Junction to Canal Farm Junction (North Chord) From 7 July 2012	8
+MD234	Syston East Junction to Syston North Junction Replaced by LN3234 from 3 December 2005	8
+MD237	Loughborough South Junction to Hotchley Hill Replaced by LN3237 from 3 December 2005	8
+MD240	Little Eaton Junction to Denby Replaced by LN3240 from 3 December 2005	7
+MD243	Duffield Junction to Wirksworth Station Ground Frame Replaced by LN3243 from 3 December 2005 (presumed)	8
+MD246	Ambergate Junction to Matlock Replaced by LN3246 from 3 December 2005	8
+MD249	Lenton South Junction to Lenton North Junction Replaced by LN3249 from 3 December 2005	8
+MD252	Mansfield Junction to Trowell Junction Replaced by LN3252 from 3 December 2005	8
+MD255	Radford Junction to Kirkby Lane End Junction Replaced by LN3255 from 3 December 2005	7
+MD258	Bestwood Park Junction to Calverton Colliery Replaced by LN3258 from 3 December 2005	8
+MD261	Trent South Junction to Meadow Lane Junction (High Level Goods Lines) Replaced by LN3261 from 3 December 2005	8
+MD264	Attleborough Junction to Toton Junction Replaced by LN3264 from 3 December 2005	8
+MD267	Stapleford & Sandiacre to Stanton Gate Replaced by LN3267 from 3 December 2005	8
+MD270	Codnor Park Junction to Ironville Junction Ground Frame Replaced by LN3270 from 3 December 2005	8
+MD273	Pye Bridge Junction to Shirebrook Junction Replaced by LN3273 from 3 December 2005	8
+MD276	Pinxton to Bentinck Colliery Replaced by LN3276 from 3 December 2005	7
+MD279	Tibshelf and Blackwell Branch Junction to Silverhill Colliery Replaced by LN3279 from 3 December 2005	8
+MD282	Sutton Colliery Junction to Sutton Colliery	8
+MD301	Rugby to Penkridge (via Birmingham)	8
+MD305	Birmingham New Street to Blackwell Replaced by MD306 from 21 October 2017	8
+MD306	Birmingham New Street to Ashchurch via Dunhampstead Replaced MD306 and part of GW400 from 21 October 2017	8
+MD310	Barnt Green to Redditch	8
+MD315	Stechford South Junction to Aston South Junction	8
+MD320	Proof House Junction to Bushbury Junction (via Bescot)	8
+MD325	Soho South Junction to Perry Barr North Junction	8
+MD330	Soho East Junction to Soho North Junction	8
+MD335	Perry Barr West Junction to Perry Barr South Junction	8
+MD340	Aston North Junction to Wichnor Junction Part replaced by LN3340 from 3 December 2005	8
+MD345	Bescot Junction to Rugeley Town Replaced by new MD345 from April 2009	8
+MD345	Bescot Junction to Rugeley North Junction (exclusive) Replaced old MD345 from April 2009	8
+MD350	Anglesea Sidings to Lichfield City	8
+MD355	Lichfield Trent Valley Junction to Lichfield Trent Valley (Chord Line)	8
+MD360	Walsall Pleck Junction to Darlaston Junction	8
+MD365	Portobello Junction to Wolverhampton Crane Street Junction	8
+MD370	Bescot Curve Junction to Walsall Pleck Junction From 27 August 2013; replaced by new MD370 by 5 March 2016	?
+MD370	Up Dudley Siding to Walsall Pleck Junction Replaced old MD370 by 5 March 2016	?
+MD401	Heyford to Bordesley Junction	8
+MD405	Leamington Spa Junction to Coventry South Junction	8
+MD410	Coventry North Junction to Nuneaton South Junction	8
+MD415	Hatton Station to Stratford-upon-Avon	8✖Hatton - Bearley RA7
+MD420	Hatton North Junction to Hatton West Junction	8
+MD425	Tyseley South Junction to Bearley Junction	8
+MD430	Droitwich Spa (excl) to Stourbridge North Junction Replaced by new MD430 from 27 March 2021	8
+MD430	Droitwich Spa (incl) to Stourbridge North Junction Replaced old MD430 from 27 March 2021	8
+MD435	Small Heath South Junction to Stourbridge North Junction	8
+MD440	Galton Junction to Smethwick Junction	8
+MD445	Stourbridge Junction to Stourbridge Town	8
+MD450	Stourbridge North Junction to Round Oak	8
+MD455	Kingswinford Junction South to Pensett	8
+MD460	Fenny Compton to Burton Dassett (Kineton MOD)	8
+MD501	Derby London Road Junction to Birmingham Proof House Junction Replaced by new MD501 and LN3501 from 3 December 2005	8
+MD501	Tamworth (inclusive) to Birmingham Proof House Replaced old MD501 from 3 December 2005; replaced by new MD501 from 5 October 2009	8
+MD501	Tamworth (inclusive) to Birmingham Proof House Junction Replaced old MD501 from 5 October 2009	8
+MD505	North Stafford Junction to Foley Crossing (inclusive) Part replaced by LN3505 from 3 December 2005	8
+MD510	Glebe Street Junction to Caldon Colliery Replaced by LN3510 from 3 December 2005 (presumed)	8
+MD515	Melbourne Junction to Sinfin Replaced by LN3515 from 3 December 2005	8
+MD520	Sheet Stores Junction to Stenson Junction Replaced by LN3520 from 3 December 2005	8
+MD525	Knighton South Junction to Leicester Junction Replaced by LN3525 from 3 December 2005	8
+MD530	Coalfields Farm Ground Frame to Coalville Junction Replaced by LN3530 from 3 December 2005 (presumed)	8
+MD535	Birmingham Curve Junction to Branston Junction Replaced by LN3535 from 3 December 2005	8
+MD540	Kingsbury Shunting Frame to Baddesley Colliery Ground Frame Code deleted by 2016 (line closed)	8
+MD545	Kingsbury Junction to Whitacre Junction	8
+MD550	Not allocated	nan
+MD555	Nuneaton North Junction to Water Orton East Junction	8
+MD560	Water Orton West Junction to Park Lane Junction	8
+MD565	Castle Bromwich Junction to Ryecroft Junction	8
+MD570	Saltley (Landor Street Junction) to Kings Norton Junction (Camp Hill Lines)	8
+MD575	St Andrews Junction to Grand Junction	8
+MD580	Lifford East Junction to Lifford West Junction	8
+MD601	Kettering North Junction to Manton Junction Replaced by LN3601 from 3 December 2005	8
+MD605	Corby BSC Works to Corby North Replaced by LN3605 from 3 December 2005	8
+MD610	Corby Automotive Terminal to Corby North Replaced by LN3610 from 3 December 2005	8
+MD615	Helpston Junction to Syston South Junction Replaced by LN3615 from 3 December 2005	8
+MD620	Melton Junction Ground Frame to Asfordby Replaced by LN3620 from 3 December 2005	8
+MD625	Nottingham East Junction to West Holmes Part replaced by LN206 and part by new MD625 from 1 April 2000	8
+MD625	Nottingham East Junction to Newark Castle Replaced old MD625 from 1 April 2000. Replaced by LN3625 from 3rd December 2005	8
+MD630	Collingham to West Holmes Replaced by LN3630 from 3 December 2005 (presumed)	8
+MD635	Grantham Nottingham Branch Junction to Netherfield Junction Part replaced by new MD635 from 1 April 2000	8
+MD635	Allington Junction to Netherfield Junction Replaced old MD635 from 1 April 2000. Replaced by LN3635 from 3 December 2005	8
+MD640	Rectory Junction to Cotgrave Colliery Replaced by LN3640 from 3 December 2005 (presumed)	8
+MD645	Netherfield Junction to Gedling Colliery Replaced by LN3645 from 3 December 2005	6
+MD650	Werrington Junction to Gainsborough Lea Road Replaced by LN170 and LN726 from 1 April 2000	8
+MD655	Sleaford South Junction to Sleaford East Junction Replaced by LN175 from 1 April 2000	8
+MD660	Sleaford West Junction to Sleaford North Junction Replaced by LN180 from 1 April 2000	8
+MD665	Barkston South Junction to Skegness Replaced by LN190 from 1 April 2000	8
+MD670	Barkston East Junction to Allington Junction Replaced by LN195 from 1 April 2000	8
+MD675	Wrawby Junction to Pelham Street Replaced by LN200 and LN728 from 1 April 2000	8
+MD680	Boultham Junction to Pyewipe Junction Replaced by LN215 from 1 April 2000	8
+MD701	Marylebone to Aynho Junction	8✖Neasden South Junction - Aynho Junction RA7
+MD705	Greenford West Junction to South Ruislip Junction	8
+MD710	Neasden South Junction to Harrow on the Hill	8
+MD711	Northwick Park to Amersham	8
+MD712	Amersham to Aylesbury	8
+MD715	Neasden South Junction to Neasden Junction	8
+MD720	Princes Risborough to Aylesbury	8
+MD725	Aylesbury to Claydon L&NE Junction Duplicated in MD726 from 6 May 2023	8
+MD726	Aylesbury to Claydon West Junction Duplicated MD725 from 6 May 2023	8
+MD730	Grendon Underwood to Akeman Street Now deleted (line closed)	8
+MD735	Denbigh Hall South Junction to Bicester Town Replaced by MD736 from 14 September 2015	7
+MD736	Oxford North Junction (exclusive) to Denbigh Hall South Junction Replaced MD735 from 14 September 2015	7✖To be upgraded to RA10
+MD740	Bletchley Summit of Flyover to Fenny Stratford (Flyover Line) Duplicated in MD741 from 6 May 2023	8
+MD741	Flyover Summit Junction to Fenny Stratford Junction (Bletchley Flyover Lines) Duplicated MD740 from 6 May 2023	8
+MD745	Bicester South Junction to Gavray Junction From 14 September 2015	10
+MD801	Wolverhampton North Junction to Croes Newydd North Fork Replaced by new MD801 and GW731 from 4 August 2001	8
+MD801	Wolverhampton North Junction to Abbey Foregate (exclusive) Replaced part of MD801 from 4 August 2001	8
+MD805	MD805 Stafford Road Junction to Bushbury Oxley Junction	8
+MD810	Madeley Junction to Ironbridge	8
+MD815	Abbey Forgate to English Bridge Junction Replaced by GW732 from 4 August 2001	8
+MD820	Severn Bridge Junction to Dorrington Replaced by GW730 from 4 August 2001	8
+MD825	Sutton Bridge Junction to Aberystwyth Replaced by GW733 from 4 August 2001	5✖Sutton Bridge Junction - Welshpool RA7
+MD830	Dovey Junction to Pwllheli Replaced by GW734 from 4 August 2001	5
+MD835	Shrewsbury Crewe Junction to Gresty Lane Replaced by GW735 from 4 August 2001	8
+MD840	Gobowen South Junction to Llanddu Junction Replaced by GW736 from 4 August 2001	5
+MD900	Abbotswood Junction to Stoke Works Junction (via Worcester Shrub Hill) Replaced GW300 from 27 March 2021	8
+MD910	Pershore to Norton Junction Replaced part of GW310 from 27 March 2021	8
+MD940	Worcester Shrub Hill to Shelwick Junction Replaced GW340 from 27 March 2021	7
+MD950	Worcester Tunnel Junction to Henwick Replaced GW350 from 27 March 2021	7
+NW1001	Armitage Junction (inclusive) to Preston (Fylde Junction)	8
+NW1002	Penkridge station (inclusive) to Trent Valley Junction No.1 (Stafford)	8
+NW1003	Silverdale to Madeley	8
+NW1004	Rugeley Town (exclusive) to Rugeley North Junction	8
+NW1005	Kidsgrove (exclusive) to Crewe South Junction	8
+NW1007	Nantwich (exclusive) to Crewe South Junction	8
+NW1009	Basford Hall Junction to Sydney Bridge Junction (Independent Lines) Replaced by new NW1009 from 11 March 2006	8
+NW1009	Basford Hall Junction to Sandbach South Junction (Independent Lines) Replaced old NW1009 from 11 March 2006	8
+NW1011	Gresty Lane to Salop Goods Junction (Salop Lines)	8
+NW1013	Crewe Sorting Sidings North to Gresty Lane	8
+NW1015	Salop Goods Junction to Crewe North Junction (Chester Independent Lines)	8
+NW1017	Salop Goods Junction to Crewe Coal Yard (Liverpool Independent Lines)	8
+NW1019	Acton Grange Junction to Warrington South Junction (Helsby Lines)	8
+NW1021	Winwick Junction to Golborne Junction (Earlestown Lines)	8
+NW1023	Haydock Branch Junction to Kelbit Private Sidings	8
+NW1025	Bamfurlong Sidings Junction to Ince Moss Junction (Ince Moss Goods Lines) Replaced by new NW1025 from 22 July 2013	7
+NW1025	Bamfurlong Sidings Junction to Ince Moss Junction (Ince Moss Chord Line) Replaced old NW1025 from 22 July 2013	7
+NW1027	Preston South Junction to Strand Road	8
+NW2001	Weaver Junction to Liverpool Lime Street	8
+NW2003	Runcorn to ICI Salt Works (Runcorn Dock Branch)	8
+NW2005	Speke Junction to Garston Junction	8
+NW2007	Allerton East Junction to Garston Junction	8
+NW2009	Arpley Junction to Ditton East Junction	8
+NW2011	Walton Old Junction to Arpley Junction	8
+NW2013	Deal Street to Ordsall Lane Junction Code used in 1998; see also NW6007	8
+NW2015	Ordsall Lane Junction to Edge Hill	8
+NW2017	Eccles to Weaste	8
+NW2019	Parkside Junction to Lowton Junction (East Curve Lines)	8
+NW2021	Earlestown South Junction to Earlestown West Junction (Liverpool Curve)	8
+NW2023	Springs Branch Junction to Huyton Junction (St Helens Lines)	7
+NW2025	St Helens Station to Ravenhead Junction	8
+NW2027	Edge Hill Bootle Branch Junction to Regent Road Level Crossing Replaced by new NW2027 from 31 July 2021	8
+NW2027	Edge Hill Bootle Branch Junction to Liverpool Docks Replaced old NW2027 from 31 July 2021	8
+NW2029	Olive Mount Junction to Edge Lane Junction From 1 December 2008	8
+NW3001	Crewe North Junction to Holyhead	8
+NW3003	Chester East Junction to Acton Grange Junction	8
+NW3005	Gobowen (exclusive) to Saltney Junction	8
+NW3007	Wrexham Central to Bidston West Junction	7✖Wrexham Central - Wrexham General RA5; Wrexham General - Dee Marsh Junction RA8
+NW3009	Chester North Junction to Chester South Junction	8
+NW3011	Chester West Junction to Hooton South Junction	8
+NW3013	Hooton South Junction to Helsby Junction	8
+NW3015	Llandudno Junction to Blaenau Ffestiniog	7
+NW3017	Llandudno Junction to Llandudno	7
+NW3019	Gaerwen to Amlwch	6
+NW3021	Frodsham Junction to Halton Junction	8
+NW3023	Edgeley Junction No 2 to Mickle Trafford	8
+NW3025	Skelton Junction to Partington	7
+NW3027	Timperley to Altricham (Metrolink Lines)	8
+NW3029	Sandbach North Junction to Northwich West Junction	8
+NW3031	Northwich South Junction to Northwich Station Junction	8
+NW3033	Hartford East Junction to Hartford North Junction (East Goods Lines)	8
+NW3035	Hartford West Junction to Hartford North Junction (West Goods Lines) Replaced by new NW3035 from 31 July 2021	8
+NW3035	Hartford West Junction to Oakleigh Sidings (Winnington Branch) Replaced old NW3035 from 31 July 2021	8
+NW3037	Hartford CLC Junction to Hartford Junction	8
+NW4001	Preston Ribble Junction to Cove Level Crossing (including Goods Lines at Upperby)	8
+NW4003	Preston Fylde Junction to Deepdale Junction Level Crossing	8
+NW4005	Preston Fylde Junction to Blackpool North	8
+NW4007	Kirkham North Junction to Blackpool South	8
+NW4009	Poulton to Burn Naze Disconnected from 3 April 2017	8
+NW4011	Morecambe South Junction to Morecambe	8
+NW4013	Hest Bank to Bare Lane	8
+NW4015	Not allocated, though referenced without definition in a single 2003 notice (in error?)	nan
+NW4017	Morecambe Junction to Heysham Port	8
+NW4019	Oxenholme to Windermere	8
+NW4021	Upperby Junction to Rome Street Junction (Through Goods Lines)	8
+NW4023	Upperby Junction to London Road Junction	8
+NW4025	Currock Junction to Bog Junction (Maryport & Carlisle Goods Lines)	8
+NW4027	Carlisle Yard Recess Sidings to Brunthill	8
+NW4029	Mossband Junction to Bush-on-Esk (Longtown Branch)	8
+NW4031	Gretna Junction to Annan (exclusive) Replaced by new NW4031 from 4 August 2008	8
+NW4031	Gretna Junction to Gretna Green Replaced old NW4031 from 4 August 2008	8
+NW4033	Carnforth North Junction to Carlisle South Junction (via Barrow)	8✖Whitehaven - Maryport RA7
+NW4035	Carnforth East Junction to Carnforth Station Junction Replaced by NZ0005 from 4 April 1998	unknown
+NW4037	Wennington to Carnforth Furness & Midland Junction Replaced by NZ0003 from 4 April 1998	8
+NW4039	Plumpton Junction to Glaxo Siding Route now closed and removed	unknown
+NW4041	Dalton Junction to Park South Junction	8
+NW4043	Siddick Junction to Buckhill via Calva Route closed September 1998 and removed	unknown
+NW4045	Howe & Co's Siding to Carlisle South Junction Replaced by NZ0001 from 4 April 1998	unknown
+NW4047	Corby Gates to Petteril Bridge Junction Replaced by NZ0009 from 4 April 1998	8
+NW4049	London Road Junction to Bog Junction (Newcastle Goods Lines) Replaced by NZ0011 from 4 April 1998	8
+NW5001	Crewe North Junction to Manchester Piccadilly	8
+NW5003	Wilmslow to Slade Lane Junction (Styal Lines)	8
+NW5005	Heald Green South Junction to Heald Green West Junction	8
+NW5007	Manchester Airport to Heald Green North Junction	8
+NW5008	Manchester Airport Stone Terminal to Heald Green West Junction	8
+NW5008	Norton Bridge Junction to Stone Junction	8
+NW5009	Colwich Junction to Cheadle Hulme	8
+NW5010	Glebe Street Junction to Caldon Colliery Code deleted 16 June 2007	6
+NW5011	Heaton Norris Junction to Guide Bridge Station Junction	8
+NW5012	Foley Crossing (exclusive) to Stoke Junction	8
+NW5013	Denton Junction to Ashton Moss North Junction	8
+NW5015	Hadfield to Ardwick Junction	8
+NW5017	Dinting South Junction to Dinting East Junction	8
+NW5019	Glossop to Dinting West Junction	8
+NW5021	Stalybridge to Guide Bridge West Junction Replaced by new NW5021 from 1 April 2023	8
+NW5021	Guide Bridge West Junction to Stalybridge Replaced old NW5021 from 1 April 2023	8
+NW6001	Manchester Piccadilly East Junction to Euxton Junction	8
+NW6003	Castlefield Junction to Allerton Junction	7✖Castlefield Junction - Trafford Park RA8
+NW6004	Water Street Junction to Deal Street Junction (Ordsall Chord Lines) From 2 October 2017	10
+NW6005	Manchester Victoria East Junction to Windsor Bridge South Junction	8
+NW6007	Deal Street Junction to Ordsall Lane Junction	8
+NW6009	Windsor Bridge North Junction to Southport	8
+NW6011	Bolton East Junction to Blackburn Bolton Junction	8
+NW6013	Lostock Junction to Crow Nest Junction	8
+NW6015	Wigan Wallgate to Kirkby Replaced by new NW6015 from 29 April 2023	7
+NW6015	Wigan Wallgate to Headbolt Lane Replaced old NW6015 from 29 April 2023	7
+NW7001	Manchester Victoria West Junction to Hebden Bridge	8
+NW7003	Manchester Victoria East Junction to Thorpes Bridge Junction via Cheetham Hill Route removed from Sectional Appendix 15 September 1998; now closed for Metrolink	unknown
+NW7005	Castleton East Junction to Hopwood Ground Frame	8
+NW7006	Todmorden to Stansfield Hall Junction (Todmorden West Curve) From 14 September 2013	8
+NW7007	Farington Curve Junction to Ormskirk	8
+NW7009	Farington Curve Junction to Hall Royd Junction (East Lancs Line)	8
+NW7011	Farington Junction to Lostock Hall Junction (Lostock Hall Lines)	8
+NW7013	Daisyfield Junction to Hellifield	8
+NW7015	Padiham Power Station Sidings to Rose Grove West Junction	7
+NW7017	Gannow Junction to Colne	8
+NW7019	Thorpes Bridge Junction to Rochdale (via Oldham) Replaced by new NW7019 from 5 October 2009	8
+NW7019	Thorpes Bridge Junction to GMC Siding Replaced old NW7019 from 5 October 2009	8
+NW7021	Miles Platting Junction to Marsden	8
+NW7023	Philips Park West Junction to Brewery Junction	8
+NW7025	Philips Park West Junction to Ashburys West Junction	7✖Philips Park West Junction - Philips Park South Junction RA8
+NW7027	Baguley Fold Junction to Philips Park South Junction	8
+NW8001	Hunts Cross West Junction to Southport (Southport Lines)	8
+NW8003	Paradise Junction to James Street (Stock Interchange/Holding Line)	8
+NW8005	Sandhills Junction to Ormskirk	8✖Sandhills Junction - Walton Junction RA7
+NW8007	Bootle Junction to Aintree Emergency Ground Frame	7✖Bootle Junction - 3m 52ch RA8
+NW8009	Walton Junction to Kirkby Replaced by new NW8009 from 29 April 2023	7
+NW8009	Walton Junction to Headbolt Lane Replaced old NW8009 from 29 April 2023	7
+NW8011	Mann Island Junction to West Kirby (via Loop)	8
+NW8013	Canning Street Junction to Hooton South Junction	8
+NW8015	Bidston East Junction to New Brighton (New Brighton Lines)	6
+NW8017	Canning Street North to Rock Ferry South Junction (Canning Street Lines)	8
+NW9001	Dore West Junction to Edgeley Junction No 1 (Hope Valley Lines)	8
+NW9003	Chinley East Junction to Chinley South Junction (Chord Line)	8
+NW9005	Chinley North Junction to Buxton	8
+NW9007	New Mills South Junction to Ashburys East Junction	8✖Romiley Junction - Ashburys East Junction RA7
+NW9009	Marple Wharf Junction to Rose Hill	7
+NW9011	Romiley Junction to Hyde Junction	8
+NW9013	Woodley Junction to Bredbury Sidings	7
+NW9015	Not allocated	nan
+NW9017	Hazel Grove High Level Junction to Northenden junction	8
+NW9019	Buxton to Brigg's Sidings	8
+NW9021	Buxton to Hazel Grove East Junction	8
+NW9901	Gargrave to Carlisle South Junction Replaced NZ0001 from December 2006	8
+NW9903	Settle Junction to Carnforth Station Junction Replaced NZ0003 from December 2006	8
+NW9905	Assumed allocated to Carnforth East Junction to Carnforth Station Junction	nan
+NW9907	Warcop to Appleby Replaced NZ0007 from December 2006	7
+NW9909	Corby Gates to Petteril Bridge Junction Replaced NZ0009 from December 2006	8
+NW9911	London Road Junction to Bog Junction (Newcastle Goods Lines) Replaced NZ0011 from December 2006	8
+NZ0001	Gargrave to Carlisle South Junction Replaced part of NW4037 from 4 April 1998. Replaced by NW9901 from December 2006	8
+NZ0003	Settle Junction to Carnforth Station Junction Replaced part of NW4037 from 4 April 1998. Replaced by NW9903 from December 2006	8
+NZ0005	Carnforth East Junction to Carnforth Station Junction Replaced NW4035 from 4 April 1998	unknown
+NZ0007	Warcop to Appleby From 4 April 1998. Replaced by NW9907 from December 2006	7
+NZ0009	Corby Gates to Petteril Bridge Junction Replaced NW4047 from 4 April 1998. Replaced by NW9909 from December 2006	8
+NZ0011	London Road Junction to Bog Junction (Newcastle Goods Lines) Replaced NW4049 from 4 April 1998. Replaced by NW9911 from December 2006	8
+SC001	Gretna Junction to Glasgow Central (via Beattock)	8✖Gretna Junction - Larkfield Junction RA10
+SC003	Carstairs South Junction to Haymarket East Junction	10
+SC005	Carstairs Station Junction to Carstairs East Junction	10
+SC007	Midcalder Junction to Holytown Junction	10
+SC009	Lanark to Lanark Junction	5
+SC011	Law Junction to Uddingston Junction (via Holytown)	10
+SC013	Wishaw Central Junction to Shieldmuir Junction	10
+SC015	Mossend East Junction to Mossend North Junction (North Curve)	10
+SC017	Mossend East Junction to Mossend South Junction (East Curve)	10
+SC019	Mossend South Junction to Mossend West Junction (West Curve)	10
+SC021	Coltness to Garriongill Junction (Goods Line) Code deleted 18 May 2015	10
+SC023	Motherwell to Newton, Hamilton Junction (via Hamilton)	7
+SC024	Larkhall to Haughhead Junction	7
+SC025	Rutherglen Central Junction to Finnieston including to Bridgeton Yard (via Arrival Line) (Goods line)	10
+SC027	Rutherglen West Junction to Rutherglen North Junction (West Curve)	10
+SC029	Larkfield Junction to Shields Junction including Shields Junction to Terminus Junction (Up Through Terminus)	10
+SC031	Gretna Junction to Glasgow Central (via Kilmarnock)	8✖Gretna Junction - Eglinton Street Junction RA10
+SC033	Dumfries to Maxwelltown (Goods Line)	5
+SC035	Bank Junction to Knockshinnock (Goods Line)	10
+SC036	Greenburn Junction to Greenburn Opencast (Goods Line)	10
+SC037	Kay Park Junction to Riccarton (Goods Line)	10
+SC039	Kilmarnock to Barrasie	10
+SC041	Shewalton Moss to Hillhouse (Goods line) Code deleted 9th June 2007	5
+SC043	Giffen to Lugton (Goods Line) Replaced by new SC043 from 11 January 2009	5
+SC043	Giffen to Lugton (Goods Line) (Out Of Use) Replaced old SC043 from 11 January 2009	5
+SC045	East Kilbride to Busby Junction	5
+SC047	Muirhouse South Junction to Larkfield Junction	10
+SC049	Muirhouse Central Junction to Terminus Junction	10
+SC051	Muirhouse Central Junction to Muirhouse North Junction (via Cathcart) (Cathcart Circle)	7
+SC053	Neilston to Cathcart West Junction	5
+SC055	Newton, Hamilton Junction to Cathcart West Junction	7
+SC057	Cathcart East Junction to Cathcart North Junction	7
+SC059	Glasgow Central to Stranraer	8✖Shields Junction - Newton Junction RA10
+SC061	Shields Junction to Paisley Canal	10
+SC063	Cardonald Junction to Deanside (Goods Line)	9
+SC065	Paisley to Gourock	7✖Paisley - Bishopton RA10
+SC067	Wemyss Bay Junction to Wemyss Bay	5
+SC069	Containerbase Junction to Greenock CPA Terminal (Goods Line) Line disconnected by 6 July 2015: unclear whether code deleted at same time	5
+SC071	Ladyburn Junction to James Watt Dock (Goods Line)	5
+SC073	Kilwinning Junction to Largs	5✖Kilwinning - Hunterston Junction RA10
+SC075	Misk to Stevenston (Goods Line) Out of use by 6 July 2015	10
+SC077	Ardrossan South Beach to Ardrossan Harbour	10
+SC079	Hunterston to Hunterston Low Level Sidings (Goods Line)	10
+SC081	Byrehill Junction to Dubbs Junction	10
+SC083	Snodgrass to Bogside (Goods Line)	10
+SC085	Ayr Harbour to Newton Junction (Goods Line)	10
+SC087	Newton Junction to Mauchline (Goods Line)	10
+SC089	Annbank to Killoch Colliery (Goods Line)	10
+SC091	Dalrymple Junction to Chalmerston (Goods Line)	8
+SC093	Motherwell to Greenhill Lower Junction	10
+SC095	Ravenscraig No 3 to Mossend South Junction (Goods line)	10
+SC097	Whifflet South Junction to Sunnyside Junction (Goods Line)	10
+SC099	Whifflet North Junction to Rutherglen East Junction	10
+SC101	Coatbridge Junction to Langloan Junction	10
+SC103	Garnqueen North Junction to Cowlairs West Junction	10
+SC105	Gartsherrie South Junction to Gartcosh Junction	10
+SC106	Sighthill West Junction to Cowlairs South Junction (Chord Line)	8
+SC107	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High)	8✖Edinburgh - Cowlairs West Junction RA10
+SC109	Polmont Junction to Greenhill Upper Junction (via Falkirk Grahamston)	10
+SC110	Carmuirs East Junction to Larbert Junction	10
+SC111	Newbridge Junction to Bathgate including Carmondean Junction to Bathgate Yard (Goods line)	10
+SC113	Winchburgh Junction to Dalmeny Junction	10
+SC115	Cowlairs West Junction to Knightswood North Junction	10
+SC115A	Maryhill Park Junction to Anniesland Bay Platform See also SC1150	10
+SC116	Cowlairs East Junction to Cowlairs North Junction	10
+SC117	Grangemouth Junction to Grangemouth Oil Terminal and Docks Yark (Goods Lines) including Fouldubs Junction to BAC Sidings (Goods Line)	10
+SC119	Greenhill Upper Junction to Dundee	10
+SC121	Stirling North to Cambus Junction (Goods Line) including Cambus Junction to Menstrie (Goods Line) Incorporated into SC183 from 25 March 2008	10✖Cambus Junction - Menstrie RA5
+SC123	Drumgelloch to Helensburgh (via Singer) Replaced by new SC123 from October 2010	8✖Drumgelloch - High Street Junction RA10; High Street Junction - Finnieston Junctions RA5; Finnieston Junctions - Hyndland North Junction RA7; Hyndland North Junction - Knightswood North Junction RA10
+SC123	Bathgate to Helensburgh (via Singer) Replaced old SC123 from October 2010	8✖Drumgelloch - High Street Junction RA10; High Street Junction - Finnieston Junctions RA5; Finnieston Junctions - Hyndland North Junction RA7; Hyndland North Junction - Knightswood North Junction RA10
+SC125	Hyndland East Junction to Dalmuir (via Yoker)	10✖Hyndland East Junction - Hyndland West Junction RA7
+SC127	Sunnyside Junction to Gunnie (Goods Line)	10
+SC129	Springburn to Bellgrove Junction	10
+SC131	High Street Junction to Shields Junction	8
+SC133	Westerton Junction to Milngavie	5
+SC135	Dalreoch Junction to Balloch	6
+SC136	Hyndland North Junction to Hyndland West Junction	10
+SC137	Yoker CSD to Rothsay Dock (Goods Line)	10
+SC139	Clydebank Junction to Dalmuir Riverside (Goods Line)	5
+SC141	Craigendoran Junction to Fort William	5
+SC143	Crianlarich to Oban	5
+SC145	Fort William Junction to Mallaig	5
+SC147	Berwick to Haymarket West Junction (via Waverley)	8✖Was RA10 to January 2013
+SC149	North Berwick to Drem Junction	5
+SC151	Portobello to Leith South Yard (Goods Line)	10
+SC153	Craigentinny to Powderhall (Goods Line)	10
+SC155	Monktonhall Junction to Millerhill Yard (Goods Line)	10
+SC157	Millerhill South Junction to Millerhill East Junction (Goods Line)	10
+SC159	Bilston Glen to Millerhill Yard (Goods Line) Replaced by new SC159 from 14 April 2002	5
+SC159	End of Line (former Bilston Branch) to Millerhill Yard (Goods Line) Replaced old SC159 from 14 April 2002	5
+SC161	Millerhill Yard to Portobello (Goods Line) Replaced by new SC161 from 15 April 2002	10
+SC161	Millerhill Yard to Portobello Replaced old SC161 from 15 April 2002	10
+SC163	Portobello to Niddrie West (Goods Line) Replaced by new SC163 from 15 April 2002	10
+SC163	Portobello to Niddrie West Replaced old SC163 from 15 April 2002	10
+SC164	Newcraighall North Junction to Tweedbank	3
+SC165	Niddrie South Junction to Haymarket West Junction	10
+SC167	Craiglockhart Junction to Slateford Junction	10
+SC169	Gorgie Junction to Haymarket Central Junction	10
+SC171	Edinburgh Waverley to Dundee (via Kirkcaldy)	8✖Edinburgh - Dalmeny RA10; North Queensferry - Taybridge South RA10
+SC173	Inverkeithing Central Junction to Thornton North Junction (via Cowdenbeath)	8✖Inverkeithing - Cowdenbeath RA10
+SC175	Rosyth Dockyard to Inverkeithing South Junction (Goods Line)	8
+SC176	Inverkeithing North Junction to Inverkeithing East Junction (Inverkeithing Curve)	10
+SC177	Thornton North Junction to Methill Power Station (Goods Line) Replaced by new SC177 from 20 September 2008	8
+SC177	Thornton North Junction to (former) Methill Power Station (Goods Line) Replaced old SC177 from 20 September 2008; code apparently deleted 9 September 2017 but still in documentation until part of line reactivated 14 August 2022	8
+SC178	Thornton South Junction to Thornton West Junction	8
+SC179	Auchmuty to Markinch Down Sidings Ground Frame (Goods Line) Out of use from May 2012 (?)	8
+SC181	Ladybank Junction to Hilton Junction	10
+SC183	Kincardine Power Station to Charlestown Junction (Goods Line) Replaced by new SC183 from 25 March 2008	8
+SC183	Stirling to Charlestown Junction Replaced old SC121 and SC183 from 25 March 2008	8
+SC185	Elbowend Junction to Crombie RNAD (Goods Line) Code deleted 6 July 2008	5
+SC187	Glencraig Ground Frame to Bowhill (Goods line) Code deleted 17 February 2008	5
+SC189	Westfield to Redford Junction (Goods Line)	8
+SC191	Dundee to Aberdeen	10
+SC193	Perth to Inverness	8
+SC195	Aberdeen to Inverness	10
+SC197	Kittybrewster Ground Frame to Waterloo Goods (Goods line)	8
+SC199	Keith Branch	10
+SC201	Alves Ground Frame to Burghead (Goods Line) Removed from Sectional Appendix 17 October 2017	10
+SC203	Inverness to Wick	5✖Inverness - Invergordon RA10
+SC205	Dingwall to Kyle of Lochalsh	5
+SC207	Georgemas Junction to Thurso	5
+SC1150	Maryhill Park Junction to Anniesland Bay Platform See also SC115A	10
+SO000	All lines	nan
+SO110	Victoria Eastern to Ramsgate (via Herne Hill and Chatham)	8
+SO110A	Bickley Junction to Petts Wood Junction	8
+SO110B	Gillingham to Chatham Dockyard	8 presumed
+SO115	Bickley Junction to Petts Wood Junction	8
+SO118	Gillingham to Chatham Dockyard	8 presumed
+SO120	London Cannon Street to London Bridge	8
+SO125	London Cannon Street to Metropolitan Junction	8 presumed
+SO130	Charing Cross/Cannon Street to Dover Priory/Eurotunnel interface (via Tonbridge)	8✖To 16 April 2011: Charing Cross bridge down and up slow lines and middle road RA7. From 16 April 2011: Charing Cross - Metropolitan Junction RA4 (some individual lines London Bridge - New Cross also RA4); also from 22 March 2014 to 5 June 2021 Folkestone Central - Folkestone East Staff Halt RA4
+SO130A	London Cannon Street to Metropolitan Junction	8 presumed
+SO130B	London Cannon Street to London Bridge	8
+SO130C	Tanners Hill Junction to Lewisham Vale Junction	?
+SO130D	St Johns Junction to Lewisham Junction	?
+SO130E	Parks Bridge Junction to Ladywell Junction	8
+SO130F	Courthill Loop North Junction to Courthill Loop South Junction	?
+SO130G	Chiselhurst Junction to St Mary Cray Junction	8
+SO130H	Saltwood Junction to Dollands Moor	8
+SO130J	Continental Junction to Network Rail/Eurotunnel boundary	8
+SO130K	Sevington Loop to Sevington Sidings	?
+SO132	Chiselhurst Junction to St Mary Cray Junction	8
+SO135	Saltwood Junction to Dollands Moor	8
+SO137	Continental Junction to Network Rail/Eurotunnel boundary	8
+SO140	Swanley to Ashford/Sevenoaks	8
+SO140A	Otford Junction to Sevenoaks	8
+SO145	Otford Junction to Sevenoaks	8
+SO150	Sittingbourne Western Junction to Sheerness-on-Sea	8
+SO150A	Sittingbourne Eastern Junction to Sittingbourne Middle Junction	8
+SO155	Sittingbourne Eastern Junction to Sittingbourne Middle Junction	8
+SO160	Faversham to Dover Priory	8
+SO170	Tonbridge to Bo Peep Junction	8
+SO180	Paddock Wood to Strood	8
+SO190	Not allocated but briefly used in 2015 for New Malden to Shepperton in error (see SW190)	nan
+SO200	Ashford to Hastings	7
+SO210	Appledore to Lydd Town (Goods Line)	6
+SO220	Ashford to Ramsgate (via Canterbury West)	8
+SO230	Folkestone East to Folkestone Harbour	8
+SO240	Buckland Junction to Minster East Junction	8✖Sandwich - Minster South Junction RA4 from 31 August 2013
+SO240A	Minster South Junction to Minster West Junction	8
+SO245	Minster South Junction to Minster West Junction	8
+SO250	Factory Junction/Battersea Pier Junction/Clapham Junction to Wembley Central	8
+SO250A	Grosvenor Bridge Junction to Factory Junction	8
+SO250B	Battersea Pier Junction to Longhedge Junction	8
+SO250C	Pouparts Junction to Longhedge Junction	8
+SO250D	Falcon Junction to Latchmere Junction (No 1)	8
+SO252	Pouparts Junction to Longhedge Junction	8
+SO255	Battersea Pier Junction to Longhedge Junction	8
+SO257	Falcon Junction to Latchmere Junction (No 1)	8
+SO259	Grosvenor Bridge Junction to Factory Junction	8
+SO260	Brixton Junction to Shortlands Junction (Catford Loop)	8
+SO270	Nunhead to Lewisham Merged into SO330	8
+SO280	Farringdon to Herne Hill	4
+SO280A	London Blackfriars to Metropolitan Junction	4
+SO280B	Loughborough Junction to Cambria Junction	7
+SO280C	Loughborough Junction to Canterbury Road Junction	8
+SO282	London Blackfriars to Metropolitan Junction	4
+SO284	Loughborough Junction to Cambria Junction	7
+SO286	Loughborough Junction to Canterbury Road Junction	8
+SO290	North Kent East Junction to Dartford Junction (via Greenwich)	8✖North Kent East Junction - Charlton RA6
+SO290A	Blackheath Junction to Charlton Junction	8
+SO290B	Angerstein Junction to Angerstein Wharf	8
+SO300	Lewisham Junction to Crayford Creek Junction (via Bexleyheath)	8
+SO300A	Slade Green Junction to Perry Street Fork Junction	8
+SO302	Slade Green Junction to Perry Street Fork Junction	8
+SO305	Blackheath Junction to Charlton Junction	8
+SO307	Angerstein Junction to Angerstein Wharf	8
+SO310	Hither Green to Rochester Bridge Junction (via Sidcup)	8
+SO310A	Lee Spur Junction to Lee Loop Junction	8
+SO310B	Crayford Spur 'A' Junction to Crayford Spur 'B' Junction	8
+SO312	Lee Spur Junction to Lee Loop Junction	8
+SO315	Crayford Spur 'A' Junction to Crayford Spur 'B' Junction	8
+SO320	Hoo Junction to Grain (Goods Line)	8
+SO330	Nunhead to Hayes	8✖From 16 April 2011 New Beckenham - Hayes RA4
+SO330A	New Beckenham to New Beckenham Junction	8
+SO331	Courthill Loop North Junction to Courthill Loop South Junction	8
+SO332	Tanners Hill Junction to Lewisham Vale Junction	8
+SO333	St Johns Junction to Lewisham Junction	8
+SO334	Parks Bridge Junction to Ladywell Junction	8
+SO335	New Beckenham to New Beckenham Junction	8
+SO350	Grove Park to Bromley North	8
+SO400	Southfleet Junction to Eurotunnel Interface Replaced by new SO400	?
+SO400	St Pancras to Eurotunnel Interface	?
+SO410	Stratford International West Junction to Temple Mills International Depot	?
+SO410A	Regents Canal Junction to York Way North Junction	?
+SO410B	Silo Curve Junction to Cedar Junction	?
+SO420	York Way South Junction to Camden Road Incline Junction	?
+SO430	North Kent Line Connection Junction to Springhead Road Junction	?
+SO440	Ripple Lane Exchange Lines to Dagenham Junction	?
+SO450	Ebbsfleet West Junction to Springhead Road Junction	?
+SO460	Fawkham Junction to Southfleet Junction	8
+SO470	Ashford West Junction (AD947 and AD949 Signals) to Ashford International	?
+SO480	Ashford International to Ashford East Junction (AD954 and AD956)	?
+SO490	Dollands Moor West Junction to Dollands Moor Yard (AD759 Signal and AF342 Marker)	?
+SO500	Victoria to Brighton	8
+SO500A	Selhurst Junction to Gloucester Road Junction	8
+SO500B	Copyhold Junction to Ardingly	8
+SO500C	Preston Park to Hove	8
+SO510	London Bridge to Epsom Downs	8
+SO510A	Sydenham to Crystal Palace	8
+SO510B	Norwood Junction to Windmill Bridge Junction	8
+SO511	Highbury And Islington to New Cross/New Cross Gate (ELL) Replaced part of EA1325 from 25 June 2022	8
+SO512	Norwood Junction to Windmill Bridge Junction	8
+SO515	Selhurst Junction to Gloucester Road Junction	8
+SO520	Three Bridges to Portsmouth Harbour (via Horsham)	8✖Blackfriars Junction - Portsmouth Harbour platforms 4/5 RA7; Portsmouth Harbour platforms 1/3 RA4
+SO520A	Ford Junction to Littlehampton Junction	8
+SO530	South Croydon Junction to East Grinstead	6✖To 16 April 2011: South Croydon - Selsdon RA8. From 16 April 2011: South Croydon - 12m 40ch RA8; 12m 40ch - Hurst Green RA4. From 14 August 2021: 12m 23ch - Hurst Green RA6
+SO540	Hurst Green Junction to Uckfield	4✖RA6 to 16 April 2011
+SO550	Redhill to Tonbridge	8
+SO560	Redhill to Guildford	8
+SO570	Believed not allocated but briefly used for Woking to Guildford in 1999	nan
+SO580	Copyhold Junction to Ardingly	8
+SO590	Keymer Junction to Eastbourne	8
+SO600	Willingdon Junction to Ashford	7✖To 16 April 2011: Willingdon Junction - Hastings RA8. From 16 April 2011: St Leonards - Hastings RA8; Ore - Ashford RA7; remainder RA4. From 20 June 2015: St Leonards - Hastings RA8; Hastings - Ashford RA7; remainder RA4. From 18 August 2018: Willington Junction-Hastings RA8; remainder RA7
+SO610	Southerham Junction to Seaford Considered part of extended SO620 in some documents	7
+SO620	Brighton to Lewes Considered part of extended SO620 in some documents	8
+SO620	Brighton to Seaford Considered to include 'old' SO610, SO620 and SO625 in some documents	8
+SO620A	Newhaven Harbour Junction to Newhaven Marine	7
+SO625	Newhaven Harbour Junction to Newhaven Marine Considered part of extended SO620 in some documents	7
+SO630	Brighton/Preston Park to Littlehampton	8
+SO632	Ford Junction to Littlehampton Junction	8
+SO635	Preston Park to Hove	8
+SO640	Barnham to Bognor Regis	8
+SO645	Battersea Park to Peckham Rye (Atlantic Lines)	8
+SO650	Balham Junction to Beckenham Junction/Norwood Junction	8
+SO650A	Bromley Junction to Norwood Junction	8
+SO653	Tulse Hill to Leighham Junction	8
+SO655	Bromley Junction to Norwood Junction	8
+SO658	Tulse Hill to West Norwood Junction	8
+SO660	Purley to Caterham	8
+SO660A	Chipstead Line Junction to Tattenham Corner	8
+SO670	Purley to Tattenham Corner	8
+SO680	South Bermondsey Junction to Horsham	8
+SO680A	Herne Hill to Tulse Hill	8
+SO680B	Tulse Hill to Leighham Junction	8
+SO680C	Tulse Hill to West Norwood Junction	8
+SO680D	Streatham Junction to Streatham Common	8
+SO680E	Streatham North Junction to Streatham South Junction	8
+SO681	Silwood Junction to Old Kent Road Junction Replaced EA1327 from 25 June 2022	8
+SO682	Streatham Junction to Streatham Common	8
+SO685	Streatham North Junction to Streatham South Junction	8
+SO690	Herne Hill to Tulse Hill	8
+SO700	Streatham South Junction to Sutton (via Wimbledon)	8
+SO710	Sydenham to Crystal Palace	8
+SW000	All lines	nan
+SW100	Waterloo to Clapham Junction	8✖Up Main Slow and Down Main Slow from Carlisle Lane Junction (0m 42ch) to crossover (2m 65ch) was RA4 to 26 January 2013
+SW100A	London Waterloo International to International Junction	8
+SW100B	Nine Elms Junction to Linford Street Junction	8
+SW100C	West London Junction to Latchmere Junction (No 3)	8
+SW100D	Clapham Junction to Longhedge Junction	8
+SW100E	Clapham Junction to Latchmere Junction (No 2)	8
+SW100E1	Clapham Junction to Latchmere Junction (No 2)	8
+SW100E2	Clapham Junction to Latchmere Junction (No 2)	8
+SW100X	London Waterloo to Clapham Junction (main lines)	8
+SW102	London Waterloo International to International Junction	8
+SW105	Clapham Junction to Weymouth	8
+SW105A	Southampton to Southampton Western Docks	8
+SW105B	Worgret Junction to Furzebrook	5✖Was RA8 to 16 April 2011
+SW105C	Weymouth to Weymouth Quay	3
+SW110	Woking Junction to Portsmouth Harbour	7✖Woking Junction - Portsmouth & Southsea Low Level RA8; Portsmouth Harbour platforms 1/3 RA4
+SW115	Worting Junction to Exeter St Davids	6✖Worting Junction - Wilton Junction RA8; Wilton Junction - Gillingham RA7
+SW115A	Andover to Ludgershall MOD	8
+SW115B	Laverstock North Junction to Laverstock South Junction	8
+SW115C	Yeovil Pen Mill Junction to Yeovil Junction	6
+SW117	Andover to Ludgershall MOD	8
+SW119	Laverstock North Junction to Laverstock South Junction	8
+SW120	Pirbright Junction to Alton	7✖Pirbright Junction - Ash Vale Junction RA8
+SW120A	Aldershot North Junction to Aldershot South Junction	8
+SW123	Aldershot North Junction to Aldershot South Junction	8
+SW125	Southcote Junction to Basingstoke	8
+SW130	Eastleigh to Romsey	8
+SW135	Eastleigh to Fareham	8
+SW140	St Denys to Portcreek Junction	8✖St Denys - Fareham RA7
+SW140A	Cosham Junction to Farlington Junction	8
+SW142	Cosham Junction to Farlington Junction	8
+SW145	Northam Junction to Canute Road	8
+SW147	Southampton to Southampton Western Docks	8
+SW150	Redbridge to Salisbury Tunnel Junction	8
+SW155	Totton to Fawley (Goods Line)	8
+SW160	Brockenhurst to Lymington Pier	8
+SW165	Hamworthy to Hamworthy Goods (Goods Line)	8
+SW166	Worgret Junction to Furzebrook	5
+SW168	Weymouth to Weymouth Quay	3
+SW170	Westbury South Junction (excl) to Wilton Junction	8
+SW170A	Wilton Junction to Quidhampton Siding	8
+SW175	Castle Cary Junction to Dorchester Junction	8
+SW178	Yeovil Pen Mill Junction to Yeovil Junction	6
+SW180	Raynes Park to Horsham	8
+SW183	Leatherhead to Dorking From April 2002	8 presumed
+SW185	Motspur Park to Chessington South	8
+SW190	New Malden to Shepperton	7✖New Malden - Shacklegate Junction RA8
+SW193	Strawberry Hill Junction to Fulwell Junction	8
+SW195	Hampton Court Junction to Hampton Court	4✖Up line RA4; down line RA8
+SW200	Hampton Court Junction to Guildford (via Cobham)	8
+SW205	Leatherhead to Effingham Junction	8
+SW210	Clapham Junction to Southcote Junction (via Reading)	8
+SW210A	Hounslow Junction to Whitton Junction	8
+SW210B	Reading Spur Junction to Reading New Junction	8
+SW217	Reading Spur Junction to Reading New Junction	8
+SW218	Nine Elms Junction to Linford Street Junction	8
+SW219	West London Junction to Latchmere Junction	8
+SW220	Latchmere Junction to Kensington Olympia	8
+SW222	Clapham Junction to Longhenge Junction	8
+SW225	Point Pleasant Junction to Wimbledon	6
+SW230	Barnes to Feltham Junction (via Hounslow)	8
+SW235	Hounslow Junction to Whitton Junction	8
+SW240	Kew East Junction to Old Kew Junction	8
+SW240A	Kew East Junction to New Kew Junction	8
+SW242	Kew East Junction to New Kew Junction	8
+SW245	Twickenham to Shacklegate Junction	8
+SW245A	Strawberry Hill Junction to Fulwell Junction	8
+SW250	Staines to Windsor and Eton Riverside	4✖Was RA8 to 16 April 2011
+SW255	Virginia Water to Weybridge	8
+SW255A	Addlestone Junction to Byfleet Junction	8
+SW257	Addlestone Junction to Byfleet Junction	8
+SW260	Ascot to Ash Vale Junction	8
+SW265	Guildford to Wokingham	8
+SW300	Gomshall to Shalford Junction From April 2002	8
+SW301	Redhill to Gomshall Merged into SO550 from 12 September 2009	8
+SW302	Redhill to Gatwick Airport Merged into SO560 from 12 September 2009	8
+SW305	Brighton to Havant Merged into SO630 and SO520 from 12 September 2009	8
+SW310	Littlehampton Junction to Littlehampton Merged into SO630 from 12 September 2009	8
+SW315	Barnham to Bognor Regis Merged into SO640 from 12 September 2009	8
+SW900	Miscellaneous	nan
+SW999	Ryde Pier Head to Shanklin Code used in 2009	1
+SW110	Ryde Pier Head to Shanklin Some records consistently refer to this route as SW110, even though this duplicates Woking Junction to Portsmouth Harbour	1
+XR001	Westbourne Park Junction to Pudding Mill Lane Junction	3✖Originally reported as RA4
+XR002	Stepney Green Junction to Abbey Wood (Alsike Road Junction)	3✖Originally reported as RA4

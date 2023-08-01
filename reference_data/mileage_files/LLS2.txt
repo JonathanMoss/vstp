@@ -1,0 +1,3 @@
+   0.51	Lea Junction with DWW2 (3.19)
+   0.65	relocated High Meads Junction with CHM (0.15) and LLS1 (0.15)
+   0.73	original High Meads Junction with CHM (0.23) and LLS1 (0.23)

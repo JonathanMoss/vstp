@@ -1,0 +1,9 @@
+ 201.79	Apperley Junction with TJC3
+ 204.32	Esholt Junction with GUE1 (204.32) and GUE2 (0.00)
+ 204.55	Rawdon Junction with GUY (0.00)
+ 205.22	GUISELEY
+ 205.43	Ings Mill siding and Moons Mill siding
+ 206.22	West Riding County Asylum siding
+ 206.53	MENSTON [2]
+ 207.07	MENSTON [1] and junction with BUE
+ 207.68	Burley Junction with ILK2 (207.68) and OTB (2.62)

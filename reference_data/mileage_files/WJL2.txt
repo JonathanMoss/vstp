@@ -1,0 +1,7 @@
+ 182.67	Ditton No 1 Junction with WJL1 and creosoting depot lines
+ 182.68	DITTON [1]
+ 182.79	DITTON [2]
+ 184.01	HALEBANK
+ 184.64	Halewood Ford Motor Company sidings
+ 186.22	SPEKE
+ 186.72	Speke Junction with WJL3 and Garston Silcock Express sidings

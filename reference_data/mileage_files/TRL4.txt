@@ -1,0 +1,3 @@
+ 18.864km	Renwick Road Junction with TLL (9.31)
+ 20.829km	Dagenham Junction with TRL2 [down line]
+ 21.699km	Dagenham Junction with TRL3 [up line]

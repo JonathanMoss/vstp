@@ -1,0 +1,5 @@
+   0.64	Lostock Hall Engine Shed Junction with FHR1 (0.64) and MLL (25.36)
+   0.77	Lostock Hall depot
+   1.15	LOSTOCK HALL [1]
+   1.20	LOSTOCK HALL [2]
+   1.42	Lostock Hall Junction with FHR3 (1.42) and LHL (0.77)

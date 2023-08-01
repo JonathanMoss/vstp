@@ -1,0 +1,28 @@
+  97.06	Gartcosh Junction with CBD1 (0.00) and GHE (97.06)
+  97.08	Gartcosh iron works
+  97.28	GARTCOSH [1]
+  97.31	GARTCOSH [2]
+  97.56	Gartcosh goods station
+  97.70	Gartcosh brick works
+  98.06	Russell's siding
+  98.40	Heathfield fire clay works
+  98.50	GARNKIRK
+  98.52	Gartloch distillery siding
+  99.24	Cardowan siding
+  99.64	STEPPS
+  99.78	junction with Comedie sidings lines
+ 100.07	STEPPS formerly CUMBERNAULD ROAD; S. ROAD
+ 100.37	end of Comedie sidings
+ 100.59	Robroyston Branch Junction with RRY (0.00)
+ 101.07	ROBROYSTON [2]
+ 101.12	MILLERSTON probable station
+ 101.14	ROBROYSTON [1]
+ 101.36	Robroyston Junction with HTL
+ 101.75	junction with Port Dundas line
+ 101.78	Milton Junction with SRM
+ 102.49	Germiston High Junction with BFK (4.09)
+ 102.58	Germiston Low Junction with GLL (4.40)
+ 103.00	Sighthill East Junction with GAL (0.00)
+ 103.31	Barnhill siding
+ 103.39	junction with ZZF4
+ 103.46	Sighthill East Junction with SGN/SIG (0.55)

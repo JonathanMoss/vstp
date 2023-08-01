@@ -1,0 +1,20 @@
+ 203.11	Kinnaber Junction with ECN4 (33.26) and KAS (203.11)
+ 205.18	CRAIGO
+ 207.25	MARYKIRK
+ 210.44	LAURENCEKIRK
+ 213.60	FOURDOUN
+ 216.60	MONDYNES [questionable]
+ 217.62	DRUMLITHIE
+ 219.41	CARMONT
+ 224.74	STONEHAVEN
+ 229.42	MUCHALLS
+ 230.58	NEWTONHILL
+ 232.70	PORTLEVEN
+ 236.21	COVE BAY
+ 239.78	Craiginches sidings
+ 240.35	Ferryhill Junction with FHB (0.51)
+ 240.53	Aberdeen South
+ 240.62	[repositioned] link with GUD (0.30)
+ 240.70	Goods Branch Junction with GUD (0.22)
+ 240.73	Clayhill Low Level sidings and Guild Street
+ 241.08	ABERDEEN and junction with ANI1 (0.00)

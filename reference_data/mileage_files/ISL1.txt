@@ -1,0 +1,3 @@
+  0.000km	York Way South Junction with RDO (1.409km), TRL1 (1.409km) and TRL2 (1.409km)
+  0.522km	Cedar Junction with ISL2 (0.305km)
+  0.705km	Camden Road Incline Junction with NLI (0.44)

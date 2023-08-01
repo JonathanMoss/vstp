@@ -1,0 +1,4 @@
+   0.37	Ludgate GW Junction with FLL3 (2.58) and RDG1 (3.57)
+   0.68	Latchmere No 2 Junction with WLL (0.68)
+
+Note that the CJL and WLL mileages at Latchmere Junction, whilst the same, are from a different datum

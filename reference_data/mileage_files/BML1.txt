@@ -1,0 +1,99 @@
+   0.00	junction with XTD (0.56)
+   0.05	LONDON WATERLOO
+  ≈0.15	WATERLOO NECROPOLIS
+   1.29	VAUXHALL
+   3.68	junction with CLJ8
+   3.74	CLAPHAM JUNCTION
+   4.28	CLAPHAM COMMON formerly WANDSWORTH
+  ≈4.70	WANDSWORTH hospital platform
+   4.73	Clapham Cutting
+   5.46	EARLSFIELD
+   5.72	junction with WPK
+   6.28	STAFF HALT
+   6.40	up slow line flyover
+   7.00	junction with WPK
+   7.13	junction with PPW (8.38)
+   7.19	WIMBLEDON formerly W. & MERTON
+   7.54	junctions with SMS2
+  ≈7.70	WIMBLEDON [tennis]
+   8.34	up line junction with RPE
+   8.48	down line junction with RPE
+   8.51	RAYNES PARK
+   9.62	NEW MALDEN formerly M.; N. M. & COOMBE; C. & M.
+   9.68	junction with NMS1 [up line]
+   9.71	junction with NMS1 [down line]
+  10.78	BERRYLANDS
+  12.03	SURBITON formerly KINGSTON
+  13.05	down line divergence with HAM
+  13.27	Hampton Court Junction with HAM [up line]
+  13.32	junction with NGL [down line]
+  13.34	junction with NGL (13.21) [up line]
+  14.31	ESHER
+  14.42	ESHER RACECOURSE
+  15.73	HERSHAM
+  17.06	WALTON-ON-THAMES
+  18.10	Outlands
+  19.12	WEYBRIDGE
+  19.22	Weybridge Junction with VWW
+  20.18	Byfleet Junction with AJB (0.67) [up line]
+  20.27	Byfleet Junction with AJB (0.77) [down line]
+  20.32	BYFLEET & NEW HAW formerly WEST WEYBRIDGE
+  21.54	WEST BYFLEET formerly B. & WOODHAM
+  24.27	WOKING
+  24.32	junction with WKG9
+  24.53	junction with WKG9
+  24.58	junction with WKG8
+  24.62	Woking Junction with WPH1
+  25.12	junction with WKG9
+  26.01	Goldsworth
+  27.79	BROOKWOOD formerly B. NECROPOLIS and junction with Brookwood Necropolis Railway
+  28.10	junction with Bisley Tramway (0.11)
+  29.31	Pirbright Junction with PAA1 [up line]
+  29.49	Pirbright Junction with PAA1 [down line]
+  32.01	Sturt Lane Junction with Frimley East Curve
+  32.28	junction with Frimley West Curve (38.62)
+ ≈32.33	junction with link to GTW2
+  33.17	FARNBOROUGH (MAIN) formerly F.
+  34.43	Cove
+  35.47	BRAMSHOT
+  36.38	FLEET
+  39.66	WINCHFIELD formerly W. & HARTLEY ROW
+  42.13	HOOK
+  43.59	Newnham
+  47.00	Barton Mill
+  47.52	junction with BKE (51.31)
+  47.61	BASINGSTOKE
+ ≈48.28	junction with BAA
+ ≈48.44	junction with PPR
+  49.27	Winklebury
+  50.21	Worting Junction with BAE1
+  51.00	Battledown flyover
+  52.56	Wootton
+  54.02	Steventon
+  55.23	Waltham
+  58.04	MICHELDEVER formerly ANDOVER ROAD
+  61.07	Waller's Ash
+	junction with Worthy Down Loop (mileage unknown)
+  64.23	Winchester Junction with AIW (65.70)
+  66.39	WINCHESTER formerly W.; W. CITY
+  67.34	Winchester Corporation siding
+  68.75	Shawford Junction with NWT (27.36)
+  69.50	SHAWFORD formerly S. & TWYFORD
+  72.46	junction with EYD2
+  73.06	junction with EYD2 and EYD3
+  73.13	junction with EYD1
+  73.25	Eastleigh East Junction with ECR (73.35)
+  73.30	mileage reversal point with ECR and junction with EYD4
+  73.35	EASTLEIGH formerly BISHOPSTOKE; E. & B.
+  73.42	Eastleigh West Junction with ETF
+  73.48	junction with EYD6
+  73.66	junction with EYD7
+  73.72	junction with EYD8
+  73.74	junction with EYD9
+  74.54	ATLANTIC PARK HOSTEL
+  74.66	SOUTHAMPTON AIRPORT PARKWAY
+  75.56	SWAYTHLING formerly SWATHLING
+ ≈76.70	PORTSWOOD
+  77.10	ST DENYS
+  77.21	St Denys Junction with SDP1 (1.48)
+  77.68	Northam Short Mile Junction with BML2 (78.00)

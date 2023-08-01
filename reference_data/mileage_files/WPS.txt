@@ -1,0 +1,18 @@
+  14.40	Poulton Le Fylde Junction with PBN
+  14.75	Poulton No 5 Junction with POU (0.00)
+	CLEVELEYS [1]
+  16.16	THORNTON-CLEVELEYS [2] formerly C.
+  16.37	Tornton goods depot
+ ≈16.41	RAMPER
+	BURN NAZE LEVEL CROSSING SIDING
+  17.36	BURN NAZE
+  17.44	Hillhouse VCM sidings
+  17.60	Fleetwood Salt Company's siding
+  17.73	Burn Naze power station
+  18.77	Wyre power station
+  19.45	Wyre Dock Junction with dock lines
+  19.48	Riley's siding
+  20.05	FLEETWOOD [3] formerly WYRE DOCK
+  20.13	Wyre Dock goods depot
+	FLEETWOOD [1]
+  20.64	FLEETWOOD [2]

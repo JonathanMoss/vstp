@@ -1,0 +1,17 @@
+   7.70	Hooton South Junction with CRR1 (7.70) and HHJ (0.00)
+   7.75	Hooton Junction with JCH (0.00)
+   8.08	HOOTON
+   8.68	EASTHAM RAKE
+  ≈9.65	BROMBOROUGH [1]
+   9.71	BROMBOROUGH [2]
+  10.38	BROMBOROUGH RAKE
+ ≈11.11	SPITAL [1]
+  11.16	SPITAL [2]
+  11.42	junction with Van den Burgh & Jurgens lines
+  11.61	PORT SUNLIGHT
+  12.36	BEBINGTON formerly B. & NEW FERRY
+  13.00	ROCK LANE
+  13.30	Rock Ferry South Junction with CCS1
+  13.33	ROCK FERRY [1]
+  13.39	junction with MIR2 (3.46)
+ (13.43)	ROCK FERRY [2]

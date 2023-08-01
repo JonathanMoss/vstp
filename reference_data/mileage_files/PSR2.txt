@@ -1,0 +1,6 @@
+   0.00	Strand Road Branch Junction with PSR1 (21.47)
+   0.43	start of sidings
+   0.53	start of dock lines
+   0.60	junction of north side and south side lines
+   2.03	end of Preston dock north side lines
+   2.10	end of Preston dock south side lines

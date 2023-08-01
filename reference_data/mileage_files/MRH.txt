@@ -1,0 +1,10 @@
+   0.00	Macclesfield Junction with CMD1 (0.16)
+   0.31	MACCLESFIELD [later goods depot]
+   0.44	junction with Macclesfield goods depot lines
+   2.44	BOLLINGTON
+   6.40	HIGHER POYNTON formerly P.
+   7.14	Middlewood High Level Junction with MDC (0.00)
+   7.33	MIDDLEWOOD HIGHER formerly M.
+   7.76	HIGH LANE
+  10.04	ROSE HILL MARPLE
+  11.02	Marple Wharf Junction with TTA1 (177.23)

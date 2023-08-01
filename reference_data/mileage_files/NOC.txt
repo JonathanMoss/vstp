@@ -1,0 +1,28 @@
+  (0.00)	YORK
+  (0.45)	YORK HOLGATE EXCURSION also known as H. BRIDGE; Y. RACECOURSE
+  (3.63)	COPMANTHORPE
+   5.41	Colton Junction with ECM3 (182.79) and ECM4 (182.79)
+   7.50	BOLTON PERCY
+   8.70	ULLESKELF
+  10.37	Church Fenton North Junction with CFM
+  10.49	Church Fenton North Junction with CFH1 (0.00)
+  10.58	CHURCH FENTON
+  10.68	Church Fenton Station Junction with CFM
+  12.64	SHERBURN-IN-ELMET formerly S.
+  13.21	Sherburn Junction with SHG
+  14.52	MILFORD firmerly M. JUNCTION
+  15.07	Milford West Junction with MGW (7.65) and SMJ3 (15.07)
+  15.15	Monk Fryston goods depot (also called Lumby sidings)
+  15.30	MONK FRYSTON
+  16.54	BURTON SALMON
+  16.69	Burton Salmon Junction with SMJ3 and later divergence with SMJ2 (0.00)
+  19.03	Fryston goods depot
+  20.39	Castleford East Junction with BOO (6.17)
+  20.40	CASTLEFORD [1]
+  20.76	CASTLEFORD [2] formerly C.; C. CENTRAL
+  21.02	Castleford West Junction with CPM2 (0.00)
+  21.69	Whitwood Junction with WWB (0.00)
+  22.03	Whitwood Junction with MEW2 (0.00)
+  23.54	Altofts Junction with TJC3 (186.03)
+
+Note that 15.07-16.69 is entirely parallel to SMJ3

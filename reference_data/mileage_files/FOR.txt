@@ -1,0 +1,2 @@
+   0.00	Fords Junction with VOG (17.78)
+   1.12	junction with motor works sidings

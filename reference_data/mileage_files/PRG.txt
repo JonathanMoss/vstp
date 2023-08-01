@@ -1,0 +1,6 @@
+   0.00	Rose Grove West Junction with FHR5 (20.05)
+   1.50	PADIHAM
+   1.56	junction with sidings
+   1.76	Padiham power station and end on junction with NLC
+
+Note that some sources give Padiham station at 1.45

@@ -1,0 +1,18 @@
+  20.36	Willingdon Junction with KJE3 (21.39)
+  21.45	Stonecross Junction with PSC
+  21.64	STONE CROSS
+  23.07	PEVENSEY & WESTHAM formerly WEST HAM & P
+  23.68	PEVENSEY BAY
+  25.77	NORMANS BAY
+  27.53	COODEN BEACH formerly C. GOLF CLUB; C.
+  29.04	COLLINGTON formerly C. WOOD; WEST BEXHILL
+ ≈29.50	BEXHILL [1]
+  29.69	BEXHILL [2] formerly B.; B. CENTRAL
+  30.50	Galley Hill sidings
+  31.04	GLYNE GAP
+  31.16	ST LEONARDS (BULVERHYTHE)
+	ST LEONARDS WEST MARINA [1]
+  32.56	ST LEONARDS WEST MARINA [2]
+  32.76	Bo Peep Junction with TTH (60.69)
+
+Note that there is possibly overlap between the two St Leonards West Marina station sites

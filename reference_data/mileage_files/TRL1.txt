@@ -1,0 +1,4 @@
+  0.000km	LONDON ST PANCRAS INTERNATIONAL
+  0.790km	Regents Canal Junction with RDO and TRL9
+  0.901km	Silo Curve Junction with ISL2 (0.000km)
+  1.409km	York Way South Junction with ISL1 (0.000km), RDO (1.409km) and TRL2 (1.409km)

@@ -1,0 +1,13 @@
+   0.00	Watford South Junction with LEC1 (17.24) and WFS (0.00)
+   0.09	Watford goods depot
+   0.15	WATFORD JUNCTION
+   0.28	Turner's siding
+   0.75	WATFORD NORTH formerly CALLOWLAND
+   1.66	GARSTON (HERTFORDSHIRE) formerly G. HERTS
+   3.37	BRICKET WOOD
+   4.36	HOW WOOD (HERTFORDSHIRE) formerly PARK STREET
+  ≈4.40	junction with PSB (1.26)
+   5.02	PARK STREET formerly P. S. & FROGMORE
+   6.37	junction with SAH/HSS (23.76)
+   6.45	ST ALBANS ABBEY [2]
+   6.53	ST ALBANS ABBEY [1] formerly ST A.

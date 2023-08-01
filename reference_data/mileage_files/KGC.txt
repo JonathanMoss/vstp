@@ -1,0 +1,4 @@
+   0.00	Kensal Green Junction with BOK2 (5.10)
+   0.50	Kensal Green goods depot
+   0.74	junction with BTS4
+   1.00	Harlesden Junction with LEC1 (5.77) and WCL (1.00)

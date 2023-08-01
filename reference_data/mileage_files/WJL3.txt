@@ -1,0 +1,11 @@
+ 186.72	Speke Junction with WJL2 and Garston Silcock Express sidings
+ 187.15	Speke Junction with SCR (23.03)
+ 187.60	Allerton East Junction with AEG (0.00)
+ 187.74	Allerton Junction with AHX (0.00)
+ 187.77	ALLERTON/LIVERPOOL SOUTH PARKWAY
+ 189.00	WEST ALLERTON
+ 189.58	MOSSLEY HILL
+ 190.49	SEFTON PARK
+ 191.06	WAVERTREE
+ 191.18	Wavertree Junction with WCR (0.00)
+ 191.75	Edge Hill East Junction with DSE (1.57) and WJL4 (191.75)

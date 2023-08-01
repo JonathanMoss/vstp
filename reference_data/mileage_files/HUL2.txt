@@ -1,0 +1,4 @@
+  30.40	end on junction with HUL1
+  30.70	Selby swing bridge
+  30.79	SELBY
+  31.12	Selby South Junction with HUL3 (0.00) and TCW1 (174.11)

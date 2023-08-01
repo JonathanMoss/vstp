@@ -1,0 +1,12 @@
+Original measure
+   0.00	Lonlas Junction with SDI (1.08)
+   0.57	Llandarcy sidings
+   1.18	LLANDARCY
+   1.24	Jersey Marine North Junction with NEL (0.00)
+   2.24	Jersey Marine Junction South with VON (44.17)
+
+Later measure after a number of recodings and remilings took place
+   1.24	Jersey Marine North Junction with SDI1 (208.33)
+   2.24	Jersey Marine Junction South with VON (44.17)
+
+Note that after changes, 0.00-1.08 became part of SDI2 and 1.08-1.24 became part of SDI1

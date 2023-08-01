@@ -1,0 +1,16 @@
+Original alignment
+ 136.55	Kirkby Junction with PBS1 (138.50) [original alignment] and RAC (136.55) [original alignment]
+ 136.60	KIRKBY IN ASHFIELD EAST
+ 137.17	Kirkby colliery sidings
+≈137.54	point of convergence with 1972 alignment
+
+1972 alignment
+ 137.11	Kirkby Summit end on junction with LVX (0.00) and PBS1 (138.79) [revised alignment]
+≈137.54	point of convergence with original alignment
+ 137.60	SUTTON PARKWAY
+ 138.07	Sutton Junction South with SIA (0.00)
+ 138.18	SUTTON JUNCTION
+ 139.67	King's Mill Branch Junction with KNB (0.00)
+ 139.68	Mansfield South Junction with MFD2
+ 140.28	Mansfield North Junction with Mansfield East Curve (0.00)
+ 140.40	South Mansfield Junction with PBS3

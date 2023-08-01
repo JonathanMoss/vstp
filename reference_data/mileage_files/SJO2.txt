@@ -1,0 +1,13 @@
+   3.20	Walton Junction with SJO1 (33.16) and WJK (33.16)
+   3.45	WALTON (MERSEYSIDE) formerly W.
+   3.75	ORRELL PARK
+   4.62	Aintree Station Junction with AFL (0.40)
+   4.68	AINTREE
+   5.16	Aintree Junction with link to HTS (17.22)
+   5.62	OLD ROAN
+   7.29	MAGHULL
+   8.16	MAGHULL NORTH
+  10.08	TOWN GREEN formerly T. G.; T. G. & AUGHTON
+  10.78	AUGHTON PARK
+  12.13	ORMSKIRK
+  12.14	end on junction with FCO

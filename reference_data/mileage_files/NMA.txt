@@ -1,0 +1,4 @@
+   9.59	Abbey Junction with NWO and PVS
+  10.13	Midland Yard Junction with MYC (0.00)
+ ≈10.18	divergence with PVS
+  11.31	Midland Junction with WNS (0.58)

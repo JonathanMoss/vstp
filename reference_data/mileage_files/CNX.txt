@@ -1,0 +1,26 @@
+1949 measure
+   2.03	Narroways Hill Junction with BSW
+   2.35	Ashley Hill Junction with KIG (129.49)
+   2.68	MONTPELIER
+   3.25	REDLAND
+   3.72	CLIFTON DOWN
+   5.59	Sneyd Park Junction with HAA (0.00)
+   6.00	SEA MILLS
+   7.50	SHIREHAMPTON
+   8.07	PORTWAY PARK & RIDE
+   8.31	Avonmouth Dock Junction with AVD
+   8.53	Avonmouth Light Railway Junction with Avonmouth Light Railway (0.00)
+   9.02	AVONMOUTH formerly A. DOCK
+   9.29	Avonmouth Junction with AMB (16.03)
+  10.73	AVONMOUTH
+
+Note that 5.59-9.29 was formerly part of HAA.  The lines were remiled giving Sneyd Park Junction at 0.00.
+
+
+Original measure
+   0.00	Narroways Hill Junction with BSW (2.03)
+   0.32	Ashley Hill Junction with KIG (129.49)
+   0.65	MONTPELIER
+   1.22	REDLAND
+   1.69	CLIFTON DOWN
+   3.56	Sneyd Park Junction with HAA (3.24)

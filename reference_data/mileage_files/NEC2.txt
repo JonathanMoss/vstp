@@ -1,0 +1,50 @@
+   3.78	Blaydon Junction with BES (3.78) and NEC1 (5.28)
+   4.03	BLAYDON
+   4.43	junction with Emma colliery lines
+   4.65	Stella lime works and goods depot
+   6.16	RYTON
+   8.35	WYLAM
+   9.10	West Wylam Junction with NEN2 (6.36)
+  10.45	PRUDHOE
+  11.36	MICKLEY formerly ELTRINGHAM COLLIERY
+  13.11	STOCKSFIELD
+  15.35	RIDING MILL
+  16.58	junction with original route through tunnel
+  17.14	junction with original route through tunnel
+  17.59	CORBRIDGE
+  18.26	Dilston siding possibly originally a station
+  20.66	HEXHAM
+  21.76	Border Counties Junction with BDC (0.00)
+  21.78	Border Counties Junction with HEA (0.00)
+  23.52	WARDEN
+  24.52	FOURSTONES
+  28.32	HAYDON BRIDGE
+  32.29	BARDON MILL
+  34.51	Blackett colliery
+  35.36	Melkridge disposal point
+  37.10	Haltwhistle Junction with ALN1 (0.07)
+  37.17	HALTWHISTLE
+  39.03	BLENKINSOP HALL
+  40.41	GREENHEAD
+  42.38	GILSLAND formerly ROSE HILL
+  43.65	Denton Village
+  45.38	Lane Head
+  46.20	LOW ROW
+  47.67	NAWORTH
+  48.60	Milton Village
+  49.14	Brampton Junction with Brampton Town Branch (0.00)
+  49.21	BRAMPTON (CUMBRIA) formerly MILTON; B. JUNCTION
+  50.12	BRAMPTON FELL GATE
+  52.67	HOW MILL
+  54.18	HEADS NOOK
+  54.60	Broadwath siding
+  55.54	Corby Gates
+  55.62	CORBY later Corby Siding goods depot
+  55.76	WETHERAL
+  57.67	SCOTBY
+  59.24	junction with London Road goods depot lines
+  59.26	Petteril Bridge Junction with SAC (307.14)
+  59.41	CARLISLE LONDON ROAD later goods depot
+  59.44	London Road Junction with ULR (0.35)
+  59.49	London Road Junction with NGD (0.00)
+  60.03	Carlisle South Junction with CGJ7 (68.73)

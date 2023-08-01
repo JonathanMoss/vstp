@@ -1,0 +1,27 @@
+   0.00	original Coldham Lane Junction with BGK (56.28)
+   0.23	relocated Coldham Lane Junction with BGK (56.51)
+   1.62	Brookfields
+  ≈1.77	convergence with 1851 alignment
+   2.15	CHERRY HINTON
+   4.36	FULBOURNE formerly FULBOURN
+   6.56	junction with CDS (≈9.21)
+   7.68	SIX MILE BOTTOM formerly WESTLEY
+  10.54	DULLINGHAM
+  13.67	NEWMARKET [2]
+ ≈14.20	NEWMARKET [1]
+  15.23	Warren Hill Junction with SOB3 (0.00)
+  16.04	Chippenham Junction with SOB1 (0.63)
+  18.69	KENNETT formerly KENNET
+  20.18	aggregates siding
+  21.75	HIGHAM
+  25.26	SAXHAM & RISBY formerly S.
+  28.21	junction with BYE
+  28.34	junction with BYE
+  28.44	BURY ST EDMUNDS [2]
+ ≈28.55	BURY ST EDMUNDS [1]
+  28.58	junction with SBT [Thetford branch] (0.14)
+  28.60	junction with SBT [Long Melford branch] (77.36)
+  32.51	THURSTON
+  37.11	ELMSWELL
+  39.52	HAUGHLEY ROAD
+  40.52	Haughley Junction with LTN1 (82.79)

@@ -1,0 +1,6 @@
+   0.00	Welbeck Colliery Junction with HIM (13.17)
+   2.58	WELBECK VILLAGE
+   2.63	ownership boundary (NR/RJB Mining)
+   3.17	WELBECK COLLIERY
+   3.32	bunker
+   3.54	end of line

@@ -1,0 +1,18 @@
+ 168.39	Chinley North Junction with CNB1 (168.39) and MAS (174.01)
+ 169.40	CHINLEY
+ 170.35	BUXWORTHformerly BUGSWORTH
+ 171.45	Gowhole sidings
+ 172.16	New Mills South Junction with NMC1
+ 172.52	New Mills goods depot
+ 173.07	New Mills Junction with HAF (0.00)
+ 173.15	NEW MILLS CENTRAL formerly N. M.
+ 174.47	STRINES
+ 176.57	MARPLE
+ 177.23	Marple Wharf Junction with MRH (11.02)
+ 177.41	MARPLE (COMPSTALL)
+ 178.27	ROMILEY
+ 178.30	Romiley Junction with RJB
+ 178.33	Romiley Junction with RYH1
+ 179.34	BREDBURY
+ 180.45	BRINNINGTON
+ 181.00	Reddish Junction with BMM (0.00) and TTA2 (42.77)

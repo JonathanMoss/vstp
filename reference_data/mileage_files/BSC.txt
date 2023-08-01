@@ -1,0 +1,10 @@
+This line has two 'legs':
+
+   0.00	Corby North Junction with GSM1 (79.32)
+   0.16	ownership boundary (NR/steel works)
+   2.05	Corby BSC Works gate
+   3.10	limit of line
+
+   0.00	Corby North Junction with GSM1 (79.32)
+   0.17	ownership boundary (NR/automotive works)
+   1.10	Corby automotive terminal gate

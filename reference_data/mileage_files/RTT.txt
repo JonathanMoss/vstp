@@ -1,0 +1,9 @@
+  22.51	Tonbridge Line Junction with RED2
+  24.47	NUTFIELD
+  28.13	GODSTONE
+  29.16	Crowhurst siding
+  30.59	Edenbridge Junction with link to HGG1 (23.56)
+  33.03	EDENBRIDGE (KENT)
+  38.03	PENSHURST
+  39.56	LEIGH (KENT)
+  42.09	Tonbridge West Junction with XTD (29.35)

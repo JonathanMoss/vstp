@@ -1,0 +1,2 @@
+ 106.34	Immingham East Junction with BRI2
+ 106.50	junction with PYE2 (0.00) and link to IMS

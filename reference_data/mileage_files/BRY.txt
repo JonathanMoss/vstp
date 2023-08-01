@@ -1,0 +1,27 @@
+   0.00	Penarth Junction with SWM2 (170.46)
+   0.10	Cardiff West Junction with SWM2 (170.56)
+   0.26	Radyr Branch Junction with RAD
+   0.48	Penarth Curve South Junction with CPL (0.00)
+   0.73	GRANGETOWN (CARDIFF) formerly G. GLAM; G. SOUTH GLAM
+   0.74	Penarth Harbour Junction with PHB
+   2.10	LLANDOUGH
+   2.25	Penarth Dock Junction with PDK
+   2.28	Cogan Junction with PTH (0.00)
+   2.41	COGAN
+   3.40	EASTBROOK
+   4.18	DINAS POWYS
+  ≈5.56	TY FYSTON
+   5.58	Biglis Junction with PTH (5.66)
+   5.74	Barry Docks Line Junction with BDL
+   6.05	Cadoxton Junction with CTD (0.00)
+   6.10	CADOXTON
+   6.78	BARRY DOCKS
+   7.43	heritage station beside supermarket
+   7.73	WOODHAM preservation station
+   8.12	BARRY
+   8.16	Barry Junction with VOG (0.00)
+   8.70	BARRY ISLAND preservation station
+   8.77	BARRY ISLAND
+   9.01	PLYMOUTH ROAD preservation station
+   9.34	BARRY PIER
+   9.35	end of line

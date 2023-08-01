@@ -1,0 +1,16 @@
+ 205.54	Shipley East Junction with TJC3
+ 205.64	Great Northern Junction with SHI (196.36)
+ 205.73	SHIPLEY (YORKS)
+ 206.01	Shipley South/Bradford Junction with BIB (0.00)
+ 206.43	Shipley sidings
+ 206.63	Hodgson's siding
+ 206.67	FRIZINGHALL
+ 206.71	Wood & Company's siding (Shipley Fields Mills)
+ 207.30	Bradford Corporation Sewage Works siding and Abattoir siding
+ 207.46	Manningham sidings
+ 207.55	MANNINGHAM
+ 207.75	Gas Works siding
+ 208.07	Gas Works siding
+ 208.17	Corporation Electricity Works siding
+ 208.50	BRADFORD FORSTER SQUARE [2]
+ 208.58	BRADFORD FORSTER SQUARE [1] formerly B.

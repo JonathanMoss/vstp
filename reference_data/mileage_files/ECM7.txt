@@ -1,0 +1,67 @@
+   0.00	NEWCASTLE and junction with ECM6 (80.16)
+   0.14	Newcastle East Junction with LEN3 (101.59)
+   0.42	Manors Junction with BTN (0.00)
+   0.46	MANORS
+   0.48	junction with … (quay side line)
+   0.56	Trafalgar goods depot
+   1.26	Riverside Junction with RVE1 (0.00)
+   1.52	HEATON
+   1.69	Heaton South Junction with TMB (0.00)
+   2.00	Heaton South Junction with HCS (0.00)
+   2.18	Chillingham Road
+   2.35	Heaton Junction with HTY
+   2.55	Pile Siding Junction with HTY
+   2.70	Heaton North Junction with HCS (0.69) and HTY (2.70)
+   4.20	Benton South Junction with ICI1 (0.00)
+   4.24	Benton North Junction with BNE (0.00)
+   5.01	FOREST HALL
+   5.72	KILLINGWORTH
+   7.57	ANNITSFORD
+   7.73	Dudley
+   9.74	CRAMLINGTON
+  11.41	PLESSEY
+  13.72	STANNINGTON
+  16.32	Wansbeck Branch Junction convergence from WKV (0.32)
+  16.50	MORPETH
+  16.56	Morpeth Junction with HJM (20.47)
+  16.65	Morpeth Junction with WKV (0.00)
+  17.36	Morpeth North Junction with EJM (20.46)
+  18.44	PEGSWOOD
+  20.14	LONGHIRST
+  20.63	Butterwell Junction with BWO2 (0.00)
+ ≈22.20	ULGHAM
+  23.20	WIDDRINGTON
+  24.64	Widdrington opencast disposal point
+  25.49	CHEVINGTON
+  26.37	Amble Junction with AME (0.00)
+  28.43	ACKLINGTON
+  30.55	Southside
+  31.76	WARKWORTH
+  32.63	Shortridge siding/Deuchar's siding
+  34.61	Alnmouth South Junction with ACK (0.00)
+ ≈34.63	LESBURY
+  34.69	ALNMOUTH
+  37.39	LONGHOUGHTON
+  39.37	LITTLE MILL
+  43.03	CHRISTON BANK
+  43.50	FALLODON
+  46.01	CHATHILL
+  46.06	Chathill Junction with NSU (0.05)
+  47.10	NEWHAM
+  49.20	LUCKER
+ ≈51.00	MOUSEN
+  51.52	BELFORD
+  52.41	CRAG MILL [later goods siding]
+  55.02	SMEAFIELD
+  58.50	BEAL
+  60.67	GOSWICK
+  63.49	SCREMERSTON
+  65.01	Spittal
+  65.57	Tweedmouth sidings
+  65.65	TWEEDMOUTH
+  65.71	Tweedmouth Junction with KLO (0.00)
+  67.00	BERWICK-UPON-TWEED
+  68.01	Marshall Meadows
+  69.67	junction with ECM8 (54.50)
+
+Note that 67.00-69.67 was originally a continuation of ECM8

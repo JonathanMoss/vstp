@@ -1,0 +1,300 @@
+   0.00	LONDON PADDINGTON [2]
+   0.07	LONDON PADDINGTON [2] [later stop block position]
+   0.16	BISHOPS ROAD also called PADDINGTON SUBURBAN [later merged into main station]
+   0.21	PADDINGTON [1] [later goods depot]
+   0.50	Raneleigh Bridge locomotive depot
+   0.66	Crystal Palace Loop East Junction with CPP
+   1.02	mileage datum with XRC1/XRC (0.00km)
+   1.12	WESTBOURNE PARK DETRAINING STOP [proposed for Crossrail but never built]
+   1.13	Green Lane Junction with HTH
+   1.20	WESTBOURNE PARK
+   1.28	Portobello Junction with PGZ
+  ≈1.38	WORNINGTON ROAD [proposed station never built, name not certain]
+   1.38	Portobello Junction with CYL
+   1.71	junction with WLY
+   2.63	junction with OOC1
+   2.64	West London Junction with VIC (0.00)
+  ≈3.17	OLD OAK COMMON
+   3.24	Old Oak Common Junction with ANL
+   3.42	bridge over Ealing & Shepherd's Bush Railway (2.35)
+   4.07	Acton East Junction with AWL (0.08)
+   4.15	Poplar Junction with AWL (0.00)
+   4.21	ACTON MAIN LINE formerly A. HORN LANE and Acton goods depot
+   4.41	Acton marshalling yard
+   5.56	EALING BROADWAY
+   6.46	WEST EALING formerly CASTLE HILL; C. H. EALING DEAN
+   6.56	West Ealing Junction with WEL1
+   6.74	West Ealing engineer's depot
+   7.20	Hanwell East Junction with HAN (0.00)
+   7.28	HANWELL formerly H. & ELTHORNE
+   8.64	Southall locomotive depot
+   9.02	junction with LDD
+   9.06	SOUTHALL and zero point with BRB
+   9.20	junction with BRB (-0.14)
+  10.67	junction with HYZ
+  10.71	HAYES & HARLINGTON formerly HAYES
+  11.04	Heathrow Airport Junction with HLL
+  11.15	Heathrow Airport Junction with HLL [later position of down main line junction]
+  13.17	WEST DRAYTON
+  13.31	West Drayton Junction with UXB
+  14.60	IVER
+  16.18	LANGLEY (BERKS) formerly L. MARSH; L. BUCKS
+  17.35	Dolphin
+  18.26	SLOUGH [1]
+  18.36	SLOUGH [2]
+  18.44	Windsor Branch Junction with WIN
+  18.68	Slough goods depot
+  18.69	Slough West Junction with SLO (0.00)
+  19.63	SLOUGH ESTATE
+  20.42	Hay Mill
+  20.77	BURNHAM (BUCKINGHAMSHIRE) formerly B. BEECHES
+ ≈22.20	TAPLOW [1] formerly MAIDENHEAD; MAIDENHEAD & T.
+  22.39	TAPLOW [2]
+  24.05	Maidenhead East Junction with WBB
+  24.19	MAIDENHEAD
+  24.24	Maidenhead Junction with WBB
+  26.21	Waltham siding
+  27.71	Shottesbrook
+  29.45	Ruscombe
+  31.01	TWYFORD
+  31.04	junction with HEN
+  33.78	Sonning
+  34.77	Kennet
+  35.40	Reading New Junction with RNJ (68.35)
+  35.61	Reading East Junction with RLL (68.54)
+  35.63	Reading Old Junction with ROJ (68.51) and junction with RLL1 (35.63) [opposite sides of formation]
+  35.78	READING formerly R. GENERAL
+  36.13	Caversham Road Junction with RFM
+  36.14	Depot Connection E with RTC
+  36.17	Westbury Line Junction with BKE
+  36.25	Caversham Road Junction with RFR
+  36.26	Relief line junction with RFR
+  36.36	Reading depot
+  36.71	Depot Connection C with RTC
+  36.78	Reading West Junction with RWC (0.00)
+  37.03	Reading Main marshalling yard
+  37.40	Depot Connection A with RTC
+  37.68	Scours Lane
+  38.52	TILEHURST
+  40.10	Purley
+  41.43	PANGBOURNE
+  44.60	GORING & STREATLEY formerly G.
+  47.60	MOULSFORD formerly WALLINGFORD ROAD
+  48.37	CHOLSEY formerly C. & MOULSFORD
+  48.42	Wallingford Branch Junction with WAL (0.06)
+  51.41	Moreton Cutting yard
+  52.59	Didcot East Junction with NDL (17.18)
+  52.69	Didcot East Junction with DEC
+  53.10	DIDCOT PARKWAY formerly D.
+  53.12	Chester Line Junction with DCL
+  53.36	Didcot provender store
+  53.54	Foxhall Junction with DWC (0.00)
+  53.60	Foxhall Junction with DPS (0.00km)
+  56.42	STEVENTON
+  58.51	Lockinge
+  60.21	junction with Wantage Tramway (0.00)
+  60.32	WANTAGE ROAD
+  63.66	CHALLOW formerly FARINGDON ROAD
+  66.36	Faringdon Branch Junction with FAR
+  66.43	UFFINGTON
+  69.00	Knighton
+  71.42	SHRIVENHAM
+  73.78	Marston sidings
+  74.51	South Marston Junction with industrial estate sidings
+  75.05	STRATTON PARK
+  76.28	Highworth Junction with HIW (0.00)
+  76.30	connection with SNT
+ (76.47)	Swindon transfer yard
+  76.70	connection with SNT
+  77.06	junction with SDP
+  77.23	SWINDON formerly S. JUNCTION
+  77.35	Swindon Junction with SWM1
+  77.50	Locomotive works
+  78.02	Rodbourne Lane
+  78.10	Newburn sidings
+  78.42	Rushey Platt Junction with RUS (32.60)
+  80.20	WOOTTON BASSETT ROAD [may be at 80.15]
+  81.42	Studley
+  82.70	WOOTTON BASSETT
+  83.09	Wootton Bassett Junction with SWB
+  87.59	DAUNTSEY
+  87.63	Dauntsey Junction with MAL1
+  89.74	CHRISTIAN MALFORD
+  93.45	Chippenham locomotive depot
+  93.56	Calne Branch Junction with CNE (0.00)
+  93.76	CHIPPENHAM
+  96.10	Thingley Junction with WEY
+  96.50	Thingley West Junction with AMP1
+  98.26	CORSHAM
+  99.12	start of Box tunnel
+ 100.28	end of Box tunnel
+ 101.22	BOX (MILL LANE)
+ 101.69	BOX
+ 102.79	Farleigh
+ 103.76	BATHFORD
+ 104.46	Bathampton Junction with BFB (0.00)
+ 104.49	BATHAMPTON
+ 105.64	HAMPTON ROW
+ 106.70	BATH SPA formerly B.
+ 107.29	Bath goods depot
+ 107.53	Westmoreland
+ 107.72	OLDFIELD PARK
+ 108.31	TWERTON-ON-AVON formerly T.
+ 111.28	SALTFORD
+ 113.53	junction with Somerdale siding
+ 113.63	KEYNSHAM formerly K. & SOMERDALE
+ 115.12	Fox's Wood
+ 116.58	ST ANNES PARK
+ 117.09	Bristol East depot
+ 117.27	Bristol Relief Line Junction with BRL
+ 117.42	original Feeder Bridge Junction with BLL
+ 117.46	North Somerset Junction with FNS2 (23.26)/BRL (0.00)
+ 117.50	relocated Feeder Bridge Junction with BLL
+ 117.53	junction with KRS
+(117.67)	Kingsland Road sidings
+ 117.78	junction with KRS
+ 118.01	Bristol East Junction with BSW (0.31)
+ 118.02	Gloucester Line Junction with BGL2 (129.66)
+ 118.07	junction with DDS (0.26)
+ 118.12	Bristol Harbour Junction with link to BHB
+ 118.16	junction with MLN6
+ 118.20	junction with TMG
+ 118.31	BRISTOL TEMPLE MEADS
+ 118.33	start of BHB and junction with BMD
+ 118.40	junction with Bath Road locomotive depot lines
+ 118.50	Pylle Hill goods depot
+ 118.58	Bristol West Junction with BRL (118.33/1.09)
+ 118.72	Bristol carriage washing machine
+ 118.74	junction with Pylle Hill goods depot lines
+≈119.08	BEDMINSTER [1]
+ 119.22	BEDMINSTER [2]
+ 119.67	Malago Vale
+ 120.15	PARSON STREET
+ 120.26	Parson Street Junction with POD
+ 120.47	Bristol West depot
+ 120.68	West Depot Junction with POW (0.00)
+ 121.08	South Liberty
+ 122.03	LONG ASHTON
+ 124.00	FLAX BOURTON [1] formerly B.
+ 124.21	FLAX BOURTON [2]
+ 126.33	NAILSEA & BACKWELL formerly N.
+ 130.28	YATTON formerly CLEVEDON ROAD
+ 130.30	Clevedon Junction with CDN (0.03)
+ 130.32	Cheddar Valley Junction with CVB (31.51)
+ 133.75	PUXTON & WORLE formerly BANWELL; W.; P.
+ 134.42	WORLE
+ 135.12	Worle Junction with WSM
+ 136.60	WESTON-SUPER-MARE JUNCTION
+ 136.67	Weston Super Mare Old Junction with WSO
+ 138.04	Uphill Junction with WSM (139.05)
+ 138.49	BLEADON & UPHILL formerly U.
+ 140.37	Lympsham
+ 140.51	BREAN ROAD
+ 142.43	BRENT KNOLL
+ 145.20	flat crossing with EBU (22.30)
+ 145.22	junction with link to EBU
+ 145.25	HIGHBRIDGE & BURNHAM
+ 147.04	Huntspill Junction with Puriton ROF branch
+ 147.36	divergence with Puriton ROF branch
+ 148.77	Dunball Wharf Junction with DUN
+ 149.05	DUNBALL
+ 151.27	Bridgwater General goods depot
+ 151.43	Bridgwater Junction with BDB
+ 151.47	BRIDGWATER formerly B. GENERAL
+ 155.13	Fordgate
+ 155.24	Durston Loop Junction with DUR (137.29)
+ 157.29	DURSTON
+ 158.09	original Cogload Junction with CCL (137.69)
+ 158.23	Cogload Junction with CCL (138.03) [up line]
+ 158.50	Cogload Junction with CCL (138.30) [down line]
+ 160.25	CREECH ST MICHAEL
+ 160.56	Creech Junction with CHD (0.00)
+ 162.51	Taunton East Junction with WTZ
+ 162.57	junction with TCW
+ 163.12	TAUNTON
+ 163.15	Taunton locomotive depot
+ 163.52	Taunton West Junction with WTZ (163.56)
+ 164.60	Norton Fitzwarren Junction with MIN
+ 165.08	NORTON FITZWARREN
+ 165.13	Minehead Branch Junction with MIN [later divergence with MIN]
+ 165.19	Barnstaple Branch Junction with BLE
+ 165.79	Victory siding
+ 168.79	Poole siding
+ 170.21	WELLINGTON SOM formerly W.
+ 171.70	BEAM BRIDGE
+ 174.58	BURLESCOMBE
+ 177.26	SAMPFORD PEVERELL
+ 177.28	TIVERTON PARKWAY
+ 179.05	Culm Valley Branch Junction with CUL (0.00)
+ 179.09	Tiverton Branch Junction with TIV
+ 179.10	TIVERTON JUNCTION formerly T. ROAD
+ 181.26	CULLOMPTON
+ 183.40	Westcott
+ 185.43	HELE & BRADNINCH formerly H.
+ 186.61	SILVERTON
+ 190.17	STOKE CANNON [1]
+ 190.36	Stoke Cannon Junction with EVB (19.27)
+ 190.42	STOKE CANNON [2]
+ 192.53	Cowley Bridge Junction with DAC (173.50)
+ 192.58	junction with ERY
+(193.27)	Exeter Riverside yard
+ 193.43	junction with ERY
+ 193.60	Exeter St Davids NCL depot
+ 193.72	EXETER ST DAVIDS and Exeter locomotive depot
+ 194.00	Exeter St Davids Junction with BAE2 (172.04)
+ 194.66	EXETER ST THOMAS
+ 195.12	Exeter Railway Junction with EXR (0.00)
+ 195.32	Exeter Basin Junction with EBB (0.00)
+ 196.00	MARSH BARTON
+ 198.59	EXMINSTER
+ 200.53	Powderham
+ 202.36	STARCROSS
+ 203.10	Cockwood
+ 204.37	DAWLISH WARREN
+ 204.54	THE WARREN
+ 206.07	DAWLISH
+ 208.70	TEIGNMOUTH
+ 210.39	Salcombe siding
+ 211.04	Bishopsteignton
+ 213.41	Hackney yard
+ 213.70	junction with MOB (0.23)
+ 213.75	later Heathfield Branch Junction with MOB (0.14)
+ 213.77	Newton Abbot locomotive depot
+ 214.05	NEWTON ABBOT formerly N.
+ 214.43	Newton Abbot West Junction with TOR
+ 215.10	Aller Junction with TOR
+ 217.07	Stoneycombe Junction with STE (0.00)
+ 222.47	Ashburton Junction with AHB (0.18)
+ 222.52	Totnes Quay Junction with TOT (0.00)
+ 222.66	TOTNES formerly TOTNESS
+ 225.42	Tigley
+ 227.28	Rattery
+ 229.54	BRENT
+ 229.61	Kingsbridge Branch Junction with KIN (0.00)
+ 231.70	WRANGATON formerly KINGSBRIDGE ROAD
+ 232.01	Monksmoor sidings
+ 232.76	BITTAFORD
+ 233,55	Cantrell sidings
+ 234.27	IVYBRIDGE [2]
+ 235.13	IVYBRIDGE [1]
+ 237.48	CORNWOOD formerly C. ROAD
+ 239.20	Hemmerdon sidings
+ 241.75	PLYMPTON
+ 242.54	Tavistock Junction with LAN1
+ 242.55	Tavistock Junction with TJY
+ 242.76	junction with LAN1 (0.00)
+ 243.10	Tavistock Junction with LAN2 (0.00)
+ 243.18	Crabtree sidings
+ 243.67	Laira Junction with LAS
+ 244.00	flat crossing with Lee Moor tramway
+ 244.02	Laira Junction with SUT1
+	PLYMOUTH LAIRA GREEN
+ 244.21	LAIRA
+ 244.35	Lipson Junction with PLO (0.00)
+ 245.09	LIPSON VALE
+ 245.52	MUTLEY
+ 245.75	PLYMOUTH formerly P. NORTH ROAD
+ 246.08	North Road Junction with CNP (246.08) and MLN5 (246.08), and later MLN2 (247.21)
+ 246.29	Cornwall Loop Junction with CNP (246.29), MLN2 (247.42) and MLN7 (247.42)
+
+Note that 246.08-246.29 was formerly CNP and later 247.21-247.42 in MLN2

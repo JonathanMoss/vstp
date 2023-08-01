@@ -1,0 +1,13 @@
+  73.42	Eastleigh West Junction with BML1
+  73.77	junction with EYD4
+  73.78	junction with EYD3
+  74.04	Eastleigh South Junction with EYD7 (74.29)
+  75.71	Bubb Lane
+  76.76	HEDGE END
+  78.60	junction with BPW (0.12)
+  78.72	BOTLEY
+  81.70	Knowle Junction with MEL (73.46)
+  82.15	KNOWLE
+  82.42	junction with FDV
+  84.00	junction with FDV (84.36)
+  84.10	Fareham East Junction with SDP1 (14.15) and SDP2 (84.10)

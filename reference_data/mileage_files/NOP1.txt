@@ -1,0 +1,13 @@
+   0.00	Scunthorpe West Junction with DOW (23.13)
+   0.21	SCUNTHORPE
+   0.25	Dawes Lane Junction with SCD (0.28)
+   1.45	Crosby mines
+   1.77	NORMANBY PARK
+   2.11	Normanby Park junction with Flixborough Wharf line
+   2.60	Normanby Park north sidings
+  ≈3.75	Roxby landfill site
+   5.03	WINTERTON & THEALBY
+   6.06	WEST HALTON
+   8.32	WINTERINGHAM
+   8.50	junction with haven lines (to 8.67)
+  11.12	WHITTON

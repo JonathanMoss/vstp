@@ -1,0 +1,3 @@
+   3.30	Portobello Junction with ECM8
+   3.36	Niddrie North Junction with NDE1
+   4.00	junction with SUB2 (6.69)

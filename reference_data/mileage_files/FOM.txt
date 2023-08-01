@@ -1,0 +1,7 @@
+   0.00	Fletton Junction with ECM1 (75.02)
+   0.04	junction with link to London Brick Company's siding and Hicks & Company's siding
+   0.31	junction with sidings
+  (0.68)	end of sidings
+   1.17	Botolph Bridge siding
+   1.63	convergence with TOM (45.52)
+   1.79	Longueville Junction with TOM (45.36)

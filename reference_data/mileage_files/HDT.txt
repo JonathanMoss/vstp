@@ -1,0 +1,18 @@
+   3.04	Hackney Downs North Junction with BGK
+   3.64	RECTORY ROAD
+   4.16	STOKE NEWINGTON
+   5.03	STAMFORD HILL
+   5.39	Seven Sisters Junction with SSL (0.00)
+   5.40	junction with PGS
+   5.48	SEVEN SISTERS
+   6.28	BRUCE GROVE
+   7.11	WHITE HART LANE
+   7.75	SILVER STREET
+   8.45	EDMONTON GREEN
+   8.68	Lower Edmonton Junction with ARE (9.03)
+   9.20	Bury Street Junction with ENT
+  10.32	SOUTHBURY
+  11.17	CARTER HATCH LANE
+  12.16	TURKEY STREET
+  13.45	THEOBALDS GROVE
+  14.28	Cheshunt Junction with BGK (13.71)

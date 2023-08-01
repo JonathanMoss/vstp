@@ -1,0 +1,8 @@
+   5.19	Cricklewood Curve Junction with SPC1
+   6.03	Dudding Hill Junction with BDH (1.03)
+   6.47	DUDDING HILL
+   7.03	Neasden Junction with NJN (6.56)
+   7.31	electric company siding
+   7.64	HARLESDEN formerly HARROW ROAD
+   8.45	Acton Canal Wharf Junction with ACW (0.35)
+   8.77	Acton Wells Junction with WAW (7.03)

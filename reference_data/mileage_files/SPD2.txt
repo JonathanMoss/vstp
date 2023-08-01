@@ -1,0 +1,11 @@
+  62.13	Sleaford South Junction with SPD1 (62.13) and SSE (0.00)
+  63.48	Sleaford North Junction with SNW (3.42)
+  65.65	RUSKINGTON
+  68.44	DIGBY
+  70.49	SCOPWICK & TIMBERLAND
+  73.03	METHERINGHAM formerly BLANKNEY & M.
+  74.59	NOCTON & DUNSTON
+  76.60	POTTERHANWORTH
+  78.78	BRANSTON & HEIGHINGTON formerly H. & B.
+  81.24	Greetwell East Junction with GWJ (137.10)
+  81.25	Greetwell West Junction with LIA (0.00) and SPD3 (81.25)

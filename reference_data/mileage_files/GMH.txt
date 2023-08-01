@@ -1,0 +1,14 @@
+   0.00	Grangemouth Junction with PMT (23.74)
+   0.07	Double track starts
+   1.32	Westfield (?) Iron Works
+   1.47	Fouldubs Junction with ZZB8 (0.00)
+   1.55	Fouldubs Junction with OCL (2.76) and ZZC6 (0.00)
+   2.26	Grangemouth No. 1
+   2.48	Grangemouth No. 2
+   2.55	GRANGEMOUTH
+   2.56	Network Rail/Forth Ports Boundary
+   2.57	Grangemouth No. 3
+   2.67	BP Chemicals Junction with ZZF1
+   2.75	Grangemouth harbour
+   3.67	Oil Terminal Ground Frame
+   5.34	end of line

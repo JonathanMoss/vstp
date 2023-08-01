@@ -1,0 +1,5 @@
+  84.10	Law Junction with WCM1 and WCM2
+  86.31	WISHAW
+  86.63	Wishaw Central Junction with SHR
+  89.48	Holytown Junction with EGS2 (1.35) [down line]
+  89.56	Holytown Junction with EGS2 (1.27) [up line]

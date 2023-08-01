@@ -1,0 +1,4 @@
+  19.44	Hepscott Junction with EJM
+  20.30	Barmoor West Junction with Morpeth goods depot lines
+  20.47	Morpeth Junction with ECM7 (16.56)
+  20.54	MORPETH [later goods depot]

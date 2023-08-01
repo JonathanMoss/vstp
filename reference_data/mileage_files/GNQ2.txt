@@ -1,0 +1,5 @@
+   0.00	Llynclys Junction with GNQ4 (21.67)
+   0.60	Dolgoch quarry
+   0.66	Porthywaen Branch Junction with POH (0.00)
+   1.04	PORTHYWAEN
+   2.25	Llanddu Junction with GNQ3 (2.51)

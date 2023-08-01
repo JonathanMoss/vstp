@@ -1,0 +1,3 @@
+  14.14	Elbowend Junction with CRN (0.00) and KNE1 (14.14)
+  14.64	Windmill End Junction with NET (0.00)
+  15.39	Charlestown Junction with CWH1 (16.41)

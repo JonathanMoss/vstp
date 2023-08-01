@@ -1,0 +1,10 @@
+  51.11	Southerham Junction with KJE2 (51.11) and KJE3 (9.11)
+  53.40	SOUTHEASE formerly S. & RODMELL
+  55.58	Newhaven Town sidings
+  56.18	Newhaven goods depot
+  56.25	NEWHAVEN TOWN formerly N.
+  56.51	NEWHAVEN HARBOUR formerly N. WHARF
+  56.55	Newhaven Harbour Junction with NHB
+  57.34	BISHOPSTONE BEACH formerly BISHOPSTONE
+  58.03	BISHOPSTONE (SUSSEX) formerly B.
+  58.77	SEAFORD (SUSSEX) formerly S.

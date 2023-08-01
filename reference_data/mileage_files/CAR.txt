@@ -1,0 +1,53 @@
+   0.00	Cardiff East Dock
+  ≈0.05	junction with CSS (0.00)
+   0.60	Tyndall Street High Level Junction with CBV (0.00)
+   1.12	CARDIFF ADAM STREET
+   1.22	Queen Street North Junction with CAM (1.17)
+   1.23	Gaol Lane Junction with CHT
+   1.28	CARDIFF PARADE formerly C.
+   1.31	Parade Junction with CQS (1.25)
+   1.38	Salisbury Road goods depot
+   2.00	CRWYS ROAD proposed
+   2.42	CEMETERY
+   3.17	original Heath Junction with CRY (0.00)
+   3.32	relocated Heath Junction with CRY (0.15)
+   3.52	HEATH HIGH LEVEL formerly H.
+   4.61	LLANISHEN
+   5.41	Cherry Orchard carriage shed
+   5.45	LISVANE & THORNHILL
+   6.00	CEFN ONN formerly CEFN ON
+   7.53	CAERPHILLY WORKS
+   7.56	Caerphilly locomotive works
+   8.14	Caerphilly East Junction with CPY (8.72)
+   8.21	CAERPHILLY
+   8.35	Caerphilly West Junction with CAP
+   8.69	ABER formerly BEDDAU; A. JUNCTION
+   9.14	Aber Junction with BDU (0.00)
+   9.16	Aber Junction with SED
+   9.31	Energlyn South Junction with ENZ
+   9.45	ENERGLYN & CHURCHILL PARK
+  10.13	PWLLYPANT
+  10.71	LLANBRADACH
+  11.09	Llanbradach colliery
+  13.41	Ystrad Mynach South Junction with PTA
+  13.60	YSTRAD MYNACH formerly Y.; Y. Junction
+  13.72	Cylla Branch Junction with CYA
+  14.00	Ystrad Mynach North Junction with YST (0.48)
+  14.53	HENGOED formerly H.; H. & MAESYCWMMER
+  14.75	Hengoed Junction with HGD (0.00)
+  16.30	PENGAM formerly P.; P. & FLEUR-DE-LIS; P.; P. GLAM
+  16.55	Bargoed Pits Branch Junction with BPB
+  17.35	GILFACH FARGOED
+  17.69	Bargoed South Junction with BDP (15.72)
+  18.03	BARGOED formerly B.; B. & ABER BARGOED
+  18.10	Bargoed North Junction with BAP
+  19.31	BRITHDIR formerly GEORGE INN
+  20.40	TIR-PHIL formerly TIR PHIL; TIRPHIL & NEW TREDEGAR; TIRPHIL; TIR PHIL
+  20.55	New Tredegar Junction with NTB
+  21.30	TROEDYRHIWFUWCH COLLIERY
+  21.52	TROEDYRHIWFUWCH
+  22.37	PONTLOTTYN COLLIERY
+  22.65	PONTLOTTYN
+  23.64	RHYMNEY
+  23.66	junction with RRZ
+  24.00	end of line

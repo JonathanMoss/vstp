@@ -1,0 +1,6 @@
+  11.04		Heathrow Airport Junction with MLN1
+  11.15		Heathrow Airport Junction with MLN1 [later position of down main line junction]
+  12.25		HEATHROW INTERCHANGE
+  12.30/19.908km	Heathrow tunnel portal end-on junction with HLL1 and ownership boundary (NR/BAA)
+
+Note that this was part of the original HLL

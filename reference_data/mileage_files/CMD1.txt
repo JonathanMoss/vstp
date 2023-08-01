@@ -1,0 +1,17 @@
+   0.00	MACCLESFIELD HIBEL ROAD and junction with MCH (9.37)
+   0.16	Macclesfield Junction with MRH (0.00)
+   0.25	MACCLESFIELD formerly M. CENTRAL
+   2.36	Danes Moss siding
+   4.64	NORTH RODE
+   4.74	North Rode Junction with CVL (27.28)
+   7.42	CONGLETON UPPER JUNCTION ? passenger use and Congleton Upper Junction with CLU (12.54)
+   8.12	CONGLETON
+  10.20	Astbury sidings
+  11.33	MOW COP & SCHOLAR GREEN formerly M. C.; M. C. (S. G.)
+  11.79	Mow Cop siding
+  13.31	Trubshaw siding
+  13.40	junction with LEK (7.25)
+  13.60	KIDSGROVE formerly HARECASTLE; K. CENTRAL
+  13.68	Kidsgrove Central Junction with KCS1 (0.00)
+  14.01	junction with CMD3
+  16.00	junction with CMD2 (15.65) and CMD3 (15.65)

@@ -1,0 +1,6 @@
+   1.52	Navarino Road Junction with DWW2 (1.11) and GRE (2.79)
+   1.69	Dalston Eastern Junction with Dalston East Curve (2.24)
+   2.05	Kingsland goods depot
+   2.06	DALSTON KINGSLAND
+   2.18	DALSTON JUNCTION
+   2.22	Dalston Western Junction with BOK1

@@ -1,0 +1,3 @@
+  73.49	Carstairs Station Junction with WCM1 (73.37)	
+  73.60	Dolphinton Junction with DJL (0.00)/DJL1 (20.56)
+  74.10	Carstairs East Junction with ECA1 (73.48) and ECA2 (74.10)

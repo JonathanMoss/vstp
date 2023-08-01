@@ -1,0 +1,4 @@
+ 117.42	original Feeder Bridge Junction with MLN1
+ 117.50	relocated Feeder Bridge Junction with MLN1
+ 117.65	Cattybrook siding
+ 117.73	Dr Days Bridge Junction with BSW (0.55)

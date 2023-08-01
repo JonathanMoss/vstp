@@ -1,0 +1,33 @@
+   9.13	Harrow On The Hill South Junction with MCJ1 (197.05)
+   9.39	HARROW-ON-THE-HILL formerly HARROW
+   9.72	Harrow goods depot
+  (9.74)	junction with U (London Underground route) (62.48km)
+ (10.57)	NORTH HARROW
+ (11.52)	PINNER
+ (12.76)	NORTHWOOD HILLS
+ (13.78)	NORTHWOOD
+  15.28	MOOR PARK formerly SANDY LODGE; M. P. & S. L.
+  16.45	Watford South Junction with MLNE (London Underground route) (73.10km)
+  16.57	Watford North Junction with MLNE (London Underground route) (73.35km)
+  17.36	RICKMANSWORTH
+  19.53	CHORLEYWOOD formerly CHORLEY WOOD; C. W. & CHENIES
+  21.67	CHALFONT & LATIMER formerly C. ROAD
+ ≈22.62	divergence with CMR (London Underground route) (≈83.00km)
+  23.70	AMERSHAM
+  25.21	ownership boundary (London Underground (87.08km)/NR)
+  29.00	GREAT MISSENDEN
+  33.43	WENDOVER
+  35.75	STOKE MANDEVILLE
+  38.08	Aylesbury Junction with PRA (49.35)
+  38.13	AYLESBURY
+  38.28	Hartwell siding
+  40.38	AYLESBURY VALE PARKWAY
+  42.77	WADDESDON formerly W. MANOR
+  44.13	Quainton Road Junction with Brill Line (0.00)
+  44.21	QUAINTON ROAD [2]
+  44.32	QUAINTON ROAD [1]
+  44.48	Quainton Road Junction with MCJ3 (161.50)
+  48.03	GRANBOROUGH ROAD formerly GRANDBOROUGH ROAD
+  49.15	WINSLOW ROAD
+  50.47	VERNEY JUNCTION
+  50.56	Verney Junction with OXD (9.37) and BVJ (0.08)

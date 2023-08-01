@@ -1,0 +1,19 @@
+   5.00	Newcraighall South Junction end on junction with NNS
+   5.64	SHAWFAIR
+   7.11	King's Gate
+   8.25	ESKBANK
+   9.58	NEWTONGRANGE
+  11.77	GOREBRIDGE
+  12.28	Fushiebridge
+  16.13	Tynhead
+  25.75	Galabank
+  26.45	STOW
+  29.71	Bowland
+  33.22	GALASHIELS [2]
+ ≈33.23	junction with original route
+ ≈33.36	GALASHIELS [1] on original route
+ ≈33.65	junction with original route
+  35.25	TWEEDBANK
+  35.34	end of line
+
+Note that most of this route was contained within ETC

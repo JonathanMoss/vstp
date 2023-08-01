@@ -1,0 +1,5 @@
+  33.16	Walton Junction with SJO2 (3.20) and WJK (33.16)
+  34.04	junction with Kirkdale depot
+  34.14	KIRKDALE formerly BOOTLE LANE
+  34.48	junction with Kirkdale depot
+  34.75	Sandhills Junction with HXS2 (34.75), HXS3 (1.41) and NDO (34.75)

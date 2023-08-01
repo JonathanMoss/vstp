@@ -1,0 +1,3 @@
+   0.00	Peak Forest Junction with AJM2 (161.05) and CNB1 (161.05)
+   0.20	CHEE DALE
+   0.30	Buxton Junction with CNB3 (161.15)

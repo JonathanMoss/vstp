@@ -1,0 +1,79 @@
+   0.15	Waverley West End junction with ECN1 (0.15)
+   0.32	connection with EGM3
+   1.19	HAYMARKET
+   1.43	connection with ZZB3
+   1.53	connection with ZZB3
+   2.28	Haymarket West Junction with EGM1 (44.73), EGM2 (44.73) and GGE (0.41)
+   3.28	Saughton Junction with EGM1 (43.74)
+   3.39	SAUGHTON formerly CORSTORPHINE
+   4.45	SOUTH GYLE
+   5.33	EDINBURGH GATEWAY
+   6.31	TURNHOUSE
+   6.33	Turnhouse goods depot
+   8.52	Dalmeny South Junction with PEB (4.05) and QDS (4.05)
+   9.00	Dalmeny Junction with DMY (39.06)
+   9.35	DALMENY formerly FORTH BRIDGE
+   9.47	start of Forth Bridge
+  11.13	end of Forth Bridge
+  11.22	NORTH QUEENSFERRY
+  12.10	bridge over RHD2 (1.01)
+  13.00	INVERKEITHING [1]
+  13.03	Inverkeithing South Junction with RHD1 (0.02)
+  13.12	INVERKEITHING [2]
+  13.20	Inverkeithing Central Junction with CWH1
+  13.49	Inverkeithing East Junction with IGE (0.00)
+  14.51	DALGETY BAY
+  15.01	DONIBRISTLE
+  17.34	ABERDOUR
+  17.45	Aberdour quarry
+  19.21	Newbigging siding
+  19.39	Colinswell siding
+  20.10	BURNTISLAND
+  20.33	Burntisland Junction with BID (0.00)
+  22.04	junction with PCH (0.00)
+  22.59	KINGHORN
+  22.72	Abden shipbuilding yard
+  23.69	SEAFIELD
+  24.56	Inverteil siding
+  24.62	Invertiel Junction with COI (0.00)
+  24.68	Invertiel Junction with COI (0.00)
+  25.70	KIRKCALDY
+  26.27	Harbour Branch Junction with KYH (0.00)
+  26.44	Dunnikier siding
+  27.22	SINCLAIRTOWN
+  27.78	DYSART
+  28.00	Francis colliery
+  28.48	Boreland siding
+  29.46	Randolph siding
+  30.24	Thornton South Junction with CWH3 (35.38)
+  30.54	THORNTON JUNCTION
+  30.64	Thornton North Junction with TWM (0.11)
+  30.68	Thornton North Junction with MTL1 (0.11) and TNW (0.00)
+  33.16	Markinch Junction with AMY1 (4.16)
+  33.20	MARKINCH
+  34.72	Lochmuir
+  36.07	FALKLAND ROAD
+  36.79	Forthar lime siding
+  38.11	KINGSKETTLE
+  38.71	junction with MLK (15.00)
+  39.04	LADYBANK
+  39.10	Ladybank Junction with CDC1 (0.00)
+  42.26	SPRINGFIELD
+  43.40	Brighton siding
+  44.50	CUPAR
+  46.09	New Mills siding
+  47.50	DAIRSIE
+  50.55	Milton or Leuchars South Junction with EFL (38.70)
+  50.68	LEUCHARS (FOR ST ANDREWS) formerly L. Junction
+  51.01	Leuchars Junction with WLR (10.14)
+  54.07	Saint Fort South Junction with Newburgh line
+  54.42	Saint Fort North Junction with GSF (0.00)
+  54.48	SAINT FORT
+  56.13	Wormit goods depot
+  56.37	start of Tay Bridge
+  56.42	Wormit Junction with WLR (0.00)
+  58.37	ESPLANADE
+  58.55	end of Tay Bridge
+  58.69	Dundee Central Junction with SCM5 (0.36)
+  59.14	DUNDEE formerly D. TAY BRIDGE
+  59.77	Camperdown Junction with ECN3 (0.21)

@@ -1,0 +1,13 @@
+  13.20	Inverkeithing Central Junction with ECN2
+  13.59	Inverkeithing North Junction with IGE (0.33)
+  14.52	ROSYTH
+  16.41	Charlestown Junction with KNE2 (15.39)
+  16.68	DUNFERMLINE CITY formerly D. COMELY PARK; D. LOWER; D.; D. LOWER; D.; D. TOWN
+  17.78	Touch South Junction with TFK
+  18.36	DUNFERMLINE QUEEN MARGARET
+  18.52	Townhill Junction with ALO (22.20) and TJS (0.00)
+  19.03	HALBEATH
+  20.63	CROSSGATES FIFE formerly C.
+  21.37	Cowdenbeath South Junction with COJ (24.73)
+  22.42	COWDENBEATH formerly C. NEW
+  22.76	Cowdenbeath North Junction with CWH2 (0.00) and EGP (0.00)

@@ -1,0 +1,28 @@
+   0.00	BLISWORTH and connection with LEC1 (62.70)
+   0.48	Blisworth iron works siding
+   0.64	Wheldons siding
+   4.06	Olney Branch Junction with SJT3 (13.77)
+   4.15	TOWCESTER and zero point for SJT2 (0.00)
+  ≈5.14	Greens Norton Junction with SJT2 (≈0.79)
+   8.34	BLAKESLEY
+  11.45	MORTON PINKNEY
+  14.32	Woodford West Junction with Woodford West to South Curve (≈0.50)
+  14.38	Woodford West Junction with Woodford West to North Curve (0.00)
+  15.55	BYFIELD
+  17.65	Aston Le Walls
+  22.26	Fenny Compton Junction with DCL (94.61)
+  22.41	FENNY COMPTON
+  24.26	NORTH END
+  25.51	WARWICK ROAD
+  28.69	KINETON
+  32.70	ETTINGTON
+  33.54	Ettington lime works
+  37.39	Clifford siding
+  38.02	STRATFORD ON AVON
+  38.05	junction with Stratford-on-Avon South Curve and Stratford-on-Avon North Curve
+  41.69	BINTON
+  44.31	BIDFORD-ON-AVON formerly B.
+  45.29	Broom East Junction with BRM
+  45.49	Broom Junction with BEA (67.00)
+
+Note that in later years Towcester to Greens Norton Junction operated as parallel single lines.  The link at Fenny Compton to DCL is a later construction, but is counted as part of SJT1.

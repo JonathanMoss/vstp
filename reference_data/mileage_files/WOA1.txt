@@ -1,0 +1,4 @@
+   0.00	Arpley Junction with SDJ2 (11.03)
+   0.06	Arpley Grid Iron Junction North with WOA2 (0.62) and WOA4 (0.00)
+   0.66	Arpley Grid Iron Junction South with WOA2 (0.00)
+   0.68	Walton Old Junction with CHW1 (17.23) and CHW2 (17.23)

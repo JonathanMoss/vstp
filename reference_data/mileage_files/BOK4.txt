@@ -1,0 +1,8 @@
+   0.00	Willesden High Level Junction with BOK3 (5.48) and WMB (0.43)
+   0.34	mileage change (becomes 0.43)
+
+   0.43	mileage change (from 0.34)
+  ≈0.54	OLD OAK COMMON LANE proposed
+   0.66	Acton Wells Junction with BOK5 (0.66) and WAW (7.07)
+
+Note that this route has a mileage change in it, for which a separate ELR was not issued.  It is 0.09 shorter than would first appear.

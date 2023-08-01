@@ -1,0 +1,8 @@
+   0.00	Guide Bridge West Junction with HAJ (5.06)
+   0.22	later junction with GBN (0.16) and GBS2 (0.22)
+   0.49	original junction with GBN (0.43)
+   0.59	DUKINFIELD CENTRAL formerly D.
+   1.13	ASHTON PARK PARADE
+   1.75	junction with SJL1 (1.43)
+   2.04	junction with SJL1 (1.50)
+   2.08	Stalybridge Junction with MVL1 (7.46) and MVL2 (7.46)

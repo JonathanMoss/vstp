@@ -1,0 +1,5 @@
+   0.00	Reading West Junction with MLN1 (36.78)
+   0.06	junction with RTR2 (36.72)
+   0.37	Relief line junction with RFR (36.68)
+   0.40	junction with RTR1 (36.64)
+   0.43	Oxford Road Junction with BKE (36.66)

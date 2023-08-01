@@ -1,0 +1,34 @@
+  10.13	Stockton Cut Junction with LEN3 (58.30)
+  10.70	Bowesfield Junction with Stockton & Castle Eden Line (0.05)
+  10.76	Bowesfield Junction with BOH (0.44)
+  10.78	junction with Stockton Goods Branch (0.02)
+  11.63	THORNABY formerly SOUTH STOCKTON
+  11.69	Thornaby East Junction with TSY
+  13.62	NEWPORT
+  14.03	Newport East Junction with TSY
+  14.04	Newport East Junction with MGY (0.00)
+  14.10	March Branch Junction with MMH1 (0.00)
+  14.22	Old Town Junction with ODT (0.00)
+  15.00	MIDDLESBROUGH
+  15.23	Guisborough Junction with MBW1 (0.00)
+  15.76	Whitehouse Junction
+  16.06	CARGO FLEET [2]
+ ≈16.25	CARGO FLEET [1]
+  16.37	Cargo Fleet Junction with NOY (0.00)
+  17.06	SOUTH BANK [1]
+  17.15	South Bank Junction with CLW
+  17.40	SOUTH BANK [2]
+	ESTON
+  17.50	Eston West Junction with CLI
+  18.03	Beam Mill Junction with British Steel lines
+  18.41	GRANGETOWN formerly ESTON GRANGE
+  18.56	Grangetown Junction with Lackenby Ironworks lines (to 18.78 in railway ownership)
+  18.76	Grangetown Junction with Tees Dock lines
+  19.32	Shell Junction with WCI (0.00)
+  19.35	Shell Junction with GSD
+  19.45	LAZENBY later goods depot
+  20.05	Redcar Ore Terminal Junction with ROT
+  20.09	junction with RDR
+  20.42	later junction with ROT
+  20.56	REDCAR BRITISH STEEL also known as B. S. R.
+  21.72	junction with DSN3 (22.16) and RDR (22.16)

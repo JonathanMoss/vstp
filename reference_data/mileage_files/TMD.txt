@@ -1,0 +1,8 @@
+  9.381km 	junction with TRL2
+ (9.631km)	STRATFORD INTERNATIONAL
+ 10.551km 	start of sidings
+ 12.301km 	end of fuelling point road
+ 13.005km 	depot control room
+ 13.428km 	end of depot
+
+Note that it is possible that this route is actually TMD1, with subsequent portions allocated to individual siding banks

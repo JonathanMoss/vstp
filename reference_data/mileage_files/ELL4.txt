@@ -1,0 +1,5 @@
+   2.23	junction with ELL3 (5.51) and ownership boundary (TfL/Network Rail)
+   2.28	junction with Old Kent Road to Deptford Wharf Line
+   2.32	Old Kent Road Junction with BTH1
+
+Note that 2.30-2.32 is 0.02-0.00 in Old Kent Road to New Cross Gate Curve

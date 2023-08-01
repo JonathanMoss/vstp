@@ -1,0 +1,10 @@
+   0.00	Milton Junction with SCQ1 (3.51)
+   0.37	MILTON
+   2.16	STOCKTON BROOK
+   3.09	ENDON
+   5.35	WALL GRANGE & LONGSDON formerly W. G.
+   6.37	later lease boundary (NR/Churnet Valley Railway)
+   6.58	Leek Brook Junction with CVL (17.57)
+   6.65	Leek Brook Junction with CVL (17.64) and SCQ3 (0.00)
+
+Note that 6.58-6.65 is shared with CVL

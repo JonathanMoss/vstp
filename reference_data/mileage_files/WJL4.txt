@@ -1,0 +1,8 @@
+ 191.75	Edge Hill East Junction with DSE (1.57) and WJL3 (191.75)
+ 192.00	junction with EHW (1.05)
+ 192.04	connection with EWG (0.40)
+ 192.21	EDGE HILL
+ 192.26	connection with EWG (0.62)
+ 193.52	LIVERPOOL LIME STREET
+
+Note that this route is entirely parallel to the start of DSE, this being the south side of the formation and DSE being the north side

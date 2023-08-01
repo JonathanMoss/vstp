@@ -1,0 +1,58 @@
+   0.00	CARLISLE and junction with CGJ7
+   0.41	junction with Carlisle goods depot lines
+   0.59	Caldew Junction with UCJ (2.14)
+   0.68	Port Carlisle Branch Junction with PCB2 (0.00)
+   1.79	junction with KMG1 (3.36)
+	KINGMOOR
+   4.08	ROCKCLIFFE
+   6.08	FLORISTON
+   7.20	Mossband sidings
+   7.57	Mossband Junction with Longtown Ministry of Defence lines link to GJH (3.02)
+   8.35	junction with GJH (3.03)
+   8.47	GRETNA
+   8.57	Gretna Junction with GSW (116.13)
+  10.19	Quintinshill
+  13.00	KIRKPATRICK
+  14.00	Cove quarry
+ ≈16.60	KIRTLEBRIDGE [1]
+  16.58	KIRTLEBRIDGE [2]
+  16.68	junction with ANB (0.00)
+  20.11	ECCLEFECHAN
+  22.50	Castlemilk possible passenger use
+  25.66	LOCKERBIE
+  25.69	junction with DSB (14.40)
+  28.55	NETHERCLEUGH
+  31.60	DINWOODIE
+  34.41	WAMPHRAY
+  39.59	BEATTOCK
+  45.20	GRESKINE and siding
+	RUTTONSIDE
+	AUCHENCASTLE
+  49.60	BEATTOCK SUMMIT
+  52.51	ELVANFOOT
+  52.57	Elvanfoot Junction with LDS (0.00)
+  54.30	CRAWFORD
+  57.69	ABINGTON
+  63.20	LAMINGTON
+	SYMINGTON [1]
+  66.68	SYMINGTON [2] and junction with PBB (0.00)
+  68.40	THANKERTON
+  72.51	Float Junction with Victoria Branch
+  73.17	Carstairs South Junction with ECA1
+  73.37	Carstairs Station Junction with CSP (73.49)
+  73.49	CARSTAIRS
+  75.63	Silvermuir junction with … (Lanark line)
+  76.07	Lanark/Cleghorn Junction with LNK (0.00)
+  76.28	CLEGHORN formerly LANARK; C. JUNCTION
+  78.53	Craigenhill
+  80.31	Fiddler's Gill
+  80.40	Braidwood Mayfield pit
+  80.58	BRAIDWOOD
+  81.07	Braidwood tile works
+  81.56	Waggateshaw
+  81.67	Milton Lockhart
+  81.75	CARLUKE
+  82.60	Raesgill
+  82.63	Castlehill iron works
+  83.29	Hallcraig Junction with HCG (0.00)
+  84.10	Law Junction with WCM2 and WWD

@@ -1,0 +1,29 @@
+   0.00	MANCHESTER VICTORIA and end on junction with MVM
+   0.21	MANCHESTER EXCHANGE
+   0.43	Deal Street Junction with DSE (31.12)
+   0.59	SALFORD CENTRAL formerly S.
+   0.66	Salford West Junction with DSE (30.69)
+   1.05	OLDFIELD ROAD
+   1.09	Oldfield Road Junction with SAI (0.00)
+   1.52	junction with SBB (0.00)
+   1.55	Windsor Bridge South Junction with OLW (191.10)
+   1.59	SALFORD CRESCENT
+   1.66	Windsor Bridge North Junction with WBS1
+   2.31	PENDLETON formerly P. BROAD STREET
+   2.53	Brindle Heath goods depot
+   2.76	junction with goods depot lines
+   3.34	Brindle Heath Junction with BHA (3.36)
+   3.48	AGECROFT
+   4.51	Clifton Junction with CTA1
+   4.57	CLIFTON (MANCHESTER)
+   6.07	DIXON FOLD
+   6.46	Unity Brook siding
+   7.30	Kearsley Junction with KYB
+   7.57	KEARSLEY formerly STONECLOUGHS; K. & STONECLOUGHS
+   7.67	Farnworth South Junction (temporary double-single line connection)
+   8.31	FARNWORTH formerly F. & HALSHAW MOOR
+   9.06	MOSES GATE
+   9.12	Farnworth North Junction (temporary single-double line connection)
+  10.06	Burnden Junction with BUF
+  10.26	Bolton East Junction with CPI3 (11.63)
+  10.40	junction with MVE2

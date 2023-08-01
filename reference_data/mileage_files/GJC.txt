@@ -1,0 +1,14 @@
+  21.03	Gannow Junction with FHR5 and FHR6
+  21.38	BURNLEY BARRACKS
+  22.05	BURNLEY CENTRAL
+  22.57	NEW HALL BRIDGE
+  23.03	REEDLEY HALLOWS
+  24.20	BRIERFIELD
+  25.35	NELSON
+  26.10	Nelson new depot
+  26.23	BOTT LANE
+  27.36	junction with TJC3 (232.39)
+  27.37	COLNE
+  27.41	later end of line
+
+Note that strictly speaking, 27.36-27.41 should be 232.39-232.34 in TJC3

@@ -1,0 +1,9 @@
+ 301.25	Penwithers Junction with MLN3
+ 301.34	Newham Branch Junction with NWM (0.00)
+ 304.78	PERRANWELL
+ 307.05	junction with original route
+ 307.52	junction with FAL2 (307.53)
+
+ 307.05	junction with 1923 route
+ 307.22	Pascoe viaduct
+ 307.53	junction with FAL2

@@ -1,0 +1,12 @@
+ 137.43	Tibshelf South Junction with TCC
+ 138.64	TIBSHELF AND NEWTON
+ 138.74	Colliery Branches Junction with TCY1
+ 139.14	Empty Wagon Junction with Tibshelf Colliery Curve (0.00)
+ 140.09	WHITEBOROUGH
+ 140.34	Skegby Branch Junction with SCB
+ 141.43	TEVERSALL
+ 141.62	junction with Butcherwood colliery lines
+ 143.35	Pleasley Colliery West Junction with DOE (0.00)
+ 144.06	PLEASLEY
+ 145.76	Pleasley Vale siding
+ 146.36	Pleasley Junction with PBS3 (142.64)

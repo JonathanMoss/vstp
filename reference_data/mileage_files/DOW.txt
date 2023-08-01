@@ -1,0 +1,32 @@
+   0.00	Marshgate Junction with ECM1 (156.26)
+   0.06	Marsh Gate goods depot
+   1.04	Bentley Junction with HJB (3.24)
+   3.26	Kirk Sandall Junction with BKS (20.51)
+   3.60	KIRK SANDALL
+   4.22	BARNBY DUN
+   6.27	Stainforth Junction with CJS (166.70)
+   6.29	junction with HMC
+   6.40	HATFIELD & STAINFORTH
+   7.10	junction with HMC
+   7.59	Boothferry Borough council siding
+   8.07	Thorne Junction with TJG1 (7.69)
+   9.41	THORNE SOUTH
+  11.15	MAUDS BRIDGE
+  13.00	MEDGE HALL
+  14.05	GODNOW BRIDGE
+  15.43	CROWLE
+  17.13	junction with KPS
+  18.07	Keadby Junction/Canal Junction with Keadby Original Station Line
+  18.19	junction with KOM
+  19.21	ALTHORPE
+  20.24	Gunhouse Junction with … (Gunhouse line)
+  20.33	junction with KOM
+  22.33	junction with SSH
+  22.54	SCUNTHORPE
+  23.13	Scunthorpe West Junction with NOP1 (0.00)
+  23.31	FRODINGHAM & SCUNTHORPE
+  23.51	Trent Junction with SCD (0.00)
+  25.34	Foreign Ore Branch Junction with SAN (0.00)
+  26.63	APPLEBY
+  31.30	ELSHAM
+  33.34	Wrawby Junction with MAC3 (94.06)

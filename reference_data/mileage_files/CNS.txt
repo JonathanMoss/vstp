@@ -1,0 +1,3 @@
+   0.70	Carpenters Road North Junction with CST (0.25)
+   1.04	Carpenters Park goods depot
+   1.12	Carpenters Road South Junction with LTN1 (3.54)

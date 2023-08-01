@@ -1,0 +1,12 @@
+   0.11	Haymarket Central Junction with EGM2 (45.35)
+   0.45	Gorgie Junction with GGE (0.00)
+   0.62	GORGIE EAST formerly G.
+   1.17	Craiglockhart Junction with CKT (0.00)
+   1.23	CRAIGLOCKHART
+   2.06	MORNINGSIDE ROAD formerly M.
+   2.76	BLACKFORD HILL
+   3.50	NEWINGTON
+   5.07	DUDDINGSTON & CRAIGMILLAR formerly D.
+   5.20	Duddingston Junction with SLE (0.00)
+   6.30	Niddrie West Junction with MHY
+   6.69	junction with SUB1 (4.00)

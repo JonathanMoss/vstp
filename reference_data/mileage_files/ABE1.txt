@@ -1,0 +1,3 @@
+   0.00	Allington West Junction with NOG1 (108.69)
+   0.34	Allington North Junction with ACD (0.25)
+   4.04	junction with line from Hougham and ABE2 (0.36)

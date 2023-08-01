@@ -1,0 +1,11 @@
+   3.47	Peckham Rye Junction with BTH1
+   3.52	Peckham Rye EMU depot
+   4.23	DENMARK HILL
+   5.08	EAST BRIXTON formerly LOUGHBOROUGH PARK; LOUGHBOROUGH PARK & B.
+   5.65	Shepherd's Lane Junction with VIR (2.65)
+   6.21	CLAPHAM HIGH STREET formerly C. & NORTH STOCKWELL; C.
+   6.39	Voltaire Road Junction with VIR (2.15)
+   6.52	WANDSWORTH ROAD
+   6.58	Factory Junction with BSF (1.75) and VIR (1.68)
+   7.27	BATTERSEA PARK formerly YORK ROAD; YORK ROAD & B. P.; B. P. & YORK ROAD
+   7.35	Battersea Park Junction with VTB1 (1.16)

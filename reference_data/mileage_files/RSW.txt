@@ -1,0 +1,3 @@
+ 117.56	Welsh's Bridge Junction with HGL2
+ 117.58	divergence of INS
+ 118.01	Rose Street Junction with WCK (0.18)

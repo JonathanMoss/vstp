@@ -1,0 +1,3 @@
+   0.00	Willesden Junction (Acton Branch) with LLG (0.71)
+   0.03	junction with WFL (0.67)
+   0.35	Acton Canal Wharf Junction with CAW (8.45)

@@ -1,0 +1,5 @@
+   5.23	Hampstead Road Junction with CRC1
+   5.49	PRIMROSE HILL formerly HAMPSTEAD ROAD; CHALK FARM
+   5.57	Primrose Hill Junction with AC and DC electrified lines
+   5.75	Camden Junction with CWJ (1.51)
+   5.78	Camden Junction with LEC1 (1.54)

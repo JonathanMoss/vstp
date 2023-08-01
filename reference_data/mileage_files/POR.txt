@@ -1,0 +1,17 @@
+   0.00	Tondu Middle Junction with BAL (2.69)
+   0.06	TONDU
+   2.25	Ffoes Bank
+   2.44	Cefn Junction with OVE (7.40)
+   3.01	Bryant's siding
+   3.64	KENFIG HILL
+   5.66	Pyle Middle Junction with SWM2 (195.65)
+   5.72	Pyle Middle Junction with SWM2 (195.71)
+   5.76	PYLE
+   6.54	Hoel Y Sheet Junction with PYW (0.71)
+   7.00	Cornelly quarry sidings
+   8.46	NOTTAGE
+   9.33	PORTHCAWL [1]
+   9.36	junction with harbour lines
+   9.61	PORTHCAWL [2]
+
+Note that 0.00-2.44 was remiled to be in the same sequence as OVE in 1950

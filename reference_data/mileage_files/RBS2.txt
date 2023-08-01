@@ -1,0 +1,39 @@
+   0.05	BIRMINGHAM NEW STREET formerly B. and junction with RBS1 (112.73)
+   0.19	junction with BAG1 (42.38)
+   0.57	CONVENTION CENTRE [proposed, never built]
+  ≈1.01	MONUMENT LANE [1] formerly EDGBASTON
+   1.11	MONUMENT LANE [2]
+   1.31	Harborne Junction with HRN (0.00)
+   1.66	WINSON GREEN
+   2.06	Soho South Junction with SSP (2.75)
+   2.38	Soho North Junction with SCL (0.22)
+   2.56	SOHO [1]
+   2.69	SOHO [2]
+   3.30	SMETHWICK ROLFE STREET formerly S.
+   3.64	Galton Junction with GSJ1
+   4.05	SMETHWICK GALTON BRIDGE
+   4.43	SPON LANE
+   5.28	SANDWELL & DUDLEY
+   5.33	OLDBURY formerly O. & BROMFORD LANE
+   5.73	West Bromwich Gas Company's siding (=ALG?)
+   6.16	ALBION and junction with goods depot lines (0.22 long)
+   7.29	DUDLEY PORT
+   7.35	junction with Dudley Connecting Line (0.38)
+   7.57	Urban district council gas works
+   7.75	Watery Lane
+   8.16	TIPTON formerly T.; T. OWEN STREET
+   8.26	junction with Tipton Curve (2.64)
+   8.46	Bloomfield Junction with PRN (2.55)
+   8.51	junction with goods depot lines
+   8.69	Bloomfield goods depot
+   9.46	COSELEY formerly DEEPFIELDS & C.; C. D.
+   9.76	DEEPFIELDS & COSELEY [later goods depot] formerly D. 
+  10.56	Spring Vale siding
+  11.19	ETTINGSHALL ROAD & BILSTON
+  11.71	junction with Wolverhampton Walsall Street steel terminal lines (to 12.26)
+  12.05	MONMORE GREEN
+  12.60	Crane Street Junction with PJW (1.59)
+  12.75	WOLVERHAMPTON formerly W.; W. QUEEN STREET
+  13.32	Wolverhampton North Junction with WSJ1 (143.52)
+  14.37	BUSHBURY and gas siding
+  14.42	Bushbury Junction with PBJ (15.32) and RBS3 (15.32)

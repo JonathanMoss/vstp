@@ -1,0 +1,8 @@
+Later measure
+   0.00	Cardiff East Junction with SWM2 (170.18)
+   0.13	ownership boundary NR/TfW from 28 March 2020
+   0.22	Queen Street South Junction with CAM (0.67)
+
+Original measure
+   0.22	Cardiff East Junction with SWM2 (170.18)
+   0.44	Queen Street South Junction with CAM (0.67)

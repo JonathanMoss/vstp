@@ -1,0 +1,10 @@
+   1.69	Whitlingham Junction with NOL
+   5.74	SALHOUSE
+   8.61	HOVETON & WROXHAM
+   8.72	junction with WMC
+  13.12	WORSTEAD
+  16.00	NORTH WALSHAM
+  16.24	junction with link to RNW2 (0.14 long)
+  19.63	GUNTON
+  23.29	Cromer Junction with CRH
+  24.00	Roughton Road Junction with WHC2 (11.54) and RNW2 (11.54)

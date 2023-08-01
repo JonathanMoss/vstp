@@ -1,0 +1,30 @@
+  (0.00)	YORK
+   0.09	junction with ECM5
+   0.15	Waterworks Junction with CYY (0.38)
+   1.04	Burton Lane Junction with FIG (0.00)
+   1.55	Bootham Junction with YMW
+   4.18	HAXBY
+   6.10	STRENSALL halt
+   6.48	STRENSALL
+   9.18	FLAXTON
+  11.38	BARTON HILL formerly B.
+	HOWSHAM possible station
+  15.01	KIRKHAM ABBEY formerly K.
+  15.65	CASTLE HOWARD
+  16.08	Crambeck coal depot
+  18.30	HUTTONS AMBO formerly H.
+  21.12	MALTON
+  21.34	Malton East Junction with MAD (0.00)
+  25.45	RILLINGTON
+  25.48	Rillington Junction with RLG (0.00)
+  26.17	Scampston Junction with Scampston Curve (0.00)
+  27.44	KNAPTON
+  29.36	HESLERTON
+  32.71	WEAVERTHORPE formerly SHERBURN; WYKEHAM
+  34.38	GANTON
+  38.60	Seamer Junction with PIS (16.02)
+  38.63	Seamer West Junction with HBS (50.43)
+  39.14	SEAMER
+  41.42	SCARBOROUGH LONDESBOROUGH ROAD
+  41.59	Gallows Close Junction with SCW (0.00)
+  42.06	SCARBOROUGH formerly S.; S. CENTRAL

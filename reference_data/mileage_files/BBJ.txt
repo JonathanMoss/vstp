@@ -1,0 +1,14 @@
+   4.69	Balham Junction with VTB1
+   5.57	STREATHAM HILL
+   6.31	Leigham Junction with LTH (6.40)
+   6.58	West Norwood Junction with WTH (6.41)
+   7.02	WEST NORWOOD formerly LOWER N.
+   7.77	GIPSY HILL
+   8.47	Crystal Palace Junction with SCP (7.61)
+   8.56	CRYSTAL PALACE formerly C. P.; C. P. LOW LEVEL
+   9.36	Bromley Junction with BJN1
+   9.48	Bromley Junction with BJN2
+   9.62	Norwood Spur (Birkbeck) Junction with NJS (0.50)
+  10.26	BIRKBECK
+  11.38	Beckenham Junction with VIR (8.34)
+  11.62	BECKENHAM JUNCTION formerly B.

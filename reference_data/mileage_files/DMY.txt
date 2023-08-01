@@ -1,0 +1,2 @@
+  34.53	Winchburgh Junction with EGM1
+  39.06	Dalmeny Junction with ECN2 (9.00)

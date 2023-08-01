@@ -1,0 +1,32 @@
+   0.00	Northolt Junction with ANL (10.15) and NAJ1 (0.00)
+   0.07	SOUTH RUISLIP
+  (0.50)	RUISLIP GARDENS [London Underground]
+   0.56	RUISLIP GARDENS
+   1.68	WEST RUISLIP
+   1.78	connection to Ruislip depot [London Underground]
+   3.27	SOUTH HAREFIELD
+   3.44	Denham East Junction with Denham East Curve (0.00)
+   3.76	Denham West Junction with DEM (0.00)
+   4.50	DENHAM
+   5.42	DENHAM GOLF CLUB
+   7.18	GERRARDS CROSS
+   9.75	SEER GREEN formerly S.G. & JORDANS
+  11.41	BEACONSFIELD
+  15.62	Gomme's siding
+  16.11	Wycombe South Junction with WBB (33.68)
+  16.29	HIGH WYCOMBE
+  17.14	High Wycombe goods depot
+  18.48	WEST WYCOMBE
+  21.27	SAUNDERTON
+  21.76	divergence of up and down lines
+  24.15	convergence of up and down lines
+  24.40	PRINCES RISBOROUGH
+  24.48	Princes Risborough Junction with PRA (42.31)
+  24.48	junction with PRC (0.00) and PRT/THA (0.00)
+  27.16	ILMER
+  29.74	HADDENHAM
+  30.25	HADDENHAM & THAME PARKWAY
+  33.55	Ashendon Junction with GUA (165.21) [up line]
+  33.69	Ashendon Junction with NAJ3 (0.00)
+
+Note that Ashendon Junction down line junction is on NAJ3

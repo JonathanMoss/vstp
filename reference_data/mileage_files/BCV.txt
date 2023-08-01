@@ -1,0 +1,11 @@
+Current measure
+ 125.73	Tyseley South Junction with DCL (125.73) and TSB (0.00)
+ 127.04	SMALL HEATH formerly S.H. & SPARKBROOK
+ 127.57	Bordesley South Junction with DCL later divergence only
+ 128.11	Bordesley Junction with SKN (41.44)
+
+Former measure
+  41.44	Bordesley Junction with SKN
+  41.78	Bordesley South Junction with DCL (127.57)
+
+Note that 125.73-127.57 parallels DCL taking one side of the formation, DCL taking the other.

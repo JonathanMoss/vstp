@@ -1,0 +1,19 @@
+   1.30	junction with MPR1 and MVM
+   1.38	MILES PLATTING
+   1.50	Miles Platting Junction with BPP (0.00)
+   1.58	West Curve Junction with PPA1
+   2.18	PARK [2]
+	PARK [1]
+   2.39	Baguley Fold Junction with PPP1
+   2.48	Stuart Street sidings
+   3.22	CLAYTON BRIDGE
+   4.48	junction with ABJ (5.74)
+   4.55	DROYLSDEN formerly DROYLESDEN
+   5.41	Ashton Moss North Junction with AMJ (0.40) [up line]
+   5.55	Ashton Moss North Junction with AMJ (0.27) [down line]
+   6.07	OA&GB Junction with DJO2 (1.50)
+   6.08	Ashton East Junction with OAG2 (1.54)
+   6.33	ASHTON-UNDER-LYNE formerly A.-U.-L.; A. CHARLESTOWN
+   7.35	junction with L&Y station line
+   7.46	Stalybridge Junction with MVL2 (7.46) and SAJ (2.08)
+  (7.70)	STALYBRIDGE [L&Y]

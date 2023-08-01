@@ -1,0 +1,11 @@
+   0.00	Hamilton Junction with WCM2 (95.50)
+   0.51	Hallside Branch Junction with HAE (0.00)
+   2.29	BLANTYRE
+   2.40	Blantyre Junction with BYF (0.00)
+   3.31	Strathaven Junction with SVE (0.00)
+   3.62	Earnock sidings
+   4.12	HAMILTON WEST formerly H.
+   4.23	Cadzow Junction with CAD (0.00)
+   5.03	HAMILTON CENTRAL
+   6.18	Haughhead Junction with LRK (0.00)
+   6.61	Ross Junction with HMN1 (1.44)

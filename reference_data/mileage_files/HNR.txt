@@ -1,0 +1,23 @@
+  56.65	Hanslope Junction with LEC1
+  59.57	Roade Junction with LEC1 (later a divergence)
+  59.71	ROADE
+  65.57	junction with NMH (0.59)
+  65.68	NORTHAMPTON
+  66.04	junction with NTM1
+  66.19	junction with NTM2
+  66.20	junction with NTM3 and NTM4
+  66.28	Martin's siding
+  66.58	connection with NTM4
+  67.12	Mill Lane Junction with NTM4
+  67.36	Market Harborough Junction with NMH (2.32)
+  69.61	CHURCH BRAMPTON
+  71.69	ALTHORP PARK
+  75.37	LONG BUCKBY
+  80.05	Daventry South Junction with Daventry International Rail Freight Terminal lines
+  80.75	KILSBY AND CRICK
+  80.76	Daventry North Junction with Daventry International Rail Freight Terminal lines
+  83.60	Hillmorton Junction with LEC1 (81.28)
+  84.21	foot of flyover
+  84.35	up line junction with LEC1 (82.07)
+  84.57	down line junction with LEC1 (82.25)
+ (84.68)	RUGBY

@@ -1,0 +1,2 @@
+   2.55	Reading Lane Junction with BGK
+   2.79	Navarino Road Junction with DWW1 (1.52) and DWW2 (1.11)

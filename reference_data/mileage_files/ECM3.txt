@@ -1,0 +1,4 @@
+ 169.16	Temple Hirst Junction with ECM2 and TCW1
+ 174.15	Hambleton South Junction with HSC
+ 174.75	Hambleton North Junction with HNC (4.00)
+ 182.79	Colton Junction with NOC (5.41) and ECM4 (182.79)

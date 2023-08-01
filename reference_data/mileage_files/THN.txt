@@ -1,0 +1,12 @@
+  26.41	Thames Haven Junction with TLL
+  27.16	MAYES CROSSING
+  28.57	CURRY MARSH
+  29.29	LONDON AND THAMES HAVEN OIL WHARVES
+  29.66	LONDON AND THAMES HAVEN OIL WHARVES
+  29.74	MANOR WAY CROSSING
+  30.13	Terminus Junction with Coryton and Corringham lines (0.00)
+  30.18	THAMES HAVEN
+  30.43	SHELL HAVEN
+  30.44	Thames Haven sidings
+
+Note that this line was previously TFH4.  Note too that the existence of both London And Thames Haven Oil Wharves halts is uncertain

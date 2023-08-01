@@ -1,0 +1,17 @@
+  85.69	original March East Junction with EMP
+  85.76	MARCH
+  85.78	relocated March East Junction with EMP
+  86.18	March Whitemoor Junction with MWL (0.13)
+  86.19	junction with MMP
+  86.20	junction with MSG1 and WMY
+  89.25	COLDHAM
+  90.26	Waldersea Drove siding
+  93.30	junction with goods depot lines
+  93.44	Upwell Tram Junction with WUT (0.00)
+  93.52	WISBECH
+  93.67	WISBECH [later goods depot]
+  93.74	Wisbech Junction with WIH (0.00)
+  95.74	EMNETH
+  97.16	SMEETH ROAD
+  98.70	MIDDLE DROVE
+ 103.06	Magdalen Road Junction with BGK (90.59)

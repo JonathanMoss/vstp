@@ -1,0 +1,5 @@
+   1.60	Canning Street Junction with MIR2 down line
+   1.68	BIRKENHEAD HAMILTON SQUARE formerly H. S.
+   1.72	Hamilton Square Junction with MIR2 up line
+   2.24	CONWAY PARK
+   3.00	junction with CWK2

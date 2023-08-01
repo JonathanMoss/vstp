@@ -1,0 +1,35 @@
+   0.31	Bristol East Junction with MLN1 (118.01)
+   0.40	Days Road wagon work shops
+   0.41	Bristol Dr Days carriage and wagon works
+   0.47	junction with DDS
+   0.55	Dr Days Bridge Junction with BLL (117.73)
+   1.04	LAWRENCE HILL
+   1.21	Easton Road Junction with BAW (128.73)
+   1.50	STAPLETON ROAD
+   1.61	junction with SRZ
+   2.03	Narroways Hill Junction with CNX
+   2.42	ASHLEY DOWN [planned reopening] previously A. HILL
+   3.55	HORFIELD
+   4.30	FILTON ABBEY WOOD
+   4.50	Filton Junction No 1 with FEC (113.01)
+   4.53	FILTON [1]
+   4.64	FILTON [2] formerly F.; F. JUNCTION
+   4.67	Filton Junction No 2 with FWC
+   5.53	Patchway Junction No 1 with PAC (0.00)
+   5.61	Patchway Junction No 2 with SWB (112.69)
+   5.77	PATCHWAY [2]
+   6.37	PATCHWAY [1]
+   6.56	start of Patchway New Tunnel (up line only)
+   6.68	start of Patchway Old Tunnel (down line only)
+   7.45	end of Patchway Old Tunnel (down line only)
+   7.53	start of Patchway Short Tunnel (down line only)
+   7.56	end of Patchway Short Tunnel (down line only) and end of Patchway New Tunnel (up line only)
+   8.12	Cattybrook sidings
+   9.05	Pilning Junction with AMB
+   9.43	PILNING formerly P.; P. HIGH LEVEL
+  11.01	start of Severn Tunnel
+  15.29	end of Severn Tunnel
+  16.02	Severn Tunnel Junction locomotive depot
+  16.27	Severn Tunnel Junction with SWM2 (148.49)
+  16.39	SEVERN TUNNEL JUNCTION
+  16.44	Severn Tunnel Middle Junction with SWM2 (148.66)

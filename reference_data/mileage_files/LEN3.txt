@@ -1,0 +1,108 @@
+  42.79	Northallerton East/Low Junction with LEN2 (0.36) and LLP2 (42.79)
+  43.22	NORTHALLERTON TOWN [later goods depot]
+  43.24	Low Gates
+  44.60	BROMPTON
+  46.27	Long Lane Gates siding
+  48.19	WELBURY
+  50.15	WEST ROUNTON GATES
+  52.25	Picton Junction with NYC (0.00)
+  52.35	PICTON
+  54.35	YARM [2]
+  55.66	YARM [1]
+	junction with link to DSN1
+  56.75	Eaglescliffe South Junction with DSN1 (8.58)
+  57.00	EAGLESCLIFFE
+  58.30	Stockton Cut Junction with DSN2 (10.13)
+  58.45	Hartburn West Junction with Hartburn West Curve (0.00)
+  58.65	Intersection Bridge under Stockton & Castle Eden Line
+  59.14	Hartburn Junction with BOH (0.00)
+  59.62	Millfield sidings
+  60.04	STOCKTON
+ ≈60.10	start of deviation
+  60.43	North Shore Junction with NOS (0.00)
+  60.49	North Shore Junction with SFL
+  60.50	North Shore Junction with BBK
+  60.56	change of mileage (60.60) [line diversion]
+
+  60.60	end of deviation
+  61.71	Norton On Tees South Junction with STF (0.00)
+  61.75	NORTON JUNCTION
+  62.19	Norton On Tees East Junction with NWE (0.00)
+  62.57	NORTON ON TEES
+  63.57	BILLINGHAM-ON-TEES formerly B. [1]
+  63.69	Billingham Junction with POC1 (0.00)
+  64.47	BILLINGHAM [2]
+  65.78	Cowpen Bewlay siding
+  67.32	GREATHAM
+  67.52	Hartlepool South Works lines
+  68.60	Seaton Snook Junction with SOT (0.00)
+  69.36	SEATON CAREW formerly S.
+  70.06	Cliff House Junction with CLH1 (0.00)
+  70.79	Newburn Junction with CLH1 (1.06)
+  71.00	Newburn Junction with WHG (0.00)
+  71.22	Stranton
+  71.15	HARTLEPOOL
+  71.21	Newburn Junction with WHG?
+  71.34	WEST HARTLEPOOL [later goods depot]
+  71.55	HARTLEPOOL formerly WEST H.
+  71.70	Clarence Road
+  72.20	junction with HLD
+  72.69	Cemetery West Junction with HWH (0.00)
+  73.46	Cemetery North Junction with FLH (0.00)
+  73.49	Cemetery North Junction with Steetley Refractory lines
+  74.72	HART formerly CRIMDON
+  74.76	Crimdon House Farm siding
+  76.70	BLACKHALL ROCKS
+  77.57	BLACKHALL COLLIERY
+  78.44	HORDEN [1]
+  78.66	HORDEN [2]
+  80.33	EASINGTON
+  82.01	HAWTHORN TOWER
+  82.34	Hawthorn Junction with SEA2 (0.00)
+  84.09	Dawdon Junction with SEA1 (1.63) [down line]
+  84.13	Dawdon Junction with SEA1 (1.66) [up line]
+  84.22	SEAHAM HARBOUR [2] minor resiting
+  84.25	SEAHAM HARBOUR [1] formerly S.
+  84.38	Seaham colliery
+  84.49	SEAHAM
+  85.25	SEAHAM HALL
+  86.63	RYHOPE EAST formerly R.
+  87.57	Ryhope Grange Junction with LDY (0.00)
+  87.63	Ryhope Grange Junction with HEM (21.33) and HNB (0.00)
+  89.51	Sunderland South Junction with NEK (0.07)/PEW (5.62)
+  89.60	SUNDERLAND
+  90.08	ST PETERS
+  90.17	MONKWEARMOUTH
+  90.26	Monkwearmouth Junction with APY (4.28)
+  90.48	STADIUM OF LIGHT
+  90.62	Wearmouth Junction with line to WEARMOUTH (0.30 long)
+  91.26	North Dock Junction with … (docks line)
+  91.32	SEABURN
+  93.17	EAST BOLDON formerly B. FLATTS
+  93.55	Cleadon Junction with HTN (0.00)
+  94.17	East Boldon Junction with link to West Boldon Junction on POB (0.73 long)
+  94.63	Boldon East Junction with BNW (0.00)
+  94.73	Pontop flat crossing with POB (2.61)
+  95.09	BROCKLEY WHINS formerly B. W.; BOLDON COLLIERY minor resiting
+  95.12	BOLDON COLLIERY
+  95.19	Boldon Colliery Junction with BGE (0.00)
+  95.21	Brockley Whins Junction with BKW (0.00)
+  96.08	FELLGATE
+  97.28	SPRINGWELL
+  97.64	Pelaw Metro Junction with PDL and PUL
+  98.07	Pelaw Junction For Jarrow with JAW1 (0.00)
+  98.16	Pelaw Junction with FEP (20.75)
+ ≈98.23	PELAW [2]
+  98.32	PELAW [1,3]
+  99.00	HEWORTH
+  99.48	FELLING
+ 100.23	St James' Bridge Junction with TCF
+ 100.52	Gateshead goods depot
+ 100.65	Park Lane Junction with TCF
+ 100.68	Park Lane Junction with PLG1
+ 100.75	junction with Oakwellgate sidings lines
+ 100.79	Park Lane goods depot
+ 101.17	Oakwellgate sidings
+ 101.27	GATESHEAD formerly G. EAST
+ 101.33	High Level Bridge Junction with HLK (0.00)
+ 101.59	Newcastle East Junction with ECM7 (0.14)

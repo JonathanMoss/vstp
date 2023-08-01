@@ -1,0 +1,29 @@
+   0.00	Falcon Junction with VTB1 (2.66)
+   0.10	CLAPHAM JUNCTION
+   0.17	junction with goods depot line
+   0.47	Clapham goods depot
+   0.63	Latchmere No 1 Junction with CKL (2.51)
+   0.68	Latchmere No 2 Junction with CJL (0.68)
+   1.05	BATTERSEA
+   1.43	IMPERIAL WHARF
+   1.66	junction with Chelsea Basin Branch (1.25)
+   1.78	CHELSEA & FULHAM formerly C.
+   2.43	WEST BROMPTON
+   2.72	junction with KLT
+   3.26	Kensington Goods Yard Junction with goods yard lines
+   3.35	KENSINGTON
+   3.42	KENSINGTON OLYMPIA formerly K.; K. ADDISON ROAD
+   3.66	Richmond/Kensington Junction with Richmond Junction to Turnham Green Junction Line (6.69)
+   4.09	UXBRIDGE ROAD
+   4.14	Uxbridge Road Junction with Latimer Road Junction to Uxbridge Road Junction line (0.39)
+   4.15	SHEPHERD'S BUSH
+   4.52	Viaduct Junction with NAV (2.22)
+   5.13	ST QUINTIN PARK & WORMWOOD SCRUBS [1] formerly W. S.
+   5.22	ST QUINTIN PARK & WORMWOOD SCRUBS [2]
+   5.32	North Pole Junction with VIC (0.34)
+   5.46	down line junction with WLL9
+   5.66	Mitre Bridge Junction with WMB (0.00)
+   6.07	WEST LONDON JUNCTION
+   6.19	West London Junction with LEC1 (5.23) and LLG (0.12)
+
+Note that the CJL and WLL mileages at Latchmere Junction, whilst the same, are from a different datum.  This line is formed from a LNWR line Willesden-North Pole, a joint GWR/LNWR line North Pole-Kensington, and a joint GWR/LBSCR/LNWR/LSWR line Kensington-Clapham, each originally with their different mileage counts.

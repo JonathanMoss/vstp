@@ -1,0 +1,27 @@
+  11.29	South Croydon Junction with VTB2
+  11.50	SELSDON formerly S. ROAD
+  11.59	Selsdon Junction with WDS (14.48)
+  12.23	SANDERSTEAD
+  12.71	PURLEY DOWNS GOLF CLUB
+  13.38	RIDDLESDOWN
+  15.33	UPPER WARLINGHAM formerly U. W. & WHYTELEAFE
+  17.15	WOLDINGHAM formerly MARDEN PARK
+  19.40	Oxted lime siding
+  20.25	OXTED
+  21.20	HURST GREEN [2]
+  21.26	HURST GREEN [1]
+  21.35	Hurst Green Junction with HGG1
+  23.35	MONKS LANE
+  25.11	junction with line to Edenbridge (0.26 long, ?existence)
+  25.47	EDENBRIDGE TOWN formerly E.
+  27.27	HEVER
+  29.26	COWDEN (KENT) formerly C.
+  32.08	ASHURST (KENT) formerly A.
+  33.68	Ashurst Junction with TBG (45.63)
+  34.56	Birchden Junction with GJB1 (27.75)
+  35.53	ERIDGE
+  36.77	Redgate Mill Junction with EHP (38.76)
+  39.11	CROWBOROUGH formerly ROTHERFIELD; C.; C. & JARVIS BROOK
+  43.68	BUXTED
+  46.08	UCKFIELD [2]
+  46.14	UCKFIELD [1] and junction with SCU2 (16.39)

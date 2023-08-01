@@ -1,0 +1,9 @@
+ (82.43)	TOTTON
+  82.67	Totton Junction East with BML2
+  83.30	Totton Junction West with BML2
+  86.14	MARCHWOOD
+  89.19	HYTHE formerly H. HANTS
+  89.35	Hythe Waterside
+  90.12	HARDLEY
+  92.09	FAWLEY HANTS
+  92.12	end of line

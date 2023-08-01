@@ -1,0 +1,33 @@
+ 305.67	end on junction with MLN3 (305.65)
+ 306.00	CHACEWATER
+ 306.08	realigned Truro & Newquay Junction with TNQ (-0.35)
+ 306.43	original Blackwater East Junction with TNQ (0.00)
+ 306.61	Blackwater West Junction with TRW (0.00)
+ 307.57	SCORRIER formerly S. GATE
+ 309.41	Redruth goods depot
+ 309.68	REDRUTH
+ 310.33	Redruth Junction with TVZ
+ 311.33	Portreath Junction with POZ
+ 311.38	Carn Brea sidings
+ 311.70	CARN BREA formerly C. B.; POOL
+ 312.23	North Crofty Junction with NCZ
+ 312.64	DOLCOATH
+ 313.17	Roskear Junction with RSK
+ 313.40	CAMBORNE
+ 315.73	Helston Branch Junction/Gwinear Road Junction with HEL (0.09)
+ 315.79	GWINEAR ROAD
+ 316.02	junction with HEL (0.00)
+ 316.52	junction with Hayle Railway
+ 317.78	ANGARRACK
+ 318.60	COPPERHOUSE
+ 319.31	HAYLE
+ 319.36	Hayle Wharf Branch Junction with HYL (0.00)
+ 320.73	St Ives Junction with SIV (321.02)
+ 320.78	ST ERTH formerly ST IVES ROAD
+ 324.55	MARAZION formerly M. ROAD
+ 325.12	Long Rock junction with depot lines
+ 325.31	Penzance HST depot [fuel road]
+ 325.34	Penzance loco depot
+ 325.37	Penzance HST depot
+ 325.60	Penzance goods depot
+ 326.50	PENZANCE

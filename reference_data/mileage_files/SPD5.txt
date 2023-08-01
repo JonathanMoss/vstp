@@ -1,0 +1,7 @@
+ 115.72	Bessacarr Junction with BCB and SPD4
+ 116.20	junction with LCJ (152.79)
+ 116.45	Black Carr East Junction with SBE (0.51)
+ 116.46	Flyover West Junction with FWR1 (153.19)
+ 116.71	Decoy South Junction with YDS (15.71)
+≈117.19	Doncaster Royal Mail terminal
+ 117.46	Decoy North Junction with DDY (154.13) and ECM1 (154.13)

@@ -1,0 +1,27 @@
+  51.58	Barnt Green Junction with BAG2
+  51.67	BARNT GREEN
+  53.40	ALVECHURCH [2]
+  53.46	ALVECHURCH [1]
+  56.43	REDDITCH [1]
+  56.60	REDDITCH [3]
+  56.65	REDDITCH [2]
+  59.79	STUDLEY & ASTWOOD BANK
+  62.14	COUGHTON
+  64.00	Alcester Junction with ARB (6.00)
+  64.20	ALCESTER
+  66.18	WIXFORD
+  66.74	BROOM JUNCTION
+  67.00	Broom Junction with SJT1 (45.49)
+  67.42	Broom South Curve Junction with BRM (45.64)
+  68.26	SALFORD PRIORS
+  70.27	HARVINGTON
+  73.64	EVESHAM
+  73.68	original junction with Evesham Junction
+  74.05	later junction with Evesham Junction (106.75)
+  75.25	BENGEWORTH
+  77.04	HINTON
+  78.74	ASHTON-UNDER-HILL
+  80.74	BECKFORD
+  84.42	Evesham Junction with ANZ
+  84.53	ASHCHURCH
+  84.58	Ashchurch Junction North with BAG2 (79.43)

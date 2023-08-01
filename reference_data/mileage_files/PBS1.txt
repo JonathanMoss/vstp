@@ -1,0 +1,16 @@
+Original alignment
+ 133.67	Pye Bridge Junction with TCC
+ 137.68	Bentinck Colliery Empty Wagon Sidings Junction
+ 135.42	PINXTON formerly P. & SELSTON; P. NORTH
+ 135.53	Langton Branch Junction with PBC/LCG
+ 137.67	Bentinck Colliery Empty Wagon Siding Junction with BTK4 (0.00)
+≈138.06	point of divergence to 1972 alignment
+ 138.50	Kirkby Junction with PBS2 (136.55) and RAC (136.55)
+
+1972 alignment
+≈138.06	point of divergence to original alignment
+ 138.31	Kirkby Lane End Junction with RAC (136.67) [revised alignment]
+ 138.38	KIRKBY-IN-ASHFIELD
+ 138.79	Kirkby Summit end on junction with PBS2 (137.11) [revised alignment]
+
+Note that the alignment between ≈138.30 and ≈138.79 re-used the formation of LVX

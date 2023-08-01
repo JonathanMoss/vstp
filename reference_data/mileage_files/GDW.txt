@@ -1,0 +1,5 @@
+   0.00	end of line
+   0.01	GLOSSOP
+   0.72	Dinting South Junction with DSD
+   0.79	DINTING
+   1.05	Dinting West Junction with HAJ (11.66)

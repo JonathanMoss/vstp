@@ -1,0 +1,4 @@
+   0.00	Hexthorpe Junction with PED5 (20.76)
+   0.64	junction with links to GBL (0.09 and 0.10 long)
+   0.66	temporary contractor's connection
+   3.24	Bentley Junction with DOW (1.04)

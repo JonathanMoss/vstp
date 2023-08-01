@@ -1,0 +1,6 @@
+   1.58	West Curve Junction with MVL1
+   1.79	Philips Park sidings
+   2.07	Philips Park South Junction with PPP2 (0.19)
+   2.59	Beswick Branch Junction with BWK (0.00)
+   3.08	Ancoats Junction with PPA2 (0.57)
+   3.53	Ardwick Junction with CMP2 (188.18)

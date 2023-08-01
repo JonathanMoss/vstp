@@ -1,0 +1,6 @@
+ 181.71	Oakenshaw South Junction with OAJ (49.41) and TJC3 (181.71)
+ 182.19	OAKENSHAW later goods depot
+ 182.28	Oakenshaw North Junction with TJC3
+ 183.04	Crofton East Junction with WAG1 (50.23)
+
+Note that this line partially duplicates TJC3 between 181.71 and 182.28

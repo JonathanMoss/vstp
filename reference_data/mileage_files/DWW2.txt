@@ -1,0 +1,39 @@
+   1.11	Navarino Road Junction with DWW1 (1.52) and GRE (2.79)
+   1.22	Hackney goods depot
+   1.32	HACKNEY CENTRAL
+   1.41	HACKNEY
+   1.63	Hackney coal depot
+   2.01	HOMERTON
+   2.38	Hackney Wick Junction with HWD (0.00)
+   2.48	Victoria Park Junction with Poplar line
+   2.54	VICTORIA PARK
+   2.68	HACKNEY WICK
+   3.19	Lea Junction with LLS2 (0.51)
+   3.32	Channelsea North Junction with CHM (0.00)
+   3.33	Channelsea South Junction with CST (0.29)
+  ≈3.34	divergence point with realigned route
+   3.67	Stratford Fork Junction with link to SDC (0.38 long)
+   3.70	STRATFORD [1.20 before remiling]
+   3.77	Sheet Factory Junction with Maryland Curve (0.12)
+   4.01	Stratford Southern Junction with SSW
+   4.16	STRATFORD MARKET
+   4.37	Stratford Market goods depot
+   4.46	junction with Stratford Market coal depot lines
+   4.70	WEST HAM
+   5.07	Abbey Mills Lower Junction with Abbey Mills Curve (4.07)
+   5.24	junction with PWG (0.00)
+   5.57	CANNING TOWN [1]
+   5.64	Canning Town goods depot
+   5.71	CANNING TOWN [2]
+   5.76	junction with CBY
+   6.10	Thames Wharf Junction with TWY (0.00)
+   6.34	TIDAL BASIN
+   6.72	CUSTOM HOUSE
+   7.05	junction with BNB
+   7.77	SILVERTOWN & LONDON CITY AIRPORT
+   8.00	Silvertown Junction with STT
+   8.57	NORTH WOOLWICH
+
+In 2009 this route was diverted to new platforms at Stratford and the route on to Woolwich closed.
+  ≈3.34	divergence point with original route
+   3.74	STRATFORD

@@ -1,0 +1,4 @@
+   0.00	King Edward Bridge East Junction with HLK (0.30)
+   0.06	intersection bridge with Redheugh Incline (0.35)
+   0.08	junction with Gateshead locomotive depot lines
+   0.13	King Edward Bridge North Junction with ECM5 (79.57)

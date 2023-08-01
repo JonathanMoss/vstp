@@ -1,0 +1,8 @@
+ 132.76	Codnor Park Junction with TCC
+ 133.21	Ironville Junction with north facing curve (0.26 long)
+ 134.76	Swanwick Branch Junction with SWH (0.00)
+ 134.78	SWANWICK JUNCTION preservation station
+ 135.57	BUTTERLEY
+ 136.04	HAMMERSMITH preservation station and Butterley Junction with RHE2 (135.30)
+ 137.57	Buckland Hollow Branch Junction with BHW (0.00)
+ 138.56	Crich Junction with SPC8 (138.55)

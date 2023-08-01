@@ -1,0 +1,3 @@
+   0.00	Castleford West Junction with NOC (21.02)
+   0.37	Glasshoughton Colliery Junction with Glasshoughton Colliery Branch (0.00)
+   0.61	Cutsyke Junction with CPM1 (59.03) and MEP (59.03)

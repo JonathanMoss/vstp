@@ -1,0 +1,29 @@
+   0.00	Barry Junction with BRY (8.16)
+  ≈1.40	junction with Porthkerry Deviation
+   2.51	junction with Porthkerry Deviation
+   3.22	RHOOSE CARDIFF INTERNATIONAL AIRPORT
+   3.26	RHOOSE
+   4.64	junction with APS
+   5.05	ABERTHAW formerly A.; A. HIGH LEVEL
+   5.27	link to APS
+  (5.28)	ABERTHAW LOW LEVEL [11.42 on ATW]
+   6.44	GILESTON
+   8.33	ST ATHAN
+   8.49	Aerodrome siding
+   9.55	LLANTWIT MAJOR
+  11.58	LLANDOW WICK ROAD
+  13.26	LLANDOW
+  15.07	SOUTHERNDOWN ROAD
+  15.69	Duchy & Lancaster quarries
+  16.74	Ewenny quarry
+  17.78	Fords Junction with FOR (0.00)
+  18.35	Cowbridge Road Junction with CRB
+  19.05	Brackla South
+  19.19	Brackla North
+  19.60	Bridgend & Coity goods depot
+  20.20	Coity Junction with BAL (0.79)
+
+Note that CRB from 18.35 is now considered to be part of VOG, thus:
+  18.35	Cowbridge Road Junction with closed portion of VOG
+  18.56	Coychurch Road siding
+  18.76	Bridgend East Junction with SWM2 (190.33)

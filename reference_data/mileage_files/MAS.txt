@@ -1,0 +1,11 @@
+ 153.73	Dore South Junction with TJC1
+ 154.16	Dore West Junction with DWS (0.00)
+ 158.70	GRINDLEFORD
+ 160.60	HATHERSAGE
+ 162.42	BAMFORD
+ 164.26	HOPE (DERBYSHIRE) formerly H.
+ 165.08	junction with EPS (0.00)
+ 166.42	Norman's Bank
+ 169.14	EDALE
+ 173.52	Chinley East Junction with CYC (168.32)
+ 174.01	Chinley North Junction with CNB1 (168.39) and TTA1 (168.39)

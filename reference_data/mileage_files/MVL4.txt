@@ -1,0 +1,5 @@
+  28.78	Heaton Lodge South Junction with MVL3 (28.78)
+  29.67	junction with HLW1 (0.69)
+  29.74	Heaton Lodge East Junction with MVN2 (37.47)
+
+Note that 28.78-29.67 is also 0.00-0.69 in HLW1

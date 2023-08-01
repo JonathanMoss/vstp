@@ -1,0 +1,39 @@
+   0.00	Craigendoran Junction with HBH/NEM7 (22.77)
+   0.18	CRAIGENDORAN
+   2.08	HELENSBURGH UPPER
+   3.70	RHU formerly ROW
+   5.22	Faslane Junction with FLB
+   5.25	FASLANE
+   6.48	SHANDON
+   8.76	GARELOCHHEAD
+  10.31	WHISTLEFIELD
+  15.21	GLEN DOUGLAS
+  16.20	geological detection equipment
+  19.45	ARROCHAR & TARBET
+  23.22	INVERUGLAS
+  27.43	ARDLUI
+  30.33	GLENFALLOCH
+  36.23	CRIANLARICH formerly C.; C. UPPER
+  36.31	Crianlarich Junction with OBN1 (0.00)
+  36.67	Fillan
+  41.25	UPPER TYNDRUM formerly T.; T. UPPER
+  44.60	start of Horseshoe curve
+  46.20	end of Horseshoe curve
+  48.68	BRIDGE OF ORCHY
+ ≈52.18	AUCHELLANDER
+  57.40	GORTAN
+  64.36	RANNOCH
+  71.54	CORROUR
+  78.52	start of deviation
+  80.03	end of deviation
+  80.14	FERSIT
+  81.59	TULLOCH formerly INVERLAIR
+  85.25	start of Monessie Gorge
+  86.05	end of Monessie Gorge
+  87.35	ROY BRIDGE
+  90.56	SPEAN BRIDGE
+  90.63	junction with SPF (0.00)
+  98.33	junction with ZZD7 (0.00)
+  98.65	junction with ZZD8 (0.02)
+  98.67	Fort William Junction with MLG1 (0.00)
+  99.37	FORT WILLIAM and junction with WHX

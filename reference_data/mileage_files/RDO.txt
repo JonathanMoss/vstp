@@ -1,0 +1,3 @@
+  0.228km	LONDON ST PANCRAS INTERNATIONAL
+  0.790km	Regents Canal Junction with TRL1 and TRL9
+  1.409km	York Way South Junction with ISL1 (0.000km), TRL1 (1.409km) and TRL2 (1.409km)

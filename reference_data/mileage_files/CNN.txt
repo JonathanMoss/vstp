@@ -1,0 +1,27 @@
+   0.00	Coventry North Junction with RBS1 (94.19)
+   0.19	Cattle Sales siding
+   0.21	Coventry yard
+   0.32	junction with CR17
+   1.07	COUNDON ROAD formerly COUNDEN R.
+   1.43	DAIMLER
+   2.00	Daimler Company's siding
+   2.06	Webster's siding
+   2.30	Brett's Patent Lifter Company's siding
+   2.52	FOLESHILL
+   3.21	Three Spires Junction with Coventry Colliery/Prologis Park line and junction with CAG (3.44)
+   3.27	Warwickshire Coal Company's Coventry siding
+   3.56	COVENTRY ARENA
+   3.62	Coventry Corporation gas works
+   4.13	LONGFORD & EXHALL
+   4.62	Longford Junction with WYK (0.00)
+   4.74	HAWKESBURY LANE
+   4.78	Exhall colliery siding
+   5.78	Newdigates colliery
+   6.29	BEDWORTH
+   6.56	Charity colliery siding
+   7.69	Griffiths Company's siding
+   8.03	BERMUDA PARK
+   8.04	Griff Junction with GFF (0.00)
+   8.57	CHILVERS COTON
+   9.53	Nuneaton South Junction with LEC2 (96.68), PVS (10.61) and WNS (0.00)
+ (10.15)	NUNEATON formerly N.; N. TRENT VALLEY

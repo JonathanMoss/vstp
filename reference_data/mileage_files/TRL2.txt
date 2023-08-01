@@ -1,0 +1,6 @@
+  1.409km	York Way South Junction with ISL1 (0.000km), RDO (1.409km) and TRL1 (1.409km)
+  9.095km	Stratford International West Junction
+  9.381km	junction with TMD
+  9.631km	STRATFORD INTERNATIONAL
+ 20.829km	Dagenham Junction with TRL4 (down line)
+ 21.264km	junction with TRL3

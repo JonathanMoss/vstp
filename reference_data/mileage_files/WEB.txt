@@ -1,0 +1,8 @@
+  79.40	Werrington Junction with ECM1
+  80.34	Glinton Junction with WDU (1.52) [up line]
+  80.46	Glinton Junction with WDU (1.64) [down line]
+  81.58	PEAKIRK
+  83.34	ST JAMES DEEPING
+  87.59	LITTLEWORTH
+  92.57	junction with Spalding to Cuckoo Junction line (27.55)
+  92.58	Spalding Winsover Road Junction with MSG3 (44.07) and SPD1 (44.07)

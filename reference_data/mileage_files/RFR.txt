@@ -1,0 +1,3 @@
+  36.25	Caversham Road Junction with MLN1
+  36.45	Reading viaduct
+  36.68	Relief line junction with RWC (0.37)

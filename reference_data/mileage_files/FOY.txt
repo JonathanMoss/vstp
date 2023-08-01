@@ -1,0 +1,5 @@
+ 282.16	St Blazey Junction with NEW and PAR
+ 282.30	St Blazey depot
+ 282.45	junction with PAH
+ 282.68	Par harbour
+ 286.20	FOWEY and junction with LOF (282.65)

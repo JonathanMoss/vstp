@@ -1,0 +1,16 @@
+Original measure
+   0.00	junction with ABD (19.59)
+   0.23	MOUNTAIN ASH
+   0.38	junction with ABD (20.16)
+
+Measure sometimes used
+  19.59	junction with ABD
+  20.02	MOUNTAIN ASH
+  20.17	junction with ABD (20.16)
+
+Measure used briefly in 2022 documentation in error, soon corrected
+   0.00	junction with ABD (20.16)
+   0.23	MOUNTAIN ASH
+   0.38	junction with ABD (19.60)
+
+Note that a 2022 signalling plan suggests that MOA applies to the down line only.  This does not correlate with mapping evidence that shows a significant deviation from ABD, particularly at the low mileage end, to the up (northbound) side of the line.  The Sectional Appendix to the Working Timetable applies to both lines.

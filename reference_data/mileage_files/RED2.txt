@@ -1,0 +1,11 @@
+  16.66	junction with RED1 (15.02)
+  17.03	COULSDON SOUTH
+  19.09	start of Merstham tunnel
+  20.12	end of Merstham tunnel
+  20.59	MERSTHAM
+  21.70	Holmethorpe siding
+  22.40	REDHILL
+  22.46	Guildford Line Junction with RSJ
+  22.51	Tonbridge Line Junction with RTT
+  23.10	Redhill goods depot
+  23.16	Earlswood junction with VTB3 (21.37)

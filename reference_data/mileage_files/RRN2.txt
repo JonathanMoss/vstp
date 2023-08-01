@@ -1,0 +1,15 @@
+   7.20	junction with RRN1
+   8.17	Norton Branch Junction with CKC (0.00)
+   9.05	HEDNESFORD
+   9.29	junction with Brownhills line
+  10.09	Brindley Heath colliery
+  11.21	BRINDLEY HEATH
+	Little Norton Junction with FWY?
+  13.25	Brereton sidings
+  13.27	RUGELEY TOWN [2]
+  13.41	RUGELEY TOWN [1]
+  13.53	Lea Hall Junction with Lea Hall colliery lines
+  13.69	junction with RRN3
+  14.38	convergence (original junction) with LEC2 (124.08)
+  14.52	RUGELEY TRENT VALLEY
+  14.69	Rugeley North Junction with LEC2 (124.39)

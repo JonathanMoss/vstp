@@ -1,0 +1,27 @@
+   8.28	Kirkham North Junction with PBN
+   9.41	junction with St Anne's Brick & Tile Company's siding (0.64 long) and Lytham to Wrea Green Line (≈9.77)
+   9.46	WREA GREEN
+  11.14	MOSS SIDE
+	junction with Warton (Lytham Dock) line
+  12.22	WARTON
+  12.37	New Picric Acid Works siding
+  13.31	LYTHAM [1]
+  13.56	LYTHAM [2]
+  14.60	ANSDELL [1]
+  14.75	ANSDELL & FAIRHAVEN [2]
+	CROSS SLACK
+  16.51	ST ANNES-ON-THE-SEA
+  16.54	St Annes goods depot
+  17.02	junction with goods depot lines
+  17.33	GILLETT'S CROSSING
+  18.26	Stoney Hill siding
+  18.34	SQUIRES GATE
+ ≈18.45	STONEY HILL
+  19.18	BLACKPOOL PLEASURE BEACH
+  19.22	BURLINGTON ROAD
+  19.65	SOUTH SHORE LYTHAM ROAD
+  19.73	Lytham Road goods depot
+  20.00	BLACKPOOL SOUTH
+  20.15	junction with KBS2 (14.77)
+  20.51	corporation siding
+  21.02	BLACKPOOL CENTRAL

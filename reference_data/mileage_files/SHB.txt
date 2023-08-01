@@ -1,0 +1,19 @@
+ 161.52	Wincobank Junction with TJC2
+ 161.70	MEADOWHALL
+ 162.05	Wincobank West Junction with WNC (0.00)
+ 164.44	ECCLESFIELD WEST formerly E.
+ 164.53	Smithy Wood colliery
+ 165.68	CHAPELTOWN (SOUTH YORKSHIRE) [2]
+ 165.77	CHAPELTOWN [1] formerly C.; C. SOUTH
+ 166.02	junction with DEE
+ 167.44	WENTWORTH formerly W. & TANKERSLEY; W. & HOYLAND COMMON
+ 169.00	ELSECAR formerly E. & HOYLAND
+ 169.36	Hoyland Curve Junction (MR) with HYC (0.00)
+ 170.45	WOMBWELL formerly W. WEST
+ 171.41	Wharncliffe Branch Junction with WHB
+ 172.27	Monk Spring Junction with STC
+ 173.32	start of diversion
+ 173.69	Barnsley West Junction with BAM1 (178.25) and BAM2 (173.69)
+
+ 173.32	start of diversion
+ 173.48	Quarry Junction with PED2 (7.50)

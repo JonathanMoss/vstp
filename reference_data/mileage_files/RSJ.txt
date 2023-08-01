@@ -1,0 +1,13 @@
+  22.46	Guildford Line Junction with RED2
+  24.27	REIGATE
+  27.17	BETCHWORTH
+  27.73	Brockham siding
+	junction with link to BTH3 (0.21 long)
+  29.65	DORKING (DEEPDENE)
+  30.42	DORKING WEST
+ ≈32.20	WESTCOTT RANGE
+  35.21	GOMSHALL
+  39.15	CHILWORTH
+  41.02	SHALFORD (SURREY)
+  41.26	Shalford Junction with PSG
+  41.60	Shalford Junction with WPH1 (31.42)

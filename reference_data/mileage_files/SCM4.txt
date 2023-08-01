@@ -1,0 +1,16 @@
+ 123.40	Oban Junction with SCM3 (123.40) and OBA (0.00)
+ 125.70	KINBUCK
+ 129.05	GREENLOANING
+ 131.23	Curling club
+ 133.23	BLACKFORD
+ 135.40	Gleneagles Junction with BQB (0.00)
+ 135.50	GLENEAGLES formerly CRIEFF JUNCTION
+ 137.51	AUCHTERARDER
+ 141.61	DUNNING
+ 144.43	FORTEVIOT
+ 147.33	FORGANDENNY
+ 148.71	Kirkton
+ 149.23	Hilton Junction with CDC2 (45.66)
+ 150.25	Friarton sidings and junction with FNB (?) (0.00)
+ 150.31	Harbour Junction with PHA
+ 150.61	Perth South Junction with HGL1 (150.61) and SCM5 (21.23)

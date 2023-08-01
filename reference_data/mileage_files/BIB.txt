@@ -1,0 +1,3 @@
+   0.00	Shipley South/Bradford Junction with SBF (206.01)
+   0.08	SHIPLEY (YORKS)
+   0.17	Shipley West Junction with TJC3 (206.01)

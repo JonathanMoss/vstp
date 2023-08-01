@@ -1,0 +1,4 @@
+   0.00	Foreign Ore Branch Junction with DOW (25.34)
+   0.69	ore tippler plant
+   1.16	later end of line
+   1.70	original end of line

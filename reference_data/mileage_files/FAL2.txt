@@ -1,0 +1,9 @@
+ 307.53	junction with FAL1 (307.52)
+ 308.51	junction with original route
+ 309.08	PENRYN (CORNWALL) [2]
+ 309.24	junction with FAL3 (309.25)
+
+ 308.51	junction with 1923 route
+ 308.73	Penryn viaduct
+ 309.11	PENRYN [1]
+ 309.25	junction with FAL3

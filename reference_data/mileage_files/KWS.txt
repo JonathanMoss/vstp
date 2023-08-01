@@ -1,0 +1,9 @@
+  58.21	Knottingley West Junction with WAG1
+  58.66	Knottingley South Junction with KES (0.00)
+  62.47	WOMERSLEY
+  63.65	Intersection Bridge at Walden Stubbs with HBR3 (40.60)
+  65.09	NORTON
+  65.12	Askern colliery
+  66.21	ASKERN
+  67.64	Haywood Junction with HTM
+  68.75	Shaftholme Junction with ECM1 (160.16) and ECM2 (160.16)

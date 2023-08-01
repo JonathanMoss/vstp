@@ -1,0 +1,4 @@
+   0.00	MANCHESTER AIRPORT
+   1.03	junction with Airport Freight Branch (0.43)
+   1.10	Heald Green West Junction with SMA
+   1.51	Heald Green North Junction with STY (3.05)

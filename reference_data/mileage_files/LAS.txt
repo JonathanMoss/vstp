@@ -1,0 +1,3 @@
+ 243.55	start of sidings
+ 243.67	Laira Junction with MLN1
+ 244.45	Mount Gould Junction with SUT2

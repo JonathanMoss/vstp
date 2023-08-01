@@ -1,0 +1,9 @@
+   5.57	Sutton Oak Junction with SHS2 (0.00), SOM (5.57) and SSO (0.00)
+   5.58	Sutton Oak Junction with BLB (0.00)
+   5.76	SUTTON OAK formerly S.
+   6.04	Hayes Chemicals sidings
+   6.27	junction with link to BLB
+   6.36	PEASLEY CROSS
+   6.51	Peasley Junction with PNB (0.00)
+   6.65	Ravenhead Junction with FLS (0.00)
+   7.16	St Helens Station Junction with SBH1 (5.12) and SBH2 (5.12)

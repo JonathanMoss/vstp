@@ -1,0 +1,23 @@
+  69.41	East Suffolk Junction with IUP and LTN1
+  70.04	Boss Hall Junction with BFC (0.63)
+  72.20	WESTERFIELD
+  72.23	Westerfield Junction with FEL
+  75.76	BEALINGS
+  78.78	WOODBRIDGE
+  80.28	MELTON (SUFFOLK)
+  84.43	WICKHAM MARKET
+  85.30	junction with FRB
+  88.06	junction with SNA (0.00)
+  91.14	SAXMUNDHAM
+  91.40	Saxmundham Junction with SIZ
+  95.35	DARSHAM
+ 100.53	HALESWORTH [2]
+≈100.73	HALESWORTH [1]
+ 104.50	BRAMPTON (SUFFOLK) formerly B.; B. S.; B.
+ 109.13	BECCLES
+ 109.16	junction with TIB (19.31)
+ 109.19	junction with BYS
+ 112.50	Barnby siding
+ 115.42	OULTON BROAD SOUTH formerly CARLTON COLVILLE
+ 115.47	Oulton Broad South Junction with OSL
+ 116.27	Oulton Broad North Junction with NOL (22.14)

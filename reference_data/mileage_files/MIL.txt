@@ -1,0 +1,10 @@
+ 280.70	Johnston Junction with SWM2
+ 282.00	Gulf Oil Branch Junction with GOB (0.00)
+ 283.12	Herbrandston Junction with ERB (0.00)
+ 284.06	Maconochie's siding
+ 284.53	junction with MOD sidings
+ 284.65	MILFORD HAVEN formerly M.; OLD M.
+ 284.71	ownership boundary (GWR/dock company)
+ 285.22	MILFORD HAVEN DOCK
+ 286.39	NEWTON NOYES PIER
+ 286.45	end of pier

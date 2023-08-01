@@ -1,0 +1,12 @@
+ 106.70	Sleaford Junction with GRS2 (137.06) and LNL1 (106.70)
+ 107.24	BOSTON
+ 107.61	East Lincolnshire Junction with LNL2
+ 108.65	Maud Foster
+ 111.23	High Ferry
+ 112.05	SIBSEY
+ 113.62	OLD LEAKE
+ 116.16	EAST VILLE
+ 118.55	Bellwater Junction with WLS (14.77)
+ 120.18	LITTLE STEEPING
+ 122.02	Firsby South Junction with ELR
+ 122.22	Firsby East Junction with GRS4 (0.26) and Firsby East Curve (0.26)

@@ -1,0 +1,5 @@
+ 125.56	Radford Junction with MJT1 and RAC
+ 125.60	Nottingham Corporation siding
+ 127.45	Wollaton colliery
+ 129.44	Trowell Moor colliery
+ 130.56	Trowell Junction with TCC (125.09)

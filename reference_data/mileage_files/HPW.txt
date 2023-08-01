@@ -1,0 +1,2 @@
+   0.00	Harringay Junction with ECM1 (3.32)
+   0.25	Harringay Park Junction with TAH1 (4.15)

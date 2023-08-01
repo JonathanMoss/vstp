@@ -1,0 +1,16 @@
+ 142.01	Clay Cross South Junction with SPC8 (147.60) and TCC (142.01)
+ 142.03	Clay Cross South Junction with Old Williamthorpe Branch
+ 142.09	Goods Station Branch Junction with Clay Cross Town Goods Branch
+ 142.10	repositioned Clay Cross South Junction with SPC8 (147.69) and TCC (142.10)
+ 142.19	CLAY CROSS
+ 142.38	Clay Cross North Junction with ACP
+ 143.47	Avenue sidings
+ 143.56	Grassmoor Branch Junction with GSR
+ 144.18	Hasland locomotive depot
+ 145.12	Broad Oaks iron works sidings
+ 145.54	intersection bridge under CLN1 (mileage unknown)
+ 145.57	intersection bridge over CLO (mileage unknown)
+ 145.72	Brampton Branch Junction with BGH (0.00)
+≈146.15	CHESTERFIELD [1]
+ 146.20	CHESTERFIELD [2] formerly C.; C. ST MARYS; C. MIDLAND
+ 146.59	Tapton Junction with CHR and TJC1

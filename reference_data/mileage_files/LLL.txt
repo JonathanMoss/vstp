@@ -1,0 +1,7 @@
+Original measure
+   6.23	Parks Bridge Junction with XTD (6.13)
+   6.41	Ladywell Junction with LCH
+
+Later measure
+   6.13	Parks Bridge Junction with XTD
+   6.29	Ladywell Junction with LCH (6.41)

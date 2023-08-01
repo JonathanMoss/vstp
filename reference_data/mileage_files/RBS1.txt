@@ -1,0 +1,30 @@
+  83.18	Trent Valley Junction with LEC1 and LEC2
+  83.19	Leamington Branch Junction/Trent Valley Junction with RTS (0.00)
+  84.20	convergence of up and down lines
+  89.09	BRANDON & WOLSTON
+  92.59	Humber Road Junction with CAG (0.00)
+  93.71	Coventry South Junction with LSC2 (8.45)
+  93.79	COVENTRY
+  94.19	Coventry North Junction with CNN (0.00)
+  95.37	CANLEY
+  97.45	TILE HILL
+  99.35	junction with KBB (8.70)
+  99.38	BERKSWELL
+ 102.42	Hampton goods depot
+ 102.61	HAMPTON-IN-ARDEN [2]
+ 103.08	junction with WHA (6.41)
+ 103.16	HAMPTON-IN-ARDEN [1]
+ 103.76	Bickenhill
+ 104.55	BIRMINGHAM INTERNATIONAL
+ 106.33	MARSTON GREEN
+ 108.00	LEA HALL
+	STECHFORD GATES
+ 109.08	STECHFORD
+ 109.16	Stechford North Junction with SAS (0.00)
+ 110.79	ADDERLEY PARK
+ 111.72	Grand Junction with SAG (0.52) and DBP3 (41.26)
+ 112.01	Curzon Street Junction with Curzon Street goods depot lines
+ 112.07	Curzon Street Junction with PBJ (0.00)
+ 112.28	Proof House Junction with DBP3 (41.59)
+(112.29)	CURZON STREET [later goods depot]
+ 112.73	BIRMINGHAM NEW STREET and junction with RBS2 (0.05)

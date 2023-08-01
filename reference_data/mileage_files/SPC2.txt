@@ -1,0 +1,12 @@
+  50.00	junction with SPC1
+  51.50	Oakley Junction with BNN
+  52.78	OAKLEY
+  56.52	Sharnbrook Junction
+  56.53	SHARNBROOK
+  58.11	Souldrop
+  58.34	mileage junction with WYM
+  62.02	mileage junction with WYM (62.07)
+  62.54	IRCHESTER
+  63.54	Irchester Junction with HFB (0.00)
+  64.71	Wellingborough Junction with LPW (0.00)
+  64.78	Wellingborough Junction with SPC3

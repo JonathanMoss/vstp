@@ -1,0 +1,6 @@
+   6.09	Nunhead Junction with CAT
+   6.57	BROCKLEY LANE
+   7.24	LEWISHAM ROAD
+   7.29	junction with Greenwich Park Branch
+   7.36	Lewisham Vale Junction with LVT (5.57)
+   7.53	Lewisham Crossover Junctions with BEX (5.74) and LCH (5.74)

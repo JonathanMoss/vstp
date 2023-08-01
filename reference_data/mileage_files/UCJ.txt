@@ -1,0 +1,7 @@
+   0.00	Upperby Bridge Junction with CGJ7 (67.59)
+   0.32	junction with L&NWR goods station line
+   0.36	Upperby Junction with ULR (0.00)
+   1.07	Bog Junction with NGD (0.25) and SCG (0.44)
+   1.24	Rome Street Junction with CAA (0.43) and MCG (0.41)
+   1.43	Dentonholme goods depot
+   2.14	Caldew Junction with WCM1 (0.59)

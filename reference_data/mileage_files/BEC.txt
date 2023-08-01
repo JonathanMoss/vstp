@@ -1,0 +1,4 @@
+   0.00	Boughton Junction with HIM (20.15)
+   0.49	junction with link to HIM
+   4.22	ownership boundary (NR/RJB Mining)
+   5.13	end of line

@@ -1,0 +1,5 @@
+   0.00	Holgate Junction with ECM4 (188.07)
+   0.21	York Yard South Junction with CYY (0.00)
+   0.77	Severus Junction with goods depot lines
+   0.79	York Yard North Junction with York works lines
+   1.58	Skelton Junction with ECM5 (1.50) and HAY1 (1.50)

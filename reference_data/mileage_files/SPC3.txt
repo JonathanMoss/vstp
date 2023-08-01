@@ -1,0 +1,21 @@
+  64.78	Wellingborough Junction with SPC2 (64.78)
+  65.11	WELLINGBOROUGH formerly W. MIDLAND ROAD
+  65.65	Finedon Road
+  66.19	Neilsons sidings
+  67.00	Harrowden Junction
+  68.18	FINEDON
+  69.27	BURTON LATIMER formerly ISHAM; ISHAM & B. L.
+  70.55	Kettering Junction with KEH (0.00)
+  71.77	Cransley Branch Junction with CBH (0.00)
+  72.01	KETTERING formerly K.; K. & CORBY
+  73.73	Kettering North Junction with GSM1 [later junction]
+  74.46	Glendon South Junction with GSM1 [original junction]
+  75.47	GLENDON & RUSHDON formerly R.
+  78.08	DESBOROUGH & ROTHWELL formerly D.
+  82.74	MARKET HARBOROUGH
+  83.14	junction with RSD (17.68)
+  86.26	EAST LANGTON formerly L.
+  88.74	KIBWORTH
+  91.44	GREAT GLEN formerly GLEN
+  95.31	WIGSTON MAGNA formerly W.
+  95.37	Wigston South Junction with SPC4 and WGP

@@ -1,0 +1,7 @@
+  17.67	original Leatherhead Junction with BTH3
+  18.09	LEATHERHEAD
+  18.10	later Leatherhead Junction with BTH3 (from 1927)
+  20.45	BOOKHAM
+  22.15	Effingham Junction with NGL (21.04)
+
+Note that Leatherhead station was separate from those on BTH3.  In 1927 the LEJ alignment was slewed to a new junction with BTH3 allowing closure of this station.

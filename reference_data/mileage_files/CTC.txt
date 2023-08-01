@@ -1,0 +1,16 @@
+   0.00	Muirhouse North Junction with MEN1 (0.32)
+   0.10	POLLOKSHIELDS EAST
+   0.43	QUEENS PARK (GLASGOW)
+   0.78	CROSSHILL
+   1.41	MOUNT FLORIDA
+   1.63	Cathcart North Junction with CNC (0.00) [down line]
+   1.69	Cathcart North Junction with CNC (0.07) [up line]
+   2.13	CATHCART
+   2.21	Cathcart West Junction with KHL (100.75)
+   2.23	Cathcart West Junction with NNH (100.77)
+   2.71	LANGSIDE
+   3.33	POLLOKSHAWS EAST
+   3.63	SHAWLANDS
+   4.36	MAXWELL PARK
+   4.76	POLLOKSHIELDS WEST
+   5.19	Muirhouse Central Junction with MEN2 (0.15)

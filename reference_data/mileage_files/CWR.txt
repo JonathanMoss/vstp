@@ -1,0 +1,5 @@
+   0.43	Cattewater Junction with TUR (0.43) and PLZ (244.75)
+   0.73	later end of line
+   1.31	Plymouth Cattewater goods depot
+   1.56	junction with Deadman's Bay quarry lines
+   1.64	CATTEWATER HARBOUR ? whether passenger station

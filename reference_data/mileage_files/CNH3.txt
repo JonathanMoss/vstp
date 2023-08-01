@@ -1,0 +1,79 @@
+ 179.56	junction with CNH2
+ 180.79	Holyhead Junction with WSJ2 (212.12)
+ 181.09	Saltney Junction with WSJ2 (212.02)
+ 182.13	Saltney Wharf goods
+ 182.29	Mold Junction with CMO (0.00?)
+ 184.71	SANDYCROFT
+ 185.23	SANDYCROFT H M FACTORY
+ 185.36	Aston Hall New colliery
+ 186.15	QUEENSFERRY
+ 186.77	SHOTTON formerly S.; S. LOW LEVEL
+ 187.31	Shotton goods
+ 187.51	Dentith's sidings
+ 187.59	junction with link to SLP (0.32 long)
+ 188.04	CONNAH'S QUAY
+ 188.17	Connah's Quay West Junction with BUC (5.43)
+ 188.74	Rockcliffe Hall
+ 190.30	North Wales Paper Mill siding
+ 191.47	FLINT
+ 192.17	Muspratt's siding and Courtauld's siding
+	BAGILLT [1]
+ 193.52	BAGILLT [2]
+ 194.02	Bettisfield colliery
+ 194.35	Deebank siding
+ 195.69	Holywell Junction with HOY (0.00)
+ 195.78	HOLYWELL JUNCTION formerly H.
+ 197.40	Llanercrymor siding
+ 199.22	MOSTYN
+ 199.26	Darwen & Mostyn iron works
+ 201.76	junction with Point Of Ayr colliery lines
+ 202.10	TALACRE
+ 203.70	Gronant siding
+ 204.53	Nant Hall
+ 205.39	PRESTATYN [1] [mileage uncertain]
+ 205.43	PRESTATYN [2]
+ 205.62	Prestatyn Junction with PCM (0.00)
+ 209.08	RHYL
+ 210.10	Foryd Junction with VOC (10.13)
+ 211.02	FORYD
+ 213.30	ABERGELE & PENSARN
+ 215.79	LLANDULAS
+ 217.03	LLYSFAEN formerly LLANDULAS
+ 218.08	OLD COLWYN formerly C.
+ 219.37	COLWYN BAY formerly C.
+≈219.55	divergence with original route
+≈221.36	convergence with original route
+ 221.41	MOCHDRE & PABO
+ 223.12	junction with LJT1 (0.30)
+ 223.39	LLANDUDNO JUNCTION [2]
+≈223.52	LLANDUDNO JUNCTION [1]
+ 223.55	Llandudno Junction with LLJ (0.00)
+ 224.40	CONWY
+ 225.49	CONWAY MORFA formerly C. MARSH
+ 228.69	PENMAENMAWR
+ 231.48	LLANFAIRFECHAN
+ 233.51	ABER
+ 237.24	Penlan siding
+ 237.50	Penrhyn Sidings Junction with PPE (0.00)
+ 238.18	Bethesda Junction with BAB (0.00)
+ 238.71	BANGOR (GWYNEDD) formerly B.
+ 240.14	Caernarvon Junction with BCN (0.00)
+ 240.23	MENAI BRIDGE
+≈241.03	BRITANNIA BRIDGE
+ 242.29	LLANFAIRPWLL formerly LLANFAIR; LLANFAIR P G
+ 245.12	GAERWEN
+ 245.15	Gaerwen Junction with GLA (0.00)
+ 251.52	BODORGAN
+ 254.31	TY CROES
+ 256.04	RHOSNEIGR
+ 260.07	junction with sidings
+ 260.09	VALLEY
+ 261.56	Anglesey Aluminium Metals Ltd sidings
+≈263.08	HOLYHEAD [1]
+≈263.40	HOLYHEAD [2]
+ 263.52	HOLYHEAD [3]
+ 263.73	Holyhead Old yard
+ 264.00	Holyhead goods depot
+ 264.43	Holyhead pier
+
+Note that in 1984, from ≈219.55 to ≈221.36, the line was slewed to the north side

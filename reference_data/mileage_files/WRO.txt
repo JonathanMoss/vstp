@@ -1,0 +1,4 @@
+   0.00	ABERDEEN WATERLOO and junction with Harbour lines
+   1.53	KITTYBREWSTER
+   1.69	Kittybrewster Junction with ANI1 (1.49)
+   1.79	[relocated] Kittybrewster Junction with ANI1 (1.59)

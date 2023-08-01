@@ -1,0 +1,2 @@
+ 101.01	Larkfield Junction with CLY
+ 101.17	Langside Junction with GBA (0.61) and LFS2 (0.61)

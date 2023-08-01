@@ -1,0 +1,9 @@
+   0.12	West London Junction with LEC1 (5.23) and WLL (6.19)
+   0.16	West London Junction with SZS (6.23)
+   0.17	West London Junction with WAW (6.24) and WFL (0.17)
+   0.71	Willesden Junction (Acton Branch) with ACW (0.00)
+   0.76	connection with LEC1 (6.07)
+   1.25	Brent New Junction with 'F' sidings
+   1.52	Wembley Yard South Junction with UHL (1.62) and WEF1 (1.62)
+   1.66	junction with WTS (6.76)
+   2.59	junction with LEC1 (7.69)

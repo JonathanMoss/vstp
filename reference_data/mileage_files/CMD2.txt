@@ -1,0 +1,44 @@
+  15.65	junction with CMD1 (16.00) and CMD3 (15.65)
+  15.70	Chatterley Junction with TLK (0.00)
+  15.75	Chatterley sidings
+  16.27	Bradwell sidings
+  16.69	Longport Junction with TUN (0.00)
+  17.03	LONGPORT formerly BURSELM; B. (L.); B. (L. & TUNSTALL); B. (L.)
+  17.09	Port Vale siding
+  18.21	Hyatt's siding
+  18.31	Grange Junction with GRB (0.00)
+  18.41	Etruria North sidings
+  18.61	Etruria Junction with LEK (0.00)
+  18.64	ETRURIA
+  18.75	Etruria South sidings
+  19.13	Cliff Vale sidings
+  19.21	Cockshute sidings
+  19.30	Cockshute sidings
+  19.38	STOKE-ON-TRENT [1]
+  19.39	Cockshute/Newcastle Junction with HCM2 (0.00)
+  19.58	Dimmock's siding
+  19.61	Stoke North Junction with Cliff Vale china clay sidings
+  19.78	STOKE-ON-TRENT [2]
+  20.08	Glebe Street Junction with SCQ1 (-0.25)
+  20.33	original Stoke Junction with SCQ1 (0.00)
+  20.36	Stoke Junction with NSS (0.00)
+  20.54	WHIELDON ROAD
+  20.75	MOUNT PLEASANT
+  21.52	SIDEWAY
+  22.51	Trentham Junction with TRP (0.00)
+  22.53	sidings
+  22.63	TRENTHAM
+  24.00	WEDGWOOD
+  24.44	BARLASTON [2] formerly B.; B. TITTENSOR; B. & T.
+	BARLASTON [1]
+	STONE [1]
+  27.00	Stone Junction with NBS original/NBS new (0.00)
+  27.08	STONE [2]
+  28.66	ASTON-BY-STONE
+  31.54	SANDON
+  34.02	WESTON & INGESTRE
+  35.24	HIXON
+  37.31	GREAT HAYWOOD
+  38.55	convergence with LEC2 (127.14)
+  38.58	COLWICH
+  38.61	Colwich Junction with LEC2 (127.08)

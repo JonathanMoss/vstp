@@ -1,0 +1,24 @@
+   0.00	Cockshute/Newcastle Junction with CMD2 (19.39)
+   0.45	Hartshill sidings
+   1.24	NEWCASTLE UNDER LYME
+   1.35	Rookery sidings
+   1.50	coal wharf
+   2.04	Apedale Junction with HCM1 (0.00)
+   2.28	KNUTTON
+   2.51	Pool Dam/Knutton Forge Junction with PDA (0.00)
+   2.55	Pearson's siding
+   2.67	Knutton Farm Mining Company's sidings
+   3.19	SILVERDALE CROWN STREET
+   3.27	[later start of line]
+   3.58	SILVERDALE
+   3.60	Silverdale colliery
+   4.38	Silverdale Tileries siding
+   4.70	KEELE
+   5.01	Keele Junction with AUD (0.00)
+   6.27	KEELE PARK
+   7.36	Madeley Chord Junction with HCM3 (0.25)
+   7.54	MADELEY ROAD
+   8.14	[later end of line]
+  10.40	PIPE GATE
+  13.05	NORTON IN HALES
+  16.06	Silverdale Junction with MKT (178.16)

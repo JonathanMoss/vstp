@@ -1,0 +1,21 @@
+  27.00	Lumphinnans Central Junction with COJ (27.00), CWH2 (0.70) and LKY (0.00)
+  27.17	Lumphinnans North Junction with LKL (0.00)
+  27.18	Mary colliery siding
+  27.67	LOCHGELLY
+  28.25	Lochgelly colliery
+  29.37	Glencraig Junction with BWL (0.00)
+  29.45	junction with Lady Helen colliery line (0.75 long)
+  30.00	CARDENDEN
+  30.51	Clunie colliery
+  31.52	Clunie lime siding
+  32.16	Clunybridge Junction with TNY
+  32.51	Thornton colliery siding
+  33.24	Redford siding
+  33.45	Redford Junction with TNY
+  34.60	Orrs Bridge siding
+  34.62	repositioned Thornton West Junction with TNW (0.70)
+  34.69	wagon works siding
+  34.72	GLENROTHES WITH THORNTON
+  35.11	Thornton West Junction with TNW (0.40)
+  35.21	Thornton West Junction with TWE (0.00)
+  35.38	Thornton South Junction with ECN2 (30.24)

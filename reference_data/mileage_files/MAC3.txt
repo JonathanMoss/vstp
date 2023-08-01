@@ -1,0 +1,84 @@
+  33.20	Deepcar Junction with MAC2 (33.20) and SKL (0.00)
+  33.32	DEEPCAR
+  34.52	Wharncliffe
+  36.38	OUGHTY BRIDGE
+  38.35	WADSLEY BRIDGE
+  40.07	NEEPSEND
+  40.42	Neepsend siding
+  40.71	Tunnel Junction with WRB2 (1.49)
+  41.02	Bridgehouses goods depot
+ (41.22)	Sheffield Park goods depot
+  41.26	SHEFFIELD VICTORIA
+  41.52	junction with Sheffield Park goods depot lines
+  42.29	Woodburn Junction with NUJ2 (42.29) and WME (0.00)
+  42.30	junction with DLO (0.00)
+  42.35	Woodburn Junction with SFC (0.00)
+  43.04	Darnall West Junction with ADW (0.49)
+  43.20	junction with DLO (0.70)
+  43.23	DARNALL
+  44.30	Handsworth
+  45.07	Orgreave colliery lines
+  45.16	ORGREAVE COLLIERY
+  45.66	Rotherwood
+  46.18	WOODHOUSE [2]
+ ≈46.50	WOODHOUSE [1]
+  46.56	Woodhouse Junction with BEW
+  47.22	intersection bridge over CHR (156.45)
+  48.12	Brookhouse colliery
+  48.53	Waleswood Junction with WWC (1.58)
+  48.60	WALESWOOD
+  50.34	KIVETON BRIDGE
+  51.50	KIVETON PARK
+  53.07	Brancliffe West Junction with BRW (0.00)
+  53.57	Brancliffe East Junction with BKS (0.00)
+  54.52	SHIREOAKS
+  55.00	Shireoaks West Junction with SHW (154.36)
+  55.62	Shireoaks East Junction with PSE (154.30)
+  56.61	WORKSOP
+  58.54	Manton Wood Junction with MAN2
+  58.63	MANTON WOOD ? passenger station
+  60.63	CHECKER HOUSE
+  63.28	Whisker Hill/Thrumpton West Junction with WHR up line after flying junction built
+  63.46	Whisker Hill/Thrumpton West Junction with WHR down line after flying junction built
+  63.76	Whiskerhill Junction with WHR original junction
+  64.32	RETFORD LOW LEVEL [2] formerly R.
+  64.39	Retford South Junction with Retford Branch (0.08)
+  64.47	Thrumpton
+  64.51	RETFORD [1] later Retford Thrumpton goods depot
+  68.32	Clarborough Junction with TYB1
+  70.40	STURTON
+  70.66	West Burton West Junction with WBC (0.00)
+  72.20	West Burton East Junction with WBC (1.34)
+  73.11	Trent West Junction with SPD4 (98.69)
+  73.24	Gainsborough Trent Junction with SPD3 (98.56)
+  74.42	GAINSBOROUGH CENTRAL formerly G.
+  79.14	BLYTON
+  82.16	NORTHORPE
+  84.65	KIRTON LINDSEY
+  86.20	Kirton Lime Sidings
+  88.23	SCAWBY & HIBALDSTOW
+  91.01	BRIGG
+  94.06	Wrawby Junction with DOW (33.34)
+  94.12	Wrawby Junction with NOB3 (12.55)
+  94.56	BARNETBY
+  97.05	MELTON ROSS ? passenger station
+  99.33	BROCKLESBY
+  99.39	Brocklesby East Junction with BRI1
+ 100.53	Habrough Junction with HAU (0.39)
+ 101.13	HABROUGH
+ 102.55	Roxton siding
+ 104.75	STALLINGBOROUGH
+ 105.76	HEALING
+ 107.22	GREAT COATES
+ 107.69	Marsh West Junction with MWN
+ 108.08	Marsh East Junction with MEG (0.00)
+ 109.20	GRIMSBY TOWN formerly G.
+ 109.29	Grimsby South Junction with Grimsby Curve (154.72)
+ 109.53	Pasture Street Junction with ELR (154.75)
+ 109.68	Grimsby Town goods depot
+ 110.11	GRIMSBY DOCKS
+ 110.19	junction with MWN
+ 110.29	junction with docks lines
+ 110.42	RIBY STREET
+ 110.78	NEW CLEE
+ 112.40	CLEETHORPES

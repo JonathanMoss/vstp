@@ -1,0 +1,5 @@
+   9.59	Abbey Junction with NMA and NWO
+  10.13	Midland Yard Junction with MYC (0.00)
+ ≈10.18	divergence with NMA
+  10.45	NUNEATON
+  10.61	Nuneaton South Junction with CNN (9.53), LEC2 (96.68) and WNS (0.00)

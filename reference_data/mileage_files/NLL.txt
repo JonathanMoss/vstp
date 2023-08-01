@@ -1,0 +1,10 @@
+   0.00	Alexandra Dock Junction (Low Level Loop Junction) with SWM2 (159.60)
+   0.20	low level sidings
+   0.34	junction with NLO (0.52)
+   0.45	Monmouthshire Loop Junction with NML (0.47)
+
+Alternative measure
+ 159.60	Alexandra Dock Junction (Low Level Loop Junction) with SWM2
+ 160.00	low level sidings
+ 160.14	junction with NLO (0.52)
+ 160.25	Monmouthshire Loop Junction with NML (0.47)

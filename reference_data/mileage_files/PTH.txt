@@ -1,0 +1,13 @@
+   0.00	Cogan Junction with BRY (2.28)
+   0.12	PENARTH DOCK
+   0.60	DINGLE ROAD
+   1.12	PENARTH
+   1.39	ALBERTA PLACE
+   2.05	LOWER PENARTH
+   2.29	junction with cement works line
+   2.50	junction with cement works line
+   2.77	LAVERNOCK
+   3.65	SWANBRIDGE
+   4.61	SULLY
+   5.34	BIGLIS JUNCTION [later Cadoxton goods depot]	
+   5.66	Biglis Junction with BRY (5.58)

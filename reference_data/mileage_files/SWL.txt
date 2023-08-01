@@ -1,0 +1,2 @@
+   0.00	Swansea Loop West Junction with SWM2 (215.14)
+   0.53	Swansea Loop East Junction with SWA (215.43)

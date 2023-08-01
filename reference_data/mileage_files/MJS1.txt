@@ -1,0 +1,6 @@
+ 127.27	Chellaston East Junction with SSJ1 (127.27) and MJS2 (10.72)
+ 127.70	Chellaston West Junction with SSJ2
+ 128.50	CHELLASTON & SWARKESTONE
+ 130.37	SINFIN CENTRAL
+ 130.73	SINFIN NORTH
+ 131.15	Melbourne Junction with DBP1 (1.27)

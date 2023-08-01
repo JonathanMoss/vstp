@@ -1,0 +1,6 @@
+ 159.10	Grendon Underwood Junction with MCJ3
+ 161.57	AKEMAN STREET
+ 161.61	later end of line
+ 163.52	WOTTON
+ 164.75	Ashendon Junction with NAJ3 (0.27) [down line]
+ 165.21	Ashendon Junction with NAJ2 (33.55) [up line]

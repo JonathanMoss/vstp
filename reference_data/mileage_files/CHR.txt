@@ -1,0 +1,36 @@
+ 146.59	Tapton Junction with SPC9 and TJC1
+ 146.72	divergence with TJC1
+ 147.33	Dunston & Barlow South Junction with SHE
+ 147.68	Dunston & Barlow North Junction with SCA1 (0.00)
+ 148.57	WHITTINGTON [1]
+ 148.67	WHITTINGTON [2]
+ 149.28	junction with BHM
+ 149.32	Springwell Branch Junction with SPL
+ 149.38	Staveley Coal & Iron Company's Sidings Junction with SNC
+ 149.49	Barrow Hill North (Goods Line) Junction/Staveley Goods Junction with BAC2
+ 149.54	Staveley Passenger Junction with BAC1
+ 149.62	BARROW HILL formerly STAVELEY; B. H. & STAVELEY WORKS
+ 150.47	original Foxlow Junction with HLF1 (0.00)
+ 150.64	later Foxlow Junction with HLF2
+ 151.58	junction with Renishaw Park colliery lines
+ 152.22	junction with RIM
+ 152.35	ECKINGTON [1]
+ 152.49	ECKINGTON & RENISHAW formerly E. [2]
+ 153.75	Holbrook colliery
+ 154.27	KILLAMARSH WEST formerly K.
+ 154.51	Killamarsh Branch Junction with KIB
+ 155.46	Beighton Junction with WEC1 (12.17)
+ 155.48	Beighton Junction with BEW (48.06)
+ 155.51	North Staveley Junction with BCM
+ 156.45	intersection bridge under MAC3 (47.22)
+ 157.00	Woodhouse Mill sidings
+ 157.23	junction with Fence colliery lines
+ 157.35	WOODHOUSE MILL
+ 158.54	TREETON
+ 158.65	Treeton Junction with BTJ (158.65/0.00)
+ 159.19	Treeton North Junction with TNC (0.00)
+ 161.09	Masborough sorting sidings
+ 161.50	Masborough South Junction with MSC
+ 161.77	Masborough Station South Junction with TJC2 (163.74) and TJC3 (161.77)
+ 162.00	ROTHERHAM MASBOROUGH formerly M. R.; M.; M. & R.; R. M.; R.
+ 162.24	Masborough Station North Junction with TJC3

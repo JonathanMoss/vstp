@@ -1,0 +1,10 @@
+   0.00	Kincardine (Clackmannan) Junction with ALO (8.14) and SAA (8.14)
+   3.47	junction with Kincardine power station lines
+   4.02	KINCARDINE
+   4.71	junction with Longannet power station lines
+   5.32	junction with Longannet power station lines
+   5.78	junction with Longannet power station lines
+   8.67	CULROSS
+  10.45	TORRYBURN
+  11.64	CAIRNEYHILL
+  14.14	Elbowend Junction with CRN (0.00) and KNE2 (14.14)

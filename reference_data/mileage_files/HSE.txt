@@ -1,0 +1,7 @@
+Original measure
+   0.00	Archcliffe Junction with XTD (76.36)
+   0.14	Hawkesbury Street Junction with FDM (77.76)
+
+Revised measure
+  76.36	Archcliffe Junction with XTD
+  76.53	Hawkesbury Street Junction with FDM (77.76)

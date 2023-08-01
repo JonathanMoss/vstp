@@ -1,0 +1,32 @@
+   0.00	HULL
+   0.18	Paragon
+   0.25	West Parade Junction with HBS
+   0.40	divergence with HBS
+   0.71	Anlaby Loop Junction with Anlaby Loop (0.00)
+   0.73	Anlaby Road Junction with AWP (0.00)
+   1.72	Cottingham Bridge Junction with Cottingham Branch (0.00)
+   1.73	Hessle Road Junction with ADH2 (0.00)
+   1.74	junction with … (Dairycoates line)
+   3.20	Hessle East Junction with PHC (0.00)
+   3.23	Hessle Junction with … (Dairycoates line)
+   4.64	HESSLE
+   5.46	Hessle quarry
+   7.42	FERRIBY
+   8.41	MELTON
+   8.44	MELTON CROSSING
+   8.60	junction with sidings
+  10.38	BROUGH
+  12.54	CRABLEY CREEK
+  14.36	BROOMFLEET
+  16.76	GILBERDYKE
+  17.07	Gilberdyke Junction with TJG2 (0.00)
+  19.23	EASTRINGTON formerly SOUTH E.
+  20.52	Intersection Bridge with HBR2 (mileage unknown)
+  21.22	Caville Bridge siding
+  22.27	HOWDEN formerly North H.
+  24.79	WRESSLE
+  28.02	HEMINGBROUGH
+  29.76	junction with sugar factory sidings
+  30.16	Barlby Junction with SMK (0.00)
+  30.28	Barlby Junction with TCW2 (174.75)
+  30.40	end on junction with HUL2

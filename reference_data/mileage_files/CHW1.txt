@@ -1,0 +1,19 @@
+  (0.00)	CHESTER
+   0.27	Chester East Junction with CNH1 (178.67) and CNH2 (178.67)
+   1.39	Guilden Sutton
+   2.53	junction with CDM2/MTJ2 (35.41)
+   2.60	MICKLE TRAFFORD
+   2.63	junction with MTJ1 (0.15)
+   5.19	DUNHAM HILL formerly D.
+   7.34	HELSBY
+   7.40	Helsby Junction with HHJ (8.66)
+   8.52	Godscroft
+   9.68	FRODSHAM
+  11.04	Frodsham Junction with FJH (1.54)
+  11.34	HALTON formerly RUNCORN ROAD; RUNCORN; RUNCORN ROAD
+  13.06	RUNCORN EAST
+  13.20	NORTON CHESHIRE formerly N.
+  15.23	DARESBURY formerly MOORE
+  16.16	Acton Grange Junction with CGJ2 (180.23)
+  17.16	Walton Old Junction with Walton Old Junction to Ship Canal Sidings (0.00)
+  17.23	Walton Old Junction with CHW2 (17.23) and WOA1 (0.68)

@@ -1,0 +1,13 @@
+ 160.34	Grimesthorpe Junction with TJC1 (160.34) and WRB2 (0.00)
+ 160.35	Attercliffe Goods Station Branch Junction with AGY (0.00)
+ 161.08	Jessop's Brightside Steel Works Branch Junction with JSB
+ 161.10	Brightside Junction with BTJ (162.37/3.46)
+ 161.29	BRIGHTSIDE
+ 161.52	Wincobank Junction with SHB
+ 161.64	Blackburn Valley Line Junction with BVB (0.00)
+ 161.70	MEADOWHALL
+ 161.72	WINCOBANK AND MEADOWHALL
+ 162.30	Wincobank North Junction with WNC (0.41)
+ 163.39	HOLMES
+ 163.46	Holmes Junction with HCD (0.00)/WBH (163.46)
+ 163.74	Masborough Station South Junction with CHR (161.77) and TJC3 (161.77)

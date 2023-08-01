@@ -1,0 +1,5 @@
+   0.00	Copyhold Junction with CJA1 (36.34) and VTB3 (36.34)
+   0.68	run round loop
+   0.70	hopper
+   1.09	ARDINGLY
+   1.14	Ardingly and junction with CJA3

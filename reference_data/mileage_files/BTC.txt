@@ -1,0 +1,4 @@
+   7.13	Blackheath Junction with BEX
+   8.30	junction with link to AGW (? existence: ≈0.14 long)
+   8.46	Angerstein Junction with AGW (0.00)
+   8.62	Charlton Junction with NKL (7.35)

@@ -1,0 +1,10 @@
+   0.00	Pelaw Junction For Jarrow with LEN3 (98.07)
+   0.09	convergence with Tyne & Wear Metro
+   0.26	NR/Nexus boundary from 12 September 2022
+   0.47	Bill Quay Junction with Tyne & Wear Metro lines
+   1.60	HEBBURN Metro station
+   1.66	HEBBURN
+  (3.03)	JARROW
+   3.36	Nexus/Shell boundary NR/Shell to 11 September 2022 and assumed junction with JAW2
+   3.56	start of sidings
+   4.22	end of sidings

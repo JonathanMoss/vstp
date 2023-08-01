@@ -1,0 +1,8 @@
+  14.64	Crow Nest Junction with LCN (17.18) and WBS1 (14.64)
+  15.17	HINDLEY
+  15.46	junction with link to IGD (0.21 long)
+  16.04	Hindley No 3 Junction with PLL
+  16.70	INCE (MANCHESTER)
+  17.44	Wigan Station Junction with CGJ5 (6.33)
+  17.72	WIGAN WALLGATE
+  18.04	Wigan Wallgate Junction with WBS3 and WKL1

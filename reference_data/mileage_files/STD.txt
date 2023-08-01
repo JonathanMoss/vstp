@@ -1,0 +1,18 @@
+   0.00	Honeybourne Junction with OWW (101.54)
+   0.36	Honeybourne tip sidings
+   0.39	North Loop Junction with HNP (0.00)
+   0.75	East Loop Junction with HCL (0.00)
+   1.76	PEBWORTH
+   2.12	BROAD MARSTON
+   2.66	junction with Long Marston sidings
+   3.19	LONG MARSTON technology centre north gate platform
+   3.32	LONG MARSTON
+  ≈5.73	MILCOTE [1]
+   5.78	MILCOTE [2]
+   6.34	CHAMBERS CROSSING
+   8.04	Racecourse Junction with Stratford-on-Avon South Curve (38.30)
+   8.13	STRATFORD RACECOURSE
+   8.32	East & West Junction with Stratford-on-Avon North Curve (38.25)
+  ≈8.35	STRATFORD-ON-AVON [Sancta Lane]
+   8.41	EVESHAM ROAD CROSSING
+   8.63	end on junction with HSA

@@ -1,0 +1,15 @@
+  51.65	Colchester Junction with LTN1
+  53.14	East Gate Junction with STB
+  53.38	Hythe Junction with CTH (0.22)
+  53.41	junction with HYT
+  53.49	HYTHE (ESSEX)
+  56.00	WIVENHOE
+  56.27	junction with BLS
+  57.63	ALRESFORD (ESSEX) formerly A.
+  59.46	THORINGTON
+  60.66	GREAT BENTLEY formerly B. GREEN
+  62.76	WEELEY
+  65.07	THORPE-LE-SOKEN formerly T.
+  65.20	Thorpe Le Soken Junction with TWN
+  69.16	sidings carriage washing machine
+  69.56	CLACTON-ON-SEA formerly C.-O.-S.; C.-O.-S. & SOUTHCLIFFE; C.-O.-S. & HOLLAND-ON-SEA; C.

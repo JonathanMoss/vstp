@@ -1,0 +1,9 @@
+Distances in km.  Alternative mileages (shown †) are as given in the Crossrail Central Operating Section network statement.
+
+ 11.333	Stepney Green Junction with XRC and XRS [eastbound] (11.344†)
+ 11.425	Stepney Green Junction with XRC and XRS [westbound] (11.344†)
+ 14.629	Pudding Mill Lane tunnel portal (14.344†)
+ 14.666	Ownership boundary (Crossrail/Network Rail) [eastbound]
+ 14.840	Ownership boundary (Crossrail/Network Rail) [westbound]
+(14.886)	Pudding Mill Lane Junction with LTN1 (3m 42ch) [eastbound]
+(14.978)	Pudding Mill Lane Junction with LTN1 (3m 32ch) [westbound]

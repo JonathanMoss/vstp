@@ -1,0 +1,19 @@
+   0.00	Blisworth Junction with LEC1 (62.70)
+   3.20	Duston siding
+   3.74	Duston West Junction with NMH (0.00)
+   4.29	Bridge Street Junction with BDN (0.00)
+   4.51	NORTHAMPTON BRIDGE STREET formerly N.
+   4.57	Northampton Bridge Street Junction with NCD
+   5.18	junction with NWS (70.76)
+   5.21	Hardingstone Junction with BNN (70.73)
+   8.54	BILLING formerly B. ROAD
+  11.47	CASTLE ASHBY & EARL'S BARTON formerly C. A. WHITE MILL
+  15.46	WELLINGBOROUGH LONDON ROAD formerly W.
+  15.59	Wellingborough Junction with LPW (0.63)
+  16.46	Butlin's siding
+  17.57	DITCHFORD
+  19.04	British Portland Cement Manufacturers Limited siding
+  20.00	IRTHLINGBOROUGH formerly HIGHAM FERRARS; HIGHAM FERRERS; HIGHAM FERRERS & I.
+  22.59	RINGSTEAD & ADDINGTON formerly R.
+  25.62	THRAPSTON BRIDGE STREET formerly T.; THRAPSTONE; T. B. S.; T.
+  27.58	end on junction with TOM

@@ -1,0 +1,7 @@
+ 115.70	Hamworthy Junction with BML2
+ 116.32	Air Ministry siding
+ 116.37	Doulton siding
+ 116.68	LAKE
+ 117.03	Admiralty Flying Boat Base siding
+ 117.49	HAMWORTHY [later goods depot]
+ 118.05	ownership boundary (NR/Poole Harbour Commissioners) and junction with harbour lines

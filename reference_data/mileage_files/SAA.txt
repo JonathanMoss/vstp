@@ -1,0 +1,19 @@
+   0.00	Stirling Middle Junction with SCM3 (118.09)
+   0.15	STIRLING
+   0.26	Shore Road goods depot
+   1.31	CAUSEWAYHEAD
+	MANOR POWIS COLLIERY
+   2.79	Manor Powis colliery siding
+	Blackgrange
+   4.38	Cambus Junction with MTE (0.19)
+   4.61	CAMBUS
+   6.22	Alloa West Junction with ALW (0.44)
+   6.56	Alloa Station Junction with ALH (0.00)
+   6.62	ALLOA [1]
+   6.65	junction with ACC
+   6.66	Alloa East Junction with KSA
+   6.71	Brewery siding
+   6.77	ALLOA [2]
+   7.33	Hilton brick works siding
+   7.60	Whinhill sidings
+   8.14	Kincardine (Clackmannan) Junction with ALO (8.14) and KNE1 (0.00)

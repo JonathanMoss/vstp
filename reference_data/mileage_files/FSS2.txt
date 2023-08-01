@@ -1,0 +1,33 @@
+   7.08	Barking Tilbury Line Junction with BWT and FSS1
+   7.33	Barking Tilbury Line Junction West with BWT (7.33) and TAH3 (13.42)
+   7.42	BARKING
+   7.60	Barking Tilbury Line Junction East with BTE and TLL
+   8.10	Upney Junction with BTE
+   8.36	UPNEY
+   9.48	BECONTREE formerly GALE STREET
+  10.36	DAGENHAM HEATHWAY
+  11.25	DAGENHAM EAST formerly D.
+  12.57	ELM PARK
+  13.56	HORNCHURCH
+  14.38	UPMINSTER BRIDGE
+  15.17	Upminster West Junction with ROU (3.26)
+  15.20	UPMINSTER
+  15.39	Upminster East Junction with UPG (0.00)
+  16.20	Cranham
+  17.69	Warley
+  19.15	WEST HORNDON formerly EAST H.
+  20.25	Dunton West
+  21.58	Dunton East
+  22.69	LAINDON
+  24.26	BASILDON
+  26.42	PITSEA
+  26.52	Pitsea Junction with TLL (32.43)
+  29.11	BENFLEET [2]
+	BENFLEET [1]
+  32.43	LEIGH-ON-SEA [2]
+  33.09	LEIGH-ON-SEA [1] formerly L.
+  33.69	CHALKWELL
+  34.66	WESTCLIFF formerly W.-ON-SEA
+  35.55	SOUTHEND CENTRAL formerly S., S.-On-Sea, S.-On-Sea Central and junction with FSS3
+
+Note that 7.08 - 7.60 was previously part of TFH3

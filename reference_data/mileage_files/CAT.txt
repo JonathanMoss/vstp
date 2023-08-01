@@ -1,0 +1,18 @@
+   3.08	Brixton Junction with VIR
+   3.14	BRIXTON
+   3.24	Canterbury Road Junction with LOC (3.78)
+   3.68	Cambria Junction with LTC (3.57)
+   4.22	DENMARK HILL
+   5.13	PECKHAM RYE
+   5.30	Cow Lane Junction with BTH1 (3.18)
+   5.77	NUNHEAD [2]
+   5.79	Nunhead Junction with PHL
+   6.07	NUNHEAD [1]
+   6.09	Nunhead Junction with NTL
+   7.11	CROFTON PARK
+   8.03	CATFORD
+   8.73	BELLINGHAM
+   9.45	BECKENHAM HILL
+  10.34	RAVENSBOURNE
+  10.55	Ravensbourne Junction with RVC (0.00)
+  10.73	Shortlands Junction with VIR (9.57)

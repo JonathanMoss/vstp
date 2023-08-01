@@ -1,0 +1,31 @@
+  77.35	Swindon Junction with MLN1
+  77.49	Swindon stores
+  77.64	Loco Yard
+  77.77	Workshops siding
+  79.00	Bremell sidings
+  80.24	Bremell sidings
+  81.36	PURTON
+  85.37	MINETY & ASHTON KEYNES formerly M.
+  88.35	OAKSEY
+  90.73	junction with CIR
+  90.79	KEMBLE
+  91.07	junction with TET (0.10)
+  91.65	TETBURY ROAD
+  91.74	Coates goods depot
+  94.32	Sapperton sidings
+  96.33	Frampton
+  98.01	CHALFORD
+  98.62	ST MARY'S CROSSING
+  99.24	BRIMSCOMBE
+  99.74	BRIMSCOMBE BRIDGE
+ 100.64	HAM MILL formerly H. M. CROSSING
+ 101.37	BOWBRIDGE CROSSING
+ 102.13	STROUD (GLOUCS) formerly S.
+ 102.69	DOWNFIELD CROSSING
+ 103.23	CASHES GREEN
+ 103.52	EBLEY CROSSING
+ 104.74	STONEHOUSE formerly S.; S. BURDETT ROAD
+ 106.68	original Standish Junction with BGL2 (99.74)
+ 106.74	relocated Standish Junction with BGL2 (99.68)
+
+Note that 106.74-112.02 is now 99.68-94.60 in BGL2 and 112.02-113.03 is now 94.10-93.09 in BGL1

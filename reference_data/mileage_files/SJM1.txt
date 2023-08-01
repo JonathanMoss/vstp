@@ -1,0 +1,6 @@
+ 166.60	Swinton Junction South with TJC3
+ 166.74	SWINTON formerly S. TOWN
+ 167.03	Swinton Junction North with TJC3
+ 167.17	Mexborough West Junction with SJM2 (15.00)/PED4 (15.00)
+
+Note that this route partially reuses SWW

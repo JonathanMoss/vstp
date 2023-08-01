@@ -1,0 +1,13 @@
+  -0.09	later Trent Valley Junction with LEC1 (83.10)
+   0.00	Leamington Branch Junction/Trent Valley Junction with RBS1 (83.19)
+   0.57	Rugby Portland Cement Company's Siding
+   0.75	New Bilton Wharf
+   3.68	DUNCHURCH
+   6.15	BIRDINGBURY
+   7.51	MARTON
+   9.58	Marton Junction with WMJ (17.69)
+  13.41	Lucas & Company's Siding
+  13.52	Leamington East Junction with Leamington East Junction
+  14.17	LEAMINGTON SPA AVENUE
+  14.20	junction with Leamington West Junction (106.12)
+  14.37	junction with LSC1 (106.56)

@@ -1,0 +1,2 @@
+   0.04	Muirhouse Central Junction with MEN1 (0.19) and MEN2 (0.19)
+   0.40	Terminus Junction with CLY (101.49)

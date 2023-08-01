@@ -1,0 +1,5 @@
+   0.00	LEAMINGTON SPA MILVERTON early terminus and junction with LSC1 (107.06)
+   3.44	KENILWORTH [1]
+   3.49	KENILWORTH [2]
+   4.40	Kenilworth Junction with KBB
+   8.45	Coventry South Junction with RBS1 (93.71)

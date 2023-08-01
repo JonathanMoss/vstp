@@ -1,0 +1,44 @@
+   0.00	Berkeley Road Junction with BGL2 (107.66)
+   0.14	BERKELEY ROAD
+   1.26	Berkeley Loop Junction with BYP (0.00)
+   2.24	BERKELEY
+   3.43	Oldminster Goods Lines Junction South with Oldminster Goods Lines
+   3.45	Docks Branch Junction with SSS
+   4.07	Goods Lines Junction North with Oldminster Goods Lines
+   4.15	SHARPNESS
+   4.24	North Dock Junction with SSN
+   4.54	start of Severn Bridge
+   5.34	end of Severn Bridge
+   5.40	SEVERN BRIDGE
+   7.71	Otters Pool Junction with LEP
+   8.00	later junction with SWM2 (133.21)
+   8.15	LYDNEY JUNCTION
+   8.22	Lydney Junction with LWL
+   8.32	Tinworks Junction with LLD
+   8.41	ST MARY'S
+   8.73	LYDNEY TOWN
+   9.33	Middle Forge Junction with Norchard Low Level line
+   9.58	NORCHARD HIGH LEVEL
+  10.54	Oakwood Branch Junction with SOD
+  10.60	Tufts Junction with TDZ
+  11.22	WHITECROFT
+  12.19	Parkend Goods Junction with SPG
+  12.25	PARKEND
+  12.71	Coleford Branch Junction with CFS and Parkend Royal Branch Junction with PRB
+ ≈12.73	COLEFORD JUNCTION
+  13.62	Bicslade Junction with BIZ
+  14.54	Howlerslade Junction with HTZ
+  14.66	SPEECH HOUSE ROAD
+  14.70	Wimberry Branch Junction with WIY
+  15.12	Wimblow Junction with Colliery Junction with SHZ
+  16.33	Serridge Junction with SLB
+ ≈16.35	SERRIDGE
+  17.27	Drybrook Road Junction with TDZ (17.29)
+  17.32	DRYBROOK ROAD
+  17.68	BILSON ROAD
+  17.69	Laymoor Junction with LCZ1
+  18.30	Cinderford Junction with BIP (5.27)
+  18.55	CINDERFORD
+  18.60	end of line
+
+Note that Oldminster Goods Lines were entirely parallel to the main running lines

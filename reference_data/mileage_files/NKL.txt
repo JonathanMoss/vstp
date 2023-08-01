@@ -1,0 +1,23 @@
+   4.23	North Kent East Junction with XTD
+   4.76	DEPTFORD
+	GREENWICH [1]
+   5.36	GREENWICH [3]
+	GREENWICH [2] (0.17 from [1])
+   6.27	MAZE HILL
+   6.76	WESTCOMBE PARK
+   7.35	Charlton Junction with BTC (8.62)
+   7.44	CHARLTON
+   8.56	WOOLWICH DOCKYARD
+   9.32	WOOLWICH ARSENAL
+  10.01	PLUMSTEAD
+  10.67	CHURCH MANOR WAY
+  11.43	ABBEY WOOD
+  12.05	mileage junction with XRS3/XRS (25.294km)
+  12.13	Alsike Junction [actual junction with XRS3/XRS]
+  12.75	BELVEDERE
+  14.18	ERITH
+  15.30	SLADE GREEN
+  15.36	Slade Green Junction with PSF (15.31)
+  15.66	Crayford Creek Junction with BEX (15.36)
+  16.42	Crayford Spur A Junction with CRA (16.41)
+  17.05	Dartford Junction with HDR (16.65)

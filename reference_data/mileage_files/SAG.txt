@@ -1,0 +1,3 @@
+   0.00	St Andrews Junction with LSS (41.18) and SKN (41.18)
+   0.22	divergence of up and down lines
+   0.52	Grand Junction with DBP3 (41.26) and RBS1 (111.72)

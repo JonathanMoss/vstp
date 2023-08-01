@@ -1,0 +1,11 @@
+   0.00	Cheadle Hulme Junction with CMP1 (180.59)
+   0.08	CHEADLE HULME formerly C.
+   1.49	BRAMHALL
+   2.79	POYNTON
+   3.59	POYNTON MIDWAY
+   5.15	ADLINGTON LANCASHIRE
+   7.10	PRESTBURY
+   9.11	Tytherington Hall
+   9.29	junction with line to Macclesfield Beech Road
+   9.37	MACCLESFIELD HIBEL ROAD and junction with CMD1 (0.00)
+  (9.43)	MACCLESFIELD BEECH LANE [later goods depot]

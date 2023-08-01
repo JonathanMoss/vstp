@@ -1,0 +1,5 @@
+ 142.20	Stourbridge Middle Junction with OWW
+ 142.42	junction with Stourbridge North Curve (0.15)
+ 142.71	STOURBRIDGE TOWN [2]
+ 142.75	STOURBRIDGE TOWN [1]
+ 143.35	Stourbridge goods depot

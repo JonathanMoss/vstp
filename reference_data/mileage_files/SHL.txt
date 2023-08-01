@@ -1,0 +1,46 @@
+   0.11	Wellington Junction with WSJ2 (171.39)
+   0.28	English Bridge Junction with AFE (0.00)
+   0.45	Coleham
+   0.62	Severn Valley Junction with SVB (171.59)
+   0.68	Sutton Bridge Junction with SBA1 (0.00)
+   1.65	Bayston Hill
+   2.77	Bayston Hill Tarmac siding
+   4.26	CONDOVER
+   6.34	DORRINGTON
+   8.05	Micklewood
+   9.23	LEEBOTWOOD
+  11.07	Dudgeley
+  11.57	ALL STRETTON
+  12.56	CHURCH STRETTON [1]
+  12.63	CHURCH STRETTON [2]
+  14.00	LITTLE STRETTON
+  15.33	MARSH BROOK
+  16.60	Marsh Farm Junction with BUI (177.42)
+  18.31	WISTANSTOW
+  19.07	Stretford Bridge Junction with Bishop's Castle Railway (0.00)
+  19.77	CRAVEN ARMS formerly C. A.; C. A. & STOKESAY
+  20.01	Craven Arms Junction with CWL1
+  22.72	ONIBURY
+  25.24	BROMFIELD formerly BROOMFIELD
+  27.18	Clee Hill Junction with CLE (0.00)
+  27.42	LUDLOW
+  30.49	ASHFORD BOWDLER
+  32.06	Tenbury Branch Junction with WTW (0.00)
+  32.11	WOOFFERTON
+  35.20	BERRINGTON & EYE
+  38.02	Kington Junction with KGN (0.00)
+  38.30	Leominster Junction with BYB/LEZ (147.79)
+  38.36	LEOMINSTER
+  40.64	FORD BRIDGE
+  43.42	DINMORE
+  46.68	MORETON-ON-LUGG formerly M.
+  49.28	Shelwick Junction with WAH (148.12)
+  50.23	Barrs Court North Junction with HGS (50.23) and HNL2 (149.07)
+  50.53	Brecon Curve Junction with BNC (0.00)
+  51.03	HEREFORD
+  51.13	Ayleston Hill Junction with HGS
+  51.15	Barrs Court Junction South with GCT (144.05)
+  51.30	Hereford diesel fuelling sidings
+  52.19	Rotherwas Junction with HDC (0.00) and GCT (143.02)
+
+Note that 51.15-52.19 was previously 144.05-143.02 in GCT until 26 February 1973

@@ -1,0 +1,7 @@
+   0.00	Aston North Junction with PBJ (1.73)
+   1.18	GRAVELLY HILL
+   2.31	ERDINGTON
+   2.77	CHESTER ROAD
+   3.59	WYLDE GREEN
+   4.74	SUTTON COLDFIELD
+   5.00	junction with ALC2

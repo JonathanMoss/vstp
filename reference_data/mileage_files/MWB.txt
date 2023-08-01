@@ -1,0 +1,8 @@
+   0.00	BOURNE END formerly MARLOW ROAD
+   0.05	junction with WBB (28.51)
+   2.35	junction with new route
+   2.53	MARLOW [1] [later private siding] formerly GREAT M.
+   2.61	end of line
+
+   2.35	junction with original route
+   2.54	MARLOW [2] [on realigned route]

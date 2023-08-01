@@ -1,0 +1,12 @@
+   0.00	Drax Branch Junction [formerly Hensall Junction] with WAG1 (65.66)
+   0.40	Gowdall Junction with HBR3 (35.13)
+   1.12	Aire Junction with GBL (0.00) and HBR3 (34.42)
+   3.03	CARLTON
+   4.13	junction with … (Hull line)
+   4.30	end of cripple siding on Hull line formation
+   4.30	junction with HBR2 (31.23) and HBR3 (31.23)
+	junction with … (Thorpe Gates to Brayton East Junction Line)
+   4.36	junction with DRA2 (6.23) [end of loop]
+   4.40	junction with DRA2 (4.40) [start of loop]
+
+Note that this line was built on the formation of the Hull & Barnsley line (0.40-4.13, with cripple siding continuing to 4.30), a new link (4.13-4.30), and part of the Goole-Selby line (4.50-4.40)

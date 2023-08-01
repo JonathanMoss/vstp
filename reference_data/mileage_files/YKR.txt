@@ -1,0 +1,15 @@
+   0.00	Hyndland East Junction with NEM3 (4.02)
+   0.12	JORDANHILL
+   0.22	Hyndland West Junction with HYD (0.16)
+   0.23	Whiteinch West Junction with WCH (0.00)
+   1.20	SCOTSTOUNHILL
+   1.58	GARSCADDEN
+   1.70	Clydebank Dock Junction with sidings
+   2.15	junction with ZZE7 (0.00)
+   2.33	West End Junction with sidings
+   2.56	YOKER formerly Y.; Y. HIGH
+   3.43	CLYDEBANK formerly C. CENTRAL
+   3.60	Clydebank Junction with RVS1 (0.00)
+   4.04	KILBOWIE formerly K. ROAD
+   4.62	DALMUIR formerly D.; D. PARK
+   4.73	Dalmuir Park Junction with NEM5 (10.01)

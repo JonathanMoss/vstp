@@ -1,0 +1,5 @@
+  44.73	Haymarket West Junction with ECN2 (2.28), EGM1 (44.73) and GGE (0.41)
+  44.78	Haymarket West Junction with WDY (1.51)
+  45.35	Haymarket Central Junction with SUB2 (0.11)
+  45.72	Haymarket East Junction with ECA3 (100.41)
+  46.00	end-on junction with EGM3 (1.23)

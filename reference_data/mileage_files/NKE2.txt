@@ -1,0 +1,3 @@
+   9.34	New Kew Junction with HOU [up line]
+   9.43	New Kew Junction with HOU [down line]
+   9.64	KEW BRIDGE and junction with NKE1 (3.39)

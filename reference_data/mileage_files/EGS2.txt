@@ -1,0 +1,20 @@
+   0.40	Mossend East Junction with EGS1 (3.63) and MDN (0.40)
+   1.10	HOLYTOWN
+   1.27	Holytown Junction with WWD (89.56) [up line]
+   1.35	Holytown Junction with WWD (89.48) [down line]
+   1.69	CARFIN
+   1.72	Cleland Junction with CMI
+   3.43	Bellside Junction with Airdrie line
+   3.52	CLELAND
+   6.62	HARTWOOD
+   8.30	SHOTTS
+  11.03	Benhar Junction with PET
+  11.70	FAULDHOUSE
+  14.00	BREICH
+  15.36	Woodmuir Junction with WMR (0.00) and WCP (0.00)
+  16.50	ADDIEWELL
+  18.28	WEST CALDER
+  19.06	Limefield Junction with WCP (4.51)
+  20.25	NEWPARK
+  21.16	LIVINGSTON SOUTH
+  23.12	Midcalder Junction with ECA2 (89.76)

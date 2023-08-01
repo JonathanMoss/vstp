@@ -1,0 +1,8 @@
+ 131.04	Little Eaton Junction with SPC8
+ 131.38	LITTLE EATON
+ 133.01	COXBENCH
+ 134.71	KILBURN
+ 135.56	DENBY formerly SMITHY HOUSES; DENBEY
+ 136.08	Denby wharf
+ 137.23	Marehay Junction with line to RIPLEY old station (at 137.53)
+ 137.44	Ripley Junction with RHE1 (133.37) and RHE2 (133.37)

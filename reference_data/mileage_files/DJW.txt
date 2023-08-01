@@ -1,0 +1,16 @@
+ 132.79	Duffield Junction with SPC8
+ 133.08	DUFFIELD
+ 134.77	HAZELWOOD
+ 136.43	SHOTTLE
+ 138.05	IDRIDGEHAY
+ 140.79	Gorsey Bank
+ 141.37	WIRKSWORTH
+ 141.39	incline junction
+ 141.58	end of line
+
+ 141.39	incline junction
+ 141.54	Wirksworth Lime & Stone Siding
+ 141.76	Browne & Shaw Stone Siding
+ 142.04	RAVENSTOR
+ 142.08	later end of line
+ 142.26	junction with CHP1 (mileage unknown)

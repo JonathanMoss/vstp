@@ -1,0 +1,13 @@
+  27.02	Saltburn West Junction/Saltburn Extension Junction with DSN3
+  27.12	junction with Saltburn goods lines
+  27.45	Saltburn goods depot
+  29.14	NORTH SKELTON
+  29.19	junction with … (Guisborough line)
+  29.38	North Skelton Junction with PRI
+  30.53	Brotton Junction with GUB (15.13)
+  30.58	BROTTON
+  33.62	junction with Skinningrove steel works lines
+  33.69	Crag Hall
+  34.08	Carlin How Junction with Skinningrove Zig Zag (0.00)
+  34.18	Carlin How goods depot
+  34.33	end on junction with SSK2

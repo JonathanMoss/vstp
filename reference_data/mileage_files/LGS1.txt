@@ -1,0 +1,17 @@
+  25.65	Kilwinning Junction with AYR4
+  26.00	KILWINNING
+  26.70	Dubbs Junction with BYL (0.00)
+  27.73	junction with ZZF5
+  27.75	Nobel's explosives works
+  28.01	Ardeer quarry
+  28.03	Ayrshire foundry
+  28.14	Misk Branch Junction with MSK (0.00)
+  28.25	STEVENSTON
+  28.42	Ardeer Iron Company's sidings
+  28.75	Auchinharvie No 5 pit
+  28.04	Auchinharvie Nos 1 & 4 pits
+	SALTCOATS [1]
+  29.55	SALTCOATS [3] formerly S.; S.CENTRAL
+	SALTCOATS [2]
+  30.38	ARDROSSAN SOUTH BEACH
+  30.44	Holm Junction with ARH and LGS2

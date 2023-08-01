@@ -1,0 +1,7 @@
+Official measure in use
+   0.00	Ford Junction with TBH2 (60.25)
+   0.31	Littlehampton Junction with BLI1 (19.25) and BLI2 (60.57)
+
+Alternative measure sometimes used
+  60.25	Ford Junction with TBH2
+  60.57	Littlehampton Junction with BLI1 (19.25) and BLI2 (60.57)

@@ -1,0 +1,2 @@
+   0.00	Cowlairs South Junction with EGM1 (1.27)
+   0.30	Sighthill West Junction with SGN/SIG (0.32)

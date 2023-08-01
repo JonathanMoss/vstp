@@ -1,0 +1,10 @@
+  81.01	Patney & Westbury Junction with BHL
+  81.07	PATNEY & CHIRTON
+  81.16	junction with BHL
+  81.78	divergence with BHL
+  83.62	Crookwood
+  86.70	LAVINGTON
+  91.32	EDINGTON & BRATTON
+  94.44	Heywood Road Junction with WES
+  94.76	Westbury East Loop Junction with WYL
+  95.36	junction with WEY (109.54)

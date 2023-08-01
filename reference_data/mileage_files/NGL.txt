@@ -1,0 +1,15 @@
+  13.21	junction with BML1 (13.34) [up line]
+  13.32	junction with BML1 [down line]
+  14.04	HINCHLEY WOOD
+  15.11	CLAYGATE
+  16.79	OXSHOTT
+  18.63	COBHAM & STOKE D'ABERNON
+  21.04	Effingham Junction with LEJ (22.15)
+  21.10	EFFINGHAM JUNCTION
+  22.12	HORSLEY
+  25.26	CLANDON
+  26.53	Surrey County Council siding
+  28.47	LONDON ROAD (GUILDFORD)
+  29.59	Guildford New Line Junction with WPH1 (30.14)
+
+Note that the up line mileage is extended back from Hinchley Wood

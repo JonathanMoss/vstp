@@ -1,0 +1,24 @@
+  74.10	Carstairs East Junction with CSP (74.10) and ECA1 (73.48)
+  74.34	Lampits Junction with Victoria Branch (≈73.50)
+  75.12	CARNWATH
+  77.72	Ampherlaw
+  79.34	AUCHENGRAY
+  80.04	Wilsontown Junction South with WSN (0.00)
+  80.21	Wilsontown Junction North with WSP (0.00)
+  82.19	Tarbax Junction with TRX (0.00)
+  83.02	COBBINSHAW [2]
+  83.39	COBBINSHAW [1]
+  85.53	HARBURN formerly WEST CALDER & TORPHIN; WEST CALDER & H.
+  86.74	Burnbrae
+  89.76	Midcalder Junction with EGS2 (23.12)
+  90.70	KIRKNEWTON formerly K.; MIDCALDER & K.; MIDCALDER
+  91.60	Camps Junction with CJM (0.00)
+  93.44	Ravelrig Junction with BNO (0.00)
+  95.42	CURRIEHILL formerly CURRIE
+  96.48	Baberton
+  97.17	WESTER HAILES
+  97.78	KINGSKNOWE [1] formerly SLATEFORD; KINGS KNOWES
+  98.05	KINGSKNOWE [2]
+  98.47	Balerno Junction with BNO (6.02)
+  98.75	SLATEFORD
+  99.01	Slateford Junction with CKT (0.48) and ECA3 (99.01)

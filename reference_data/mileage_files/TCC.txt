@@ -1,0 +1,49 @@
+ 119.74	Trent East Junction with TSN1
+ 120.32	North Erewash Junction with LCE (0.27)
+ 120.59	LONG EATON formerly L. E.; TOTON
+ 121.26	Toton Junction with THL (121.36)
+ 121.46	Toton down sidings
+ 121.58	Toton sidings
+ 122.49	STAPLEFORD & SANDIACRE formerly SANDIACRE & STAPLEFORD
+ 122.70	Mapperley Goods Branch Junction with WHM
+ 123.65	divergence with WHM and junction with Stanton Old Iron Works Branch (to 124.61)
+ 123.72	STANTON GATE
+ 125.09	Trowell Junction with MJT2 (130.56)
+ 125.14	TROWELL
+ 126.33	Babbington Branch Junction with BBN
+≈126.39	ILKESTON JUNCTION
+ 126.42	Ilkeston South Junction with IKT
+ 126.51	ILKESTON
+ 126.52	ILKESTON JUNCTION & COSSALL formerly I. J.
+ 127.27	intersection bridge with DEX (mileage unknown)
+ 127.27	North Curve Junction with INC (0.60)
+ 127.35	Bennerley Junction with BBL
+ 128.37	SHIPLEY GATE formerly S.
+ 128.42	Eastwood Branch Junction with EWD
+ 129.40	Heanor Junction with HGB
+ 129.68	LANGLEY MILL formerly L. M.; L. M. & EASTWOOD
+ 130.13	Beggarlee Branch Junction with BEG
+ 131.04	Brinsley Branch Junction with colliery lines
+ 131.55	Stoneyford
+ 132.17	Codnor Park Junction/Great Northern Junction with BBA (140.16)
+ 132.46	CODNOR PARK & IRONVILLE formerly C. P.
+ 132.76	Codnor Park Junction with APB/CPC
+ 133.23	Riddings Junction with CPC? (0.26)
+ 133.38	PYE BRIDGE
+ 133.67	Pye Bridge Junction with PBS1
+ 136.03	ALFRETON & SOUTH NORMANTON formerly A.
+ 136.07	ALFRETON formerly A. & MANSFIELD PARKWAY
+ 136.25	Alfreton Colliery Branch Junction with ACB (0.00)
+ 136.71	Blackwell South Junction with BSE
+ 137.09	WESTHOUSES & BLACKWELL
+ 137.13	Blackwell North Junction with NHT1 (0.00)
+ 137.43	Tibshelf South Junction with TSC
+ 138.51	DOE HILL
+ 139.07	Pilsley Branch Junction with PIL2 (0.00)
+ 139.09	Morton Branch Junction with MTN (0.00)
+ 140.38	Danesmoor
+ 141.31	Coney Green
+ 142.01	Clay Cross South Junction with SPC8 (147.60) and SPC9 (142.01)
+ 142.03	Clay Cross South Junction with Old Williamthorpe Branch
+ 142.09	Goods Station Branch Junction with Clay Cross Town Goods Branch
+ 142.10	repositioned Clay Cross South Junction with SPC8 (147.69) and SPC9 (142.10)

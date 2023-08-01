@@ -1,0 +1,4 @@
+   6.41	Sydenham Down Junction with LBW [down line]
+   6.51	Sydenham Up Junction with LBW [up line]
+   7.52	CRYSTAL PALACE formerly C. P.; C. P. LOW LEVEL
+   7.61	Crystal Palace Junction with BBJ (8.47)

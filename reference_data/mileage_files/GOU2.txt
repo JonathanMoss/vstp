@@ -1,0 +1,28 @@
+ 107.70	Stoneybrae Junction with GOU1 (6.53)
+ 108.28	Underwood mineral depot
+ 108.46	PAISLEY ST JAMES
+ 108.51	Paisley (St James) Junction with LPJ (114.52)
+ 109.03	Walkinshaw North Junction with WFK (0.00)
+ 109.07	Boghead & Candrons
+ 109.08	Walkinshaw
+ 110.05	Blackstone Junction with LIC (0.00)
+ 110.56	HOUSTON
+ 111.35	South Barr
+ 112.60	BISHOPTON (RENFREWSHIRE)
+ 116.66	LANGBANK
+ 119.45	WOODHALL
+ 120.30	junction with Port Glasgow harbour lines
+ 120.34	Port Glasgow goods
+ 120.44	Port Glasgow harbour
+ 120.71	PORT GLASGOW
+ 121.28	Wemyss Bay Junction with WYS (0.00)
+ 121.65	BOGSTON
+ 121.74	Ladyburn Junction with JWT
+ 122.40	Churchill
+ 122.52	CARTSDYKE
+ 122.70	junction with VHB (0.00)
+ 123.20	GREENOCK BRIDGE STREET
+ 123.38	GREENOCK CENTRAL
+ 124.10	GREENOCK WEST
+ 125.40	FORT MATILDA
+ 126.58	GOUROCK

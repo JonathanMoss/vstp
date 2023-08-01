@@ -1,0 +1,3 @@
+  17.23	Walton Old Junction with CHW1 (17.23) and WOA1 (0.68)
+  17.67	Warrington South Junction with WOA3 (0.23)
+  17.76	Warrington South Junction with CGJ2 (181.76) and CGJ3 (181.76)

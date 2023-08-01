@@ -1,0 +1,28 @@
+   7.74	end on junction with MVL2
+   8.04	Stalybridge Junction with MIK
+   9.40	Black Rock
+  10.39	MOSSLEY (MANCHESTER) formerly M.; M. GREATER MANCHESTER
+  12.48	Greenfield Junction with OLM (0.00)
+  12.54	GREENFIELD given as 12.46 in 1985
+  13.27	MOORGATE
+  13.29	Greenfields Junction with DEH (0.00)
+  13.67	SADDLEWORTH
+  14.59	Diggle Junction with MIK (14.69)
+  15.08	DIGGLE
+  18.59	MARSDEN (YORKS)
+  21.19	SLAITHWAITE
+  22.32	Linthwaite goods depot
+  22.62	GOLCAR
+  24.00	LONGWOOD formerly L.; L. & MILNSBRIDGE
+  24.69	Gledholt siding
+  25.20	Springwood Junction with PEH (0.40)
+  25.60	HUDDERSFIELD
+  26.43	Hillhouse goods depot
+  27.05	Red Doles Junction with MIH (194.58)
+  27.17	Fieldhouse siding
+  27.59	Kirkburton Branch Junction with KBN (0.00)
+  27.60	DEIGHTON
+  28.35	BRADLEY
+  28.39	Bradley Junction with BBW (0.00)
+  28.78	Heaton Lodge South Junction with MVL4 (28.78)/HLW1 (0.00)
+  29.45	Heaton Lodge Junction with MVN2 (37.18)

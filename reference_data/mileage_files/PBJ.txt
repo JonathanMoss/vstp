@@ -1,0 +1,41 @@
+   0.00	Curzon Street Junction with RBS1 (112.07)
+   0.15	Curzon Street sidings
+   0.37	Vauxhall
+   0.53	DUDDESTON [2] formerly VAUXHALL; V. & D.
+  ≈0.74	DUDDESTON [1]
+   1.57	junction with Windsor Street line (0.75 long)
+   1.60	Aston South Junction with SAS (2.61)
+   1.68	ASTON
+   1.73	Aston North Junction with ALC1 (0.00)
+   2.45	WITTON (WEST MIDLANDS) formerly W.; W. & LOWER GROUNDS
+   2.65	Witton sidings
+   3.33	PERRY BARR
+   3.44	Perry Barr South Junction with SSP (0.00)
+   4.09	Perry Barr North Junction with PBL (0.00)
+   4.76	HAMSTEAD (BIRMINGHAM) formerly GREAT BARR
+   5.08	GREAT BARR formerly G. B.; HAMSTEAD & G. B.
+  ≈6.44	NEWTON ROAD [2]
+   6.51	NEWTON ROAD [1]
+  ≈6.72	WEST BROMWICH
+   7.48	TAME BRIDGE PARKWAY formerly T. B.
+   7.59	Newton
+   7.64	junction with BSD2
+   7.65	junction with BSD6
+   8.17	junction with BSD6
+   8.27	junction with BSD1
+   8.47	BESCOT STADIUM formerly B.; B. JUNCTION; B.
+   8.50	Bescot Junction with BJW1 (0.01)
+   8.64	junction with BSD4
+   9.32	WOOD GREEN OLD BESCOT formerly BESCOT BRIDGE
+   9.64	Darlaston Junction with WDJ (0.15)
+   9.78	junction with WYD (2.41)
+  10.04	DARLASTON formerly D.; JAMES BRIDGE; D. & J. B.
+  10.10	DARLASTON
+  11.53	WILLENHALL BILSTON STREET formerly W.; W. BRIDGE; W.
+  11.55	WILLENHALL
+	PORTOBELLO
+  12.60	Portobello Junction with PJW (0.00)
+  14.14	WEDNESFIELD HEATH formerly WOLVERHAMPTON
+  15.23	Bushbury (Oxley) Junction with OXC (0.00)/BUY (143.18)
+  15.26	BUSHBURY
+  15.32	Bushbury Junction with RBS2 (14.42) and RBS3 (15.32)

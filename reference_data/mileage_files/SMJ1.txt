@@ -1,0 +1,10 @@
+ 166.60	Swinton Junction South with TJC3
+ 166.74	SWINTON (SOUTH YORKS) [2] formerly S.; S. TOWN
+ 167.03	Swinton Junction North with SJM1
+ 167.09	SWINTON [1]
+ 167.18	Swinton Junction with SWW (0.39)
+ 167.71	Wath Road Junction with TJC3
+ 168.50	Wath Junction with WAE (0.00)
+ 168.54	Dearne Junction with SMJ2 (17.25) and WAD (0.67)
+
+Note that 166.60-167.71 is duplicated in TJC3

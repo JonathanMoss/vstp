@@ -1,0 +1,7 @@
+   0.00	ROMFORD
+   0.13	Romford Junction with LTN1 (12.52)
+   0.27	divergence with LTN1 (12.66)
+   0.57	Romford goods depot
+   1.64	EMERSON PARK
+   3.26	Upminster West Junction with FSS2 (15.17)
+   3.30	UPMINSTER

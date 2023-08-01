@@ -1,0 +1,22 @@
+ 214.43	Newton Abbot West Junction with MLN1
+ 215.10	Aller Junction with MLN1
+ 216.34	KINGSKERSWELL {planned reopening]
+ 219.12	TORRE
+ 219.79	TORQUAY
+ 221.13	PRESTON
+ 222.07	PAIGNTON QUEENS PARK
+ 222.12	PAIGNTON
+ 222.47	Paignton goods depot
+ 222.67	GOODRINGTON SANDS
+ 222.70	Goodrington carriage sidings
+ 224.14	BROADSANDS
+ 225.00	Brixham Junction with BXM
+ 225.05	CHURSTON
+≈227.20	start of deviation
+≈227.60	end of deviation
+ 227.74	BRITANNIA
+ 228.68	KINGSWEAR
+
+Note that this route also had nominal mileages for use when referring to marine works.
+ 228.69	Dartmouth ferry
+ 228.70	Dartmouth landing stage

@@ -1,0 +1,11 @@
+ 159.00	end on junction with LEC5
+≈161.21	COPPENHALL
+ 162.73	MINSHULL VERNON
+ 165.41	WINSFORD
+ 166.70	Winsford Junction with OAW (0.00)
+ 169.64	HARTFORD (CHESHIRE) formerly H.
+ 170.47	Hartford LNW Junction with HCN (0.16)
+ 172.38	ACTON BRIDGE (CHESHIRE) formerly A.; A. B.
+ 174.22	Weaver Junction with WJL1 [up line]
+ 174.53	Weaver Junction with WJL1 [down line]
+ 176.00	end on junction with CGJ2

@@ -1,0 +1,15 @@
+ 112.03	Stoke Gifford Junction No 2 with SWB
+ 112.07	Stoke Gifford tip
+ 112.70	Filton West Junction No 1 with PAC (0.38)
+ 112.78	Filton West Junction No 2 with FWC (5.41)
+ 113.10	NORTH FILTON [1]
+≈113.37	NORTH FILTON [2]
+ 114.15	CHARLTON
+≈115.15	HENBURY [2]
+ 115.31	HENBURY [1]
+ 116.08	HALLEN [1]
+ 116.18	HALLEN [2]
+ 118.03	CHITTENING FACTORY
+ 118.42	Hallen Marsh Junction with AMB (14.38)
+
+Note that sometimes the Portbury terminal sidings beside AMB are considered part of AFR.  Using the AFR measure, the sidings run to 120.04

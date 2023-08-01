@@ -1,0 +1,11 @@
+ 162.14	Dorchester Junction with BML2 (136.15) and WEY (162.14)
+ 163.08	MONKTON & CAME formerly C. BRIDGE
+ 164.03	Bincombe
+ 165.18	UPWEY WISHING WELL
+ 165.75	UPWEY [1]
+ 166.30	UPWEY [2] formerly U. JUNCTION; U. & BROADWEY
+ 166.40	junction with ABB (0.01)
+ 167.01	Redlands
+ 167.59	RADIPOLE
+ 168.34	Weymouth Junction with WTQ
+ 168.63	WEYMOUTH

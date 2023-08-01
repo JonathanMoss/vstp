@@ -1,0 +1,22 @@
+   1.50	Skelton Junction with ECM5 (1.50) and HOS (1.58)
+   2.72	POPPLETON
+   5.09	HESSAY
+   6.08	MARSTON MOOR
+   7.45	WILSTROP SIDING
+   8.61	HAMMERTON
+  10.17	CATTAL
+  11.08	Whixley
+  12.16	HOPPERTON
+  13.64	GOLDSBOROUGH
+ ≈15.67	KNARESBOROUGH [1]
+  16.23	Knaresborough Goods Junction with BOR (12.64)
+  16.29	junction with Knaresborough goods lines
+  16.36	Knaresborough goods depot
+  16.50	KNARESBOROUGH [2]
+  17.69	Belmont
+  18.22	Starbeck South Junction with LEN1 (17.32)
+  18.27	STARBECK
+  18.40	Starbeck North Junction with LEN1 (17.50)
+  18.60	junction with HAY2
+
+Note that 18.22-18.40 was in LEN1

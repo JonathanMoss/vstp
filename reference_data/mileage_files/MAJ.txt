@@ -1,0 +1,48 @@
+   6.11	realigned Hunts Cross West Junction with AHX (0.37) and HXS1 (6.11)
+   6.22	original Hunts Cross West Junction with AHX (0.44) and HXS1 (6.22)
+   7.07	HUNTS CROSS
+   7.28	Hunts Cross Junction East with HTS
+   8.15	HALEWOOD [2]
+   8.27	Halewood Junction East with Halewood Link Line (0.00)
+   8.34	HALEWOOD [1]
+  10.42	HOUGH GREEN
+  10.58	Hough Green Junction with WIB (10.58/0.00)
+  12.20	WIDNES formerly FARNWORTH
+  13.42	junction with link to WIB
+  14.08	Widnes Junction with WIB (15.60/5.02)
+  15.67	SANKEY FOR PENKETH
+  16.31	WARRINGTON WEST
+  17.13	Burtonwood
+  17.20	Sankey Junction with CLC
+  17.51	Whitecross Branch Junction with Whitecross Wharf (to 17.68) and Whitecross Wire and Iron Works (to 17.75) branch
+  18.02	Dallam Forge Junction with Dallam branch (0.00) (to 0.29)
+  18.30	WARRINGTON CENTRAL formerly W.
+  19.22	junction with workshop branch (0.33 long)
+  19.65	Padgate Junction with CLC (19.37)
+  20.13	PADGATE
+  21.44	BIRCHWOOD
+  23.63	Dam Lane Junction with link to WJN (0.37 long)
+  24.24	Glazebrook West Junction with WJN (0.00)
+  24.37	GLAZEBROOK
+  24.57	Glazebrook East Junction with WJP1
+  25.51	IRLAM formerly I. & CADISHEAD
+  27.65	FLIXTON
+  28.40	CHASSEN ROAD
+  29.02	URMSTON
+  30.17	HUMPHREY PARK
+  30.68	TRAFFORD PARK formerly T. P.; T. P. & STRETFORD
+  31.65	Trafford Park West Junction with GTP4 (31.65) and TPS1 (0.00)
+  31.66	Trafford Park East Junction with TPS3
+  31.70	MANCHESTER UNITED FOOTBALL GROUND
+  32.42	Throstle Nest East Junction with GTP3 (1.41)
+  32.63	Metrolink diveunder
+ (33.00)	CORNBROOK [Metrolink stop]
+  32.77	Cornbrook Junction with CDM1 (1.17)
+  33.10	Start of viaduct
+  33.55	Castlefield Junction with DGB (0.00)
+  33.57	Castlefield Junction with COL (189.67)
+  33.61	junction with goods depot lines
+  34.03	MANCHESTER CENTRAL
+  34.05	Manchester Central goods depot
+
+Note that 32.77-33.57 was previously part of CDM1 (1.17-0.37)

@@ -1,0 +1,4 @@
+   0.00	Oxcroft Junction with BAC3 (154.15)
+   0.54	start of sidings
+   0.78	Oxcroft disposal point
+   1.05	end of line

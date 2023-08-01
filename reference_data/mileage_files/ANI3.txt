@@ -1,0 +1,18 @@
+ 119.26	FORRES and original junction with ANI2 (0.00)
+ 119.29	later junction with ANI2 (0.00)
+ 119.30	junction with AFS
+ 122.59	BRODIE
+ 125.22	Easterton
+ 126.38	AULDEARN
+ 128.72	NAIRN
+ 131.09	KILDRUMMIE formerly CAWDOR
+ 134.37	GOLLANFIELD formerly FORT GEORGE; G. JUNCTION
+ 134.51	Gollanfield Junction with GFG (0.14)
+ 136.43	INVERNESS AIRPORT
+ 137.19	DALCROSS
+ 138.32	CASTLE STUART
+ 140.55	ALLANFEARN formerly CULLODDEN
+ 143.20	Millburn Junction with HGL2 (117.20)
+ 143.39	[repositioned] Millburn Junction with HGL2 (117.39)
+
+Note that when the junction with ANI2 was moved in 2017, ANI2 was rebuilt on a straighter route and its mileage count was extended back to zero, hence the 3ch difference.  Note too that this line was originally measured from Inverness

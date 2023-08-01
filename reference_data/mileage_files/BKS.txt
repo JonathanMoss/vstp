@@ -1,0 +1,22 @@
+   0.00	Brancliffe East Junction with MAC3 (53.57)
+   0.37	Brancliffe North Junction with BRW (0.40)
+   2.31	ANSTON
+   2.66	Anston Junction with THC
+   3.16	Dinnington Colliery Branch Junction (South) with DIC
+   3.36	Dinnington Colliery Branch Junction (North) with DIC
+   3.68	Laughton East Junction with Laughton East Junction to West Junction
+   4.26	DINNINGTON & LAUGHTON
+   8.66	MALTBY
+   9.26	junction with MAM1
+  (9.38)	Maltby Colliery Junction with MAM2
+   9.53	junction with MAM1
+  11.19	Firbeck Junction with HAC
+  12.43	TICKHILL & WADWORTH formerly T.
+  15.14	St Catherine's Junction with YDS
+  15.17	St Catherine's Junction with DVR3 (71.58)
+  15.20	St Catherines Junction with link to Black Carr East Junction on DVR1 (0.51 long)
+  15.22	St Catherine's Junction with SBE (0.00)
+  15.55	relocated Low Ellers Curve Junction with UDS
+  15.78	original Low Ellers Junction with UDS
+  17.69	junction with MMC (0.00)
+  20.51	Kirk Sandall Junction with DOW (3.26)

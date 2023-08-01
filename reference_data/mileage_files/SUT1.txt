@@ -1,0 +1,8 @@
+ 244.02	Laira Junction with MLN1
+ 244.10	Laira HST depot
+ 244.17	Laira diesel depot
+ 244.23	Laira (steam) locomotive depot
+ 244.30	Speedway Junction with PLO (0.18)
+ 244.45	Mount Gould Junction with SUT2 (244.41)
+
+244.30-244.45 is shared with PLO (0.18-0.34)

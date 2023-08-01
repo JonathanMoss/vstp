@@ -1,0 +1,24 @@
+   0.00	junction with PRC (0.00) and NAJ2 (24.48)
+   1.51	BLEDLOW
+   4.31	TOWERSEY
+   5.53	THAME
+   6.00	end on junction with PRT
+   9.65	TIDDINGTON
+  13.13	WHEATLEY
+  14.64	HORSPATH [1]
+  14.68	HORSPATH [2]
+  15.15	later start of line
+  15.42	STVA sidings [mean]
+  15.72	Morris Cowley
+  16.08	GARSINGTON BRIDGE
+  16.09	MORRIS COWLEY
+  16.14	junction with British Leyland Motor Company sidings
+	OXFORD EAST
+  17.14	OXFORD SCIENCE PARK temporary station 5 November 2014 only
+	OXFORD SOUTH
+  17.47	LITTLEMORE
+  17.57	Littlemore oil siding
+  18.31	IFFLEY
+  18.47	Kennington Junction with DCL (61.12)
+
+Note that the line below 6.00 was originally PRT

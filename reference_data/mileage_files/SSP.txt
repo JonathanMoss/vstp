@@ -1,0 +1,7 @@
+   0.00	Perry Barr South Junction with PBJ (3.44)
+   0.39	Perry Barr West Junction with PBL (0.29)
+   0.74	HANDSWORTH WOOD
+   1.52	junction with Soho Pool line
+   1.59	SOHO ROAD
+   2.38	Soho East Junction with SCL (0.00)
+   2.75	Soho South Junction with RBS2 (2.06)

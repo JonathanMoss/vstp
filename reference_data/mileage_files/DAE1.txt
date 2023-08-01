@@ -1,0 +1,14 @@
+   0.00	Parkgate Junction with ECM5 (44.64)
+   0.21	Northgate goods depot
+   0.30	Albert Hill Junction with FGC1 (0.00)
+   0.49	NORTH ROAD (DARLINGTON)
+   0.50	Hope Town goods depot
+   0.53	North Road locomotive works
+   0.75	Hopetown Junction with DNT/HON (0.00)
+   1.02	Rise Carr goods depot
+   1.26	Charity Junction with SPV (0.00)
+   3.56	Whiley Hill goods depot
+   5.08	HEIGHINGTON
+   6.30	NEWTON AYCLIFFE
+   6.77	Simpasture Junction with SIM (0.00)
+   8.28	Shildon South Junction with DAE2 and BSS (0.00)

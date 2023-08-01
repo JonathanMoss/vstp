@@ -1,0 +1,6 @@
+  99.01	Slateford Junction with CKT (0.48) and ECA2 (99.01)
+  99.15	junction with ZZB9 (0.34)
+  99.21	Gorgie Junction with PST
+  99.24	original Granton Junction with GRM
+ 100.05	relocated Granton Junction with GRM
+ 100.41	Haymarket East Junction with EGM2 (45.72)

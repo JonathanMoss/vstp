@@ -1,0 +1,16 @@
+  81.25	Greetwell West Junction with LIA (0.00) and SPD2 (81.25)
+  82.18	Sincil Junction with BLN (129.66)
+  82.28	junction with LNL3 (138.13)
+  82.29	Pelham Street Junction with NOB3/PSL (41.26/0.05)
+  82.41	LINCOLN formerly L. CENTRAL
+  82.60	East Holmes
+  83.29	West Holmes Junction with NOB2 (32.70)
+  84.13	Pye Wipe Junction with BHP/LIA (0.65/3.11)
+  84.19	Pye Wipe Junction with CLN3 (37.62)
+  87.40	SKELLINGTHORPE
+  88.51	SAXILBY
+  90.04	Sykes Junction with TYB3 (76.46)
+  93.12	STOW PARK
+  95.79	LEA
+  98.09	GAINSBOROUGH LEA ROAD formerly G.; G. NORTH and Gainsborough Wharf Branch Junction with GLY
+  98.56	Gainsborough Trent Junction with MAC3 (73.24)

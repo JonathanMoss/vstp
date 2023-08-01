@@ -1,0 +1,28 @@
+   0.00	WREXHAM CENTRAL [1]
+   0.01	junction with ELW (12.46)
+   0.16	WREXHAM CENTRAL [2]
+   0.43	Wrexham South Junction with WSJ2 (201.62)
+   0.49	WREXHAM GENERAL formerly W. EXCHANGE
+   0.65	connection with WSJ2 (202.07)
+   1.35	Brymbo South Junction with BRO
+   1.38	RHOSDDU
+   2.05	Brymbo North Junction with link to BRO (0.20 long)
+   2.29	GWERSYLLT
+   3.15	junction with Gwersyllt Branch (1.41)
+   3.21	Ffrwd/Frood junction with FFR (0.00)
+   4.20	CEFN-Y-BEDD
+   4.62	Pendwllyn colliery
+   4.73	CAERGWRLE formerly BRIDGE END; C. CASTLE; C. CASTLE & WELLS
+   5.17	Lassell's siding
+   5.44	HOPE (FLINTSHIRE) formerly CAERGWRLE; H. VILLAGE; H. CLWYD
+   7.39	PENYFFORDD formerly HOPE JUNCTION; PEN-Y-FFORDD
+   7.41	Pen-Y-Ffordd Junction with MDH1 (0.00)
+   7.64	HOPE EXCHANGE
+   8.08	Castle Cement sidings
+   8.54	Buckley Junction with BUC (0.00)
+   8.68	BUCKLEY formerly B. JUNCTION
+  10.64	HAWARDEN
+  11.37	Aston Hall colliery
+  13.00	SHOTTON formerly CONNAHS QUAY & S.; S. HIGH LEVEL
+  13.08	junction with SLP
+  13.33	junction with WDB2 (14.15)

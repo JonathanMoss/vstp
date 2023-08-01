@@ -1,0 +1,31 @@
+   0.00	Woodburn Junction with MAC3 (42.29) and NUJ2 (42.29)
+   0.28	Attercliffe Junction with ADW (0.00)
+   0.56	ATTERCLIFFE
+   1.18	BROUGHTON LANE
+   1.36	Broughton Lane East Junction with BLJ (161.67)
+   2.22	Tinsley South Junction with SEL (161.63)
+   2.23	TINSLEY
+   2.25	Tinsley Junction South with SMC
+   2.61	Tinsley North Junction with TST (0.00)
+   2.68	Tinsley East Junction with Templeborough rolling mills lines
+   3.19	Tinsley Junction East with … (link to SMC) (0.00)
+   3.79	intersection bridge under CHR (161.28)
+   4.40	Rotherham Central Junction with HCD (0.62)
+   4.56	ROTHERHAM CENTRAL [tram-train platforms]
+   4.60	ROTHERHAM CENTRAL formerly R.; R. MASBOROUGH
+   5.05	Greasborough Road
+   5.48	ROTHERHAM ROAD formerly PARK GATE
+   5.59	Parkgate Junction with PSP (0.00)
+   6.40	Aldwarke Lane Junction with steel works lines
+   6.51	PARKGATE & ALDWARKE formerly A.
+   6.69	Aldwarke South Junction with ANS
+   7.00	Aldwarke North Junction with ASN (164.48)
+   7.17	[later] Aldwarke Junction with TJC3 (164.63)
+   7.24	Roundwood Chord Juncton with RSC
+   7.26	[later] junction with TJC3 (164.73)
+   7.57	[later] junction with original route
+   7.73	Thrybergh Junction with SIC2 (13.13)
+   8.45	KILNHURST CENTRAL formerly K.
+   9.67	SWINTON CENTRAL formerly S.
+   9.79	junction with link to PED4 (0.15 long)
+  10.17	Mexborough East Junction with PED4 (15.64), PED5 (15.64) and SJM2 (15.64)

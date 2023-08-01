@@ -1,0 +1,3 @@
+   0.00	Minster East Junction with ACR (82.17)
+   0.23	intermediate Minster South Junction with MSW (82.08)
+   0.32	Minster South Junction with BME2 (82.21) and original and later Minster South Junction with MSW (82.21)

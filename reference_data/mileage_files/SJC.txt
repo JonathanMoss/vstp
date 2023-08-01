@@ -1,0 +1,9 @@
+   0.00	Carnforth Furness & Midland Junction with CBC1 (0.71)
+   0.03	junction with line to Furness/London & North Western/Furness & Midland Joint goods station (to 0.22)
+   0.20	junction with branch to hematite sidings (to 0.43)
+   0.24	CARNFORTH [later goods depot]
+   0.31	Carnforth East Junction with CEC (0.25)
+   3.10	BORWICK
+   6.75	ARKHOLME
+   8.04	MELLING
+   9.45	Wennington Junction with SKW1 (249.44) and SKW2 (249.44)

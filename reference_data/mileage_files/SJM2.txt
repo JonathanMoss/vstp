@@ -1,0 +1,5 @@
+  15.00	Mexborough West Junction with SJM1 (167.17)
+ ≈15.41	MEXBOROUGH [early station]
+  15.64	Mexborough East Junction with PED4 (15.64), PED5 (15.64) and WME (10.17)
+
+Note that this route partially reuses SWW

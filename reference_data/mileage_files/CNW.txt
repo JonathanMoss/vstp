@@ -1,0 +1,2 @@
+   0.00	Carmarthen Bridge Junction with SWM2 (245.32)
+   0.19	P&T Loop Junction with CAN (245.30)

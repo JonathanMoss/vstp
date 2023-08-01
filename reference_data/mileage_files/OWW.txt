@@ -1,0 +1,98 @@
+  66.32	Wolvercot Junction with DCL
+  67.11	Yarnton Junction with WOL (1.47)
+  67.25	YARNTON
+  67.28	Witney Junction with FFD
+  70.39	HANBOROUGH formerly HANDBOROUGH
+  71.44	COMBE (OXON)
+  75.10	FINSTOCK
+  76.60	CHARLBURY
+  80.33	ASCOTT-UNDER-WYCHWOOD formerly A.
+  81.59	SHIPTON
+  84.48	Chipping Norton Line Junction with BKC
+  84.59	KINGHAM formerly CHIPPING NORTON JUNCTION
+  84.65	Cheltenham Line Junction with BCL
+  87.31	ADLESTROP formerly ADDLESTROP & STOW ROAD; ADDLESTROP
+  91.49	Moreton & Shipston Tramway Junction with MSZ
+  91.61	MORETON-IN-MARSH
+  93.55	Aston Magna
+  94.74	BLOCKLEY
+  96.75	CHIPPING CAMPDEN formerly CAMPDEN
+  99.16	MICKLETON
+ 100.55	Honeybourne South Loop Junction with HSP (0.00)
+ 101.54	Honeybourne Junction with STD (0.00)
+ 101.60	HONEYBOURNE
+ 102.53	Sheenhill
+ 104.27	LITTLETON & BADSEY
+ 105.30	Adlington siding
+ 106.55	EVESHAM
+ 106.64	[later] Evesham North Junction with Evesham Junction
+ 106.74	[original] Evesham North Junction with Evesham Junction (74.03)
+ 107.02	Evesham goods yard
+ 109.02	Charlton siding
+ 109.68	FLADBURY
+ 111.36	WYRE
+ 112.52	PERSHORE
+ 114.67	STOULTON
+ 116.60	WORCESTERSHIRE PARKWAY
+ 116.66	intersection bridge with BAG2 (68.15)
+ 117.02	Norton siding
+ 117.26	Norton Junction with ABW (0.64)
+ 117.32	NORTON JUNCTION
+ 120.13	Worcester Midland goods depot
+ 120.14	Wylds Lane Junction with WOG
+ 120.42	WORCESTER SHRUB HILL
+ 120.47	Shrub Hill Junction with WAH
+ 120.55	Worcester locomotive depot
+ 120.58	junction with VIZ
+ 120.72	Goods Line Junction with WOG (120.69)
+ 120.78	Worcester Tunnel Junction with BLW (0.30)
+ 121.32	ASTWOOD
+ 122.12	BLACKPOLE
+ 123.09	FERNHILL HEATH formerly FEARNALL H.
+ 126.10	DROITWICH SPA formerly D.
+ 126.21	junction with STO
+ 129.40	CUTNALL GREEN
+ 131.17	Elmley Lovett
+ 131.68	HARTLEBURY
+ 132.15	Hartlebury Junction with SOS/SVB
+ 135.09	junction with BYK (135.33)
+ 135.21	mileage reversal point for BYK
+(135.40)	KIDDERMINSTER [Severn Valley Railway]
+ 135.46	KIDDERMINSTER
+ 138.54	BLAKEDOWN formerly CHURCHILL & B.
+ 140.29	HAGLEY
+ 142.16	STOURBRIDGE JUNCTION [2]
+ 142.20	Stourbridge Middle Junction with SJS
+ 142.46	junction with Stourbridge North Curve (0.00)
+ 142.48	STOURBRIDGE JUNCTION [1] formerly S.
+ 142.50	Stourbridge North Junction with GSJ2 (141.06)
+ 143.09	Amblecote colliery
+ 144.15	BRETTELL LANE formerly BRETTEL L.
+ 144.31	Kingswinford Junction with KWD
+ 144.37	High Ercal colliery
+ 144.59	Moor Lane siding
+ 144.78	BRIERLEY HILL
+ 145.33	ROUND OAK [2]
+≈145.40	ROUND OAK [1] formerly BRIERLY HILL & R. O.; R. O. & BRIERLY HILL
+ 145.42	Saltwells siding
+ 145.43	junction with WBA
+ 145.52	Earl Dudley's siding
+ 146.04	Woodside iron works
+ 146.09	Woodside colliery
+ 146.14	HART'S HILL & WOODSIDE
+ 146.26	Parkhead siding
+ 147.01	Blowers Green colliery
+ 147.11	NETHERTON
+ 147.12	Barn Bye and Peartree Lane collieries
+ 147.24	Blowers Green Junction with WED (140.15)
+ 147.28	BLOWERS GREEN
+ 148.16	DUDLEY
+ 148.20	Dudley Junction with DPJ (0.00)
+ 149.20	TIPTON FIVE WAYS formerly T.
+ 149.41	junction with TFW
+ 150.08	PRINCES END & COSELEY formerly P. E.
+ 150.73	DAISY BANK & BRADLEY formerly D. B.
+ 151.46	BILSTON WEST formerly B.
+ 151.56	Hickmans Branch Junction with Bilston Branch/Hickmans Branch (0.00)
+ 152.37	PRIESTFIELD
+ 152.43	Priestfield Junction with DCL (140.23)

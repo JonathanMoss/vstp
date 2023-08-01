@@ -1,0 +1,8 @@
+ 176.00	end on junction with CGJ1
+ 176.67	PRESTON BROOK
+ 179.25	MOORE
+ 180.23	Acton Grange Junction with CHW1 (16.16)
+ 181.74	later Warrington South Junction with CGJ3 (181.76)
+ 181.76	Warrington South Junction with CGJ3 (181.76) and CHW2 (17.76)
+
+Note that a later realignment was 0.02 shorter

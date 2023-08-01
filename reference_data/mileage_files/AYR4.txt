@@ -1,0 +1,21 @@
+  22.53	Dalry Junction with AYR3
+  23.06	Dalry Junction with DAK
+  23.15	DALRY JUNCTION
+  24.24	Monkcastle
+  25.11	Dalgarven
+  25.55	junction with ZZE9
+  25.65	Kilwinning Junction with LGS1
+  26.00	KILWINNING
+  26.07	Hendry's siding
+  26.49	Eglinton iron works
+  26.75	Byrehill Junction with BYL (0.60)
+  27.70	BOGSIDE
+  27.71	Bogside Junction with SDG (0.00)
+  28.15	United Alkali Company's siding
+  29.28	IRVINE
+  29.34	Irvine Junction with IHB (0.00)/IRE (29.34)
+  29.33	junction with Crosshouse to Irvine Line (5.58)
+  31.23	GAILES
+  32.77	BARASSIE
+  33.05	Barassie Junction with BAK (7.57)
+  33.08	Barassie Junction with AYR5 (0.00), THR (33.08) and TRN/ZZA4 (33.08)

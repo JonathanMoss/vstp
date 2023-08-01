@@ -1,0 +1,24 @@
+ 127.54	London Road Junction with DBP1 (0.00) and SPC7 (128.23)
+ 127.68	DERBY formerly D. MIDLAND
+ 128.08	Derby Junction with SPC6 (128.30)
+ 128.33	Derby North Junction with DNC
+ 128.49	DERBY NOTTINGHAM ROAD
+ 129.11	St Mary's North Junction with goods branch (0.00) (to 0.40)
+ 131.04	Little Eaton Junction with LED
+ 132.79	Duffield Junction with DJW
+ 133.08	DUFFIELD
+ 134.79	BELPER [1] later goods station
+ 135.55	BELPER [2]
+ 137.41	Ambergate South Junction with AJM1 [from 17 February 2019]
+ 137.61	Ambergate South Junction with AJM1
+ 137.74	Ambergate South Junction with AJM1
+ 138.30	Ambergate North Junction with Ambergate North Curve (0.00)
+ 138.55	Crich Junction with APB (138.56)
+ 141.11	WINGFIELD
+ 142.50	junction with Shirland colliery line (to 143.51)
+ 145.31	STRETTON formerly SMITHY MOOR
+ 147.60	Clay Cross South Junction with SPC9 (142.01) and TCC (142.01)
+ 147.68	Goods Station Branch Junction with Clay Cross Town Goods Branch (142.09)
+ 147.69	repositioned Clay Cross South Junction with SPC9 (142.10) and TCC (142.10)
+
+Until the section of line was remiled, SPC8 formerly started from 128.33, the section 127.54-128.33 being part of SPC7

@@ -1,0 +1,89 @@
+   0.00	Taff Vale Extension Junction with HNL1 (32.43)
+   0.02	Pontypool North Junction with PMN
+   0.20	Pontypool West Junction with PWJ (0.00)
+   0.70	PONTYPOOL CLARENCE STREET formerly P.; P. TOWN
+   1.11	Trosnant Junction (Vale Of Neath) with TRO (0.00)
+   1.34	revised junction with TRO
+   3.45	Blaendare Junction goods depot
+   4.00	CRUMLIN VALLEYS COLLIERY
+  ≈4.18	CEFN CRIB
+   5.10	HAFODYRYNYS
+  ≈5.32	CRUMLIN [temporary]
+   5.36	Crumlin Junction with LHI
+   6.00	CRUMLIN HIGH LEVEL formerly C.
+   6.59	TREOWEN
+   7.40	PENTWYNMAWR
+   7.60	Penar Junction with HRD2 (4.67) and PEN (4.67)
+   7.68	PENAR JUNCTION
+   8.64	PONTLLANFRAITH LOW LEVEL formerly TREDEGAR JUNCTION; P.
+   9.20	Bird In Hand Junction with BIH (0.00)
+   9.40	Sirhowy Junction with GEL (0.22)
+  10.11	Maesycwmmer/Fleur De Lis Junction with MAE
+  10.53	HENGOED formerly RHYMNEY JUNCTION; H. & MAESYCWMMER; H. HIGH LEVEL
+  10.55	Ystrad Branch Junction with YST (0.00)
+  10.65	Hengoed Loop Junction with HGD (0.37)
+  12.40	Penalltau Junction with PTA (15.01)
+  13.30	LLANCAIACH formerly LLANCAICH (NELSON); L. & NELSON
+  13.36	Taff Bargoed Junction with NLN (19.12) and original and 2020 junction with TBD (13.36)
+  13.45	NELSON & LLANCAIACH
+  13.53	intermediate Taff Bargoed Junction with TBD
+  14.23	TRELEWIS
+  14.29	Ocean Junction with Taff Merthyr colliery lines
+  14.72	TREHARRIS
+  15.20	Quakers Yard Branch Junction with QYB
+  15.58	QUAKERS YARD HIGH LEVEL formerly Q. Y.
+  15.61	junction with QYZ (0.00)
+  17.30	PENRHIWCEIBER HIGH LEVEL formerly P.
+  18.57	MOUNTAIN ASH (CARDIFF ROAD) formerly M. A.
+  19.50	DUFFRYN CROSSING
+  20.68	junction with ALK (22.23)
+  20.71	CWMBACH [1]
+  20.72	CWMBACH [2]
+  22.25	ABERDARE arrival platform
+  22.34	ABERDARE
+  22.37	ABERDARE HIGH LEVEL formerly A.
+  22.45	Aberdare Junction with ADJ (23.77)
+  22.56	Aberdare loco depot
+  22.63	Gadlys Junction with colliery lines
+  23.34	TRECYNON
+  24.58	Gelli Tarw Junction with MER (0.00)
+  24.61	Gelli Tarw Junction with DAZ (0.00)
+  25.20	MERTHYR ROAD
+  25.76	HIRWAUN formerly HIRWAIN
+  27.10	HIRWAUN POND
+  27.72	RHIGOS
+  30.57	PONTWALBY
+  30.75	BRITISH RHONDDA [possibly at 30.69]
+  31.44	CWMRHYD-Y-GAU
+  32.31	GLYN NEATH
+  33.12	Aberpergwm Branch Junction with APG (0.00)
+  34.44	junction with colliery lines
+  35.25	RESOLVEN
+  35.35	junction with colliery lines
+  35.72	junction with T T Lewis & Company's siding
+  36.32	MELYNCOURT
+  37.33	CLYNE
+  37.55	Cefn Mawr junction with colliery lines
+  39.54	ABERDYLAIS
+  40.68	Neath Junction with NEJ (208.71)
+  41.18	Neath & Brecon Junction with NAB (0.00)
+  41.25	NEATH RIVERSIDE formerly N. LOW LEVEL; N. BRIDGE STREET
+  42.37	NEATH ABBEY
+  43.09	CARDONNEL
+  43.38	Cardonnel East Junction with DYZ (19.44)
+  44.17	Jersey Marine Junction South with JER (2.24)
+  44.18	Jersey Marine South Junction with RSB (20.23)
+  44.60	start of diversion
+  45.07	BRITON FERRY ROAD [on original alignment only]
+  45.40	end of diversion
+  46.61	Kings Dock Junction with SKD (0.00)
+ (46.71)	Danygraig depot, line DAN, alongside
+  47.51	DANYGRAIG
+  47.69	Port Tennant Junction with SEK
+  47.73	Swansea East Dock loco depot
+  48.07	East Dock Junction with SWT
+  48.55	Wind Street Junction with SND (216.42)
+	SWANSEA WIND STREET
+  49.11	Gorseinon Line Junction with SWN (12.07)
+
+Note that 0.00-5.77 was known as the Taff Vale Extension Line, though never had a separate engineer's line reference

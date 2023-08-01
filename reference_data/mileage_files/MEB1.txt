@@ -1,0 +1,7 @@
+   0.00	MOORGATE
+   0.45	OLD STREET
+   1.59	ESSEX ROAD formerly E. R.; CANNONBURY & E. R.
+   2.21	HIGHBURY & ISLINGTON
+   2.56	DRAYTON PARK
+  ≈2.60	junction with MEB2
+   3.37	Finsbury Park South Junction with CFP (4.33) and ECM1 (2.33)

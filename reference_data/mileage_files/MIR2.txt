@@ -1,0 +1,10 @@
+   0.69	Mann Island Junction with MIR1 (0.00 and 2.21) and SIL (0.69)
+   1.60	Canning Street Junction with CWK1 down line
+   1.67	BIRKENHEAD HAMILTON SQUARE formerly H. S.
+   1.72	Hamilton Square Junction with CWK1 up line
+   2.30	BIRKENHEAD CENTRAL
+   2.64	GREEN LANE
+   2.79	junction with CCS1 (14.06) and CCS2 (14.06)
+   3.16	TRANMERE formerly LIME KILN LANE
+   3.42	ROCK FERRY [2]
+   3.46	junction with CRR2 (13.39)

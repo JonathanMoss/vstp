@@ -1,0 +1,42 @@
+  97.45	Knighton South Junction with SPC4
+  97.76	Saffron Lane Junction with Knighton North Curve (0.00)
+  	BRAUNSTON 
+  98.21	Leicester Corporation gas sidings
+  98.26	electricity sidings
+  98.53	bridge over MCJ3 (104.03)
+  98.59	Narborough Road wharf
+ 101.40	Alexandra Paving Stone Company's siding
+ 102.33	KIRBY MUXLOE
+ 104.10	Desford Junction with WBZ (0.00)
+≈104.61	DESFORD [1]
+ 104.68	DESFORD [2]
+≈106.26	MERRYLEES [1]
+ 106.33	MERRYLEES [2]
+ 108.02	THORNTON LANE
+ 109.16	BAGWORTH & ELLISTOWN
+ 109.39	Nailstone Branch Junction with colliery lines
+ 109.74	Ibstock Branch Junction with colliery lines
+ 109.74	Bagworth Junction with SFQ (0.00)
+ 110.54	Cliff Hill Granite Company's sidings
+ 111.19	BARDON HILL
+ 112.13	Coalville Junction with ASC (0.00)/CFJ (0.00)
+ 112.66	COALVILLE
+ 113.03	Mantle Lane Junction with STI
+ 113.05	Coalville goods depot
+ 113.20	COALVILLE [open day platform]
+ 114.04	SWANNINGTON
+ 114.72	Coleorton Junction with colliery lines
+ 117.47	ASHBY DE LA ZOUCH
+ 117.66	Ashby Junction with MJS2 (0.00)
+ 120.04	MOIRA
+ 120.31	Moira East Junction with Moira East Junction to South Junction Curve (0.00)
+ 120.73	Moira West Junction with AMS (0.00)
+ 121.18	Woodville Junction with SCH2
+ 122.44	GRESLEY
+ 122.61	junction with NSB
+ 124.20	Swadlincote Junction with SCH1 (128.29)
+ 124.38	Bretby Branch Junction with BBC (0.00)
+ 125.17	Drakelow East Curve Junction with power station lines
+ 125.59	Drakelow West Curve Junction with power station lines
+ 126.40	Birmingham Curve Junction with BCJ
+ 127.00	Leicester Junction with DBP1 (11.20)

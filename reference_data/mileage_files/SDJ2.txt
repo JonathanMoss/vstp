@@ -1,0 +1,27 @@
+   0.00	junction with CDM1 (6.67)
+   0.28	Broadheath Junction with SDJ1 (0.00)
+   0.50	Broadheath goods depot
+   0.51	BROADHEATH ALTRINCHAM formerly A.
+   0.53	Richards siding
+   1.00	junction with goods depot lines
+   3.07	DUNHAM MASSEY formerly WARBURTON
+   4.44	HEATLEY & WARBURTON formerly H.
+   6.22	LYMM
+   7.64	THELWALL
+   9.58	LATCHFORD
+  10.06	Latchford later end of line
+ ≈10.63	WARRINGTON WILDERSPOOL
+  10.73	ARPLEY
+  11.03	Arpley Junction with WOA1 (0.00)
+  11.19	WARRINGTON BANK QUAY low level
+  11.39	Crosfields sidings
+  12.33	SANKEY BRIDGES
+  13.67	FIDLERS FERRY & PENKETH formerly F. F.
+  14.46	junction with Fiddlers Ferry power station lines
+  14.77	CUERDLEY
+  16.28	Carterhouse Junction with CHJ
+  16.61	junction with Widnes Tanhouse Lane cement sidings
+  17.14	junction with link to SOM (0.21 long)
+  17.18	WIDNES SOUTH formerly RUNCORN GAP; W.
+  17.50	junction with CHJ (17.48)
+  18.55	Ditton East Junction with WJL1 (182.62)

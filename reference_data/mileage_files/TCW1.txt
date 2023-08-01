@@ -1,0 +1,6 @@
+ 169.16	Temple Hirst Junction with ECM2 and ECM3
+ 169.61	TEMPLE HIRST
+ 172.14	Henwick Hall siding
+ 172.76	Brayton Junction with BTB (8.51)
+ 173.59	Selby Canal Junction with SEC (0.32)
+ 174.11	Selby South Junction with HUL2 (31.12) and HUL3 (0.00)

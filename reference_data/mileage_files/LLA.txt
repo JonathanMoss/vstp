@@ -1,0 +1,28 @@
+   0.00	junction with SWM2 (223.49)
+   0.40	Genwen Junction with LDZ (0.40)
+   0.44	junction with CVZ
+   0.53	Genwen Branch Junction with GEN (0.00)
+   1.07	BYNEA
+   1.10	Yspitty Branch Junction with YSZ (0.00)
+  ≈2.73	LLANGENNECH [1]
+   3.01	LLANGENNECH [2]
+   3.49	Morlais Junction with SDI2 (10.64)
+   4.54	Hendy Junction with HDY (0.46)
+   5.26	PONTARDDULAIS formerly PONTARDULAIS
+   5.33	Pontardulais/Pontarddulais Junction with SWN (0.00)
+   7.57	Tynycerig
+  10.02	Pantyffynnon Junction with GNT
+  10.08	PANTYFFYNNON
+  10.58	PARCYRHUN
+  11.21	AMMANFORD formerly DUFFRYN; TIRYDAIL; A. & TIRYDAIL
+  11.27	Mountain Branch Junction with MOU (0.00)
+  13.05	LLANDYBIE formerly LLANDEBIE
+  13.56	junction with LIM
+  13.66	junction with PTL
+  14.46	DERWYDD ROAD
+  17.19	FFAIRFACH
+  17.48	Carmarthen Valley Junction with LCL (0.00)
+  18.07	LLANDEILO formerly LLANDILO
+  18.17	junction with VOT
+
+Note that although Genwen Junction has the same mileage on both LLA and LDZ, the two routes are measured from different points

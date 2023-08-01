@@ -1,0 +1,2 @@
+   0.00	Cowlairs East Junction with EGM1 (2.12)
+   0.21	Cowlairs North Junction with MRL1 (8.08)

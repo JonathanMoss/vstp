@@ -1,0 +1,10 @@
+   0.00	West Sleekburn Junction with BWC (0.78)
+   0.01	junction with West Sleekburn colliery lines
+   0.33	Winning Crossing Junction with MWJ (0.31)
+   1.32	Freemans Junction with BPO
+   1.68	Blyth Staithes Junction with WTB
+   2.00	Blyth Cambois locomotive depot
+   2.60	junction with Battleship Wharf lines
+   3.45	North Blyth goods depot
+   3.58	end of North Blyth staithes
+   4.06	end of loading bunkers

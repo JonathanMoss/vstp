@@ -1,0 +1,3 @@
+   0.00	Muirhouse South Junction with GBK (1.19) and LFS2 (1.19)
+   0.15	Muirhouse Central Junction with CTC (5.19)
+   0.19	Muirhouse Central Junction with MEN1 (0.19) and TSS (0.04)

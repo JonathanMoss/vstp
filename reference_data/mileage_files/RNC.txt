@@ -1,0 +1,3 @@
+   0.00	Rutherglen West Junction with WCM2 (99.20)
+  ≈0.08	RUTHERGLEN
+   0.29	Rutherglen North Junction with ARG1 (0.31) and ARG2 (0.31)

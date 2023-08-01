@@ -1,0 +1,5 @@
+   0.00	Boldon Colliery Junction with LEN3 (95.19)
+   0.04	BOLDON
+   0.32	Boldon North Junction with BNW (0.20)
+   0.56	Green Lane Junction with BNY1 and GLT
+   0.65	Green Lane Junction with POB (2.14)

@@ -1,0 +1,57 @@
+   0.28	Waverley East End junction with ECM9
+   0.65	Abbeyhill Junction with AYL1/WAV
+   1.70	Powderhall Branch Junction with CPH (0.00)
+   3.29	Portobello Junction with LHS1 (0.00)
+   3.30	Portobello Junction with SUB1
+   3.47	Joppa
+   4.50	NEWHAILES formerly NEW HAILES
+   4.54	junction with MBB
+   5.13	MUSSELBURGH
+   5.78	Monktonhall Junction with MHL2 (6.11)
+   6.08	Monktonhall Junction with SME
+   6.40	INVERESK formerly MUSSELBURGH
+   7.22	Wallyford colliery siding
+   7.54	WALLYFORD
+   8.40	Morrisons Haven siding
+   9.33	Northfield colliery
+   9.40	PRESTONPANS formerly TRANENT and junction with PTB (0.00)
+   9.53	Prestonlinks colliery siding
+   9.72	junction with Cockenzie power station lines
+  10.31	Blindwells Extension opencast disposal point
+  10.73	Riggonhead colliery siding
+  11.05	Seton siding
+  11.14	SETON MAINS
+  12.73	Longniddry West siding
+  13.18	LONGNIDDRY
+  13.20	Longniddry Junction with LNH
+  14.58	Aberlady Junction with AGB
+  17.60	DREM
+  17.79	later Drem Junction with NBK
+  18.15	connection [original junction] with NBK
+  20.60	EAST FORTUNE
+ ≈23.10	EAST LINTON [2] [under construction]
+  23.25	EAST LINTON [1] formerly L.
+  24.42	Stenton
+  26.65	Beltonford goods depot [may originally have been a passenger station]
+  27.25	West Barnes siding
+  27.56	Battle Blent siding
+  29.05	DUNBAR up platform
+  29.10	DUNBAR mean
+  29.15	DUNBAR down platform
+  31.13	Dunbar rail terminal
+  31.21	Oxwellmains cement works siding
+  32.77	Torness power station
+  33.60	INNERWICK
+  36.42	COCKBURNSPATH
+  37.74	Pease siding
+  41.22	GRANTSHOUSE
+  46.23	RESTON [1]
+  46.29	Reston Junction with RWR (0.00)
+  46.40	RESTON [2]
+  50.22	AYTON
+  51.72	junction with EMB (0.01)
+  51.73	BURNMOUTH
+  53.71	Lamberton
+  54.50	junction with ECM7 (69.67)
+
+Note that ECM7 67.00-69.67 was originally a continuation of ECM8.  Note too that Dunbar's official distance remains at 29.05; the extreme stagger of the new down platform has not been taken into account

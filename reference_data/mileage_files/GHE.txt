@@ -1,0 +1,4 @@
+  95.63	Gartsherrie South Junction with SCM3
+  95.72	GARTSHERRIE
+  96.05	Gartsherrie North Junction with BEL (7.32)
+  97.06	Gartcosh Junction with CBD1 (0.00) and CBD2 (97.06)

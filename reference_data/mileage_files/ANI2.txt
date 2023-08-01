@@ -1,0 +1,21 @@
+   0.00	FORRES [1] and junction with ANI3 (119.26/119.29)
+   0.07	FORRES [2]
+   0.22	Forres East Junction between early and later alignments
+  ≈3.02	Kinloss Junction with KLF (0.00)
+   3.15	KINLOSS
+   6.42	Alves Junction with BGD (0.00)
+   7.02	ALVES
+   8.66	MOSSTOWIE
+  12.18	ELGIN
+  12.27	junction with ELB (0.09)
+  15.49	LHANBRYDE
+  18.41	ORBLISTON formerly FOCHABERS; O. JUNCTION and junction with OFB (0.00)
+  21.70	ORTON
+ ≈22.23	Orton Junction with ROB (≈3.05)
+  25.30	MULBEN
+  26.35	TAUCHERS
+  30.02	Keith West Junction with KPB (0.18)
+  30.20	KEITH formerly K. JUNCTION
+  30.40	Keith Junction with ANI1 (53.05) and DFN (53.05)
+
+Note that when the junction with ANI3 was moved in 2017, ANI2 was rebuilt on a straighter route and its mileage count was extended back to zero, hence the 3ch difference.  Note too that this line was originally measured from Inverness

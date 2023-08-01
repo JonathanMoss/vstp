@@ -1,0 +1,87 @@
+   0.00	YORK and end on junction with ECM4 (188.40)
+   0.09	junction with YMS
+   0.18	junction with CYY (0.22)
+   0.28	junction with Clifton carriage maintenance depot lines
+   1.50	Skelton Junction with HAY1 (1.50) and HOS (1.58)
+   4.08	Hunting Bridge
+   5.40	BENINGBROUGH formerly SHIPTON
+   7.04	Newton siding
+  ≈9.50	TOLLERTON [1]
+   9.59	TOLLERTON [2]
+  11.15	ALNE
+  11.19	junction with Easingwold Line (0.05)
+  13.30	RASKELF
+  14.63	Bishophouse Junction with Raskelf Curve
+  15.26	Sessay Wood Junction with THM (0.00)
+  16.07	PILMOOR
+  16.12	Pilmoor Junction with BOR (0.00)
+  18.01	SESSAY
+  22.08	Thirsk South Junction with MTK (37.47)
+  22.16	THIRSK
+  23.57	Avenue
+  25.13	Manor House siding
+  26.44	OTTERINGTON
+  28.16	Huttons Wood
+  28.59	Northallerton South Junction with Cordio Chord (42.10)
+  28.67	Longlands Junction with LLP1 (28.67) [down line]
+  29.01	Longlands Junction with LLP2 (0.69) [up line]
+  29.76	NORTHALLERTON
+  30.11	Northallerton High Junction with LEN2 (0.00)
+  30.29	Castle Hills South Junction with REB1 (0.00)
+  30.59	Castle Hills North Junction with REB4 (0.00)
+  32.18	Wiske Moor
+  33.59	DANBY WISKE
+  35.35	Birkby
+  37.16	COWTON
+  38.72	ERYHOLME formerly DALTON
+  38.79	Eryholme Junction with RID (0.00)
+  40.20	Dalton Bank
+  41.42	CROFT SPA formerly C.
+  42.15	Black Banks
+  43.13	Snipe House Junction with GVA (0.00)
+  43.34	Croft Junction with Croft Depot Branch (0.00)
+  43.61	Darlington South Junction with DSN1 (0.29)
+  44.10	DARLINGTON [2] formerly D. BANK TOP
+ ≈44.10	DARLINGTON BANK TOP [1]
+  44.64	Parkgate Junction with DAE1 (0.00)
+  45.21	Skerne
+  45.64	Springfield
+  47.37	Low Beaumont Hill
+  49.45	AYCLIFFE
+  51.78	Preston Le Skerne
+  54.20	BRADBURY
+  56.36	Ferryhill South Junction with STF (10.72)
+  56.69	Kelloe Access Line Junction with KBF (15.00)
+  56.78	FERRYHILL
+  57.50	Kelloe Bank Foot Junction with KBF (14.09)
+  58.01	Coxhoe Junction with COE (0.00)
+  58.02	Coxhoe Junction with Coxhoe Curve (0.00)
+  58.71	Tursdale Junction with FEP (2.49)
+  61.76	CROXDALE
+  62.65	Browney
+  64.53	Bridge House Junction with BAX (0.00)
+  64.73	junction with link to SDM
+  65.13	Relly Mill Junction with DBA (10.20)
+  66.13	DURHAM
+  67.21	junction with original route
+  67.40	Newton Hall Junction with LDU (2.46)
+  68.27	Newton Hall Junction with original route (68.34)
+
+  68.34	Newton Hall Junction with new route (68.27)
+  69.17	Kimblesworth Colliery Junction with Kimblesworth Colliery Branch (0.00)
+  70.02	PLAWSWORTH
+  71.72	CHESTER-LE-STREET [2]
+	CHESTER LE STREET [1] later goods depot
+  73.36	Ouston Junction with CNT (0.00)
+  74.57	BIRTLEY
+  75.29	Birtley Junction with TEY
+  76.30	LAMESLEY
+  77.37	Low Fell Junction with NLF (0.00) and TEY (77.37)
+  77.48	LOW FELL
+  78.76	BENSHAM
+  79.42	King Edward Bridge South Junction with HLK (0.48) and NEC1 (0.48)
+  79.51	Intersection Bridge with Redheugh Incline (0.31)
+  79.57	King Edward Bridge North Junction with KEB (0.13)
+  80.05	Newcastle West Junction with NEN1 (0.11) and ECM6 (80.05)
+
+Note that Darlington station was rebuilt beside the old site when the line was realigned

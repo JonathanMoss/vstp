@@ -1,0 +1,3 @@
+ 126.40	Birmingham Curve Junction with KSL
+ 126.67	junction with sidings
+ 127.19	Branston Junction with DBP1 (12.15)

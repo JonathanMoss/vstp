@@ -1,0 +1,63 @@
+  96.10	Thingley Junction with MLN1
+  97.05	Lacock Junction with AMP2
+  97.12	LACOCK
+  98.45	BEANACRE
+ 100.13	MELKSHAM
+ 101.54	BROUGHTON GIFFORD
+ 102.53	Holt Junction with BHL (94.03)
+ 102.58	HOLT JUNCTION
+ 103.73	STAVERTON
+ 104.11	Bradford North Junction with BFL
+ 104.39	Bradford South Junction with BFB (9.11)
+ 105.61	TROWBRIDGE
+ 108.76	contractors' siding
+ 109.14	Hawkeridge Junction with WYL (95.30)
+ 109.52	junction with DSY
+ 109.54	junction with SWY (95.36)
+ 109.56	junction with USY
+ 109.64	WESTBURY
+ 109.79	Westbury diesel depot
+ 110.07	Westbury steam locomotive depot
+ 110.09	Salisbury Branch Junction with SAL
+ 110.19	junction with DSY and USY
+ 111.19	Fairwood Junction with WES (97.02)
+ 114.39	original Clink Road Junction with FRA
+ 114.44	relocated Clink Road Junction with FRA
+ 115.13	Frome Mineral Loop Junction with FNS1/FRM (0.00)
+ 115.24	Frome North Junction with FNS1 (0.00)
+ 115.38	Radstock Branch Junction with FNS3 (0.00)
+ 115.44	FROME
+ 116.52	original Blatchbridge Junction with FRA (116.37)
+ 116.57	relocated Blatchbridge Junction with FRA (116.42)
+ 118.60	Woodlands
+ 120.64	WITHAM SOMERSET formerly W.
+ 120.74	East Somerset Junction with ESB (0.11)
+ 122.54	STRAP LANE
+ 124.00	Pinkwood
+ 126.09	BRUTON
+ 129.45	CASTLE CARY
+ 129.50	relocated Castle Cary Junction with CCL (115.33)
+ 129.56	original Castle Cary Junction with CCL (115.38)
+ 130.37	Dimmer
+ 134.29	SPARKFORD
+ 136.76	MARSTON MAGNA formerly MARSTON
+ 141.27	YEOVIL PEN MILL
+ 141.34	Pen Mill Junction with YEO
+ 141.35	Pen Mill Junction with YJP (1.42)
+ 141.41	Yeovil locomotive depot
+ 141.67	South Junction with YSJ (1.11)
+ 142.57	Clifton May Bank Junction with CMY
+ 144.35	THORNFORD formerly T. BRIDGE
+ 144.60	Beer Hackett sidings
+ 145.46	YETMINSTER
+ 147.50	CHETNOLE
+ 149.76	EVERSHOT
+ 153.18	CATTISTOCK
+ 154.02	junction with BRP (0.02)
+ 154.12	MAIDEN NEWTON
+ 157.56	GRIMSTONE & FRAMPTON
+ 158.72	BRADFORD PEVERELL & STRATTON
+ 161.63	DORCHESTER WEST formerly D.
+ 162.14	Dorchester Junction with BML2 (136.15) and BML3 (162.14)
+
+Note that the line originally continued to 168.62; this is now BML3

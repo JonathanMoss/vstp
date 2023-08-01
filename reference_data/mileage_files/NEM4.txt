@@ -1,0 +1,2 @@
+   0.00	Knightswood South Junction with COW (0.00), MLA (4.63) and NEM3 (4.63)
+   0.74	Knightswood North Junction with MRL2 (5.67) and NEM5 (5.67)

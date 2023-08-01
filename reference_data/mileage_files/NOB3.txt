@@ -1,0 +1,17 @@
+  12.55	Wrawby Junction with MAC3 (94.12)
+  14.09	BIGBY BRIDGE
+  16.18	HOWSHAM
+  18.01	NORTH KELSEY
+  19.37	MOORTOWN
+  21.09	HOLTON LE MOOR
+  23.67	CLAXBY & USSELBY
+  26.54	MARKET RASEN
+  30.50	WICKENBY
+  32.19	SNELLAND
+  35.23	LANGWORTH
+  35.74	Welton International Petroleum sidings
+  36.59	REEPHAM
+  41.21	Durham Ox Junction with NOB4 (33.15) and PSL (0.00)
+  41.26	Pelham Street Junction with SPD3 (82.29)
+
+Note that 41.21-41.26 is also 0.00-0.05 in PSL

@@ -1,0 +1,12 @@
+Current measure
+   0.00	Maryhill Park Junction with MRL2 (4.44)
+   0.26	KELVINDALE
+   0.70	ANNIESLAND formerly GREAT WESTERN ROAD
+   0.73	end of line
+
+Original measure
+   4.63	Knightswood South Junction with COW (0.00), NEM3 (4.63) and NEM4 (0.00)
+   5.28	gas works
+   5.51	Maryhill Park Junction with MRL1 (5.51) and MRL2 (4.40)
+
+Note that this line was rebuilt on a slightly different alignment

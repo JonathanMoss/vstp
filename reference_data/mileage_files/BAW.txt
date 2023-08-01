@@ -1,0 +1,7 @@
+ 128.73	Easton Road Junction with BSW (1.21)
+ 129.12	Lawrence Hill Junction with BGL2
+ 129.32	Barrow Lane Junction with BPS
+ 129.49	Bristol refuse terminal
+ 130.00	Avonside wharf
+
+Originally BAW ran from 129.32.  After changes in the area, BAW now includes 129.12 to 129.32 from BPS and BGL2, and a new section from 128.73 to 129.12

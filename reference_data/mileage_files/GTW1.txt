@@ -1,0 +1,7 @@
+ (30.20)	mileage reversal point for GTW1
+  30.35	Guildford North Junction with WPH1 (30.05)
+  32.30	Woodstreet
+  33.74	Wanborough Brickworks siding
+  34.29	WANBOROUGH
+  34.67	Coussmaker's siding
+  35.50	Ash Junction with ATF (35.50) and GTW2 (48.34)

@@ -1,0 +1,6 @@
+   0.00	Farringdon Junction with MCL (0.58)
+   0.18	junction with Snow Hill Junction to Smithfield Junction Curve (0.62)
+   0.21	SNOW HILL
+   0.28	CITY THAMESLINK
+   0.30	junction with HHH (0.12) [original alignment]
+   0.39	junction with HHH (0.21) [later alignment]

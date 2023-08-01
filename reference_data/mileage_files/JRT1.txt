@@ -1,0 +1,2 @@
+   0.03	Carlton Road Junction with MCL (4.06) and SPC1 (2.13)
+   0.18	Mortimer Street Junction with JRT2 (2.00) and Engine Shed Junction to Mortimer Street Junction Curve (2.00)

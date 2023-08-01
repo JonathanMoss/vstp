@@ -1,0 +1,5 @@
+   0.00	Marholm Junction with PMJ (19.63)
+   0.62	Jigsaw Deck crossing under PMJ (19.01)
+   0.67	Jacked Portal crossing under ECM1 (79.51)
+   1.52	Glinton Junction with WEB (80.34) [up line]
+   1.64	Glinton Junction with WEB (80.46) [down line]

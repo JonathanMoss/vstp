@@ -1,0 +1,20 @@
+   0.00	Tondu Middle Junction with BAL (2.70)
+   0.13	Tondu Ogmore Junction with TON (0.16)
+   0.24	Ynysawdre/Ogmore Junction with PBZ (6.59)
+   0.54	Brynmenyn Loop Junction with BLZ (0.00)
+   0.55	Brynmenyn Junction with GAW2 (0.00)
+   0.60	BRYNMENYN
+   2.56	Blackmill Junction with BMZ
+   2.61	BLACKMILL
+   3.55	LEWISTOWN
+   3.61	Cardiff & Ogmore Junction with COB (8.21)
+   4.20	Rhondda Main South
+   4.50	Mary pits
+   5.18	Caedu Incline Junction with CIZ
+   5.50	OGMORE VALE formerly TYNEWYDD; TYNEWYDD O. V.
+   6.15	WYNDHAM
+   7.03	Ocean Colliery North Junction with colliery lines
+   7.12	NANTYMOEL
+   7.18	end of line
+
+Note that 0.24-0.55 is duplicated in GAW1; 0.00-2.56 was formerly BMZ.  This line was remiled in 1950, adding 10.04 throughout

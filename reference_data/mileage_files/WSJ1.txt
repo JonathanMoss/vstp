@@ -1,0 +1,4 @@
+ 142.79	Stafford Road Junction with DCL (143.02), OXC (1.02) and WSJ2 (143.02)
+ 143.52	Wolverhampton North Junction with RBS2 (13.32)
+ 143.71	Herbert Street goods depot
+ 143.75	Victoria basin

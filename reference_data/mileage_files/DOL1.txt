@@ -1,0 +1,31 @@
+ 156.28	Marshgate Junction with ECM1
+ 157.47	BENTLEY (SOUTH YORKSHIRE)
+ 158.40	Castle Hills South Junction with CHN (0.00)
+ 158.67	Castle Hills North Junction with BRC (0.00)
+ 159.72	ADWICK
+ 159.78	CARCROFT & ADWICK LE STREET
+ 160.14	Carcroft Junction with CJS
+ 160.63	BULLCROFT COLLIERY
+ 160.65	Adwick Junction with SKA (0.00)
+ 162.19	Intersection Bridge at Hampole with DEN (2.46)  
+ 162.33	HAMPOLE
+ 163.26	Moorhouse Junction with HMH
+ 164.48	SOUTH ELMSALL
+ 164.53	South Elmsall Junction with SEP (1.21)
+ 165.79	South Kirkby Junction with SKM (0.00)
+ 166.00	South Kirkby Junction with SKB
+ 166.42	Intersection Bridge at South Kirkby with HBR3 (mileage unknown)
+ 166.65	Hemsworth South Junction with HLO (48.13)
+ 167.67	HEMSWORTH
+ 169.15	FITZWILLIAM [2]
+ 169.32	FITZWILLIAM [1]
+ 170.28	NOSTELL
+ 170.50	Nostell South Junction with link to OON (0.33 long)
+ 171.11	Nostell North Junction with OON (17.15)
+ 171.20	Wintersett colliery
+ 171.67	HARE PARK & CROFTON
+ 171.70	Hare Park Junction with HPC
+ 174.01	Sandal Junction with SBM (0.00)
+ 174.09	SANDAL & AGBRIGG
+ 174.12	SANDAL
+ 175.32	end on junction with DOL2

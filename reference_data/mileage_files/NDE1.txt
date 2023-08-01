@@ -1,0 +1,9 @@
+   3.36	Niddrie North Junction with SUB1
+   3.72	BRUNSTANE
+   4.46	Niddrie South Junction with MHY (7.08)
+   4.54	NEWCRAIGHALL
+   4.63	Newcraighall North Junction with NNS
+   4.72	Newcraighall East Junction with MHL4 (0.00)
+   5.00	divergence with NNS
+   5.53	Millerhill West Junction with MHL3 (0.20)
+   5.79	Millerhill South Junction with MLE (0.00) and NDE2 (5.79)

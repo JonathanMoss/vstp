@@ -1,0 +1,2 @@
+   0.29	Forks Junction with MCG
+   0.44	Bog Junction with NGD (0.25) and UCJ (1.07)

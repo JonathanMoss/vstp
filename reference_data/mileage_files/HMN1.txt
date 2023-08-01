@@ -1,0 +1,4 @@
+   0.00	Lesmahagow Junction with SCM1 (89.51) and WCM2 (89.51)
+   0.08	MOTHERWELL
+   0.61	AIRBLES
+   1.44	Ross Junction with HMN2 (6.61)

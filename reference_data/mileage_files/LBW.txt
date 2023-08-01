@@ -1,0 +1,32 @@
+   0.00	LONDON BRIDGE
+   0.22	connection with XTD (2.14)
+   1.03	connection with XTD (2.72)
+   1.15	connection with LBC
+   1.45	Blue Anchor Junction with XTD (3.32)
+   1.52	Corbet's Lane
+   2.12	Bricklayers Arms Junction with LBC
+   2.18	junction with link to BAY (1.54)
+	COLD BLOW LANE
+   2.55	junction with Old Kent Road to New Cross Gate Curve (0.47)
+   2.62	junction with ELL1 (5.59) [up line]
+   2.70	NEW CROSS GATE
+   3.11	junction with ELL1 (6.08) [down line]
+   3.56	BROCKLEY
+   4.59	HONOR OAK PARK
+   5.50	FOREST HILL
+   6.32	SYDENHAM
+   6.41	Sydenham Down Junction with SCP [down line]
+   6.51	Sydenham Up Junction with SCP [up line]
+   7.15	PENGE WEST
+   7.47	ANERLEY
+   8.31	junction with BJN1 (9.70)
+   8.33	junction with BJN2 (9.75)
+  ≈8.51	JOLLY SAILOR
+   8.55	NORWOOD JUNCTION and junction with NJS (0.00)
+   8.67	West Croydon Junction with NFE
+   8.73	junction with NYD
+   9.23	junction with NYD
+   9.26	Norwood Fork Junction divergence with NFE
+   9.28	Norwood Fork Junction with SNF (9.63)
+   9.61	Windmill Bridge Junction with VTB1 (9.76) [slow lines]
+   9.69	Windmill Bridge Junction with VTB1 (10.03) [fast lines] and VTB2 (9.69)

@@ -1,0 +1,5 @@
+   0.00	Portobello Junction with PBJ (12.60)
+   1.29	Heath Town Junction with HTW (53.24)
+   1.59	Crane Street Junction with RBS2 (12.60)
+
+Note that 1.29-1.59 was previously 53.24-53.54 from Derby via Water Orton

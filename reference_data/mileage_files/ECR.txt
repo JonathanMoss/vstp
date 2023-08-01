@@ -1,0 +1,4 @@
+  73.35	Eastleigh East Junction with BML1 (73.25)
+  75.25	CHANDLERS FORD [2]
+  75.29	CHANDLERS FORD [1]
+  80.35	Romsey junction with RTJ1 (18.16) and RTJ2 (80.35)

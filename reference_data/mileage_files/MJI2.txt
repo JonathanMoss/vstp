@@ -1,0 +1,16 @@
+ 160.01	Buildwas East Junction with SVB
+ 160.12	Revolution VLR demonstration line platform
+ 160.16	junction with power station lines
+ 160.20	IRONBRIDGE GORGE
+ 160.72	COALBROOKDALE
+ 161.43	GREEN BANK
+ 162.19	LIGHTMOOR
+ 162.24	Lightmoor Junction with MJI1 (160.16)
+ 163.00	DOSELEY [2 - preservation]
+ 163.14	DOSELEY [1]
+ 163.75	HORSEHAY & DAWLEY formerly H.; H. (D.)
+ 164.44	LAWLEY VILLAGE
+ 165.28	NEW DALE
+ 165.72	KETLEY TOWN
+ 166.21	KELTY
+ 166.63	Ketley Junction with WSJ2 (160.22)

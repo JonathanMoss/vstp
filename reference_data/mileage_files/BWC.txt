@@ -1,0 +1,13 @@
+   0.00	Bedlington Junction with EJM (15.68)
+   0.78	West Sleekburn Junction with WSB (0.00)
+   1.35	Marcheys House Junction with MWJ (0.00)
+   2.00	NORTH SEATON
+   2.76	ASHINGTON [2] proposed
+   2.77	ASHINGTON [1]
+   3.03	Ashington Junction with BWO1 (0.00)
+   3.21	Hirst Lane
+   4.10	Woodhorn
+   4.39	junction with NBN
+   5.35	Alcan Branch Junction with Lynemouth Alcan lines
+   6.12	Lynemouth
+   6.47	end of colliery lines

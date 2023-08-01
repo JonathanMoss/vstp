@@ -1,0 +1,8 @@
+  19.08	WEYBRIDGE
+  19.22	Weybridge Junction with BML1
+  19.72	Addlestone Junction with AJB (0.00)
+  20.71	ADDLESTONE
+  22.25	CHERTSEY
+  24.52	junction with VWC
+  24.65	VIRGINIA WATER
+  24.74	junction with RDG1 (23.06)

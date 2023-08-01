@@ -1,0 +1,11 @@
+ 160.16	Shaftholme Junction with ECM1 (160.16) and KWS (68.75)
+ 160.43	intersection under HTM (mileage unknown)
+ 160.47	JOAN CROFT
+ 160.48	Joan Croft Junction with JCA (0.00)
+ 162.79	MOSS
+ 165.76	BALNE
+ 167.18	HECK
+ 167.20	Plasmor sidings
+ 167.53	Intersection Bridge at Heck with HBR3 (36.31)
+≈168.48	junction with link to WAG1
+ 169.16	Temple Hirst Junction with ECM3 and TCW1

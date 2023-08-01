@@ -1,0 +1,22 @@
+ 120.47	Shrub Hill Junction with OWW
+ 120.64	Rainbow Hill Junction with BLW (0.00)
+ 121.12	WORCESTER FOREGATE STREET
+ 121.17	junction with BBZ
+ 121.68	HENWICK
+ 122.40	BOUGHTON
+ 123.07	RUSHWICK
+ 124.14	Bransford Road Junction with BYB
+ 124.46	BRANSFORD ROAD
+ 126.20	NEWLAND
+ 126.60	Newland pre-assembly depot
+ 127.75	MALVERN LINK
+ 129.06	GREAT MALVERN
+ 129.50	Malvern & Tewkesbury Junction with AAM (13.29)
+ 130.06	MALVERN WELLS
+ 131.72	COLWALL
+ 136.09	LEDBURY
+ 136.13	Ledbury Junction with LEY (17.37)
+ 139.70	ASHPERTON
+ 142.25	STOKE EDITH
+ 145.36	WITHINGTON
+ 148.12	Shelwick Junction with SHL (49.28)

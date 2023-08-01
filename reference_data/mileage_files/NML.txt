@@ -1,0 +1,4 @@
+   0.00	Maesglas Junction with WVL (0.25)
+   0.30	Monmouthshire Bank sidings
+   0.47	Monmouthshire Loop Junction with NLL (0.45)
+   0.49	East Mendalgief Junction with Park Mile To Alexandra Docks (1.06), East Mendalgief Junction to Rolling Bridge Junction (0.49) and East Mendalgief Junction to South Dock (0.49)

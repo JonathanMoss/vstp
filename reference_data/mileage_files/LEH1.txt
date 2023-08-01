@@ -1,0 +1,17 @@
+   0.16	Armley Junction with TJC3 (196.16)
+   0.19	Armley Road depots
+   1.06	junction with goods depot lines
+   1.07	ROYAL GARDENS
+   1.15	Cardigan Road goods depot
+   1.27	BURLEY PARK
+   2.11	HEADINGLEY
+  ≈3.49	HORSFORTH WOODSIDE
+   4.61	HORSFORTH
+   8.19	Arthington Junction with OTL (0.00)
+   8.24	ARTHINGTON [2] formerly A. JUNCTION
+   8.40	Arthington North Junction with ARL (0.00)
+   8.47	ARTHINGTON [1] formerly POOL
+  10.62	WEETON
+  12.15	Rigton
+  14.03	PANNAL
+  14.46	Pannal Junction with LEH2 and LEN1

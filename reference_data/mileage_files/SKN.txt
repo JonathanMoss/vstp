@@ -1,0 +1,16 @@
+  41.18	St Andrews Junction with LSS (41.18) and SAG (0.00)
+  41.44	Bordesley Junction with BCV (128.11)
+  42.01	BIRMINGHAM CAMP HILL later goods depot
+  42.25	junction with Camp Hill goods depot lines
+  42.42	CAMP HILL
+  42.79	BRIGHTON ROAD
+  43.43	MOSELEY VILLAGE formerly M.
+  44.20	KINGS HEATH [2]
+  44.23	KING'S HEATH [1] formerly MOSELEY
+  45.06	PINEAPPLE ROAD formerly HAZELWELL
+  46.03	LIFFORD
+  46.11	Lifford East Junction/Lifford Station Junction with LEL
+  46.29	Lifford Canal Branch Junction with LCB (47.63)
+  46.42	Kings Norton Station Junction with BAG1 (47.48) and BAG2 (46.42)
+
+Note that 40.48-41.18 was previously part of SKN, but is now in LSS

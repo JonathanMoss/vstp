@@ -1,0 +1,4 @@
+   0.00	Edgeley Junction No 2 with CMP2 (182.59)
+   0.78	Cheadle Village Junction with SJR (0.73)
+   2.31	CHEADLE
+   3.65	Northenden Junction with WJP1 (33.56)

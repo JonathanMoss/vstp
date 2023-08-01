@@ -1,0 +1,20 @@
+   7.08	Earsdon Junction with BNE (2.53), BTN (7.08) and EDK (0.00)
+   7.41	BACKWORTH formerly HOLYWELL; later Holywell goods depot
+   9.03	SEGHILL
+   9.72	SEATON DELAVAL [2] proposed
+   9.77	SEATON DELAVAL [1]
+  11.15	HARTLEY
+  11.22	Hartley Junction with AVE (3.55)
+  12.40	NEWSHAM proposed
+  12.74	Newsham North Junction with ISC (0.00)
+  13.01	NEWSHAM
+  14.50	BLYTH BEBSIDE [2] proposed
+  14.60	BEBSIDE [1] formerly COWPEN LANE
+  15.60	Bedlington South Junction with Bedlington colliery lines
+  15.65	BEDLINGTON proposed reopening
+  15.68	Bedlington Junction with BWC (0.00)
+  17.11	CHOPPINGTON
+  17.26	junction with Choppington colliery lines
+  19.18	HEPSCOTT
+  19.44	Hepscott Junction with HJM
+  20.46	Morpeth North Junction with ECM7 (17.36)

@@ -1,0 +1,4 @@
+  22.35	Barnham Junction with TBH2
+  25.51	junction with goods depot lines
+  25.74	WOODGATE later goods depot
+  25.75	BOGNOR REGIS formerly B.

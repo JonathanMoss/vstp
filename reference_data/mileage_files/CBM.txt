@@ -1,0 +1,3 @@
+   0.00	LONDON CANNON STREET
+   0.23	Cannon Street South Junction with CSW (1.49)
+   0.38	Borough Market Junction with XTD (1.50)

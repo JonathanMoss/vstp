@@ -1,0 +1,11 @@
+   0.00	Sutton Bridge Junction with SHL (0.68)
+   0.50	Meol Brace Junction with SAM (1.24)
+   2.04	Hookagate Junction with SAM (2.59)
+   4.06	HANWOOD
+   4.52	Cruckmeole Junction with MTY (0.00)
+   6.48	YOCKLETON
+  10.22	WESTBURY SALOP
+  12.41	PLAS Y COURT
+  13.21	BREIDDEN formerly MIDDLETOWN; M. HILLS
+  16.16	BUTTINGTON formerly CEFN
+  16.22	Buttington Junction with GNQ4 (31.23) and SBA2 (31.23)

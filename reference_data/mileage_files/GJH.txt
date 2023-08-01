@@ -1,0 +1,7 @@
+   0.00	LONGTOWN and junction with ETC (88.49)
+   0.55	junction with Smalmstown military sidings
+   0.69	junction with Longtown military sidings
+   1.06	junction with Longtown military sidings
+   2.42	junction with link to WCM1 (to 3.02 GJH mileage, 7.57 WCM1 mileage, 9.18 KMG2 mileage)
+   3.03	junction with WCM1 (8.35)
+   3.18	GRETNA

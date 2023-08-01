@@ -1,0 +1,21 @@
+ 282.16	St Blazey Junction with FOY and PAR
+ 282.22	ST BLAZEY formerly PAR St B.
+ 283.13	Pontsmill Junction with PMZ and original route
+≈284.76	intersection under Treffry Aqueduct Line (284.37)
+ 285.71	Treffry siding and junction with Treffry Aqueduct Line (285.36)
+ 285.78	LUXULYAN formerly BRIDGES
+ 287.40	Goonbarrow Junction with GOO
+ 287.43	later Carbis Junction with CBS
+ 288.03	BUGLE
+ 288.07	original Carbis Branch Junction with CBS and junction with Wheal Virgin Clay Works
+ 290.40	ROCHE formerly VICTORIA
+ 294.21	St Dennis Junction with SDS (295.61)
+ 294.55	junction with abandoned line through Toldish tunnel
+ 295.65	junction with abandoned line through Toldish tunnel
+ 296.11	ST COLUMB ROAD formerly HALLOON
+ 300.16	QUINTRELL DOWNS
+ 301.49	Newquay Junction with TGN
+ 301.64	Tolcarn Junction with TNQ (17.20)
+ 302.31	Newquay Harbour Junction with NHR
+ 302.49	NEWQUAY
+ 302.51	end of line

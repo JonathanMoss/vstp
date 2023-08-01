@@ -1,0 +1,11 @@
+   5.09	Point Pleasant Junction with RDG1
+   5.55	convergence with up and down lines
+   5.60	EAST PUTNEY
+   5.67	East Putney Junction with PBE (7.71)
+   6.57	SOUTHFIELDS
+   7.50	WIMBLEDON PARK
+   7.54	connection with WPK
+   8.00	convergence with BML1 (6.50)
+   8.26	connection with WPK
+   8.38	junction with BML1 (7.13)
+   8.47	WIMBLEDON

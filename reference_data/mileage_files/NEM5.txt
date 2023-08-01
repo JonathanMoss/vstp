@@ -1,0 +1,13 @@
+   5.67	Knightswood North Junction with MRL2 (5.67) and NEM4 (0.74)
+   6.10	WESTERTON
+   6.19	Westerton Junction with MGE
+   7.20	DRUMCHAPEL
+   8.10	DRUMRY
+   8.48	Singer Works Junction with SIN (0.00)
+   9.05	SINGER
+   9.64	DALMUIR [1]
+   9.75	DALMUIR [2]
+  10.01	Dalmuir Park Junction with YKR (4.73)
+  11.17	KILPATRICK
+  12.70	BOWLING
+  13.40	Dunglass Junction with NEM6 (113.46) and RVS2 (113.46)

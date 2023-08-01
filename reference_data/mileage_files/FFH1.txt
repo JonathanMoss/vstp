@@ -1,0 +1,3 @@
+  70.72	Folkestone East Junction with XTD
+  71.08	mileage reversal point and junction with FFH2
+  71.22	end of sidings

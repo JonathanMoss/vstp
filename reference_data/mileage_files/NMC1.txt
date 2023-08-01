@@ -1,0 +1,7 @@
+ 172.16	New Mills South Junction with TTA1
+ 177.22	HAZEL GROVE
+ 177.40	Hazel Grove High Level Junction with HGC (2.62)
+ 180.22	bridge under CMP1 (181.59)
+ 181.14	Cheadle Heath South Junction with NMC2
+ 181.23	CHEADLE HEATH
+ 182.22	Heaton Mersey Station Junction with MSD1 (0.00) and MSD2 (182.22)

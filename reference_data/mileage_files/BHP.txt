@@ -1,0 +1,4 @@
+   0.00	Boultham Junction with NOB2 (32.40) and LIA (2.33)
+   0.65	Pye Wipe Junction with SPD3 (84.13)
+
+Note that this route is shared with LIA

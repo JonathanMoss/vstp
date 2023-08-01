@@ -1,0 +1,5 @@
+ 133.04	Trent Valley No 1 Junction with LEC2 (133.04) and RBS3 (28.50)
+ 133.18	Stafford goods depot pre-1862 passenger station?
+ 133.33	junction with GES
+ 133.43	STAFFORD and Royal Mail terminal
+ 133.60	Uttoxeter Line Junction with LEC4 (133.60) and SUX (12.57)

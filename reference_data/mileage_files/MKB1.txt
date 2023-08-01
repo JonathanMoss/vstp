@@ -1,0 +1,2 @@
+   0.00	Cudworth West Junction with BAM1 (175.72) and MKB2 (175.72)
+   0.34	Cudworth North Junction with TJC3 (175.75)

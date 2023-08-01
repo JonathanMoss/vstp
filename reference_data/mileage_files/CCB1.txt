@@ -1,0 +1,4 @@
+   0.00	Cotgrave Colliery West Junction with NOG1 (123.66)
+   0.19	junction with CCB2 (0.25)
+   1.63	ownership boundary (NR/British Coal)
+	Cotgrave colliery sidings

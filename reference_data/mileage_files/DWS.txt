@@ -1,0 +1,4 @@
+   0.00	Dore West Junction with MAS (154.16)
+   0.27	DORE & TOTLEY
+   0.38	original Dore Station Junction with TJC1 (154.31)
+   0.60	relocated Dore Station Junction with TJC1 (154.52)

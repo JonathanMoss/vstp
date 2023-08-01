@@ -1,0 +1,3 @@
+   0.00	Ebbw Junction with SWM2 (160.07)
+   0.29	Maesglas Lower Junction with Maesglas Lower Junction to Maesglas Junction (0.00)
+   0.56	Park Junction (Western Loop) with WVL (0.77)

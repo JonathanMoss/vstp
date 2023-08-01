@@ -1,0 +1,30 @@
+   2.11	Red Hill Junction with HDC (2.11) and HNL2 (151.65)
+   5.37	TRAM INN
+   7.70	ST DEVEREUX
+  11.15	junction with GVB (0.11)
+  11.24	PONTRILAS
+  16.33	PANDY
+  18.62	LLANVIHANGEL
+  21.61	ABERGAVENNY JUNCTION [2]
+  21.64	Abergavenny Junction with MTA (0.00)
+  22.06	ABERGAVENNY JUNCTION [1]
+  22.63	ABERGAVENNY
+  25.39	PENPERGWM
+  28.06	NANTYDERRY
+  30.47	LITTLE MILL JUNCTION
+  30.56	Little Mill Junction with ROS (29.30)
+  32.19	PONTYPOOL & NEW INN
+  32.39	PONTYPOOL ROAD
+  32.43	Taff Vale Extension Junction with VON (0.00)
+  32.47	Panteg Goods Lines Junction with PGL
+  32.57	Pontypool Road East Junction with PEJ
+  33.50	PANTEG
+  33.59	Panteg Junction with PGL (33.64)
+  34.77	LOWER PONTNEWYDD
+  35.13	CWMBRAN
+  36.24	Llantarnam Junction with CMB (0.00)
+  36.58	LLANTARNAM
+  37.78	PONTHIR
+  39.41	CAERLEON
+  41.34	Maindee Junction North with MAI
+  41.66	Maindee Junction West with SWM2 (158.16)

@@ -1,0 +1,38 @@
+   7.02	Stanley Junction with HGL1 (158.38) and KAS (158.38)
+   7.07	STANLEY
+  10.17	MURTHLY
+  12.44	KINGSWOOD [restricted passenger station]
+  13.35	ROHALLION
+  15.31	DUNKELD & BIRNAM
+  20.12	DALGUISE
+  21.25	GUAY
+  23.33	BALLINLUIG
+  23.39	Aberfeldy Junction with BAF
+  28.21	PITLOCHRY
+  32.05	KILLIECRANKIE
+  35.09	BLAIR ATHOLL
+  36.05	BLACK ISLAND
+  39.54	STRUAN
+  44.38	DALANRAOCH
+  50.68	DALNASPIDAL
+  53.00	Druimuachdar summit
+  58.47	DALWHINNIE
+  62.44	INCHLEA CROSSING [restricted passenger station]
+  65.72	Etteridge [possibly restricted passenger station]
+  68.62	NEWTONMORE
+  71.43	KINGUSSIE
+  77.33	KINCRAIG
+  79.49	Dalraddy
+  83.09	junction with AFS
+  83.31	AVIEMORE
+  90.00	CARRBRIDGE
+  95.31	Slochd summit
+  98.79	TOMATIN
+ 103.10	MOY
+ 107.04	DAVIOT
+ 111.30	CULLODEN MOOR
+ 117.20	Millburn Junction with ANI3 (143.20)
+ 117.39	[repositioned] Millburn Junction with ANI3 (143.39)
+ 117.56	Welsh's Bridge Junction with RSW
+ 118.00	Inverness Down Yard
+ 118.03	INVERNESS and connection with WCK (0.02)

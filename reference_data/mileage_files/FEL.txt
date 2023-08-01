@@ -1,0 +1,7 @@
+  72.23	Westerfield Junction with ESK
+  74.67	DERBY ROAD
+  78.02	ORWELL
+  82.64	TRIMLEY and zero point for TFN
+  83.57	Felixstowe Beach Junction with FED
+  84.12	junction with curve to FED (0.37 long)
+  84.30	FELIXSTOWE formerly F. TOWN

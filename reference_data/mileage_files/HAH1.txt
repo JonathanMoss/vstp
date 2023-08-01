@@ -1,0 +1,3 @@
+   0.00	Belasis Lane Junction with POC1 (1.13)
+   0.51	junction with … (Port Clarence line)
+   0.75	Haverton Hill South Junction with HAH2 (64.42)

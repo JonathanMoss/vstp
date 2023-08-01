@@ -1,0 +1,5 @@
+  29.41	KIRKBY and end on junction with WKL2
+  30.62	junction with NMB
+  31.31	FAZAKERLEY
+  32.60	RICE LANE
+  33.16	Walton Junction with SJO1 (33.16) and SJO2 (3.20)

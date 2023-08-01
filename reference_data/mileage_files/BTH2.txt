@@ -1,0 +1,10 @@
+  14.66	Sutton East Junction with BTH1 (13.45) and NFE (14.66)
+  14.75	SUTTON (LONDON) formerly S.; S. SURREY; S. GREATER LONDON
+  15.02	Sutton West Junction with SMS2 (12.43)
+  15.76	CHEAM
+  17.27	EWELL EAST formerly EWELL
+  18.39	EPSOM TOWN formerly E.
+  18.65	junction with RPE (14.11)
+  18.68	EPSOM
+  18.73	EPSOM (SURREY) formerly E.
+  19.03	junction with BTH3 (14.27) and RPE (14.27)

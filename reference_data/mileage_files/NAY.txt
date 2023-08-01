@@ -1,0 +1,8 @@
+   5.73	Brundall Junction with NOL
+   7.78	LINGWOOD
+  10.34	ACLE
+  17.16	Breydon Junction with RBY (19.35)
+  18.09	junction with YAQ
+  18.29	GREAT YARMOUTH
+
+Note that 0.29-5.73, originally NAY, are now part of NOL

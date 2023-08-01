@@ -1,0 +1,47 @@
+   0.53	Golborne Junction with CGJ4 (187.76) and NGJ (0.53)
+   1.64	GOLBORNE SOUTH formerly G.
+   1.69	colliery siding
+   2.42	Haydock Junction with HOB2 (0.00)
+   2.49	Edge Green colliery siding
+   3.14	Long Lane siding
+   3.43	Mains Colliery siding
+   4.00	BAMFURLONG
+   4.21	colliery
+   4.26	original Bamfurlong Junction with IMG (0.00)
+   4.28	Bamfurlong Junction with PLA (0.00)
+   4.43	Bamfurlong Sidings Junction with IMG (0.18/0.00)
+   5.18	Springs Branch No 1 Junction with BIK (0.00)
+   5.25	Springs Branch Junction with SBH3 (12.54)
+   5.33	Springs Branch Junction with SPH (0.00)
+   6.16	junction with Wigan goods depot lines
+   6.30	Wigan Station Junction with WBS2 (17.44)
+   6.37	WIGAN sometimes referred to as CHAPEL LANE [later goods depot]
+   6.47	WIGAN NORTH WESTERN formerly W.
+   7.71	Gidlow works
+   7.79	Gidlow Lane colliery
+   8.61	Boars Head Junction with BAD (0.00)
+   8.67	BOARS HEAD
+   9.18	Wigan Coal & Iron Company's Victoria colliery
+   9.67	Standish Junction with SLN (1.31)
+   9.71	STANDISH
+  10.33	Broomfield Colliery siding
+  11.26	Hicbibi Colliery siding
+  11.27	COPPULL HALL
+  12.06	Blainscough Colliery siding
+  12.29	COPPULL [1] [later goods depot]
+  12.33	COPPULL [2]
+  12.67	Barker & Son's Pemberton House colliery
+  14.77	EUXTON BALSHAW LANE
+  14.78	BALSHAW LANE & EUXTON
+  16.22	Euxton Junction with MVE2 (25.31)
+  17.54	LEYLAND
+  18.13	Dewhurst's Farington Mill siding
+  18.60	D.A.F. sidings
+  18.77	Farington Junction with LHL (0.00)
+  19.07	Farington goods depot
+  19.27	FARINGTON
+  20.08	Farington Curve Junction with FHR1 (0.00)
+  20.41	Skew Bridge
+  21.34	junction with PYD (0.00)
+  21.39	Preston South Junction with PSR1
+  21.57	PRESTON (LANCS) and junction with CGJ6 (0.00)

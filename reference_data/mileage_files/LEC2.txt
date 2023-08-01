@@ -1,0 +1,36 @@
+  83.18	Trent Valley Junction with LEC1 and RBS1
+  85.01	Newbold
+  88.02	BRINKLOW [possibly at 87.72] formerly STRETTON
+  91.24	SHILTON
+  93.39	BULKINGTON
+  95.49	Attleborough
+  96.68	Nuneaton South Junction with CNN (9.53), PVS (10.61) and WNS (0.00)
+  97.10	NUNEATON formerly N.; N. TRENT VALLEY
+  97.36	Nuneaton North Junction with NWO (10.18)
+  97.55	Ashby Junction with ASE (18.25)
+  98.25	Canal Farm Junction with MYC (0.69)
+  99.43	Hartshill sidings
+ 102.23	ATHERSTONE
+ 102.78	junction with Baddesley colliery sidings
+ 103.05	Baddesley
+ 106.39	POLESWORTH
+ 106.72	Pooley Hall colliery
+ 107.67	Tamworth colliery and Marshall's siding
+ 108.06	junction with Amington colliery sidings
+ 110.01	TAMWORTH formerly T.; T. LOW LEVEL
+ 110.09	junction with TCV (23.62)
+ 111.45	Coton
+ 113.40	Hademore
+ 116.19	LICHFIELD TRENT VALLEY
+ 116.30	Lichfield High Level Goods Loop Junction with LTV (0.00)
+ 116.35	LICHFIELD
+ 120.78	ARMITAGE
+ 122.55	Carwardine
+ 124.08	convergence (original junction) with RRN2 (14.38)
+ 124.22	RUGELEY TRENT VALLEY formerly R.; R. T. V.; R.
+ 124.39	Rugeley North Junction with RRN2 (14.69)
+ 127.08	Colwich Junction with CMD2 (38.61)
+ 127.11	COLWICH
+ 127.14	divergence with CMD2 (38.55)
+ 129.39	MILFORD & BROCTON
+ 133.04	Trent Valley No 1 Junction with LEC3 (133.04) and RBS3 (28.50)

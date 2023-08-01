@@ -1,0 +1,18 @@
+Later measure
+   0.00	Haydock Junction with CGJ5 (2.42)
+   0.31	Haydock Chord Junction with HOB1 (2.05)
+   0.32	Ashton in Makerfield Kelbit
+   0.53	later end of line
+   1.36	HAYDOCK PARK
+   2.01	ASHTON IN MAKERFIELD
+   2.61	junction with HOB3 (4.35)
+
+Original measure
+   0.00	Haydock Junction with CGJ5 (2.42)
+   0.31	Haydock Chord Junction with HOB1 (2.05)
+
+   2.05	Haydock Chord Junction with HOB1
+   2.06	Ashton in Makerfield Kelbit
+   3.10	HAYDOCK PARK
+   3.55	ASHTON IN MAKERFIELD
+   4.35	junction with HOB3

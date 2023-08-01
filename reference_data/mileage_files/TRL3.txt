@@ -1,0 +1,16 @@
+Main line
+ 21.264km	junction with TRL2
+ 21.699km	Dagenham Junction with TRL4 (up line)
+ 35.555km	North Kent Line Connection Junction with TRL5
+ 36.550km	EBBSFLEET INTERNATIONAL
+ 40.150km	Southfleet Junction with FJS (206.012km)
+ 88.311km	Ashford West Junction with station loop
+ 92.696km	Ashford East Junction with station loop (92.73km)
+105.557km	Dollands Moor West Junction (up line)
+105.674km	Dollands Moor West Junction (down line)
+108.582km	convergence of TML (67m 32ch) and Channel Tunnel datum (7.000km)
+
+Ashford station loop (details less precise)
+ 88.311km	Ashford West Junction with main line
+ 90.325km	ASHFORD INTERNATIONAL
+ 92.73 km	Ashford East Junction with main line (92.696km)

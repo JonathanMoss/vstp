@@ -1,0 +1,6 @@
+   0.00	Heaton Norris Junction with CMP2 (183.56)
+   1.50	REDDISH SOUTH
+   3.39	DENTON
+   4.10	Denton Junction with DJO1
+   4.13	Denton Junction with DJD
+   4.70	Guide Bridge Station Junction with HAJ (4.74)

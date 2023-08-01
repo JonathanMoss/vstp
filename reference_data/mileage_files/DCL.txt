@@ -1,0 +1,130 @@
+  53.12	Chester Line Junction with MLN1
+  53.20	Didcot locomotive depot
+  53.51	Didcot West Curve Junction with DWC (0.33)
+  53.74	original Didcot North Junction with DEC (53.64)
+  54.00	realigned Didcot North Junction with DEC (53.71)
+  54.54	Appleford sidings
+  54.76	Amey sidings
+  55.16	APPLEFORD
+  56.19	CULHAM formerly ABINGDON ROAD
+  57.32	Nuneham
+ ≈57.61	ABINGDON JUNCTION
+  58.29	connection with line forming ABN
+  58.35	RADLEY and zero point with ABN (0.00)
+  58.43	Abingdon Branch Junction with ABN (0.07)
+  60.42	Sandford Cold Stores sidings
+  61.12	Kennington Junction with THA (18.47)
+  61.51	ABINGDON ROAD
+  61.72	Millstream Junction with Oxford Millstream Junction to Old Station
+  62.17	HINKSEY
+  62.22	Hinksey yard
+  63.12	Oxford goods depot
+  63.15	Oxford south yard
+  63.41	OXFORD
+  63.53	Oxford locomotive depot
+  63.74	junction with ONJ2
+  64.02	Oxford New Junction with OXD (30.52)
+  64.45	Oxford North Junction with OXD (30.09)
+  65.65	WOLVERCOT
+  66.32	Wolvercot Junction with OWW
+  69.05	KIDLINGTON formerly WOODSTOCK ROAD
+  69.11	junction with WOZ (0.04)
+  69.50	junction with WOZ (0.43)
+  70.33	Bletchington cement sidings
+  71.12	BLETCHINGTON formerly WOODSTOCK, W. ROAD, KIRTLINGTON
+  72.50	TACKLEY
+  75.21	HEYFORD
+  78.08	FRITWELL & SOMERTON formerly S., S. OXON
+  80.25	AYNHO
+  81.10	Aynho Junction with NAJ3 (18.26) [up line]
+  81.12	Aynho Junction with NAJ3 (18.29) [down line]
+  82.41	Kings Sutton Junction with BNK
+  82.55	KINGS SUTTON
+  84.02	Astrop
+  84.79	start of M40 bridge
+  85.01	end of M40 bridge
+  86.11	Banbury Junction with BVJ connecting line (0.13 long)
+  86.16	BANBURY formerly B. BRIDGE STREET, B. GENERAL
+  87.29	Banbury Junction with BBG (8.17)
+  87.72	Banbury Ironstone Branch Junction
+  89.67	CROPREDY
+  94.61	Fenny Compton Junction with SJT1 (22.26)
+  94.78	FENNY COMPTON
+  97.07	Knightcote
+  99.12	Greaves sidings
+  99.75	SOUTHAM ROAD & HARBURY formerly HARBURY
+ 102.22	Fosse Road
+ 105.56	Leamington South Junction with Leamington East Junction (13.63)
+ 105.75	junction with Leamington West Junction
+ 106.07	LEAMINGTON SPA formerly L., L. GENERAL
+ 106.25	Leamington Spa Junction with LSC1
+ 108.02	WARWICK
+ 109.26	WARWICK PARKWAY
+ 109.63	Budbrooke
+ 112.14	HATTON
+ 112.18	Hatton Station Junction with HSA (18.12)
+ 112.54	Hatton North Junction with HHW (0.00/18.21)
+ 114.64	Rowington Junction with HLP (0.00)
+ 116.31	LAPWORTH formerly KINGSWOOD
+ 118.75	DORRIDGE formerly KNOWLE & D.
+ 120.66	WIDNEY MANOR
+≈122.20	SOLIHULL [1]
+ 122.25	SOLIHULL [2]
+ 124.11	OLTON
+ 125.08	ACOCKS GREEN
+ 125.73	Tyseley South Junction with BCV (125.73) and TSB (0.00)
+ 126.04	junction with Tyseley Yard Line
+ 126.05	TYSELEY
+ 126.52	junction with Tyseley Yard Line
+ 127.04	SMALL HEATH formerly S.H. & SPARKBROOK
+ 127.57	Bordesley South Junction with BCV [later divergence only]
+ 128.03	BORDESLEY [2]
+ 128.15	junction with Bordesley Disused Branch
+≈128.17	BORDESLEY [1]
+ 128.53	junction with MSL
+ 128.66	BIRMINGHAM MOOR STREET
+ 129.36	BIRMINGHAM SNOW HILL
+ 129.52	ST PAULS
+ 130.04	JEWELLERY QUARTER
+ 130.22	HOCKLEY
+ 130.75	WINSON GREEN formerly SOHO, SOHO & W. G.
+ 130.78	SOHO BENSON ROAD
+ 131.27	WINSON GREEN/OUTER CIRCLE
+ 131.75	HANDSWORTH BOOTH STREET
+ 132.41	THE HAWTHORNS [2]
+ 132.47	Handsworth Junction with HSJ
+ 132.49	THE HAWTHORNS [1]
+ 133.05	KENRICK PARK
+ 133.49	TRINITY WAY
+ 134.05	WEST BROMWICH
+ 134.22	LODGE ROAD/WEST BROMWICH TOWN HALL
+ 134.44	DARTMOUTH STREET
+ 134.70	DUDLEY STREET/GUNS VILLAGE
+ 135.03	junction with GBB
+ 135.14	SWAN VILLAGE
+ 135.26	BLACK LAKE
+ 136.63	WEDNESBURY formerly W. CENTRAL
+ 136.77	Wednesbury Central Junction with WST (0.31)
+ 137.03	WEDNESBURY PARKWAY
+ 137.24	Wagon Repairs siding
+ 138.07	BRADLEY & MOXLEY
+ 138.20	BRADLEY LANE
+ 138.47	J Norton (Metals) siding
+ 138.58	LOXDALE
+ 138.79	Bilston Goods Junction with Bilston Goods Branch (0.00)
+ 139.09	BILSTON CENTRAL [1] formerly B.
+ 139.23	BILSTON CENTRAL [2]
+ 139.45	THE CRESCENT
+ 140.16	PRIESTFIELD [1]
+ 140.23	Priestfield Junction with OWW (152.43)
+ 140.25	Walsall Street Junction with Walsall Street Branch
+ 140.33	PRIESTFIELD [2]
+≈140.40	junction with Midland Metro route
+ 141.52	junction with link to HTW (53.18)
+ 141.61	WOLVERHAMPTON LOW LEVEL formerly W.
+ 142.25	Cannock Road Junction with BUY
+≈142.55	junction with OXC (≈0.56)
+ 142.62	DUNSTALL PARK
+ 143.02	Stafford Road Junction with OXC (1.02), WSJ1 (143.02) and WSJ2 (143.02)
+
+Note that the line onward to 212.02, originally called Didcot and Chester Line, is now WSJ2.  Note too that ≈142.55-143.02 is now in OXC

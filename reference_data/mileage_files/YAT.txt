@@ -1,0 +1,9 @@
+Original measure
+   0.00	Westerleigh West Junction with SWB (107.11)
+   0.38	Westerleigh North Junction with MYW (107.04) and YBZ (0.38)
+   1.34	Yate South Junction with BGL2 (119.75) and YBZ (1.34)
+
+Later measure
+ 119.75	Yate South Junction with BGL2 and YBZ (1.34)
+ 120.71	Westerleigh North Junction with MYW (107.04) and YBZ (0.38)
+ 121.28	Westerleigh West Junction with SWB  (107.11)

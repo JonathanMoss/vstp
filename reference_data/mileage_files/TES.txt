@@ -1,0 +1,2 @@
+   0.00	Trent East Junction with TSN1 (119.58)
+   0.30	Trent West Junction with SPC6 (119.58)

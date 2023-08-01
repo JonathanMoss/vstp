@@ -1,0 +1,30 @@
+   1.36	Camden Junction DC Lines with LEC1
+   1.51	Camden Junction with CRC2 (5.75)
+   2.33	SOUTH HAMPSTEAD formerly LOUDOUN ROAD
+   3.01	KILBURN HIGH ROAD formerly K.; K. & MAIDA VALE
+   3.55	QUEENS PARK (LONDON) formerly Q. P. WEST KILBURN
+   3.70	Queens Park Junction [down line] with QLT2
+   3.71	Queens Park Junction [up line] with QLT1
+   4.41	KENSAL GREEN
+   5.28	Willesden Suburban Junction with KGW (5.36)
+   5.36	WILLESDEN JUNCTION
+   6.08	HARLESDEN
+   7.04	STONEBRIDGE PARK
+   7.07	Stonebridge Junction with SLT
+   8.09	WEMBLEY CENTRAL formerly SUDBURY; SUDBURY & W.
+   8.69	NORTH WEMBLEY
+   9.35	SOUTH KENTON
+  10.24	KENTON
+  11.30	HARROW & WEALDSTONE formerly H.
+  12.45	HEADSTONE LANE
+  13.25	HATCH END formerly PINNER; PINNER & H. E.
+  14.57	CARPENDERS PARK [2]
+  14.68	CARPENDERS PARK [1]
+  16.04	BUSHEY formerly B.; B. & OXHEY
+  16.31	Colne Junction with CCG1
+  16.55	Watford High Street Junction with WCG (0.00)
+  16.67	WATFORD HIGH STREET
+  17.43	junction with LEC1 (17.21)
+  17.58	WATFORD JUNCTION
+
+Note that the official figures for mileages compared to LEC1 vary (correctly) at Wembley Central (as CWJ takes a longer route), but are the same at Harrow & Wealdstone.  It is not clear where the alteration to the additional 3ch-5ch (sources vary) in CWJ takes place.

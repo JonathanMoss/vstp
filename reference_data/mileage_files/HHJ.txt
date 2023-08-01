@@ -1,0 +1,16 @@
+   0.00	Hooton South Junction with CRR1 (7.70) and CRR2 (7.70)
+   1.47	LITTLE SUTTON formerly S.
+   2.28	OVERPOOL
+   3.44	ELLESMERE PORT formerly WHITBY LOCKS
+  ≈3.64	junction with Shropshire Union Canal Line
+   3.78	junction with Manchester Ship Canal lines
+   4.30	junction with Manchester Ship Canal lines
+   4.71	junction with refinery lines
+   5.15	junction with refinery lines
+   5.67	STANLOW & THORNTON
+   6.21	junction with refinery lines
+   6.66	INCE & ELTON (CHESHIRE) formerly I.
+   8.10	junction with fertiliser sidings
+   8.12	Helsby West Cheshire Junction with MWC (34.77)
+   8.60	HELSBY
+   8.66	Helsby Junction with CHW1 (7.40)

@@ -1,0 +1,16 @@
+   0.26	Radyr Branch Junction with BRY
+   0.47	Penarth Curve North Junction with CPL (0.25)
+   0.63	NINIAN PARK
+   0.69	Leckwith Loop South Junction with CLL (0.26)
+   1.20	ownership boundary NR/TfW (from 28 March 2020)
+   1.55	Ely paper mills
+   2.25	WAUN-GRON PARK
+   2.34	Ely Fairwater Road goods depot
+   2.60	FAIRWATER
+   2.70	Waterhall Junction with LTO
+   3.20	DANESCOURT
+   3.73	Radyr Quarry Junction with LDA (4.71)
+   4.05	Radyr pre-assembly depot
+   4.41	Radyr Junction with CAM (5.23)
+
+Note that it is possible, though not confirmed, that this branch originally counted from zero at Radyr

@@ -1,0 +1,2 @@
+   0.00	Brent Curve Junction with SPC1 (6.04)
+   1.03	Dudding Hill Junction with CAW (6.03)

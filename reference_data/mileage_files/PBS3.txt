@@ -1,0 +1,7 @@
+ 140.40	South Mansfield Junction with PBS2
+ 140.44	MANSFIELD [2]
+ 140.51	MANSFIELD [1] [later goods depot]
+ 142.12	MANSFIELD WOODHOUSE [1]
+ 142.17	MANSFIELD WOODHOUSE [2]
+ 142.64	Pleasley Junction with TSC (146.36)
+ 143.40	end on junction with PSE

@@ -1,0 +1,16 @@
+  44.13	Sittingbourne Middle Junction with SEJ1 (0.23) and WMS (44.13)
+  45.20	KEMSLEY
+  46.60	junction with Ridham Dock sidings
+  47.15	SWALE [2] formerly KINGS FERRY BRIDGE
+	SWALE [1]
+  47.34	Kings Ferry lifting bridge
+  47.64	KINGS FERRY BRIDGE NORTH
+  49.16	junction with Queenborough shipbreakers sidings
+  49.22	QUEENBOROUGH
+  49.28	junction with QBL
+  49.30	junction with Queenborough Pier line (to QUEENBOROUGH PIER 50.20)
+  50.48	Dockyard Junction with SDD
+  50.75	junction with SDD (0.21)
+  51.19	SHEERNESS-ON-SEA
+
+See SDD for an explanation of the apparent 50 mile long sidings

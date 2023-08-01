@@ -1,0 +1,24 @@
+  71.63	Ely North Junction with BGK and EWC
+  72.39	Ely West Junction with EWC (72.63)
+  73.57	CHETTISHAM formerly CHITTISHAM
+  73.58	A STATION NEAR ELY 1991 temporary station unofficially called CHETTISHAM
+  75.26	BLACK BANK formerly LITTLE DOWNHAM
+  80.18	MANEA
+  82.04	STONEA
+  85.04	March South Junction with NJM (23.62)
+  85.30	junction with MUP [down line]
+  85.35	junction with MUP [up line]
+  85.66	junction with MUP
+	MARCH [1]
+  85.69	original March East Junction with WIG
+  85.76	MARCH [2]
+  85.78	relocated March East Junction with WIG
+  86.16	March West Junction with MWL (0.00)
+  91.05	Three Horse Shoes Junction with BKB (0.00)
+  93.31	EASTREA
+  94.60	WHITTLESEA
+  96.48	Kings Dyke siding
+ 100.02	PETERBOROUGH EAST formerly P.
+ 100.16	Fletton Road Junction with PMJ (22.70)/Peterborough East Junction with TOM (47.08)
+ 100.60	junction with ECM1 (76.19)
+ 100.64	later junction with PMJ (22.28)

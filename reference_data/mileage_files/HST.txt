@@ -1,0 +1,12 @@
+   0.00	High Street Junction with NEM2 (0.32)
+   0.29	St Johns siding
+   0.33	GALLOWGATE
+   0.45	Saltmarket Junction with SAT
+   0.61	Clyde Junction with SSR (0.28)
+   1.02	Gorbals Junction with GBA (0.00)
+   1.10	MAIN STREET
+   1.39	Port Eglinton Junction with …
+   1.52	junction with GTB (1.19)
+   1.73	SHIELDS ROAD
+   2.00	Shields Road Junction with LYE (0.45)
+   2.36	Pollock Junction with AYR1 (1.01)

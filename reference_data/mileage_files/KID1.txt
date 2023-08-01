@@ -1,0 +1,6 @@
+   0.00	Kidwelly Branch Junction with CMM (4.74)
+   0.33	Kidwelly Loop West Junction with KIP (4.55)
+   1.37	TYCOCH
+   1.42	Tycoch Junction with KID3 (1.42) and TYZ (0.24)
+   1.60	junction with KID2 (234.04)
+   1.79	end of line

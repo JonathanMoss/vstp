@@ -1,0 +1,9 @@
+   0.00	Girvan Junction with GIR (61.60) and STR1 (61.60)
+   0.15	GIRVAN formerly G. NEW
+   5.08	PINMORE
+   8.23	PINWHERRY
+  12.35	BARRHILL
+  16.50	Chirmorie summit
+  20.73	GLENWHILLY
+  25.21	NEW LUCE
+  30.67	Challoch Junction with CJD (46.54) and STR3 (46.54)

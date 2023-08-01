@@ -1,0 +1,8 @@
+ 175.72	Cudworth West Junction with BAM1 (175.72) and MKB1 (0.00)
+ 175.77	Intersection Bridge at Monk Bretton with HBR3 (53.66)
+ 176.12	Monk Bretton Junction with Hull & Barnsley line
+ 176.20	MONK BRETTON
+ 176.22	junction with colliery lines
+ 176.38	Monk Bretton colliery
+
+Note that this line is included in BAM1

@@ -1,0 +1,3 @@
+   0.00	Midland Yard Junction with NMA/PVS (10.13)
+   0.09	bridge over NWO (10.07)
+   0.69	Canal Farm Junction with LEC2 (98.25)

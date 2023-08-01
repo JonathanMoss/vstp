@@ -1,0 +1,20 @@
+   0.00	original Heath Junction with CAR (3.17)
+   0.15	relocated Heath Junction with CAR (3.32)
+   0.29	HEATH LOW LEVEL formerly H.
+   1.20	TY GLAS
+   1.37	BIRCHGROVE
+   1.75	RHIWBINA
+   2.25	WHITCHURCH (CARDIFF) formerly W.; W. GLAMORGAN; W. SOUTH GLAMORGAN; W.
+   2.57	CORYTON
+  ≈3.33	M4 PARK & RIDE proposed
+   3.65	TONGWYNLAIS
+   5.24	junction with NAN (0.39)
+   5.43	GLANYLLYN
+   6.28	NANTGARW LOW LEVEL formerly N.
+   7.20	end on junction with NAN (2.35)
+   7.61	UPPER BOAT
+   8.55	RHYDYFELIN LOW LEVEL formerly R.
+   9.21	TREFOREST built but never opened
+   9.28	junction with CAM (11.62)
+
+Note that 5.24-7.20 is now in NAN

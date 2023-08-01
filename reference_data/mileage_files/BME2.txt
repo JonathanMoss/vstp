@@ -1,0 +1,13 @@
+  82.21	Minster South Junction with BME1 (0.32) and original and later Minster South Junction with MSW (82.21)
+  83.08	Richborough wharf
+  84.49	RICHBOROUGH CASTLE
+  84.64	Richborough siding
+  85.52	Ash Road siding
+  86.46	SANDWICH
+  89.11	junction with Betteshanger colliery lines
+  90.56	DEAL
+  92.27	WALMER
+  92.54	Cold Blow
+  95.05	MARTIN MILL
+  98.52	Kearsney Loop Junction with Kearsney loop
+  99.05	Buckland Junction with FDM (76.32)

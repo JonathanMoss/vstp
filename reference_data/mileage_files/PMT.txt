@@ -1,0 +1,10 @@
+  21.20	Polmont Junction with EGM1 (24.60)
+  23.74	Grangemouth Junction with GMH (0.00)
+  24.12	Falkirk Grahamston Junction with GRA (0.00)
+  24.20	FALKIRK GRAHAMSTON
+  24.67	Forth & Clyde Canal swing bridge
+  25.00	Swing Bridge Junction with BAI (0.00)
+  25.32	FALKIRK CAMELON
+  25.43	CAMELON
+  25.79	Carmuirs East Junction with CMS (0.40)
+  26.35	Larbert Junction with SCM3 (100.43)

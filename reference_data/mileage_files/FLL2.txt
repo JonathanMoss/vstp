@@ -1,0 +1,4 @@
+   1.58	Longhedge A Junction with BSP1 (1.58) and FLL1 (0.09)
+   1.63	Longhedge B Junction with BSP2
+   1.67	Longhedge C Junction with CKL
+   2.29	Lavender Hill Junction with FLL3

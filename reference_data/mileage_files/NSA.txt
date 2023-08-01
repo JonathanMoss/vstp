@@ -1,0 +1,7 @@
+Later measure
+  50.01	Aldershot South Junction with GTW2
+  50.43	Aldershot North Junction with PAA1 (33.40)
+
+Original measure
+   0.00	Aldershot South Junction with GTW2 (50.01)
+   0.42	Aldershot North Junction with PAA1 (33.40)

@@ -1,0 +1,5 @@
+   0.00	Lipson Junction with MLN1 (244.35)
+   0.18	Speedway Junction with SUT1 (244.30)
+   0.34	Mount Gould Junction with SUT2 (244.41)
+
+Note that 0.18-0.34 is shared with SUT1 (244.30-244.45)

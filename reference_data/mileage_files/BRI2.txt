@@ -1,0 +1,12 @@
+ 100.44	Ulceby North Junction with BAR and BRI1
+ 101.38	ULCEBY AERODROME
+ 102.75	junction with Humber refinery sidings
+ 103.20	junction with Lindsey refinery sidings
+ 103.45	junction with Humber refinery sidings
+ 103.53	junction with Lindsey refinery sidings
+ 104.05	Humber Road Junction with KIL1
+ 104.30	junction with Immingham reception sidings
+ 106.05	IMMINGHAM  WESTERN JETTY [1]
+ 106.16	IMMINGHAM DOCK formerly I. WESTERN JETTY [2]
+ 106.34	Immingham East Junction with PYE1
+ 106.43	end on junction with IMS

@@ -1,0 +1,13 @@
+   5.66	Gerards Bridge Junction with SBH2 (5.66) and SRD (7.69)
+   6.55	CARR MILL
+   6.68	Carr Mill Junction with BLB (2.63)
+   9.00	GARSWOOD
+   9.14	Park colliery
+  10.22	BRYN formerly BRYNN
+  10.50	Park Lane Junction [later Bryn Junction] with BOP (0.00)
+  11.11	Garswood Hall Colliery siding
+  11.36	Bryn Hall Colliery siding
+  12.09	Ince Moss Junction with IMG (0.79/0.61)
+  12.19	Ince Moss Junction with IGD
+  12.25	junction with SBH4
+  12.54	Springs Branch Junction with CGJ5 (5.25)

@@ -1,0 +1,6 @@
+ 106.25	Leamington Spa Junction with DCL
+ 106.56	junction with RTS (14.37)
+ 106.77	LEAMINGTON SPA MILVERTON [2]
+ 107.06	LEAMINGTON SPA MILVERTON [1] and junction with LSC2 (0.00)
+
+Note that this line is a 1966 link between ex-GWR and LMS systems between 106.25 and 106.56.  106.56 to 107.06 is former LMS route RTS re-miled to GWR mileage from Paddington

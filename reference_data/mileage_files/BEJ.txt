@@ -1,0 +1,21 @@
+   0.00	Edgeley Junction No 1 with CMP1 (182.36)
+   0.35	Davenport Junction with SJR (0.00)
+   0.62	DAVENPORT
+   1.25	WOODSMOOR
+   2.21	HAZEL GROVE
+   2.35	Hazel Grove East Junction with HGC
+   4.25	MIDDLEWOOD formerly M.; M. LOWER
+   4.50	Middlewood Junction with MDC (0.32)
+   6.09	DISLEY
+   6.50	Disley goods depot
+   7.50	NEW MILLS NEWTOWN formerly N. M.
+   8.62	FURNESS VALE formerly F.
+  10.04	WHALEY BRIDGE
+  10.10	junction with CHP2 (≈10.36)
+  13.67	CHAPEL-EN-LE-FRITH formerly C.-E.-L.-F.; C.-E.-L.-F. SOUTH
+  16.12	DOVE HOLES
+  18.56	junction with BFJ
+  18.65	Buxton North Junction with CNB4 (164.53)
+  18.70	later Buxton No 1 Junction with BUX (0.00)
+  19.02	original junction with BUX (0.00)
+  19.09	BUXTON

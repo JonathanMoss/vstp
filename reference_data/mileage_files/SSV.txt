@@ -1,0 +1,15 @@
+  20.22	Shenfield Junction with LTN1
+  21.32	Mountnessing Junction with down line loop
+  21.41	Mountnessing siding
+  24.28	BILLERICAY
+  27.11	Ramsden Bellhouse siding
+  29.02	WICKFORD
+  29.13	junction with WIS
+ ≈31.58	BRIDGE 774
+  33.09	RAYLEIGH
+  36.10	HOCKLEY
+  38.54	ROCHFORD
+  39.44	SOUTHEND AIRPORT
+  40.67	PRITTLEWELL
+  41.11	junction with sidings
+  41.42	SOUTHEND VICTORIA formerly S.; S.-ON-SEA

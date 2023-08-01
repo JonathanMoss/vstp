@@ -1,0 +1,22 @@
+  29.55	Tonbridge East Junction with XTD
+  32.50	High Brooms siding
+  32.70	HIGH BROOMS
+  33.49	TUNBRIDGE WELLS [1] [later goods depot]
+  34.32	TUNBRIDGE WELLS [2]
+  34.54	Grove Junction with GJB2 (50.19)
+  36.53	FRANT
+  39.23	WADHURST
+  43.66	STONEGATE
+  47.34	ETCHINGHAM
+  49.42	Robertsbridge Junction with KSU (66.50)
+  49.47	ROBERTSBRIDGE
+  51.78	Mountfield sidings
+  52.54	MOUNTFIELD
+  55.46	BATTLE
+  57.50	CROWHURST
+  57.59	junction with CSB
+  57.71	Crowhurst siding
+  60.59	WEST ST LEONARDS
+  60.69	Bo Peep Junction with WJB (32.76)
+  61.55	ST LEONARDS WARRIOR SQUARE
+  62.33	HASTINGS and junction with ATH (82.34)

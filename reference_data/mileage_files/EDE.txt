@@ -1,0 +1,14 @@
+   0.00	Kirkby Stephen West Junction with DNT (38.16) [mean]
+   4.05	MUSGRAVE
+   5.21	later start of line
+   5.57	WARCOP
+  10.78	APPLEBY EAST
+  11.36	Appleby West Junction with WAR (277.59)
+  11.41	later end of line
+  15.04	KIRKBY THORE
+  16.69	TEMPLE SOWERBY
+  18.44	CLIBURN
+  20.50	Wetheriggs siding
+ ≈20.73	Wetheriggs Junction with CCV (0.00)
+  21.31	CLIFTON
+  21.73	Eden Valley Junction with CGJ7 (48.03)

@@ -1,0 +1,20 @@
+ 182.38	end on junction with CMP1
+ 182.59	Edgeley Junction No 2 with EJN (0.00)
+ 182.72	junction with goods depot lines
+ 183.01	STOCKPORT
+ 183.04	Stockport goods depot
+ 183.46	HEATON NORRIS formerly STOCKPORT
+ 183.56	Heaton Norris Junction with HNS (0.00)
+ 184.47	HEATON CHAPEL formerly H. C.; H. C. & HEATON MOOR
+ 186.01	LEVENSHULME
+ 186.46	Slade Lane Junction with STY (9.44)
+ 186.77	Longsight South Junction with maintenance depot lines
+ 187.08	LONGSIGHT
+ 187.12	LONGSIGHT staff halt and 1988 temporary station
+ 187.31	Longsight goods depot
+ 187.54	Longsight Depot Junction with maintenance depot lines
+ 188.13	Ardwick Junction with HAJ (0.52)
+ 188.18	Ardwick Junction with PPA1 (3.53)
+ 188.35	junction with SMY
+ 188.48	Manchester Piccadilly East Junction with COL
+ 188.70	MANCHESTER PICCADILLY

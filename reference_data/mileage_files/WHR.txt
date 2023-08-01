@@ -1,0 +1,4 @@
+  63.28	Whisker Hill/Thrumpton West Junction with MAC3 [up line after flying junction built]
+  63.46	Whisker Hill/Thrumpton West Junction with MAC3 [down line after flying junction built]
+  63.76	Whiskerhill Junction with MAC3 [original junction]
+  64.29	Retford Western Junction with ECM1 (138.55)

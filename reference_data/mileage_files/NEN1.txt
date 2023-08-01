@@ -1,0 +1,7 @@
+   0.11	Newcastle West Junction with ECM5 (80.05)
+   0.51	Castle sidings
+   0.59	Forth Junction with FOG (0.00)
+   1.40	Elswick Ordnance depot
+   1.67	ELSWICK
+   2.50	SCOTSWOOD WORKS
+   2.65	Scotswood Junction with BES (2.65) and NEN2 (0.00)

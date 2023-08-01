@@ -1,0 +1,38 @@
+   0.00	Maryport Junction with CBC2 (12.05)
+   0.06	MARYPORT [1] later goods depot
+   0.08	Maryport Junction with MYT (0.00)
+   0.27	MARYPORT [2]
+   0.40	Maryport iron works
+   2.37	DEARHAM BRIDGE
+   2.42	Lowther Pit colliery
+   3.38	Rosegill colliery siding
+   4.11	Bullgill Junction with DER
+   4.13	Crosby colliery siding
+   4.21	BULLGILL
+   5.06	Gilerux pit [? on DER]
+   5.27	OUGHTERSIDE COLLIERY
+   6.10	Warthole lime works siding
+   6.14	Oughterside colliery 
+   6.62	ARKLEBY
+   7.10	Brayton Domain No 5 pit
+   7.64	ASPATRIA
+   7.66	junction with BBH
+   9.00	Wellington colliery siding
+   9.66	BRAYTON
+  10.01	Brayton Junction with SOW (21.03)
+  10.50	HEATHFIELD
+  11.78	LOW ROW
+  12.46	LEEGATE
+  13.13	AIKBANK
+  13.44	Aikbank Junction with BBH (14.78)
+  14.17	BROOKFIELD
+  14.55	Sheffields brick works siding
+  16.20	WIGTON
+  19.57	CROFTON
+  20.64	CURTHWAITE
+  23.43	DALSTON (CUMBRIA)
+  25.61	CUMMERSDALE
+  26.66	junction with Currock yard
+  26.74	Currock Junction with MCG (0.00)
+  27.49	Carlisle South Junction with CGJ7 (68.67)
+  27.58	CARLISLE CROWN STREET

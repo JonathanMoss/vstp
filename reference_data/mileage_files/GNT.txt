@@ -1,0 +1,12 @@
+  10.02	Pantyffynnon Junction with LLA
+  10.07	PANTYFfYNNON
+  10.32	Pantyffynnon locomotive depot
+  11.10	AMMANFORD
+  11.37	AMMANFORD COLLIERY
+  13.53	Cawdor
+  13.77	GLANAMMAN
+  14.39	GELLYCEIDRIM
+  14.59	Gwaun Cae Gurwen Branch Junction with GWA
+  14.64	GARNANT
+  16.40	BRYNAMMAN WEST
+  16.49	Brynamman Junction with SVL (18.16)

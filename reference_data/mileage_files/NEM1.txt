@@ -1,0 +1,7 @@
+  11.60	junction with NEM2
+  11.70	DRUMGELLOCH
+  14.60	CALDERCRUIX
+  20.29	BLACKRIDGE
+  22.55	ARMADALE (WEST LOTHIAN)
+  25.00	'junction' with NBE
+ ≈25.10	actual connection with NBE

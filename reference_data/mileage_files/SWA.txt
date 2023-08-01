@@ -1,0 +1,8 @@
+ 214.65	Landore Junction with SWM2
+ 215.01	Landore locomotive depot
+ 215.26	later Hafod Junction with MOR (0.00)
+ 215.18	original Hafod Junction with MOR (0.00/0.08)
+ 215.43	Swansea Loop East Junction with SWL (0.53)
+ 215.57	Swansea High Street goods depot
+ 215.66	North Dock Branch Junction with SND
+ 216.08	SWANSEA formerly S.; S. HIGH STREET

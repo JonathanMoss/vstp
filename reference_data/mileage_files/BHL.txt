@@ -1,0 +1,38 @@
+  37.62	relocated Southcote Junction with BKE
+  37.68	original Southcote Junction with BKE
+  39.68	Calcot
+  41.22	THEALE
+  41.70	Theale preassembly depot
+  44.63	ALDERMASTON
+  46.59	MIDGHAM formerly WOOLHAMPTON
+  48.75	Colthrop
+  49.38	THATCHAM [temporary down platform opened 9 May 1983, closed ≈11 July 1983]
+  49.45	THATCHAM
+  52.31	NEWBURY RACECOURSE
+  52.58	Newbury East Junction with NDL (0.00)
+  53.06	NEWBURY
+  53.15	Lambourn Valley Junction with LAM (0.08)
+  54.18	Enborne Junction with NWT (0.00)
+  58.38	KINTBURY
+	HUNGERFORD [1]
+  61.43	HUNGERFORD [2]
+  66.33	BEDWYN
+  68.49	Grafton East Junction with GRZ
+  69.28	Wolfhall Junction with WOF (13.70)
+  70.08	SAVERNAKE
+  70.12	Savernake Junction with MBO
+  70.76	Burbage
+  72.43	WOOTTON RIVERS
+  75.26	PEWSEY
+  76.62	MANNINGFORD
+  78.69	WOODBOROUGH
+  81.01	Patney & Westbury Junction with SWY
+  81.07	PATNEY & CHIRTON
+  81.16	junction with SWY
+  81.78	divergence with SWY
+  85.13	PANS LANE
+  85.71	DEVIZES
+  88.66	BROMHAM & ROWDE
+  90.13	SEEND
+  92.27	SEMINGTON
+  94.03	Holt Junction with WEY (102.53)

@@ -1,0 +1,11 @@
+   0.00	Turnchapel Branch Junction with FRY (233.30/245.17)
+   0.20	LUCAS TERRACE
+   0.43	Cattewater Junction with CWR (0.43) and PLZ (244.75)
+   1.05	Plymstock Junction with PLS
+   1.14	PLYMSTOCK
+   1.45	ORESTON
+   1.71	Bayly's siding
+   2.11	TURNCHAPEL
+   2.21	end of line and connection to private sidings
+
+Note that 0.00-1.05 was formerly part of PLS

@@ -1,0 +1,7 @@
+  39.22	Farnham Junction with ATF (39.22) and PAA1 (36.75)
+  40.33	FARNHAM
+  44.24	BENTLEY (HAMPSHIRE)
+  44.42	Bentley Junction with BBO
+  46.79	Ministry Of Food siding
+  49.13	ALTON
+  49.24	junction with AIW and ownership boundary (NR/Mid Hants)

@@ -1,0 +1,212 @@
+ 113.03	Gloucester Yard Junction with CHL (93.09) and BGL1 (93.09)
+ 113.12	junction with GNY1
+ 113.49	junction with GNY1 and GTY (0.00)
+ 113.54	Tramway Junction with BAG2 (92.68) and BGL2 (92.68)
+ 113.59	Gloucester Horton Road locomotive depot
+ 113.70	Gloucester Old yard
+ 114.04	GLOUCESTER [later mileage on platform 1 extension]
+ 114.09	GLOUCESTER CENTRAL [original mileage]
+ 114.55	start of deviation
+ 114.62	Black Bridge
+ 115.38	end of deviation
+ 115.43	Over Junction with GLD (0.00)
+ 115.48	Over Junction with LEY (0.00)
+ 115.55	OVER BRIDGE
+ 119.38	OAKLE STREET
+ 121.37	Grange Court Junction with GCT
+ 121.45	GRANGE COURT
+ 122.74	WESTBURY ON SEVERN
+ 124.79	NEWNHAM
+ 125.47	RUDDLE ROAD
+ 125.66	original Bullo Pill Dock Junction with BUZ (-0.24)
+ 125.75	Bullo Pill yard
+ 126.04	Forest Of Dean Junction with FOD (0.00)
+ 126.10	relocated Bullo Pill Dock Junction with BUZ (0.00)
+ 128.06	Awre Junction with FOZ (0.00)
+ 128.26	AWRE
+ 130.39	GATCOMBE
+ 133.21	Lydney West Loop Junction with LWL (8.47) and later junction with SAW (8.00)
+ 133.22	Lydney East Loop Junction with LEP (8.01)
+ 133.37	LYDNEY formerly L.; L. JUNCTION
+ 136.12	WOOLASTON
+≈140.10	BEACHLEY JUNCTION
+ 140.54	Wye Valley Junction with WYE (0.00)
+ 140.60	TUTSHILL
+≈141.00	CHEPSTOW EAST
+ 141.33	CHEPSTOW
+ 143.35	Thornhill Junction with Bulwark camp line
+ 145.77	PORTSKEWETT [2]
+ 146.05	Portskewett Junction with PSZ (0.00)
+ 146.33	PORTSKEWETT [1]
+ 146.76	Caerwent Branch Junction with CWT (0.00)
+ 147.02	junction with SBK1
+ 147.12	Caldicot siding
+ 148.02	CALDICOT
+ 148.49	Severn Tunnel Junction with BSW (16.27)
+ 148.61	SEVERN TUNNEL JUNCTION
+ 148.66	Severn Tunnel Middle Junction with BSW (16.44)
+ 148.72	Severn Tunnel Junction down hump yard
+ 149.47	Severn Tunnel Junction up hump yard
+ 150.50	UNDY
+ 151.12	MAGOR
+ 153.01	Bishton
+ 153.05	junction with steel works lines
+ 154.66	LLANWERN [1]
+ 154.68	LLANWERN [2] possible future station
+ 156.03	junction with steel works lines
+ 157.00	Lliswerry freight depot
+ 157.04	East Usk Junction with EUB (0.00)
+ 157.25	East Usk Junction marshalling yard
+ 157.62	Nettlefolds Branch Junction with East Usk Wharf Siding/Nettlefolds Branch (0.00)
+ 157.74	Maindee Junction East with MAI (41.64)
+ 158.16	Maindee Junction West with HNL1 (41.66)
+ 158.50	NEWPORT (SOUTH WALES) formerly N. HIGH STREET
+ 159.32	Gaer Junction with GAE
+ 159.59	Alexandra Dock Junction with NWL (0.24)
+ 159.60	Alexandra Dock Junction (Low Level Loop Junction) with NLL (0.00)
+ 160.00	Alexandra Dock Junction marshalling yard
+ 160.07	Ebbw Junction with NWN (0.00)
+ 160.09	Ebbw Junction locomotive depot
+ 162.02	St Brides
+ 163.66	MARSHFIELD
+ 165.11	CARDIFF PARKWAY planned
+ 165.40	St Mellons
+ 167.61	Rumney River Bridge
+ 168.20	Pengam Junction with ROC
+ 168.30	CARDIFF EAST possible future station
+ 168.45	Roath freight depot
+ 169.02	ROATH
+ 169.22	Long Dyke Junction with BUT (0.00)
+ 169.55	Tyndall Field sidings and Tyndall Field marshalling yard
+ 169.69	Newtown West
+ 170.18	Cardiff East Junction with CEJ (0.00/0.22)
+ 170.30	CARDIFF CENTRAL formerly C. GENERAL
+ 170.42	Riverside Branch Junction with CFR (0.00)
+ 170.46	Penarth Junction with BRY (0.00)
+ 170.56	Cardiff West Junction with BRY (0.10)
+ 170.78	Cardiff Canton locomotive depot
+ 171.11	Canton sidings
+ 171.26	Leckwith Road Bridge Junction with CCC
+ 171.55	Leckwith Loop North Junction with CLL (0.00)
+ 172.55	ELY MAIN LINE
+ 174.28	ST FAGANS
+ 174.37	junction with SFA (1.09)
+ 176.30	Peterston East Junction with Peterston East Loop (6.17)
+ 176.67	Peterston West Junction with PTN (6.55)
+ 177.10	PETERSTON
+ 179.00	Duffryn Bridge
+ 181.37	LLANTRISANT formerly LLANTRISSANT and mileage junction with ATW (0.00)
+ 181.40	PONTYCLUN
+ 181.43	Ely Valley Junction with ELY (0.00)
+ 181.76	Tyn Y Bryn
+ 183.65	Llanharan Junction with COB (0.00)
+ 183.72	LLANHARAN
+ 185.09	BRYN Y GWYNON
+ 186.49	PENCOED [up platform]
+ 186.60	PENCOED [down platform]
+ 189.37	TREMAINS FACTORY
+ 190.33	Bridgend East Junction with CRB/VOG (18.76)
+ 190.45	BRIDGEND
+ 190.57	L&O Junction with BAL (0.00)
+ 190.68	Llynfi Junction with BAL (0.11)
+ 193.00	Laleston
+ 194.51	Stormy
+ 195.65	Pyle Middle Junction with POR (5.66)
+ 195.71	Pyle Middle Junction with POR (5.72)
+ 196.00	PYLE [2]
+ 196.03	Pyle Branch Junction with PIZ (1.01)
+ 196.20	PYLE [1]
+ 196.40	PYLE [3]
+ 196.52	Pyle West Loop Junction with PYW (0.00)
+ 197.41	Water Street Junction with MYL
+ 197.60	Pyle sand siding
+ 198.64	Margam Moors Junction with MRJ
+ 198.70	Newlands Loop Junction with NLP (2.76)
+ 199.02	Margam Moors
+ 200.28	Abbey North Junction with OVE (1.34)
+ 200.47	MARGAM
+ 200.63	Margam Yard Junction with OVE (0.79)
+ 201.22	Margam East Junction with OVE (0.54)
+ 201.39	Margam sidings
+ 201.55	Margam West Junction with OVE (0.21)
+ 201.68	West Curve Junction with MWT (0.33)
+ 202.05	Taibach Loop Junction with TAI (1.37)
+ 202.31	junction with Steelworks Wharf to Old Dock Junction line (0.00)
+ 202.59	PORT TALBOT PARKWAY formerly P. T.; P. T. & ABERAVON; P. T. GENERAL; P. T.
+ 202.61	East Junction with PJE2
+ 203.01	Aberavon Junction with ADU (13.63)
+ 203.58	Pentyla
+ 204.53	BAGLAN [2]
+ 204.58	BAGLAN [1]
+ 205.43	Swan Street
+ 205.74	Briton Ferry Junction with RSB (17.20) and RSB1 (17.20)
+ 206.00	junction with ALB and BAN1
+ 206.02	BRITON FERRY WEST formerly B. F.
+ 206.13	Dock Junction with BFZ (0.00)
+ 206.14	Briton Ferry Up Flying Loop Junction with RSB (17.41)/SDI1 (206.14) [up line only]
+ 206.31	BRITON FERRY [1]
+ 206.40	BRITON FERRY [2]
+ 206.52	down line junction with SDI1
+ 206.57	Court Sart Junction with RSB (18.07)
+ 206.79	Court Sart locomotive depot
+ 208.20	NEATH [2] formerly N.; N. GENERAL
+ 208.27	Neath Loop Junction with NEJ (208.27/41.32)
+ 208.50	NEATH [1]
+ 210.21	SKEWEN [2]
+ 210.26	SKEWEN [3]
+ 210.44	Skewen East Junction with SDI3 (0.00)
+ 210.48	SKEWEN [1] formerly DYNEVOR
+ 211.40	LLANSAMLET [1]
+ 212.08	LLANSAMLET [2]
+ 212.47	LLANSAMLET NORTH formerly L.
+ 213.62	Swansea Valley Junction with SPJ (213.62/0.00)
+ 214.63	LANDORE
+ 214.65	Landore Junction with SWA
+ 215.14	Swansea Loop West Junction with SWL (0.00)
+ 216.15	Cockett East
+ 216.70	COCKETT
+ 216.74	junction with CGB (216.74/0.00)
+ 217.76	Mynydd Bach Y Glo
+ 219.45	GOWERTON formerly GOWER ROAD; G. NORTH
+ 221.49	LOUGHOR
+ 223.49	junction with LLA (0.00)
+ 223.50	junction with LJL1
+ 224.01	Llandillo Junction West with LDZ
+ 224.59	level crossing with SDA (225.26)
+ 224.73	Llanelly Dock Junction with LJL2 (225.12)
+ 225.20	LLANELLI formerly LLANELLY
+ 225.49	Llanelly West Junction with MML (0.23)/MMB (0.00)
+ 225.58	Dock Junction with docks lines
+ 228.66	junction with SAE (0.54)
+ 229.09	level crossing with CUZ (0.18)
+ 229.15	PEMBREY & BURRY PORT
+ 230.54	LANDO
+ 232.26	KIDWELLY FLATS
+ 233.75	Kidwelly Junction with KID2
+ 234.10	mileage change with GWE (0.00)
+ 234.32	KIDWELLY
+ 238.51	FERRYSIDE
+ 241.52	Towy Rivers
+ 242.23	Towy Castle
+ 244.76	CARMARTHEN JUNCTION formerly C.
+ 245.10	Carmarthen Junction with CAN
+ 245.32	Carmarthen Bridge Junction with CNW (0.00)
+ 245.58	Llanstephan mileage depot
+ 249.61	SARNAU
+ 253.14	ST CLEARS
+ 258.74	WHITLAND
+ 259.01	Pembroke & Pembrey Junction with PEM
+ 261.14	Cardigan Junction with WCN
+ 264.22	CLUNDERWEN formerly NARBERTH ROAD; CLYNDERWEN
+ 264.33	Clynderwen Junction with NPF
+ 270.64	CLARBESTON ROAD [1]
+ 270.71	CLARBESTON ROAD [2]
+ 271.08	Clarbeston Road Junction with CRL
+ 276.08	HAVERFORDWEST
+ 280.40	junction with Hook colliery lines
+ 280.67	JOHNSTON (PEMBS) formerly J.; MILFORD ROAD; J.; J. DYFED
+ 280.70	Johnston Junction with MIL
+ 285.10	Neyland locomotive depot
+ 285.26	NEYLAND formerly MILFORD HAVEN; NEW MILFORD
+
+Note that the Pyle stations really were at 0.20 intervals.  Note too that the line was diverted in 1958 in the Over area across a new, higher, bridge over the Severn

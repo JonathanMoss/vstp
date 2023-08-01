@@ -1,0 +1,74 @@
+   6.19	MILLERHILL
+   6.23	junction with Roslin line
+	SHERIFFHALL
+	GLENESK
+   7.59	Glen Esk Junction with GDB
+	LASSWADE ROAD
+   7.76	ESKBANK formerly GALLOWSHALL; GALLOWSHALL E.;
+   8.21	Hardengreen Junction with PBA (8.21) and SME (10.39)
+   8.79	DALHOUSIE formerly SOUTH ESK
+   9.41	Newbattle
+   9.56	NEWTONGRANGE
+   9.69	Murderdean/Dean Works sidings
+  10.23	West Bryans/Lady Victoria Pit sidings
+  11.49	Arniston
+  12.01	GOREBRIDGE
+  12.17	Vogrie
+  12.61	FUSHIEBRIDGE
+  14.11	Borthwick Bank
+  16.01	TYNEHEAD
+  17.76	Falahill
+  19.09	HERIOT
+  19.45	Hangingshaw quarry
+  22.45	FOUNTAINHALL
+  22.52	Fountainhall Junction with FHL (0.00)
+  26.52	STOW
+  28.48	Bowshank
+  29.62	BOWLAND BRIDGE
+  32.40	Kilnknowe Junction with PBA (44.48)
+  32.70	Sanderson & Murray's siding
+  33.02	Paterson's siding
+  33.13	Paterson's siding
+  33.43	GALASHIELS
+  34.41	junction with SKK (5.14)
+  36.19	Darnick
+  37.17	MELROSE
+  38.39	NEWSTEAD
+  39.17	Ravenswood Junction with RWR (29.26)
+  40.45	ST BOSWELLS
+  40.69	Kelso Junction with KLO
+ ≈42.07	CHARLESFIELD
+  43.49	Greenend siding
+  45.13	BELSES formerly NEW B.
+  46.54	Standhill siding
+  48.43	HASSENDEAN
+  52.59	junction with goods depot lines
+  52.67	HAWICK [2]
+  52.71	HAWICK [1] [later goods depot]
+  55.27	STOBS CAMP
+  56.56	STOBS formerly BARNES
+  59.67	SHANKEND
+  63.55	WHITROPE SIDING
+  63.55	Lime Kiln Edge
+  65.68	RICCARTON formerly R.; R. JUNCTION
+  65.77	Riccarton Junction with BDC (40.62)
+  69.32	STEELE ROAD
+  72.23	Hermitage Foot [may briefly have been a passenger station]
+  73.77	NEWCASTLETON
+  77.04	KERSHOPE FOOT
+	NOOK PASTURE
+  80.72	Peter's Crook
+  81.45	PENTON
+  84.12	RIDDINGS JUNCTION and junction with RLB (0.00)
+  85.24	Moat Quarry
+  86.27	SCOTCH DYKE
+  88.49	LONGTOWN and junction with GJH (0.00)
+  90.52	Fauldmoor
+  91.46	LINESIDE formerly LYNESIDE
+  93.64	HARKER
+	PARKHOUSE
+  95.30	Kingmoor
+  95.59	Stainton Junction with BSN (0.00)
+  96.68	Port Carlisle Junction with PCB2 (0.40) and SLH (0.45)
+
+Note that it is not clear at this stage exactly where this line started.  Note too that much of the route was reused in SBO

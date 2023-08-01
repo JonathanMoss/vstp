@@ -1,0 +1,37 @@
+   0.25	West Parade Junction with HUL1
+   0.30	junction with tamper sidings
+   0.40	divergence with HUL1
+   0.46	junction with VDB
+   0.72	West Parade North Junction with AWP (0.24)
+   1.29	Walton Street Junction with SPW
+   2.12	Cottingham Junction with Cottingham Branch (1.52)
+   3.77	COTTINGHAM
+   8.20	BEVERLEY
+   8.68	junction with BMW (33.24)
+  11.16	ARRAM
+  12.76	LOCKINGTON
+  14.02	KILNWICK GATE [later goods depot]
+  14.45	Watton siding
+  16.21	HUTTON CRANSWICK
+  19.26	Driffield East Junction with MAD (19.41)
+  19.38	DRIFFIELD
+  21.46	NAFFERTON
+  23.64	LOWTHORPE
+  25.45	BURTON AGNES
+  28.56	CARNABY
+  30.49	Bridlington Excursion Junction with Bridlington Excursion Branch
+  30.72	BRIDLINGTON
+  33.28	FLAMBOROUGH
+  34.43	BEMPTON
+  37.36	SPEETON
+  41.53	HUNMANBY
+  42.39	Royal Oak South Junction with FHC
+  42.70	Royal Oak North Junction with Filey North to East Curve (0.00)
+  44.30	FILEY
+  46.41	GRISTHORPE
+  48.17	CAYTON
+  50.43	Seamer West Junction with YMS (38.63)
+
+Note that this route includes the Bridlington Excursion Branch, thus:
+  30.49	Bridlington Excursion Junction with main route
+  30.79	BRIDLINGTON [excursion platforms]

@@ -1,0 +1,6 @@
+  95.37	Wigston South Junction with SPC3 and WGP
+  96.02	Wigston North Junction with WNS (15.31)
+  97.45	Knighton South Junction with KSL
+  97.79	Knighton North Junction with Knighton North Curve (0.25)
+  98.12	WELFORD ROAD
+  98.74	London Road Junction with SPC5

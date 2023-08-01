@@ -1,0 +1,10 @@
+   0.00	Exeter Railway Junction with MLN1 (195.12)
+   0.19	Alphington Road Goods Junction with ARD (0.00)
+   0.22	Exeter Basin Loop Junction with EXL (0.00)
+   0.46	Marsh Barton Junction with MBA (0.00)
+   0.62	ALPHINGTON
+   2.00	IDE
+   4.58	LONGDOWN
+   6.01	DUNSFORD
+   8.03	CHRISTOW
+   8.07	junction with TEI (7.57)

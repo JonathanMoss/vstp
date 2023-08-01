@@ -1,0 +1,4 @@
+  12.49	Bickley Junction with VIR
+  12.71	Hawkwood Junction with CSM2 (11.66)
+  12.75	Hawkwood Junction with CSM3 (11.69)
+  13.35	Petts Wood Slow Junction with XTD (12.27)

@@ -1,0 +1,11 @@
+   5.73	South Tottenham East Junction with TAH1 and TSE1
+   7.21	BLACKHORSE ROAD [2]
+   7.31	BLACKHORSE ROAD [1]
+   8.11	WALTHAMSTOW QUEENS ROAD
+   8.37	Walthamstow Queens Road goods depot
+   9.22	LEYTON MIDLAND ROAD
+  10.00	LEYTONSTONE HIGH ROAD
+  11.15	WANSTEAD PARK
+  11.79	Woodgrange Park Junction with FGW (0.31) and TAH3 (11.79)
+
+Note that this route was previously TFH1, at which time TAH2 was the route now coded TSE2

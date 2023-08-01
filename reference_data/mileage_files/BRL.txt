@@ -1,0 +1,22 @@
+Original measure
+ 117.27	Bristol Relief Line Junction with MLN1
+ 117.42	Marsh Junction North with FNS2 (23.10)
+ 117.43	Marsh Junction South with FNS2 (23.09)
+ 117.50	diesel maintenance shed
+ 117.53	St Philips Marsh HST depot
+ 117.58	junction with MDZ
+ 118.01	Bristol St Philips Marsh locomotive depot
+ 118.10	Victoria Road sidings
+ 118.33	Bristol West Junction with MLN1 (118.58)
+
+Later measure when part of original route closed and replaced by remaining stub of FNS2
+   0.00	North Somerset Junction with MLN1 (117.46)
+   0.16	Marsh Junction North with FNS2 (23.10)
+   0.17	Marsh Junction South with FNS2 (23.09) and junction with MJU
+   0.24	diesel maintenance shed
+   0.27	St Philips Marsh HST depot
+   0.32	junction with MDZ
+   0.40	junction with MJD and MJU
+   0.55	Bristol St Philips Marsh locomotive depot
+   0.64	Victoria Road sidings
+   1.09	Bristol West Junction with MLN1 (118.58)

@@ -1,0 +1,20 @@
+  29.28	Three Bridges Junction with TBG and VTB3
+  30.49	CRAWLEY [2]
+  30.58	CRAWLEY [1]
+  31.66	IFIELD
+  34.28	FAYGATE
+  35.42	ROFFEY ROAD
+  36.50	LITTLEHAVEN
+  37.40	Horsham Junction with BTH3 (35.35)
+  37.57	HORSHAM
+  39.79	Stammerham Junction with CPJ (39.79/47.44)
+  40.07	CHRISTS HOSPITAL
+ ≈40.29	junction with link to CPJ
+  40.52	Itchingfield Junction with BVS2
+	junction with Itchingfield South Fork (0.49 long)
+  44.71	BILLINGSHURST
+  50.00	PULBOROUGH
+  50.68	Hardham Junction with PSM
+  54.62	AMBERLEY
+  58.28	ARUNDEL
+  59.74	Arundel Junction North with BLI1 (19.01)

@@ -1,0 +1,5 @@
+ 178.67	Chester East Junction with CHW1 (0.27) and CNH1 (178.67)
+ 179.11	CHESTER
+ 179.30	Holyhead Junction with CRR1 (0.19)
+ 179.51	Chester South Junction/Tunnel Junction with CVS (0.24/0.00)
+ 179.56	junction with CNH3

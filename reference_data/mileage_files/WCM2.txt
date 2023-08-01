@@ -1,0 +1,53 @@
+  84.10	Law Junction with WCM1 and WWD
+  84.11	Law Junction with SFI (0.00)
+  84.59	Garriongill Junction with COS1/MNG (15.29)
+  85.24	OVERTOWN
+  85.77	Pather
+  86.36	WISHAW formerly W.; W. SOUTH
+  86.51	Green pit
+  87.00	Wishaw iron works
+  87.26	Shieldmuir Royal Mail terminal
+  87.41	Shieldmuir Junction with SHR (87.43)
+  87.59	SHIELDMUIR
+  87.70	Shields Colliery Junction with CRT (0.00)
+  87.77	Shields Colliery Junction with FLG
+  88.50	Parkend
+  89.13	MOTHERWELL JUNCTION and junction with DEL (0.00)
+  89.38	MOTHERWELL
+  89.51	Lesmahagow Junction with HMN1 (0.00) and SCM1 (89.51)
+  89.76	Motherwell collieries
+  90.75	Orbiston
+  92.02	BOTHWELL PARK [possibly not passenger station]
+ ≈92.52	Bothwell Junction with BOT (0.00)
+  92.63	FALLSIDE
+  93.25	Maryville
+  93.50	Uddingston Junction with EGS1 (0.00)
+  93.71	UDDINGSTON formerly U.; U. CENTRAL
+ ≈94.52	Haughhead Colliery Junction with HGH (0.00)
+  95.30	Newton colliery
+  95.50	Hamilton Junction with HMN2 (0.00)
+  95.57	NEWTON
+  95.67	Newton West Junction with NWC
+  95.72	steel works
+  95.77	Newton Kirkhill Junction with KHL
+  97.24	CAMBUSLANG
+  97.49	Cambuslang goods depot
+  98.33	Rutherglen East Junction with RCB (0.00)
+  98.38	Eastfield
+  98.45	junction with ZZD4
+  98.54	RUTHERGLEN [1]
+  98.67	Stonelaw
+  98.72	Rutherglen Central/Dalmarnock Junction with ARG1 (0.00)
+  99.08	Rutherglen pit
+  99.12	RUTHERGLEN [2]
+  99.16	Shawfield chemical works
+  99.20	Rutherglen West Junction with RNC (0.00)
+  99.46	junction with ZZD5
+  99.75	Govan iron works
+ 100.10	Glasgow locomotive works
+ 100.27	junction with ZZD5
+ 100.35	Gushetfaulds Junction with SOG
+ 100.60	Larkfield Junction with CLY
+ 101.39	Eglinton Street Junction with MEN1 (0.70)
+ 101.56	Bridge Street Junction with AYR1 (0.00)
+ 102.27	GLASGOW CENTRAL high level

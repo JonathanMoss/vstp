@@ -1,0 +1,23 @@
+ (36.00)	READING terminus platforms
+  36.17	Westbury Line Junction with MLN1
+  36.27	junction with RTR2
+  36.36	junction with RTR1
+  36.49	Reading diesel locomotive depot
+  36.50	Reading DMU depot
+  36.59	Main line junction with RFM (36.73)
+  36.66	Oxford Road Junction with RWC (0.43)
+  36.75	READING WEST
+  37.59	Coley Branch Junction with COY (0.00)
+  37.62	relocated Southcote Junction with BHL
+  37.68	original Southcote Junction with BHL
+  38.70	READING GREEN PARK
+  39.69	Burghfield Junction with Royal Ordnance Factory sidings
+  43.14	MORTIMER
+  46.41	BRAMLEY (HAMPSHIRE)
+  50.10	Danes Hill Brick Works siding
+  50.13	Daneshill siding
+  51.31	junction with BML1 (47.52)
+  51.37	BASINGSTOKE GWR station
+ (51.39)	BASINGSTOKE SR station
+
+Note that the two Basingstoke stations are now treated as a single entity

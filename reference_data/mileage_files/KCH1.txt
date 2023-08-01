@@ -1,0 +1,15 @@
+  43.52	Annbank Junction with ANN
+  43.57	ANNBANK
+  44.11	Muirburn colliery
+  44.14	Annbank No.9 and No.10 collieries
+  45.45	Annbank No.7 and No.8 collieries
+  46.18	Drumdow No.3 and No.4 collieries
+  46.36	Drumdow
+  46.42	TRABBOCH
+  47.09	Trabboch colliery
+  47.32	junction with Garrochhill colliery lines
+  47.59	Shieldmains colliery
+  48.44	DRONGAN
+  48.73	Drongan Junction with ACL (48.73) and KCH2 (0.00)
+
+Note that this line is entirely within ACL

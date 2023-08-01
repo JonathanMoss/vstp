@@ -1,0 +1,7 @@
+Later measure
+  17.66	Hatton West Junction with HSA
+  18.21	Hatton North Junction with DCL (112.54)
+
+Earlier measure
+   0.00	Hatton West Junction with HSA (17.66)
+   0.35	Hatton North Junction with DCL (112.54)

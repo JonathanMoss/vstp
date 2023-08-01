@@ -1,0 +1,28 @@
+   0.00	junction with LEC1 (46.46)
+   0.04	BLETCHLEY
+   0.17	connection with BCS (46.67), BLT1 (46.67) and LEC1 (46.67)
+   0.20	connection with BLT2
+   0.23	connection with BLT3 (46.73)
+   0.49	connection with BLT2
+   0.76	Fenny Stratford Flyover Junction with BFO (1.48)
+   1.05	FENNY STRATFORD
+   2.05	BOW BRICKHILL
+   4.08	WOBURN SANDS formerly W.
+   5.06	ASPLEY GUISE
+   5.35	HUSBORNE CRAWLEY
+   6.59	RIDGMONT
+   8.52	LIDLINGTON (centre line originally at 8.49 before staggered platforms built)
+   9.53	connection with Marston Valley brick company's sidings
+  10.05	MILLBROOK (BEDFORDSHIRE) formerly MARSTON; MILLBROOK
+  11.18	STEWARTBY formerly WOOTTON PILLINGE
+  11.55	connection to Forders sidings
+  12.05	connection to Forders sidings
+  12.11	WOOTTON BROADMEAD
+  12.76	KEMPSTON HARDWICK
+  14.59	KEMPSTON & ELSTOW formerly K.
+  15.71	junction with BCA
+  16.01	Bedford St Johns West Junction with BBX (0.00)
+  16.05	BEDFORD ST JOHNS
+  16.19	LNW Junction with HIB (0.30) and LNW goods depot
+  16.50	Bedford Station Junction with SPC1 (49.60)
+  16.55	BEDFORD formerly B.; B. MIDLAND ROAD; B. MIDLAND

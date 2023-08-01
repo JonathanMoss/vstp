@@ -1,0 +1,5 @@
+ 113.46	Dunglass Junction with NEM5 (13.40) and RVS2 (113.46)
+ 115.24	Leven Shipyard Junction with LVN
+ 115.56	junction with DBN
+ 115.59	DUMBARTON EAST
+ 116.00	Dumbarton East Junction with NEM7 (15.51)

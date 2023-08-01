@@ -1,0 +1,7 @@
+Later measure
+   5.63	Forest Gate Junction with LTN1
+   6.14	Woodgrange Park Junction with TAH2 (11.79) and TAH3 (11.79)
+
+Original measure
+   0.00	Forest Gate Junction with LTN1 (5.63)
+   0.31	Woodgrange Park Junction with TAH2 (11.79) and TAH3 (11.79)

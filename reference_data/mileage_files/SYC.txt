@@ -1,0 +1,23 @@
+   0.00	Crewe South Junction with LEC5 (157.60)
+   0.33	Gresty Lane Junction with GSG (0.00)
+   0.37	GRESTY
+   0.41	Gresty Lane Junction with CSG (157.55)
+   0.60	Gresty down sidings and Gresty Green East
+   1.18	Gresty Green West
+   2.38	WILLASTON
+   3.45	NEWCASTLE CROSSING
+   4.14	NANTWICH
+   4.46	Market Drayton Junction with MKT (188.66)
+   8.48	WRENBURY
+  10.14	Marley Green
+  13.22	Tattenhall Line Junction with WHJ (0.00)
+  13.44	WHITCHURCH (SHROPSHIRE) formerly W.; W. SALOP
+  13.52	Cambrian Junction with GNQ4 (0.00)
+ ≈15.15	PREES HEATH MILITARY CAMP
+  18.36	PREES
+  21.57	WEM
+  25.14	YORTON
+  27.62	HADNALL
+  30.29	Harlescott
+  31.79	Crewe Bank
+  32.29	Crewe Junction with WSJ2 (171.54)

@@ -1,0 +1,19 @@
+ 110.09	Salisbury Branch Junction with WEY
+ 110.19	junction with DSY
+ 111.07	DILTON MARSH [up platform]
+ 111.14	DILTON MARSH [down platform]
+ 114.37	WARMINSTER
+ 115.27	Beechgrove
+ 118.18	junction with Sutton Veney camp line
+ 118.24	HEYTESBURY
+	UPTON LOVEL CROSSING
+ 120.48	CODFORD
+	junction with military branch
+	STOCKTON CROSSING
+ 124.34	WYLYE formerly WILEY
+ 125.36	LANGFORD
+ 129.12	WISHFORD
+ 131.53	WILTON NORTH formerly W.
+ 132.33	Wilton Junction with BAE2 (85.34)
+ 132.54	Quidhampton
+ 134.27	SALISBURY

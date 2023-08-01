@@ -1,0 +1,31 @@
+   1.19	Muirhouse South Junction with LFS2 (1.19) and MEN2 (0.00)
+   1.24	STRATHBUNGO
+   1.60	CROSSMYLOOF
+   2.49	Pollockshaws goods station
+   2.60	POLLOKSHAWS WEST
+   3.18	Busby Junction with EKE (0.00)
+   3.70	KENNISHEAD
+   3.78	junction with SPE
+   4.56	PRIESTHILL & DARNLEY
+   5.30	NITSHILL
+   6.08	junction with link to PWB
+   6.35	junction with BSR
+   6.54	Barrhead goods depot
+   6.77	BARRHEAD
+   8.71	NEILSTON LOW LEVEL
+   9.02	NEILSTON
+   9.18	Neilston goods depot
+  11.72	UPLAWMOOR previously CALDWELL
+  12.30	Dixon's Pit no 2
+  13.24	Lugton Junction with link to LAR (0.33 long)
+  13.26	Lugton goods depot
+  13.43	LUGTON
+  13.51	Lugton Junction with GIF1 (0.00)
+  13.70	divergence with GIF2 (0.00)
+  16.02	DUNLOP
+  18.20	STEWARTON
+  21.37	KILMAURS [2]
+  21.43	KILMAURS [1]
+  23.18	junction with goods depot lines
+  23.39	GB&K Junction with DAK (33.44) and GSW (33.44)
+  23.49	Kilmarnock goods depot

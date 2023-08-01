@@ -1,0 +1,5 @@
+   0.00	Angerstein Junction with BTC (8.46)
+   0.07	junction with link to BTC (? existence: ≈0.14 long)
+   0.44	junction with Charlton sidings
+   0.51	junction with sidings
+   0.73	Angerstein wharf

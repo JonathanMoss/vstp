@@ -1,0 +1,62 @@
+ (-0.12)	FLOURISH proposed
+   0.00	junction with Bute West Dock West Side lines (mileage unknown)
+   0.02	CARDIFF BAY [1] formerly C. BUTE DOCK; C. BUTE ROAD
+   0.07	CARDIFF BAY [2]
+   0.22	LOUDOUN SQUARE proposed
+   0.35	BUTE STREET proposed
+   0.67	Queen Street South Junction with CEJ (0.22/0.44)
+   0.69	Cardiff East Branch Junction with CEB (0.00)
+   1.08	CARDIFF QUEEN STREET formerly C.
+   1.17	Queen Street North Junction with CQS (1.22)
+   1.28	Crockherbtown Loop Junction with CHT (1.34)
+   1.61	CATHAYS
+   1.67	WOODVILLE ROAD formerly CATHAYS W. R.
+   1.70	Cathays depot
+   1.79	Cardiff Cathays locomotive depot
+   2.11	Cardiff Cathays carriage & wagon works
+   2.35	MAINDY formerly M. NORTH ROAD
+   3.58	Roath Branch Junction with ROA (0.00)
+   4.27	LLANDAF formerly LLANDAFF
+   4.41	Llandaf Loop Junction with LDA
+   5.05	Radyr pre-assembly depot
+   5.08	Radyr locomotive depot
+   5.23	Radyr Junction with RAD (4.41)
+   5.32	RADYR
+   6.31	PENTYRCH
+   7.17	Walnut Tree Junction with WNT (12.03)
+   7.18	junction with Taffs Well depot
+   7.24	TAFFS WELL [2] formerly WALNUT TREE JUNCTION; WALNUT TREE BRIDGE
+   7.30	Nantgarw Branch Junction with NAN (0.00)
+   7.70	TAFFS WELL [1]
+  ≈9.22	TREFOREST ESTATE [2] planned, possibly named VELINDRE
+   9.53	TREFOREST ESTATE [1]
+	MAESMAWR
+  10.44	Treforest Estate Junction with TTB (0.00)
+  10.73	Llantrisant Junction/Tonteg Junction with original LTR alignment (joining LTR at 4.78)
+  11.62	junction with CRY (9.28)
+  11.65	Treforest Branch Junction with TRZ (14.01)
+  12.00	TREFOREST formerly T.; T. LOW LEVEL
+  12.59	PC&N Junction with CAP (14.48)
+  12.72	PONTYPRIDD formerly NEWBRIDGE; NEWBRIDGE JUNCTION; P. JUNCTION; P. CENTRAL
+  13.03	Pontypridd North Junction with THT
+  13.23	Pontypridd Northern Junction with POP (0.00)
+  13.27	Pontypridd Town goods depot
+  13.56	Pont Shon Norton Junction with NLN
+  14.61	Clydach Court Junction with YNY
+  15.44	Stormstown Junction No 1 with YNL/YNY (0.00)
+  15.46	Stormstown Junction/Ynysydwr Loop Junction No 2 with DPB/YZD
+  16.20	Abercynon Junction with ABD
+  16.28	ABERCYNON formerly A. SOUTH
+	INCLINE TOP
+  17.73	QUAKERS YARD formerly Q. Y.; Q. Y. LOW LEVEL
+  18.03	Quakers Yard Low Level Junction with QYB (15.70)
+  19.41	Black Lion
+  19.77	MERTHYR VALE
+  21.69	TROED-Y-RHIW formerly TROEDYRHIW; TROED Y RHIW
+  23.03	PENTRE-BACH formerly PENTREBACH
+  23.62	Brandy Bridge Junction with MRG
+  24.19	Mardy Junction with MER (5.70)
+  24.44	MERTHYR TYDFIL [2]
+  24.51	MERTHYR TYDFIL [1] formerly M.
+
+Note that 24.19-24.51 was formerly part of MER (5.70-6.22)

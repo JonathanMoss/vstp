@@ -1,0 +1,19 @@
+  40.49	AYR and end on junction with AYR6
+  40.59	junction with ZZF3
+  42.26	Alloway Junction with DLR
+  43.53	relocated Dalrymple Junction with WAT
+  43.66	original Dalrymple Junction with WAT
+  44.60	DALRYMPLE
+  46.62	CASSILLIS
+  48.63	Maybole Junction with goods depot lines
+  49.46	MAYBOLE
+  51.74	CROSSHILL
+  52.50	Carsloe Brigg
+  53.78	KILKERRAN
+  55.70	Dalquharran
+  56.55	DAILLY
+  57.43	Bargany
+  59.32	KILLOCHAN
+  60.51	GRANGESTON
+  61.35	junction with DLR (62.01)
+  61.60	Girvan Junction with GIR (61.60) and STR2 (0.00)

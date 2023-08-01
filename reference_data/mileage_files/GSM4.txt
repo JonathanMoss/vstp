@@ -1,0 +1,10 @@
+ 105.70	Melton Junction with GSM2 (105.70) and GSM3 (113.36)
+ 106.58	Asfordby Junction with GSMZ
+ 107.41	Holwell goods depot and Holwell Branch Junction with HLB (0.00)
+ 109.15	GRIMSTON
+ 111.30	OLD DALBY
+ 112.50	UPPER BROUGHTON
+ 115.18	WIDMERPOOL
+ 118.08	PLUMTREE
+ 120.52	EDWALTON
+ 123.23	London Road Junction with NOB1 (0.00) and TSN2 (123.23)

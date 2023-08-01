@@ -1,0 +1,5 @@
+ 156.16	Basford Hall Junction with LEC4
+ 157.26	Salop Goods Loop Junction with CSG
+ 157.64	junction with CIL
+ 157.71	Salop Goods Junction with GSG (0.37) and LLI (157.71)
+ 158.76	Sydney Bridge Junction with CMP1

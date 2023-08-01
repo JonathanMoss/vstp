@@ -1,0 +1,3 @@
+   0.00	Ryhope Grange Junction with HEM (21.33) and LEN3 (87.63)
+   1.17	Londonderry
+   1.53	Hendon Junction with PAN (1.00) and RWS (1.53)

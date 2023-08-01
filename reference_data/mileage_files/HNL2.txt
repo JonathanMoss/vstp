@@ -1,0 +1,7 @@
+ 149.07	Barrs Court North Junction with HGS (50.23) and SHL (50.23)
+ 149.15	H Wiggins siding
+ 149.43	Brecon Curve Junction with BNC (0.19)
+ 149.44	Brecon Curve Junction with HBZ
+ 150.14	Barton Junction with HMO (150.14/0.41)
+ 150.15	HEREFORD BARTON
+ 151.65	Red Hill Junction with HDC (2.11) and HNL1 (2.11)

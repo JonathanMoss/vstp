@@ -1,0 +1,7 @@
+Usual measure
+  71.63	Ely North Junction with BGK and EMP
+  72.63	Ely West Junction with EMP (72.39)
+
+Alternative measure
+   0.00	Ely North Junction with BGK (71.63) and EMP (71.63)
+   1.00	Ely West Junction with EMP (72.63)

@@ -1,0 +1,4 @@
+   0.15	Waverley West End junction with EGM4
+   0.32	connection with ECN2
+   1.19	HAYMARKET
+   1.23	end-on junction with EGM2 (46.00)

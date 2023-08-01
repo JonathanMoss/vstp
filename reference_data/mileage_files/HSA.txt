@@ -1,0 +1,13 @@
+   8.63	end on junction with STD
+   8.77	STRATFORD ON AVON
+   9.25	junction with Stratford Goods Branch
+   9.78	STRATFORD-UPON-AVON PARKWAY
+  11.49	WILMCOTE [2]
+ ≈11.58	WILMCOTE [1]
+  12.50	Bearley West Junction with TSB (17.69)
+  13.10	Bearley East Junction with Bearley Loop (0.00)
+  13.19	BEARLEY
+  16.38	CLAVERDON [2]
+  16.46	CLAVERDON [1]
+  17.66	Hatton West Junction with HHW
+  18.12	Hatton Station Junction with DCL (112.18)

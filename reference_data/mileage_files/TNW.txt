@@ -1,0 +1,4 @@
+   0.00	Thornton North Junction with ECN2 (30.68) and MTL1 (0.11)
+   0.40	Thornton West Junction with CWH3 (35.11)
+   0.59	GLENROTHES WITH THORNTON
+   0.70	repositioned Thornton West Junction with CWH3 (34.62)

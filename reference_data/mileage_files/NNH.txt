@@ -1,0 +1,11 @@
+ 100.77	Cathcart West Junction with CTC (2.23)
+ 101.53	MUIREND
+ 101.59	junction with link to EKE
+ 102.73	WILLIAMWOOD
+ 102.78	junction with CLP (0.32)
+ 103.61	WHITECRAIGS
+ 104.58	PATTERTON
+ 106.14	LYON CROSS JUNCTION [never opened]
+ 106.18	Lyon Cross Junction with LPJ
+ 108.45	NEILSTON
+ 108.59	end on junction with LAR and later end of line

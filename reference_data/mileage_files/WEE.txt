@@ -1,0 +1,5 @@
+ 185.49	Winwick Junction with CGJ3 and CGJ4
+ 186.22	VULCAN
+ 186.74	Earlestown South Junction with EEE
+ 187.03	EARLESTOWN
+ 187.10	Earlestown East Junction with DSE (14.75)

@@ -1,0 +1,4 @@
+  66.27	Saltwood Junction with XTD
+  67.01	Continental Junction with XTD
+  67.32	convergence of TRL3 (108.582km) and Channel Tunnel datum (7.000km)
+  68.64	junction with Channel Tunnel system

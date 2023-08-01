@@ -1,0 +1,8 @@
+   0.00	Bathampton Junction with MLN1 (104.46)
+   3.76	Limpley Stoke Junction with CMZ (0.00)
+   4.01	LIMPLEY STOKE
+   4.70	FRESHFORD
+   5.63	AVONCLIFF
+   7.09	BRADFORD-ON-AVON formerly B.
+   8.64	Bradford West Junction with BFL (104.36)
+   9.11	Bradford South Junction with WEY (104.39)

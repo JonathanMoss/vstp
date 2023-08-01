@@ -1,0 +1,8 @@
+ 174.22	Weaver Junction with CGJ1 [up line]
+ 174.53	Weaver Junction with CGJ1 [down line]
+ 177.34	SUTTON WEAVER
+ 179.24	Halton Junction with FJH (0.00)
+ 180.28	Runcorn Junction with RDB (0.00)
+ 180.40	RUNCORN
+ 182.62	Ditton East Junction with SDJ2 (18.55)
+ 182.67	Ditton No 1 Junction with WJL2

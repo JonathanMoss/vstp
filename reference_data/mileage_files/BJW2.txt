@@ -1,0 +1,9 @@
+   5.42	Walsall Pleck Junction with BJW1 (0.65) and DPJ (5.42)
+   5.44	Pleck Junction with WDJ (1.16)
+   6.08	WALSALL [1] later goods depot
+   6.18	junction with freight sidings
+   6.26	Walsall Midland goods depot
+   6.29	WALSALL [2]
+   6.70	Ryecroft Junction with CBR2 (47.54)
+   6.77	Wolverhampton Line Junction with WTR (0.39)
+   6.79	Ryecroft Junction with BJW3 (6.79) and RRN1 (0.00)

@@ -1,0 +1,18 @@
+   0.48	King Edward Bridge South Junction with ECM5 (79.42) and HLK (0.48)
+   1.30	Bensham Curve Junction with BLF (0.25)
+   1.71	Norwood No 3 Junction with NLF (1.42)
+   1.73	Norwood No 2 Junction with DSO (0.00)
+   1.74	Norwood No 2 Junction with DNS (0.00)
+   1.76	Norwood No 3 Junction with NJD (0.00)
+   2.17	DUNSTON formerly D. ON TYNE
+   3.12	Whickham Junction with Redheugh line
+   3.33	METROCENTRE formerly GATESHEAD M.
+   3.78	Derwenthaugh Junction with SWC (0.00)
+   3.79	Swalwell Junction with RBF1
+   4.23	DERWENTHAUGH [later goods depot]
+   4.26	Blaydon Curve Junction with link to SDM (0.42 long)
+   4.43	Blaydon Loop Junction with link to SDM (0.26 long)
+   4.79	junction with Blaydon goods depot lines
+   5.02	Consett Branch Junction with link to SDM (0.20 long)
+   5.12	Blaydon goods depot
+   5.28	Blaydon Junction with BES (3.78) and NEC2 (3.78)

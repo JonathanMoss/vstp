@@ -1,0 +1,6 @@
+   0.00	Haughhead Junction with HMN2 (6.18)
+   0.52	CHATELHERAULT
+	FERNIGAIR
+   0.73	Allanton
+   2.19	MERRYTON
+   3.00	LARKHALL

@@ -1,0 +1,12 @@
+   0.00	Wemyss Bay Junction with GOU2 (121.28)
+   1.06	Containerbase Junction with CON1 (0.19)
+   1.63	WHINHILL
+   2.21	UPPER GREENOCK
+   2.66	DRUMFROCHAR
+   4.08	BRANCHTON
+   4.45	RAVENSCRAIG
+   5.22	IBM
+   6.18	Dunrod
+   7.62	INVERKIP
+   9.36	junction with harbour lines
+  10.03	WEMYSS BAY

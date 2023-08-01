@@ -1,0 +1,6 @@
+   7.24	Roundwood Chord Junction with WME
+   7.43	Don Bridge Junction with link from Joint Line Junction (12.71)
+
+  12.54	Don Bridge East Junction with SIC2
+  12.71	Don Bridge East Junction with line from Roundwood Chord Junction (7.43)
+  13.29	Joint Line Junction with TJC3 (164.64)

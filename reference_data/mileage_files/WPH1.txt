@@ -1,0 +1,32 @@
+  24.62	Woking Junction with BML1
+  25.11	junction with WKG8
+  26.65	WORPLESDON
+  30.05	Guildford North Junction with GTW1 (30.35)
+  30.14	Guildford New Line Junction with NGL (29.59)
+  30.20	mileage reversal point for GTW1
+  30.27	GUILDFORD
+  31.42	Shalford Junction with RSJ (41.60)
+  32.05	Peasmarsh Junction with CPJ (55.38/32.05) and PSG (41.54)
+  32.15	Peasmarsh siding
+  33.39	FARNCOMBE
+  33.57	junction with goods depot lines
+  34.02	GODALMING [1] [later goods depot]
+  34.37	GODALMING [2]
+  35.36	Farnham Flint & Gravel Company's siding
+  36.21	MILFORD (SURREY)
+  38.36	WITLEY
+  42.79	HASLEMERE
+  46.67	LIPHOOK
+  51.30	junction with LMR (mileage unknown)
+  51.35	LISS
+  54.57	Petersfield Junction with PTM (0.00)
+  54.71	PETERSFIELD
+  57.19	Buriton sidings
+ ≈57.38	TUNNEL HALT STAGING
+  59.72	WOODCROFT
+  60.24	DITCHAM PARK
+  63.18	ROWLANDS CASTLE
+ ≈65.12?	HAVANT NEW
+  66.18	Havant Junction with TBH2 (37.25) and WPH2 (37.25)
+
+Note that the position of the Havant New temporary terminus is conjectural

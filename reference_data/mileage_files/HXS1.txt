@@ -1,0 +1,17 @@
+   0.02	LIVERPOOL CENTRAL formerly L. C. LOW LEVEL and junction with HXS2 (37.13)
+   0.40	junction with Liverpool Central High Level Line
+   0.62	ST JAMES
+	LIVERPOOL BALTIC under construction
+   1.17	LIVERPOOL BRUNSWICK [1] original terminus
+   1.43	BRUNSWICK [2]
+   1.44	Egerton Street Junction with lines to Brunswick [1]
+  ≈2.45	junction with link to Liverpool Overhead Railway (mileage unknown)
+   2.48	ST MICHAELS
+   3.41	OTTERSPOOL formerly OTTERS POOL
+   3.78	AIGBURTH formerly MERSEY ROAD; MERSEY ROAD & A.
+   4.56	CRESSINGTON formerly C.; C. & GRASSENDALE
+   4.63	junction with SCR (24.35)
+   5.36	GARSTON (MERSEYSIDE) formerly G.; G. LANCS
+   5.47	LIVERPOOL SOUTH PARKWAY
+   6.11	realigned Hunts Cross West Junction with AHX (0.37) and MAJ (6.11)
+   6.22	original Hunts Cross West Junction with AHX (0.44) and MAJ (6.22)

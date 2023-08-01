@@ -1,0 +1,2 @@
+   0.36	junction with line from Hougham and ABE1 (4.04)
+   0.39	Barkston East Junction with GRS1 (110.12)

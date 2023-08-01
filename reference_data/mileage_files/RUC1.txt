@@ -1,0 +1,4 @@
+   0.00	Rufford Junction with CEM (9.08)
+   0.24	Rufford Colliery Junction with RUB1 (0.00)
+   1.50	junction with RUC2
+   2.15	end of line

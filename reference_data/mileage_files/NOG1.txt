@@ -1,0 +1,21 @@
+ 106.08	Nottingham Branch Junction with ECM1
+ 108.34	Allington East Junction with ACD (0.00)
+ 108.69	Allington West Junction with ABE (0.00)
+ 110.00	SEDGEBROOK
+ 111.29	Belvoir Junction siding
+ 111.37	Belvoir Junction with WOD (0.00)
+ 112.68	BOTTESFORD
+ 113.28	Bottesford East Junction with BDE
+ 113.78	Bottesford West Junction with BON (0.00)
+ 115.34	ELTON & ORSTON
+ 117.22	ASLOCKTON
+ 119.39	BINGHAM
+ 119.66	Bingham goods depot
+ 120.70	Saxondale Junction with BIN (7.21)
+ 123.08	RADCLIFFE
+	Cotgrave Colliery East Junction with CCB2 (0.00)
+ 123.66	Cotgrave Colliery West Junction with CCB1 (0.00)
+ 123.72	Rectory Junction with DEX
+ 125.08	Netherfield Junction/Colwick West Junction with NGC (0.00)
+ 125.13	NETHERFIELD
+ 125.25	junction with NHL (125.25) and NOG2 (2.54)

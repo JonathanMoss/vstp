@@ -1,0 +1,21 @@
+ 143.40	end on junction with PBS3
+ 144.11	Shirebrook Colliery Branch Junction with SHC
+ 144.19	SHIREBROOK COLLIERY SIDINGS
+ 144.70	Warsop Colliery Branch Junction with WAC (144.70/0.00)
+ 145.06	SHIREBROOK formerly S.; S. WEST
+ 145.10	Shirebrook Junction with SWP (0.45)
+ 145.11	Shirebrook South Junction with CLN1 (10.19)
+ 145.62	Shirebrook East Junction with HIM (9.72)
+ 146.37	LANGWITH
+ 146.72	LANGWITH COLLIERY
+ 147.05	Langwith colliery sidings
+ 147.14	LANGWITH-WHALEY THORNS
+ 147.72	Norwood sidings
+ 149.00	Creswell colliery sidings
+ 149.26	CRESWELL formerly C.; ELMTON & C.; ELMTON & CRESSWELL; ELMTON & C.
+ 149.35	Elmton & Creswell Junction with BAC3
+ 150.37	junction with Whitwell quarry lines
+ 150.56	WHITWELL (DERBYSHIRE)
+ 152.43	Steetley sidings
+ 153.70	Woodend Junction with SHW
+ 154.30	Shireoaks East Junction with MAC3 (55.62)

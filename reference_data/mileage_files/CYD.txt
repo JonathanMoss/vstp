@@ -1,0 +1,3 @@
+   0.00	Gillingham Junction with VIR (36.16)
+   1.35	reception lines
+   2.32	end of line

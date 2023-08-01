@@ -1,0 +1,14 @@
+   0.07	Sunderland South Junction with LEN3 (89.51)
+   0.21	PARK LANE
+   0.27	Fawcett Street Junction with PAN (0.00)
+   0.44	UNIVERSITY (SUNDERLAND)
+   1.01	MILLFIELD
+   1.12	Diamond Hall Junction with ALB (1.59)
+   1.60	PALLION [1]
+   1.67	PALLION [2]
+   2.50	Ford Paper Works
+   3.15	HYLTON
+   3.17	SOUTH HYLTON
+   3.20	end of line
+
+Note that this line was previously part of PEW

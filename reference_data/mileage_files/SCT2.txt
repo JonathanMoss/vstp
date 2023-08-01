@@ -1,0 +1,12 @@
+   4.49	junction with SCT1
+   4.79	junction with BSJ
+   5.21	BOOTLE BALLIOL ROAD formerly BALLIOL R.
+   5.42	junction with goods lines
+   5.53	ALEXANDRA DOCK
+
+   5.42	junction with main route
+   5.48	later (2021) ownership boundary (NR/MDHC)
+   5.53	Sandhills Redfern Street ownership boundary (NR/harbour lines)
+   5.62	Alexandra Dock goods depot
+   6.18	Kingston Mineral gravel sidings
+   7.40	Seaforth container terminal

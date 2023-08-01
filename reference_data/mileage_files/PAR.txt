@@ -1,0 +1,4 @@
+ 281.57	Par Loop Junction with MLN3
+ 281.66	PAR
+ 281.69	junction with MLN3
+ 282.16	St Blazey Junction with FOY and NEW

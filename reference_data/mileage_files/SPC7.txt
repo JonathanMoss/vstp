@@ -1,0 +1,7 @@
+ 126.28	Spondon Junction with SPC6
+ 128.23	London Road Junction with DBP1 (0.00) and SPC8 (127.54)
+
+Until the section of line was remiled, SPC7 formerly continued thus:
+ 128.37	DERBY formerly D.; D. MIDLAND
+ 128.57	Derby Junction with SPC6 (128.30)
+ 129.02	Derby North Junction with DNC (128.33) and SPC8 (128.33)

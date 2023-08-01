@@ -1,0 +1,30 @@
+   0.00	L&O Junction with SWM2 (190.57)
+   0.11	Llynfi Junction with SWM2 (190.68)
+   0.64	WILDMILL
+   0.79	Coity Junction with VOG (20.20)
+   2.12	SARN
+  ≈2.14	ABERKENFIG
+   2.63	TONDU
+   2.69	Tondu Middle Junction with POR (0.00)
+   2.70	Tondu Middle Junction with OGM (0.00)
+   3.07	Tondu North Junction with TON (0.00)
+   4.10	Glannant Siding Junction with BRZ
+   4.45	Gelli Las
+   4.73	Ely paper mill
+   6.26	LLANGYNWYD formerly LLANGONOYD
+   6.75	TROEDYRHIEW GARTH
+   7.00	GARTH (MID GLAMORGAN) formerly G. (M. G.); G. (BRIDGEND COUNTY)
+   7.55	MAESTEG (EWENNY ROAD)
+   8.06	MAESTEG
+   8.10	MAESTEG CASTLE STREET [1] formerly M.
+   8.22	MAESTEG CASTLE STREET [2]
+   8.41	junction with Maesteg central washery lines
+   9.11	NANTYFFYLLON formerly TYWITH
+   9.16	Nantyffyllon Junction with CNZ
+  10.10	CAERAU
+  11.11	Cymmer South Junction with CYM
+  11.31	CYMMER AFAN formerly C.; C. GENERAL
+  11.53	1960 connection with realigned RSB (5.40)
+  12.66	Gelli Junction with realigned RSB (4.27)
+  14.09	ABERGWYNFI
+  14.29	junction with colliery lines

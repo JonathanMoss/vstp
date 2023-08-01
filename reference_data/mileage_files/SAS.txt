@@ -1,0 +1,5 @@
+ (-0.30)	Stechford South Junction with RBS1 (108.66)
+   0.00	Stechford North Junction with RBS1 (109.16)
+   1.75	Washwood Heath
+   2.07	intersection bridge crossing over DBP3 (39.53)
+   2.61	Aston South Junction with PBJ (1.60)

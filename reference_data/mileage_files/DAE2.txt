@@ -1,0 +1,40 @@
+   8.28	Shildon South Junction with DAE1 (8.28) and BSS (0.00)
+   8.34	SHILDON
+   8.66	start of Shildon (or Prince of Wales) tunnel
+   9.42	end of Shildon (or Prince of Wales) tunnel
+   9.48	junction with …
+   9.52	TUNNEL JUNCTION
+   9.54	Shildon Tunnel North Junction with Tunnel Branch (0.00)
+  10.33	SOUTH CHURCH
+  11.14	Bishop Auckland East Junction with BIF (0.00)
+  11.17	Bishop Auckland East Junction with BIC (0.00)
+  11.18	Bishop Auckland East Junction with BPA/DBA (0.00)
+  11.23	BISHOP AUCKLAND
+ ≈11.35	BISHOP AUCKLAND temporary Weardale Railway platform
+  11.36	Bishop Auckland West Junction with Bishop Auckland West & North Curve (0.00)
+  12.53	ESCOMBE [built but never opened]
+  13.40	WITTON PARK formerly ETHERLEY [2]
+  13.48	OLD ETHERLEY COLLIERY built but never opened
+ ≈13.58	ETHERLEY [1]
+  14.47	Wear Valley Junction with DAE3 (0.00)
+  14.48	WEAR VALLEY JUNCTION/WITTON JUNCTION
+  15.39	HOWDEN built but never opened
+  15.44	BEECHBURN formerly HOWDEN
+ ≈16.59	junction for CROOK [1]
+  16.70	CROOK [1] [later goods depot]
+  17.20	CROOK [2]
+  17.26	junction with Sunnyside Branch (0.47)
+  17.27	Woolley Colliery Branch Junction with colliery lines
+  21.53	TOW LAW [2]
+  21.61	Tow Law Junction with Sunnyside Branch (≈3.76)
+ ≈21.71	TOW LAW [1]
+  22.39	Blackfield goods depot
+  23.14	HIGH STOOP may only have ever been a goods depot
+  25.20	Backstone Bank goods depot
+  26.02	SALTERSGATE may only have ever been a goods depot
+  26.68	Burnhill Junction with WAY (0.00)
+  27.13	BURNHILL formerly BURN HILL JUNCTION; BURN HILL
+  29.59	Whitehall Junction with original Stanhope & Tyne alignment
+  30.07	ROWLEY formerly COLD R.
+  31.14	Hownes Gill Junction with Consett East Junction to Hownes Gill Junction Line
+  31.42	Consett South Junction with SDM (11.68)

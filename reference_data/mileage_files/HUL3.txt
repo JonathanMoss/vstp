@@ -1,0 +1,15 @@
+   0.00	Selby South Junction with HUL2 (31.12) and TCW1 (174.11)
+   0.36	Selby West Junction with SEC (0.00)
+   0.44	Wistow Junction with CAO (0.00)
+   2.18	Thorpe Gates Junction with Goole And Selby Railway (10.39)
+   2.19	Thorpe Gates goods depot
+   3.34	Hambleton East Junction with HNC
+   4.03	HAMBLETON
+   4.43	Hambleton West Junction with HSC (175.33)
+   5.59	Hagg Lane goods depot
+   5.62	junction with Gascoigne Wood down sidings
+   6.19	GASCOIGNE WOOD [up platform]
+   6.27	Gascoigne Wood Junction with MGW (6.27) and SHG (14.30)
+   6.33	GASCOIGNE WOOD [down platform]
+   7.57	SOUTH MILFORD
+  10.50	end on junction with HUL4

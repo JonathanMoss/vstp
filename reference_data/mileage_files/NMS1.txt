@@ -1,0 +1,12 @@
+   9.68	junction with BML1 [up line]
+   9.71	junction with BML1 [down line]
+  10.20	Malden goods depot
+  10.34	connection with Malden goods depot lines
+  11.24	NORBITON
+  12.06	KINGSTON [1]
+  12.09	KINGSTON [2]
+  12.23	connection with low level (1st station) lines
+  12.44	HAMPTON WICK
+  13.54	TEDDINGTON
+  14.29	Shacklegate Junction with TSJ (12.53)
+  14.53	Fulwell Junction with NMS2 (12.56) and SHF (12.56)

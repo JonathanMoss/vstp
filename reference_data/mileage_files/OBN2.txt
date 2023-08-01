@@ -1,0 +1,12 @@
+  30.23	Lower Crianlarich Junction with CLB (30.23) and OBN1 (0.44)
+  34.70	TYNDRUM LOWER formerly T.
+  46.76	DALMALLY
+  49.48	LOCH AWE
+  52.69	FALLS OF CRUACHAN
+  58.55	TAYNUILT
+  62.14	ACH-NA-CLOICH
+  65.30	CONNEL FERRY
+  65.39	junction with CFY (0.00)
+  71.14	Oban ticket platform
+  71.44	OBAN
+  71.45	end of line

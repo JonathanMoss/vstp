@@ -1,0 +1,15 @@
+   0.40	Springwood Junction with MVL3 (25.20)
+   1.18	LOCKWOOD
+   1.39	Meltham Branch Junction with MTM (0.00)
+   2.10	BERRY BROW [1]
+   2.26	BERRY BROW [2]
+   3.28	HONLEY
+   4.25	BROCKHOLES
+   4.31	junction with HMF
+   6.26	STOCKSMOOR
+   7.14	SHEPLEY
+   7.67	Clayton West Junction with CWE
+   9.31	DENBY DALE
+ ≈13.27	PENISTONE [1]
+  13.36	PENISTONE [2]
+  13.42	Huddersfield Junction (Penistone) with MAC1 (28.37) and PED1 (28.37)

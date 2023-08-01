@@ -1,0 +1,16 @@
+  32.17	Dewsbury Junction with MVN2 (39.72)
+  32.28	RAVENSTHORPE formerly R. & THORNHILL
+  33.62	DEWSBURY formerly D.; D. WELLINGTON ROAD
+  34.43	STAINCLIFFE & BATLEY CARR
+  35.09	BATLEY
+  35.32	Birstall Junction with BBY (0.00)
+  38.24	MORLEY [1] formerly M.; M. LOW
+  38.30	MORLEY [2]
+  39.51	CHURWELL
+ ≈39.47	WHITE ROSE
+  40.02	COTTINGLEY
+  40.65	Farnley Branch Junction with FAB (0.13)
+  40.70	Farnley Junction with HLW2 (13.36)
+  40.76	Farnley Junction with DOL4
+  41.56	COPLEY HILL ? existence of station
+  42.03	Copley Hill Junction with DOL2 (185.02) and MDL2 (42.03)

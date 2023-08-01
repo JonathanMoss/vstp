@@ -1,0 +1,6 @@
+   3.00	junction with CWK1
+   3.05	BIRKENHEAD PARK
+   3.75	BIRKENHEAD NORTH formerly B. DOCKS
+   4.22	junction with Bidston avoiding line to WDB3
+   4.39	Bidston East Junction with BEM (0.00)
+   4.40	Bidston East Junction with BEN and CWK3

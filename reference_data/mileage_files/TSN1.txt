@@ -1,0 +1,14 @@
+ 119.16	Trent South Junction with SPC6 and THL
+ 119.58	Trent East Junction with TES (0.00)
+ 119.65	TRENT
+ 119.70	Derby Line Junction with TNT
+ 119.74	Trent East Junction with TCC
+ 120.31	Long Eaton Junction with LCE (0.00)
+ 121.02	Attenborough Junction with AML (0.62)
+ 121.63	Chilwell Works sidings
+ 121.76	ATTENBOROUGH
+ 123.18	Beeston Brewery Company's siding
+ 123.22	BEESTON
+ 124.21	Beeston sidings
+ 125.27	Lenton South Junction with LSN (0.00)
+ 125.64	Mansfield Junction with MJT1 (124.22) and TSN2 (124.22)

@@ -1,0 +1,37 @@
+Original measure
+   8.50	Castleton North Junction with CEH (0.37) and CPI1 (8.50)
+   9.22	junction with Powell Duffryn sidings
+   9.37	HEYWOOD [3]
+	HEYWOOD [1]
+   9.45	HEYWOOD [2]
+  10.38	BROADFIELD
+  12.16	Heap Bridge Junction with HPB
+  12.56	PIMHOLE formerly HEAP BRIDGE
+  12.60	Bury Loop Junction with MVB4 (9.73)
+  13.23	level crossing with MVB4 (9.38)
+  13.24	BURY KNOWSLEY STREET formerly B.
+  13.28	Knowsley Street Junction with Bury East Fork (0.00)
+  15.26	RADCLIFFE BLACK LANE formerly B. L.
+  15.62	Bradley Fold Junction with CPI3 (8.56) and RTB (8.56)
+
+  13.28	junction with west facing route
+  13.42	Bury South Junction with CTA2 (9.42)
+
+
+Later (post-preservation measure)
+   8.50	Castleton North Junction with CEH (0.37) and CPI1 (8.50)
+   9.04	mileage change (5.02)
+
+   5.02	mileage change (9.04)
+   5.35	HEYWOOD [3]
+	HEYWOOD [1]
+   5.43	HEYWOOD [2]
+   6.36	BROADFIELD
+   8.14	Heap Bridge Junction with HPB (12.16)
+   8.54	PIMHOLE formerly HEAP BRIDGE
+   8.58	Bury Loop Junction with MVB4 (9.73)
+   9.24	BURY KNOWSLEY STREET formerly B.
+	junction with original route
+   9.42	Bury South Junction with CTA2
+
+Note that the mileages for the level crossing with MVB4 are as given in official documentation when the new link was opened to the later Bury station.  The CPI2 mileage does not match other nearby mileages.

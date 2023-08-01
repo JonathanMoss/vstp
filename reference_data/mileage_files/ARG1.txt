@@ -1,0 +1,4 @@
+   0.00	Rutherglen Central/Dalmarnock Junction with WCM2 (98.72)
+   0.05	junction with LNR
+   0.18	RUTHERGLEN
+   0.31	Rutherglen North Junction with ARG2 (0.31) and RNC (0.29)

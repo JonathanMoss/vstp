@@ -1,0 +1,2 @@
+  22.35	St James's Junction (Goods) with PED5
+  22.54	Bridge Junction with ECM1 (155.38)

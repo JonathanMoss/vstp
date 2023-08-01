@@ -1,0 +1,23 @@
+  -0.25	Glebe Street Junction with CMD2 (20.08)
+   0.00	original Stoke Junction with CMD2 (20.33)
+   0.19	Pratt's sidings
+   0.59	FENTON MANOR
+   1.14	Berry Hill sidings
+   1.57	Botteslow Junction with ADD2 (0.00)
+   2.09	BUCKNALL & NORTHWOOD
+   3.51	Milton Junction with SCQ2 (0.00)
+   4.48	North Staffordshire sidings
+   4.52	Neath's sidings
+   4.54	FORD GREEN & SMALLTHORNE formerly F. G.
+   6.47	Turnhurst Junction with industrial lines
+   6.48	Chell siding
+   7.17	Heath's siding
+   7.30	Brownlees siding
+   7.33	BLACK BULL formerly B. B. CHILDERPLAY
+   8.41	KNYPERSLEY
+   8.78	Bradway Green siding
+   9.40	BIDDULPH formerly GILLOW HEATH
+	MOSSLEY
+  12.22	Congleton Lower Junction with CLU
+  12.28	Lower Junction sidings
+  13.57	CONGLETON BRUNSWICK STREET goods station only?

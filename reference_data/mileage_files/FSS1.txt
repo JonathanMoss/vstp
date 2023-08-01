@@ -1,0 +1,26 @@
+   0.00	LONDON FENCHURCH STREET
+   0.16	MINORIES (later Goodmans Yard goods depot)
+   0.38	LEMAN STREET
+   0.49	Commercial Road Junction with CRG (0.00)
+   0.61	Christian Street
+  (1.04)	SHADWELL [DLR station]
+   1.05	SHADWELL & ST GEORGES IN THE EAST formerly S.
+   1.53	Stepney East Junction with FSB
+   1.58	LIMEHOUSE formerly STEPNEY
+   2.00	Salmon's Lane Junction with LMC (0.25)
+   2.21	BURDETT ROAD
+   2.53	Bow Junction with BGS
+   2.57	Gas Factory Junction with GFB
+   2.76	Campbell Road Junction with CDT (0.00)
+   3.10	BROMLEY BY BOW [2] formerly B.
+  ≈3.16	BROMLEY [1]
+   3.63	Upper Abbey Mills Junction with Abbey Mills Curve
+   4.08	WEST HAM formerly W. H. MANOR ROAD
+   4.45	PLAISTOW
+   5.28	UPTON PARK
+   6.18	EAST HAM
+   6.36	East Ham Loop Junction South with EHL
+   6.50	East Ham depot
+   7.08	Barking Tilbury Line Junction with BWT and FSS2
+
+Note that the down line is 4ch longer; 7.05 (down line) = 7.01 (up line)

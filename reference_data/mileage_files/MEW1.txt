@@ -1,0 +1,4 @@
+   1.12	original Methley Junction with MEW2
+   1.16	relocated Methley Junction with TJC3 (187.38)
+
+Note that sometimes this route is given as 61.08-61.12 (L&Y mileage extended back from MEP) in error

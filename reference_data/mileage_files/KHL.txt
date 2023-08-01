@@ -1,0 +1,8 @@
+  95.77	Newton Kirkhill Junction with WCM2
+  96.58	junction with Westburn Fork (0.00)
+  97.15	KIRKHILL
+  98.43	BURNSIDE (SOUTH LANARKSHIRE)
+  99.45	CROFTFOOT
+ 100.21	KINGS PARK
+ 100.37	Cathcart East Junction with CNC (0.45)
+ 100.75	Cathcart West Junction with CTC (2.21)

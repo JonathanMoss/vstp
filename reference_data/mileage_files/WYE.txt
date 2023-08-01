@@ -1,0 +1,15 @@
+   0.00	Wye Valley Junction with SWM2 (140.54)
+   0.70	TIDENHAM
+   1.31	NETHERHOPE
+   2.46	TINTERN QUARRY
+   4.19	wire works siding
+   4.52	TINTERN
+   4.76	BROCKWEIR
+   7.03	LLANDOGO
+   8.00	ST BRIAVELS
+   9.25	WHITEBROOK
+  11.28	PENALLT
+  11.48	REDBROOK ON WYE
+  13.07	Wyesham Junction with CFG (0.00)
+  13.30	WYESHAM
+  13.66	junction with ROS (13.07)

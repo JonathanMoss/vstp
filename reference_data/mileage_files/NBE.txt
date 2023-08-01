@@ -1,0 +1,24 @@
+  25.03	end of line
+  25.00	'junction' with NEM1
+  25.04	BATHGATE [1]
+ ≈25.10	actual connection with NEM1
+  25.11	junction with BGY
+  25.18	BATHGATE [2]
+  25.40	connection to Bathgate yard
+	junction with ABX
+  26.10	junction with West Calder branch
+  26.00	Boghall Branch Junction with …
+  26.50	Boghall Old siding
+  27.42	Boghall New siding
+  28.12	LIVINGSTON
+  28.52	Carmondean
+  29.03	LIVINGSTON NORTH
+  30.14	Dechmont
+  30.79	UPHALL [1]
+	junction with BAU (0.00)
+  31.07	Camps Branch Junction with CJN (0.00) and UPHALL [2] [later station built over former junction]
+  31.74	Cawburn
+  32.42	Drumshoreland Junction with HLY (O.OO)
+  32.45	DRUMSHORELAND
+  34.33	Clifton
+  35.21	Newbridge Junction with EGM1 (38.53)

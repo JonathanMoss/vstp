@@ -1,0 +1,2 @@
+   0.00	Penarth Curve South Junction with BRY (0.48) and Virgil Street coal depot
+   0.25	Penarth Curve North Junction with RAD (0.47)

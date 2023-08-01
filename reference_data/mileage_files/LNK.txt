@@ -1,0 +1,5 @@
+   0.00	Lanark/Cleghorn Junction with WCM1 (76.07)
+   0.20	junction with link to WCM1
+   1.57	Smyllum East Junction with SMF (0.00)
+   2.05	Smyllum Junction/Douglas Junction with DMB (0.00)
+   2.45	LANARK

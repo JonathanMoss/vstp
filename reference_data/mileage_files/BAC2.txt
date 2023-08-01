@@ -1,0 +1,11 @@
+ 149.49	Barrow Hill North (Goods Line) Junction/Staveley Goods Junction with CHR
+ 150.04	junction with Devonshire works lines (to 150.35)
+ 150.47	Hall Lane Junction with BAC1 (150.47)
+ 150.56	Hall Lane Junction with HLF1 (0.44)
+≈150.70	junction with HCH (0.00)
+ 151.32	junction with Bell House Sidings
+ 151.35	STAVELEY TOWN formerly NETHERTHORPE
+ 151.51	Speedwell Colliery Branch Junction with Ireland colliery lines (to 152.16)
+ 152.21	Seymour Junction with BAC3 (155.10), BOC1 (7.61) and SEY (152.21)
+
+Note that although BAC1 and BAC2 have the same mileage at their junction, they are measured via different routes

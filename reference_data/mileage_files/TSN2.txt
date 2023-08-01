@@ -1,0 +1,9 @@
+ 123.23	London Road Junction with GSM4 (123.23) and NOB1 (0.00)
+ 123.39	NOTTINGHAM
+ 123.48	Nottingham goods depot
+ 123.58	Grain warehouse
+ 123.59	Potato warehouse
+ 123.67	Bonded stores
+ 123.69	Hydraulic & Electric Light Works
+ 124.06	Nottingham locomotive depot
+ 124.22	Mansfield Junction with MJT1 (124.22) and TSN1 (125.64)

@@ -1,0 +1,10 @@
+ 100.44	Ulceby North Junction with BRI1 and BRI2
+ 102.42	THORNTON CURTIS some doubt over existence
+ 103.04	THORNTON ABBEY
+ 104.45	junction with KIL3 (6.24)
+ 104.55	GOXHILL
+ 106.52	NEW HOLLAND
+ 106.56	junction with NHP (106.56/0.00)
+ 106.65	Barton Junction with New Holland west curve (0.00)
+ 108.05	BARROW HAVEN
+ 110.18	BARTON-ON-HUMBER

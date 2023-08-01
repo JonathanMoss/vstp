@@ -1,0 +1,3 @@
+ 159.32	Gaer Junction with SWM2
+ 160.15	original Park Junction with WVL (0.73)
+ 160.24	relocated Park Junction with WVL (1.02)

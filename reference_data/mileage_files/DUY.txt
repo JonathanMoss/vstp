@@ -1,0 +1,5 @@
+ 153.69	junction with ECM1
+ 153.78	Potteric Carr Junction with UDS (16.56)
+ 154.50	Carr Junction between yards
+ 154.52	junction with DWY
+ 155.34	junction with ECM1

@@ -1,0 +1,12 @@
+  42.24	BIRMINGHAM NEW STREET
+  42.38	junction with RBS2 (0.19)
+  43.18	FIVE WAYS
+  43.42	Central Goods Station Branch Junction with BCG (0.00)
+  43.52	CHURCH ROAD
+  44.27	SOMERSET ROAD
+  44.73	UNIVERSITY (BIRMINGHAM)
+  45.50	SELLY OAK
+  46.58	BOURNVILLE formerly STIRCHLEY STREET; STIRCHLEY STREET & B.; B. & STIRCHLEY STREET
+  46.65	Canal Branch Junction with LCB
+  47.20	Lifford West Junction with LEL (46.36)
+  47.48	Kings Norton Station Junction with BAG2 (46.42) and SKN (46.42)

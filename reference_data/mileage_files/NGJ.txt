@@ -1,0 +1,4 @@
+   0.00	Newton-Le-Willows Junction with DSE (16.19)
+   0.26	Lowton Junction with PJL (0.36)
+   0.28	LOWTON
+   0.53	Golborne Junction with CGJ4 (187.76) and CGJ5 (0.53)

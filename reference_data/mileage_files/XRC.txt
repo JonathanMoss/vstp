@@ -1,0 +1,15 @@
+Distances in km.  Alternative mileages (shown †) are as given in the Crossrail Central Operating Section network statement.
+
+  0.000	mileage datum with MLN1 (1.642km/1m 2ch)
+  0.329	Royal Oak tunnel portal (0.51†)
+  0.510	Tunnel eye
+  1.444	PADDINGTON  (1.436†)
+  3.834	BOND STREET
+  4.879	TOTTENHAM COURT ROAD (4.862†)
+  7.162	FARRINGDON (7.119†)
+  8.331	LIVERPOOL STREET (8.285†)
+ 10.356	WHITECHAPEL (10.301†)
+ 11.333	Stepney Green Junction with XRE and XRS [eastbound] (11.344†)
+ 11.425	Stepney Green Junction with XRE and XRS [westbound] (11.344†)
+
+Note that there are surface signs near Paddington marked in miles/chains

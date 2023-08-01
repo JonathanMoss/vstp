@@ -1,0 +1,7 @@
+ 100.60	Larkfield Junction with WCM2
+ 101.01	Larkfield Junction with LFS1
+ 101.49	Terminus Junction with TSS (0.40)
+ 101.61	Kinning Park Junction with KPK
+ 101.62	Terminus Junction with GTS
+ 101.63	Terminus Junction with BRD
+ 102.18	Shields Junction with AYR1 (1.05)

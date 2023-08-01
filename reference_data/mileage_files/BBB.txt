@@ -1,0 +1,19 @@
+  10.55	Bolton West Junction with MVE1 and MVE2
+  10.66	Johnson Street Junction with BTG (0.00)
+  11.18	Craddock Lane goods depot
+  11.41	Astley Bridge Junction with AST
+  12.35	HALL-I-TH-WOOD * also given as H.-I'-TH'-W.
+  12.77	THE OAKS
+  13.45	BROMLEY CROSS (LANCS) formerly B. C.
+  14.43	King William goods depot
+  15.19	TURTON & EDGWORTH formerly CHAPELTOWN; T.
+  16.47	ENTWISTLE
+  19.40	SPRING VALE formerly SOUGH; SPRING V. & SOUGH
+  20.27	DARWEN formerly OVER D.
+  21.09	Hollins goods depot
+  21.16	Hoddlesden Junction with HDN
+  22.30	LOWER DARWEN
+  23.60	Blackburn Bolton Branch Junction with BBS3 (9.51)
+  24.08	Blackburn Bolton Junction with FHR4 (10.11)
+
+* Note that Hall-i'-th'-Wood station was originally officially shown as being at 12.25: it is believed that this was in error and later corrected, or because the platforms are staggered.  12.35 is now the official distance

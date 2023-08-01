@@ -1,0 +1,4 @@
+   0.00	Flyover Junction with OXD (0.64)
+  ≈0.64	BLETCHLEY planned high level platforms
+   0.68	Flyover Junction (Summit) with DHF
+   1.48	Fenny Stratford Flyover Junction with BBM (0.76)

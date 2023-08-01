@@ -1,0 +1,4 @@
+   0.00	Yeovil Junction with BAE2 (122.34)
+   1.42	Pen Mill Junction with WEY (141.35)
+
+Note that 0.00-1.06 was formerly part of YVT and 1.06-1.11 was formerly YSJ

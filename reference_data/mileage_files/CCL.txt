@@ -1,0 +1,14 @@
+ 115.33	relocated Castle Cary Junction with WEY (129.50)
+ 115.38	original Castle Cary Junction with WEY (129.56)
+ 117.35	ALFORD
+ 120.17	KEINTON MANDEVILLE
+ 122.30	CHARLTON MACKRELL
+ 125.56	SOMERTON
+ 127.70	LONG SUTTON & PITNEY
+ 129.73	LANGPORT EAST
+ 130.78	Curry Rivel Junction with YEO (155.03)
+ 134.74	ATHELNEY
+ 135.02	Athelney Junction with DUR
+ 137.69	original Cogload Junction with MLN1 (158.09)
+ 138.03	Cogload Junction with MLN1 (158.23) [up line]
+ 138.30	Cogload Junction with MLN1 (158.50) [down line]

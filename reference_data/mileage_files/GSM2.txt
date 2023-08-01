@@ -1,0 +1,13 @@
+  90.23	Manton Junction with GSM1 (90.23) and PMJ (0.00)
+  93.61	OAKHAM
+  94.23	provender store
+  96.70	ASHWELL
+  97.22	Ashwell Branch Junction with ASB (0.00)
+  99.14	WHISSENDINE
+≈100.42	deviation with earlier route
+ 101.32	mileage junction with SYB (0.00)
+ 101.36	SAXBY
+≈101.53	convergence with earlier route
+ 105.22	MELTON MOWBRAY
+≈105.66	junction with link to WJM
+ 105.70	Melton Junction with GSM3 (113.36) and GSM4 (105.70)

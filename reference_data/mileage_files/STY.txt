@@ -1,0 +1,11 @@
+   0.00	Wilmslow Junction with CMP1 (176.53)
+   0.18	WILMSLOW
+   1.79	STYAL
+   2.50	Heald Green South Junction with SMA (1.48)
+   3.05	Heald Green North Junction with MIA (1.51)
+   3.37	HEALD GREEN
+   5.11	GATLEY
+   6.25	EAST DIDSBURY
+   7.18	BURNAGE
+   8.07	MAULDETH ROAD
+   9.44	Slade Lane Junction with CMP2 (186.46)

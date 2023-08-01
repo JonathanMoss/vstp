@@ -1,0 +1,17 @@
+  37.25	Havant Junction with TBH2 (37.25) and WPH1 (66.18)
+ ≈37.26	HAVANT HALT (? existance)
+  37.33	HAVANT [1] and connection with HHI (0.00)
+  37.40	HAVANT [2]
+  38.14	BEDHAMPTON
+  40.38	Farlington Junction with FJJ (91.09/40.38)
+  40.49	FARLINGTON
+  41.03	Portcreek Junction with SDP2 (91.01)
+  41.41	HILSEA
+  43.64	FRATTON formerly F. & SOUTHSEA
+ ≈43.67	FRATTON STAFF HALT
+  43.75	Fratton Junction with FES (0.00)
+  44.31	Blackfriars Junction with PAS
+  44.50	PORTSMOUTH & SOUTHSEA
+  44.51	junction with docks lines
+  45.24	junction with Watering Island jetty line (0.21 long)
+  45.36	PORTSMOUTH HARBOUR

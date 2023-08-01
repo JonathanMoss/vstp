@@ -1,0 +1,13 @@
+   0.00	end on junction with SDI1 (208.49)
+   0.50	Lonlas sidings
+   1.08	Lonlas Junction with SDI3
+   2.10	FELIN FRAN
+   2.15	original Felin Fran East Junction with PWE (0.00)
+   2.25	relocated Felin Fran East Junction with PWE (0.10)
+   2.70	Felin Fran West Junction with CYZ (0.00)
+   2.79	Felin Fran West Junction with MOR (3.21/3.29)
+   5.66	LLANGYFELACH
+   8.03	PONT LLIW
+   9.33	Gorseinon Goods Junction with Grovesend Chord Line (1.10)
+  10.05	Morlais East Junction with HDY (0.00)
+  10.64	Morlais Junction with LLA (3.49)

@@ -1,0 +1,10 @@
+   0.00	Highworth Junction with MLN1 (76.28)
+   0.20	Stratton factory
+   0.34	Plessey sidings
+   0.49	Green Lane
+   1.24	STRATTON
+   2.10	Kingsdown Road Junction with SNY
+   3.18	STANTON
+   4.32	HANNINGTON
+   5.46	HIGHWORTH
+   5.49	end of line

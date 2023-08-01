@@ -1,0 +1,31 @@
+Earlier measure
+   0.00	Treeton Junction with CHR (158.65)
+   0.30	Catcliffe Junction with TNC (0.25)
+   0.45	CATCLIFFE
+   1.11	junction with Tinsley Park and Tinsley Yard lines
+   1.77	Tinsley Park Colliery Branch Junction with Tinsley Park Colliery Branch (0.00)
+   2.03	Tinsley Park Junction with Tinsley Yard
+	TINSLEY YARD
+  (2.20)	later boundary private sidings/NR
+   2.35	Shepcote Lane East Junction with BLJ (161.20)
+   2.39	Shepcote Lane West Junction with SEL (161.24)
+   2.64	junction with CWB
+   2.67	WEST TINSLEY formerly T. ROAD
+	junction with MHB
+   3.46	Brightside Junction with TJC2 (161.10)
+
+Later measure
+ 158.65	Treeton Junction with CHR
+ 159.15	Catcliffe Junction with TNC (0.25)
+ 159.30	CATCLIFFE
+ 159.76	junction with Tinsley Park and Tinsley Yard lines
+ 160.62	Tinsley Park Colliery Branch Junction with Tinsley Park Colliery Branch (0.00)
+ 160.68	Tinsley Park Junction with Tinsley Yard
+	TINSLEY YARD
+ 161.05	later boundary private sidings/NR
+ 161.20	Shepcote Lane East Junction with BLJ
+ 161.24	Shepcote Lane West Junction with SEL
+ 161.49	junction with CWB
+   2.67	WEST TINSLEY formerly T. ROAD
+	junction with MHB
+ 162.37	Brightside Junction with TJC2 (161.10)

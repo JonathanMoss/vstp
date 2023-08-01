@@ -1,0 +1,7 @@
+ (-0.15)	relocated Huyton Junction with DSE (5.77)
+   0.00	original Huyton Junction with DSE (6.12)
+   1.53	PRESCOT
+   2.47	ECCLESTON PARK
+   3.43	THATTO HEATH
+   4.42	junction with Ravenhead sidings
+   5.12	St Helens Station Junction with SBH2 (5.12) and SHS1 (7.16)

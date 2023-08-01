@@ -1,0 +1,4 @@
+   0.32	Paradise Junction with HXS2 (36.71)
+   0.46	Derby Square Junction with siding
+   0.53	LIVERPOOL JAMES STREET formerly J. S.
+   0.69	Mann Island Junction with MIR1 (0.00/2.21) and MIR2 (0.69)

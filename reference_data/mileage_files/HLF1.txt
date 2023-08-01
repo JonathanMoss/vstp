@@ -1,0 +1,2 @@
+   0.00	original Foxlow Junction with CHR (150.47) and junction with HLF2 (150.47)
+   0.44	Hall Lane Junction with BAC2 (150.56)

@@ -1,0 +1,3 @@
+  86.20	junction with MSG1 and WIG
+  86.43	junction with WMY1
+  87.41	junction with MSG2 (26.17)

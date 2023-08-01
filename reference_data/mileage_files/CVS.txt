@@ -1,0 +1,7 @@
+Original measure
+   0.00	Chester North Junction/Brook Lane Junction with CRR1 (0.35)
+   0.24	Chester South Junction/Tunnel Junction with CNH2 (179.51)
+
+Later measure
+   0.00	Chester South Junction/Tunnel Junction with CNH2 (179.51)
+   0.24	Chester North Junction/Brook Lane Junction with CRR1 (0.35)

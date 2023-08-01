@@ -1,0 +1,4 @@
+  10.37	Church Fenton North Junction with NOC
+  10.58	CHURCH FENTON
+  10.68	Church Fenton Station Junction with NOC
+  15.67	Micklefield Junction with HUL4 (10.63)

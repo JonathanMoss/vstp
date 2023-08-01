@@ -1,0 +1,14 @@
+   0.00	end on junction with NEM2 (0.00)
+   0.40	GLASGOW QUEEN STREET low level
+   1.20	CHARING CROSS (GLASGOW)
+   1.60	FINNIESTON
+   2.19	Finnieston East Junction with ARG2 (4.41) [down line]
+   2.53	Finnieston West Junction with ARG2 (4.74) [up line]
+   2.79	PARTICK
+   3.12	PARTICK HILL formerly P.
+   3.31	Partick Junction/Hyndland Depot Junction with HDD (0.00)
+   3.55	HYNDLAND
+   4.02	Hyndland East Junction with YKR (0.00)
+   4.26	Hyndland North Junction with HYD (0.00)
+   4.50	ANNIESLAND formerly GREAT WESTERN ROAD
+   4.63	Knightswood South Junction with COW (0.00), MLA (4.63) and NEM4 (0.00)

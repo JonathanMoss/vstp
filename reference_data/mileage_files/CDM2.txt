@@ -1,0 +1,28 @@
+   7.69	junction with CDM1 (8.00)
+   8.31	HALE (MANCHESTER) formerly BOWDEN PEEL CAUSEWAY; PEEL CAUSEWAY
+  10.05	ASHLEY
+  11.71	MOBBERLEY
+  14.40	KNUTSFORD [2]
+	KNUTSFORD [1]
+  17.17	PLUMLEY formerly PLUMBLEY
+  19.15	LOSTOCK GRALAM formerly L.
+  20.00	Northwich East Junction with MSN1 (0.00)
+  20.27	Northwich Central Junction with MSN3 (0.00)
+	NORTHWICH [1]
+  20.47	NORTHWICH [2]
+  20.52	Northwich Station Junction with NNJ (8.66)
+  20.74	Northwich West Junction with NSN (8.64)
+  21.67	Hartford East Junction with HEG
+  22.23	Hartford West Junction with HWG (0.00)
+  22.28	GREENBANK formerly HARTFORD & G.
+  23.11	Hartford CLC Junction with HCN (0.72)
+  25.15	CUDDINGTON
+  25.67	Winsford Junction with WFD
+  28.11	DELAMERE
+  31.02	MOULDSWORTH
+  31.05	Mouldsworth Junction with MWC
+  33.71	BARROW FOR TARVIN formerly T. & B.
+  35.24	Mickle Trafford Junction with MTJ2/CDM3
+  35.25	MICKLE TRAFFORD
+  35.37	Mickle Trafford Junction with MTJ1 (0.00)
+  35.41	junction with CHW1 (2.53)

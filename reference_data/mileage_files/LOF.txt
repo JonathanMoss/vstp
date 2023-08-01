@@ -1,0 +1,7 @@
+ 277.42	original junction with MLN3
+ 277.54	repositioned junction with MLN3
+ 281.08	GOLANT
+ 281.66	relocated junction with Carne Point Branch
+ 282.08	original junction with Carne Point Branch
+ 282.17	Fowey dock
+ 282.65	FOWEY and junction with FOY (286.20)

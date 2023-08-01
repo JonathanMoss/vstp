@@ -1,0 +1,5 @@
+  11.19	Firbeck Junction with BKS
+  12.72	Harworth North Junction with FCB
+  13.42	Harworth East Junction with FBC (0.47)
+  15.36	Harworth colliery
+ ≈18.05	junction with ECM1 (≈145.11)

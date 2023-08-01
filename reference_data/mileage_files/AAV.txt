@@ -1,0 +1,9 @@
+  28.66	down line junction with RDG1
+  28.79	ASCOT formerly A.; A. & SUNNINGHILL
+  29.04	junction with RDG1
+  32.08	BAGSHOT
+  35.30	CAMBERLEY formerly C. & YORK TOWN
+  37.48	FRIMLEY
+  38.36	junction with Frimley East Curve (32.27)
+  38.39	junction with Frimley West Curve
+  40.57	Ash Vale Junction with PAA1 (32.30)

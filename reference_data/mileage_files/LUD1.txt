@@ -1,0 +1,4 @@
+  66.26	junction with BAE1
+  67.61	Red Post Junction with BAE1 (67.61) and LUD2 (0.00)
+
+Note that this route uses the same trace as BAE1

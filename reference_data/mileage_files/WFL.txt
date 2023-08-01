@@ -1,0 +1,2 @@
+   0.17	West London Junction with LLG (0.17) and WAW (6.24)
+   0.67	end of sidings and junction with ACW (0.03)

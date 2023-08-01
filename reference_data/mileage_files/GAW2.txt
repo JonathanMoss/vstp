@@ -1,0 +1,14 @@
+   0.00	Brynmenyn Junction with GAW1 (0.55)
+   0.03	BRYNMENYN
+   0.55	Bryngavn
+   1.40	Boyles siding
+   1.58	Bettws Llantwit
+   2.01	LLANGEINOR
+   3.09	Pontyrhyll Junction with PTP (14.01)
+   3.19	PONTYRHYLL
+   4.52	PONTYCYMMER
+   4.77	start of National Coal Board sidings
+   5.00	Victoria Garw Valley
+   5.16	later end of line
+   5.44	BLAENGARW
+   5.74	end of line

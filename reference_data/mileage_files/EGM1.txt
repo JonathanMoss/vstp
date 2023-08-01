@@ -1,0 +1,42 @@
+   0.00	GLASGOW QUEEN STREET high level
+   1.27	Cowlairs South Junction with PNS (0.00)
+   1.38	COWLAIRS
+   1.61	junction with PDN (0.00)
+   1.67	Cowlairs West Junction with MRL1 (8.26) and SGN (0.00)
+   1.71	junction with ZZB4
+   2.12	Cowlairs East Junction with CSN (0.00)
+   3.19	BISHOPBRIGGS
+   5.03	Cadder yard
+   6.20	LENZIE
+   6.33	junction with Kirkintilloch line
+   6.60	Waterside Junction with WTD (0.00)
+   8.21	junction with Kirkintilloch line
+  10.25	Gartshore
+  11.40	CROY
+  12.68	DULLATUR
+  15.39	CASTLECARY
+  17.29	Greenhill Upper Junction with GHL (0.00)
+  18.34	BONNYBRIDGE
+  19.25	Roughcastle siding
+  19.38	Rough Castle Branch Junction with RGH (0.00)
+  21.51	junction with RGH (2.37)
+  21.63	FALKIRK HIGH
+  23.79	Redding
+  24.60	Polmont Junction with PMT (21.20)
+  25.00	POLMONT
+  27.12	Bo'ness Upper Junction with BOS (26.02) and MLF (0.58)
+  27.46	Bo'ness Junction with link to Bo'ness & Kinneil Railway
+  27.53	MANUEL
+  29.56	LINLITHGOW
+  32.61	PHILPSTOUN
+  34.53	Winchburgh Junction with DMY
+  35.22	WINCHBURGH
+  36.37	Broxburn Branch Junction with BRX (0.00) and HLY (2.72)
+  38.71	Newbridge Junction with NBE (35.21)
+  39.06	RATHO
+  39.41	Ratho Junction with QDS (0.00/7.54)
+  41.65	GOGAR
+  42.34	EDINBURGH PARK
+  43.56	SAUGHTON
+  43.74	Saughton Junction with ECN2 (3.28)
+  44.73	Haymarket West Junction with ECN2 (2.28), EGM2 (44.73) and GGE (0.41)

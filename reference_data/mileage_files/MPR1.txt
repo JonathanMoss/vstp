@@ -1,0 +1,5 @@
+   1.30	junction with MVL1 and MVM
+   1.38	MILES PLATTING
+   1.78	Brewery Junction with BPP (0.23)
+   2.16	Thorpes Bridge Junction with MVN1 (2.30)
+   2.17	Thorpes Bridge Junction with MPR2 and MVN2

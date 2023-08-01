@@ -1,0 +1,7 @@
+   0.00	Humber Road end on junction with KIL1 (105.10)
+   0.06	junction with British Steel ore terminal sidings
+   1.09	KILLINGHOLME
+   2.39	admiralty sidings
+   2.48	KILLINGHOLME ADMIRALTY PLATFORM
+   2.54	Immingham Storage Company siding
+   2.70	end on junction with KIL3

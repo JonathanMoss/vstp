@@ -1,0 +1,3 @@
+   0.00	Ashburys West Junction with PPA3 (1.30)
+   0.13	Ancoats Junction with PPA4
+   0.57	Ancoats Junction with PPA1 (3.08)

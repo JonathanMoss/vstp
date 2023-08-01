@@ -1,0 +1,2 @@
+  21.67	Hartford East Junction with CDM2
+  22.10	Hartford North Junction with HNO (0.29) and HWG (0.29)

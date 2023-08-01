@@ -1,0 +1,10 @@
+   0.00	original Calva Junction with SBL1 (10.13)
+   0.07	relocated Calva Junction with SBL1 (10.20)
+   1.54	SEATON
+	CAMERTON COLLIERY
+   2.30	Camerton siding
+   3.35	BUCKHILL COLLIERY
+   4.09	Buckhill pit
+   5.04	GREAT BROUGHTON [later goods depot]
+   5.72	Alice pit
+   6.30	LINEFOOT and junction with DER (7.24)

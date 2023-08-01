@@ -1,0 +1,8 @@
+ (-0.04)	Gospel Oak Junction with BOK2 (1.15)/GOJZ (0.00)
+   0.00	Gospel Oak Junction with BOK2 (1.12)/GOJZ (0.04)
+   0.04	GOSPEL OAK
+   0.23	Highgate Road Junction with HIN (2.14)
+   0.28	HIGHGATE ROAD
+   0.58	Junction Road Junction with JRT2 (2.42) and TAH1 (2.42)
+
+Note that -0.04 to 0.00 is duplicated in GOJZ

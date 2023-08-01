@@ -1,0 +1,5 @@
+   0.00	Benton North Junction with ECM7 (4.24)
+  (1.08)	PALMERSVILLE [Metro station]
+   2.12	NORTHUMBERLAND PARK proposed
+   2.21	BACKWORTH formerly HOTSPUR
+   2.53	Earsdon Junction with BTN (7.08), EDK (0.00) and EJM (7.08)

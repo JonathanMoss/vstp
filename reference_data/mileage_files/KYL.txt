@@ -1,0 +1,21 @@
+   0.20	Dingwall Junction with WCK (18.79)
+   2.31	Fodderty Junction with DFS
+   4.53	ACHTERNEED
+  11.65	GARVE
+  15.57	start of deviation
+  17.07	LOCHLUICHART [1] on original route
+  17.20	LOCHLUICHART [2] on deviation
+  17.58	end of deviation (17.60 by old route)
+  21.34	ACHANALT
+  27.72	ACHNASHEEN
+  36.19	GLENCARRON
+  40.34	ACHNASHELLACH
+  45.74	STRATHCARRON
+  48.22	ATTADALE
+ ≈51.60	start of deviation
+ ≈51.78	end of deviation
+  53.15	STROMEFERRY
+  57.09	DUNCRAIG
+  58.22	PLOCKTON
+  59.58	DUIRINISH
+  63.64	KYLE OF LOCHALSH

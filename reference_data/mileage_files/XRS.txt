@@ -1,0 +1,15 @@
+Distances in km.  Alternative mileages (shown †) are as given in the Crossrail Central Operating Section network statement.
+
+ 11.333	Stepney Green Junction with XRC and XRE [eastbound] (11.344†)
+ 11.425	Stepney Green Junction with XRC and XRE [westbound] (11.344†)
+ 13.794	CANARY WHARF (13.748†)
+ 16.599	Victoria Dock tunnel portal (16.570†)
+ 17.114	CUSTOM HOUSE (17.057†)
+ 17.815	Connaught tunnel portal (17.750†)
+ 18.388	Connaught tunnel portal (18.320†)
+ 19.617	North Woolwich tunnel portal (19.610†)
+ 21.164	WOOLWICH (21.104†)
+ 22.557	Plumstead tunnel portal (22.256†)
+ 23.191	junction with Plumstead sidings
+ 24.458	ABBEY WOOD (24.428†)
+ 25.294	mileage junction with NKL (12m 5ch) [actual connection at Alsike Junction, 12m 13ch]

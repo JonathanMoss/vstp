@@ -1,0 +1,15 @@
+  (0.00)	BIDSTON
+   0.09	Bidston Dee Junction with CWK3 (4.78)
+   0.20	junction with link to BEM (0.68 long)
+   1.67	UPTON (MERSEYSIDE)
+   4.48	STORETON
+   6.03	HESWALL
+   8.55	NESTON
+  10.64	BURTON POINT
+  11.74	Shotwick Paper Company's sidings
+  12.04	SEALAND RIFLE RANGE
+  13.11	Deeside Titanium sidings
+  13.39	BIRKENHEAD JUNCTION GOLF CLUB
+  13.41	junction with Dee Marsh Shotton Works sidings
+  13.42	Dee Marsh North Junction with CCQ2 (6.10)
+  14.02	Dee Marsh West Junction with CCQ3 (6.25) and WDB2 (14.02)

@@ -1,0 +1,14 @@
+   0.00	Morecambe South Junction with CGJ7 (1.72)
+   0.44	Bare Lane Junction with HBL (1.30)
+   0.53	BARE LANE formerly POULTON-LE-SANDS
+   1.57	junction with lines to former LNWR station
+   1.71	MORECAMBE EUSTON ROAD [LNWR] and later junction with MHH (0.00)
+  ≈1.72	MORECAMBE POULTON LANE
+   1.73	Hest Bank Junction with SKW2 (263.12)
+   2.06	Heysham Line Junction with MHH (0.53)
+   2.10	MORECAMBE [2]
+   2.20	Morecambe Gas Works siding
+   2.28	MORECAMBE [1] MORECAMBE PROMENADE formerly M. and POULTON LE SANDS [later goods depot]
+   2.50	MORECAMBE PIER [later Morecambe Harbour goods depot] and TW Ward's siding
+
+Note that 1.73-2.50 was 263.12-263.69 in SKW2

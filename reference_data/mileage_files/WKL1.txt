@@ -1,0 +1,3 @@
+  18.04	Wigan Wallgate Junction with WBS2 and WBS3
+  18.74	Worsley Mesnes siding
+  19.48	Pemberton Junction with PLL (19.09) and WKL2 (19.09)

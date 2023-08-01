@@ -1,0 +1,2 @@
+   0.00	Cardonald Junction with AYR1 (3.31)
+   0.36	Cardonald North Junction with CND2 (0.36) and SDL (0.00)

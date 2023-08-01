@@ -1,0 +1,94 @@
+   0.00	LONDON CHARING CROSS
+   0.56	junction with BML1 (0.00)
+   0.61	LONDON WATERLOO EAST formerly W. JUNCTION; W.
+   1.00	BLACKFRIARS
+   1.23	Ewer Street
+   1.31	Metropolitan Junction with BMJ (1.14)
+   1.35	Metropolitan Junction with CSW
+   1.50	Borough Market Junction with CBM (0.38)
+   1.70	LONDON BRIDGE
+   2.14	connection with LBW (0.22)
+	SPA ROAD & BERMONDSEY [1]
+   2.66	SPA ROAD & BERMONDSEY [2]
+   2.72	connection with LBW (1.03)
+   3.32	Blue Anchor Junction with LBW (1.45)
+   3.38	SOUTHWARK PARK
+   4.06	Bricklayers Arms Junction with BAY (1.63)
+   4.23	North Kent East Junction with NKL
+   4.68	NEW CROSS
+   5.29	Tanners Hill Junction with LVT
+   5.47	ST JOHNS
+   5.54	junction with BEX
+   6.13	Parks Bridge Junction with LLL
+   6.36	Courthill Loop Junction South with NCS (6.43)
+   7.04	Hither Green Junction with HDR
+   7.16	HITHER GREEN
+   7.44	Lee Spur Junction with HGP4 (7.44) and LEE (0.29)
+   7.55	junction with HGP6, HGP7 and HGP9
+   8.35	junction with HGP6, HGP7 and HGP8
+   8.65	Grove Park Junction with BNG
+   8.78	GROVE PARK
+  10.21	ELMSTEAD WOODS formerly E.
+	CHISLEHURST [1] formerly C. & BICKLEY PARK
+  11.19	CHISLEHURST [2]
+  11.33	Chislehurst Junction with CSM1 and CSM2
+  12.24	Petts Wood Fast Junction with TLP1 (13.29)
+  12.27	Petts Wood Slow Junction with TLP2 (13.35)
+  12.53	PETTS WOOD
+  13.65	ORPINGTON
+  15.25	CHELSFIELD
+  16.44	KNOCKHOLT formerly HALSTEAD FOR K.
+  19.14	Polhill
+  20.37	junction with WDG
+  20.46	DUNTON GREEN formerly D. G. & RIVERHEAD
+  22.01	Sevenoaks Junction with OJS (26.61)
+  22.09	SEVENOAKS
+  27.02	HILDENBOROUGH
+  29.35	Tonbridge West Junction with RTT (42.09)
+  29.42	TONBRIDGE [2] formerly T. JUNCTION
+  29.55	Tonbridge East Junction with TTH
+  29.56	TONBRIDGE JUNCTION [1]
+  30.21	Tonbridge Royal Mail terminal
+  32.09	Tudeley
+  34.67	PADDOCK WOOD formerly MAIDSTONE ROAD
+  34.74	junction with PWS1
+  34.75	junction with PWH
+  37.00	Collier Street
+  39.31	MARDEN (KENT)
+  41.70	STAPLEHURST
+  45.17	HEADCORN
+  45.21	junction with KSU
+  47.61	Swifts Green
+  50.35	PLUCKLEY
+  54.72	junction with CLA8
+  55.41	junction with CLA8
+  55.54	Ashford B Junction with SBJ (58.60)
+  56.12	ASHFORD INTERNATIONAL formerly A. JUNCTION; A.
+  56.20	Ashford D Junction with ATH
+  56.35	Ashford E Junction with ACR
+  60.33	SMEETH
+  63.73	WESTENHANGER RACECOURSE
+  64.15	WESTENHANGER
+  65.29	junction with HSL
+  65.36	SANDLING formerly S. JUNCTION FOR HYTHE; S. JUNCTION
+  66.27	Saltwood Junction with TML
+  67.01	Continental Junction with TML
+  68.11	Cheriton Junction with EVL (16.17)
+  68.61	CHERITON
+  69.22	FOLKESTONE WEST formerly SHORNCLIFFE CAMP; SHORNCLIFFE
+  69.73	FOLKESTONE CENTRAL formerly CHERITON ARCH; RADNOR PARK
+  70.72	Folkestone East Junction with FFH1
+  70.74	FOLKESTONE EAST [1] previously SHORNCLIFFE CAMP
+  71.01	FOLKESTONE EAST [2, later staff halt] [mean] formerly F.; F. OLD; F. Junction; F.
+  72.01	FOLKESTONE WARREN
+  72.62	Abbotscliffe siding
+  75.09	SHAKESPEARE [staff halt]
+  76.36	Archcliffe Junction with HSE
+  76.45	DOVER TOWN
+  76.52	Dover Town goods depot
+  76.56	junction with FDM (78.18)
+  76.59	start of train ferry lines
+  76.73	DOVER WESTERN DOCKS formerly D. ADMIRALTY PIER; D. MARINE
+  77.13	end of train ferry pier link span
+
+Note that following a land slip in 1915 this route was realigned towards the sea in the region ≈71.47 to ≈72.59

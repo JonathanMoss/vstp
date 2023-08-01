@@ -1,0 +1,21 @@
+  16.20	Abercynon Junction with CAM
+  16.28	ABERCYNON formerly NAVIGATION HOUSE; ABERDARE JUNCTION; A.; A. SOUTH
+  16.40	ABERCYNON NORTH
+  17.16	PONTCYNON formerly P. BRIDGE
+  18.09	MATTHEWSTOWN
+  18.75	PENRHIWCEIBER formerly P.; P. LOW LEVEL
+  19.59	junction with MOA (0.00)
+  20.05	MOUNTAIN ASH [2]
+  20.11	MOUNTAIN ASH OXFORD STREET [1] formerly M. A.
+  20.16	junction with MOA (0.38)
+  20.78	FERNHILL
+  21.09	ABERCWMBOI formerly DUFFRYN CROSSING
+  22.00	Cwmbach Junction with CWZ
+  22.01	Cwmbach New Junction with ALK
+  22.54	ABERAMAN formerly TREAMAN
+  23.56	ABERDARE LOW LEVEL formerly A.
+  23.64	COMMERCIAL STREET
+  23.65	Dare Valley Junction with DVB
+  23.69	Aberdare Low Level Junction with ADJ
+  24.39	ABERDARE MILL STREET
+  24.41	end of line

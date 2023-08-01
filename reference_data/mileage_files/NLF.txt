@@ -1,0 +1,5 @@
+   0.00	Low Fell Junction with ECM5 (77.37) and TEY (77.37)
+   0.13	junction with LFL
+   0.50	Low Fell Royal Mail terminal
+   0.79	Low Fell Sidings Junction with BLF (0.00)
+   1.42	Norwood No 3 Junction with NEC1 (1.71)

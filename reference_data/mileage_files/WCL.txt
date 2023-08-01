@@ -1,0 +1,11 @@
+   1.00	Harlesden Junction with KGC (1.00) and LEC1 (5.77)
+   1.04	junction with BTS2
+   1.06	junction with UHL
+   1.11	Railnet Junction with WRM
+   1.35	divergence with UHL
+   2.00	start of sidings and junction with WGS2
+   2.15	junction with WGS3
+   2.48	junction with WGS3
+   2.49	end of sidings and junction with WGS2
+   2.56	junction with BFG
+   2.74	junction with UHL

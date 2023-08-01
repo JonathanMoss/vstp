@@ -1,0 +1,36 @@
+ 256.40	junction with MLN2 (256.38) and SGZ (256.40)
+ 258.31	Trerule
+ 261.61	MENHENIOT
+ 264.66	Liskeard Junction with LIJ (8.72)
+ 264.71	LISKEARD
+ 268.13	DOUBLEBOIS
+ 270.01	Largin
+ 272.63	Onslow sidings
+ 273.75	Bodmin Road Junction with BOD
+ 274.03	BODMIN PARKWAY formerly B. ROAD
+ 274.63	RESPRYN
+ 277.36	LOSTWITHIEL
+ 277.42	junction with LOF
+ 277.54	repositioned junction with LOF
+ 278.78	Treverrin
+ 281.57	Par Loop Junction with PAR
+ 281.66	PAR
+ 281.69	junction with PAR
+ 282.52	Par Harbour Junction with docks lines
+ 286.07	St Austell Junction with SAU (0.00)
+ 286.26	ST AUSTELL
+ 286.55	Trenance Junction with TRV (0.00)
+ 288.26	later Burngullow Junction with SDS
+ 288.50	original Burngullow Junction with SDS
+≈288.45	BURNGULLOW [1]
+ 288.56	BURNGULLOW [2]
+ 293.17	GRAMPOUND ROAD
+ 295.47	PROBUS & LADOCK
+ 300.58	Truro goods depot
+ 300.63	TRURO
+ 300.78	Truro locomotive depot
+ 301.25	Penwithers Junction with FAL1
+ 301.38	TRURO ROAD
+ 301.50	junction with original link to NWM (mileage unknown)
+ 304.03	Baldhu
+ 305.65	end on junction with MLN4 (305.67)

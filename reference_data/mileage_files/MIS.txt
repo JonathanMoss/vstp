@@ -1,0 +1,7 @@
+  79.78	down line junction with BML2
+  80.27	up line junction with BML2
+  80.32	ownership boundary (NR/Associated British Ports)
+  80.48	weigh bridge
+  81.18	Mayflower Cruise (P&O) terminal
+  81.43	105 shed
+  81.59	Berkeley Junction (end of line)

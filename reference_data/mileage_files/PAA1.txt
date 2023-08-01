@@ -1,0 +1,7 @@
+  29.31	Pirbright Junction with BML1 [up line]
+  29.49	Pirbright Junction with BML1 [down line]
+  32.30	Ash Vale Junction with AAV (40.57)
+  32.38	ASH VALE
+  33.40	Aldershot North Junction with NSA (50.43/0.42)
+  35.00	ALDERSHOT
+  36.75	Farnham Junction with ATF (39.22) and PAA2 (39.22)

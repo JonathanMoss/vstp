@@ -1,0 +1,42 @@
+   0.00	Stoke Junction with CMD2 (20.36)
+   0.17	CARTERS CROSSING
+   0.63	FENTON [2]
+   0.68	FENTON [1]
+   1.13	Oldfield siding
+   1.43	Longton goods depot
+   1.57	junction with goods depot lines
+   1.71	LONGTON
+   2.20	Sutherland wharf
+   2.59	Normacot/Millfield Junction with ADD1 (0.00)
+   2.74	NORMACOT
+   3.61	MEIR
+   4.20	Caverswall
+   5.01	junction with Foxfield colliery lines
+   5.23	BLYTHE BRIDGE formerly BLYTH BRIDGE
+   6.79	CRESSWELL
+   7.07	Cresswell Junction with CHE (0.00)
+  10.27	LEIGH
+  13.35	BROMSHALL
+	BROMSHALL CROSSING
+  14.10	Bromshall Junction with SUX (0.00)
+  16.08	Uttoxeter goods depot
+  16.23	Uttoxeter West Junction with UXC (0.00)
+  16.29	UTTOXETER
+  16.45	Uttoxeter East Junction with CVL (0.00)
+  17.04	UTTOXETER BRIDGE STREET
+	UTTOXETER JUNCTION
+  18.78	MARCHINGTON
+  20.64	SUDBURY
+  22.56	SCROPTON
+  24.08	TUTBURY & HATTON down platform
+  24.13	TUTBURY & HATTON mean
+  24.18	TUTBURY & HATTON up platform
+  25.55	Marston Junction with BUB (0.00)
+  26.69	Egginton Junction with Ministry of Defence sidings
+  26.73	Egginton West Junction with DEX (153.46)
+  26.74	Egginton East Junction with DEX (153.45)
+  27.04	EGGINTON JUNCTION
+  27.57	EGGINTON [later goods depot]
+  30.10	North Stafford Junction with DBP1 (5.16)
+
+Note that 26.73-26.74 is shared with DEX

@@ -1,0 +1,4 @@
+   0.11	Thornton North Junction with ECN2 (30.68) and TNW (0.00)
+   3.58	CAMERON BRIDGE [1]
+  ≈3.63	CAMERON BRIDGE [2]
+   4.65	East Fife Central Junction with EFC (0.00), EFL (4.65) and MTL2 (7.34)

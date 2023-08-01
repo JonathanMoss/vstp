@@ -1,0 +1,7 @@
+One measure
+  90.43	Cosham Junction with SDP2
+  91.09	Farlington Junction with WPH2 (40.38)
+
+Alternative measure
+  40.38	Farlington Junction with WPH2
+  41.04	Cosham Junction with SDP2 (90.43)

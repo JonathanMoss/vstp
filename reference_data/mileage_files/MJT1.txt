@@ -1,0 +1,7 @@
+ 124.22	Mansfield Junction with TSN1 (125.64) and TSN2 (124.22)
+ 124.56	Lenton North Junction with LSN (0.27)
+ 125.14	LENTON later goods depot
+ 125.19	Marshall's wagon works
+ 125.40	Nottingham Corporation gas works
+ 125.54	RADFORD
+ 125.56	Radford Junction with MJT2 and RAC

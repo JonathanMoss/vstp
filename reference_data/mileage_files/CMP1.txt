@@ -1,0 +1,21 @@
+ 158.18	Crewe North Junction with CNH1 and LEC5
+ 158.76	Sydney Bridge Junction with BHI
+≈161.01	ROOKERY [1]
+ 161.51	ROOKERY [2]
+ 162.48	North Staffordshire Junction with SAB (6.40)
+ 162.50	SANDBACH
+ 162.62	Sandbach North Junction with SNJ (0.00)
+ 166.37	HOLMES CHAPEL
+ 168.35	GOOSTREY
+ 172.17	CHELFORD (CHESHIRE)
+ 175.21	ALDERLEY EDGE formerly A.; A. & CHORLEY
+ 176.53	Wilmslow Junction with STY (0.00)
+ 176.71	WILMSLOW
+ 178.24	HANDFORTH
+	CHEADLE
+ 180.57	CHEADLE HULME formerly C.
+ 180.59	Cheadle Hulme Junction with MCH (0.00)
+ 181.46	Adswood Road
+ 181.59	bridge over NMC1 (180.22)
+ 182.36	Edgeley Junction No 1 with BEJ
+ 182.38	end on junction with CMP2

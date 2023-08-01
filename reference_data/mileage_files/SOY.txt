@@ -1,0 +1,8 @@
+  78.15	Northam Junction with BML2
+  78.24	NORTHAM
+  78.31	Northam South Junction with link to BML2 (0.16 long)
+  79.00	SOUTHAMPTON TERMINUS formerly S.; S. DOCKS
+  79.04	ownership boundary (NR/Associated British Ports)
+  79.48	41 Berth shed
+  79.67	QUEEN ELIZABETH II TERMINAL (38/39 Berth)
+  79.74	end of line

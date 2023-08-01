@@ -1,0 +1,2 @@
+   0.00	Garvel Dock Junction with CON2 (23.17) and GDK (0.00)
+   0.19	Containerbase Junction with WYS (1.06)

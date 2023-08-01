@@ -1,0 +1,19 @@
+   0.00	Exmouth Junction with BAE2 (170.26)
+   0.12	Exeter Brick & Tile Companyâs siding
+   0.34	POLSLOE BRIDGE
+   2.11	CLYST ST MARY & DIGBY
+   2.20	DIGBY & SOWTON
+   2.49	Digby siding
+   2.72	Newcourt MOD depot
+   3.06	NEWCOURT
+   4.26	TOPSHAM
+   4.31	junction with TOP (0.00)
+   5.08	Odam's Manure & Chemical Works siding
+   5.67	EXTON formerly WOODBURY ROAD
+   6.23	LYMPSTONE COMMANDO
+   7.28	LYMPSTONE VILLAGE
+   8.65	East Devon Brick & Tile Company's siding/Warren's siding
+   9.14	Exmouth Dock Junction with EXD
+   9.19	Exmouth Station Junction with TJE (175.29)
+   9.32	EXMOUTH
+   9.34	end of line

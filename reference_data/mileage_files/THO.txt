@@ -1,0 +1,8 @@
+   0.00	Yate Main Line Junction with BGL2 (119.54)
+   1.65	junction with FCZ (0.00)
+   1.70	IRON ACTON
+   5.10	TYTHERINGTON
+  ≈6.00	Grovesend quarry
+   6.24	later end of line
+   7.32	THORNBURY
+   7.37	original end of line

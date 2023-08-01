@@ -1,0 +1,3 @@
+ 153.70	Woodend Junction with PSE
+ 154.15	junction with SOC
+ 154.36	Shireoaks West Junction with MAC3 (55.00)

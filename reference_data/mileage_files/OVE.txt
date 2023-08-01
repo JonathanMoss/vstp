@@ -1,0 +1,20 @@
+   0.00	Copper Works Junction with PTD (0.70)
+   0.21	Margam West Junction with SWM2 (201.55)
+   0.54	Margam East Junction with SWM2 (201.22)
+   0.79	Margam Yard Junction with SWM2 (200.63)
+   1.33?	Margam Yard Junction with RAM (0.74)
+   1.34	Abbey North Junction with SWM2 (200.28)
+   2.41	Margam Abbey East Junction with MRJ (199.20)
+   2.44	Margam Abbey East Junction No 1 with MYL (199.31)
+   3.34	Newlands Junction with NLP
+   4.19	NEWLANDS [4.32]
+   5.06	CRIBBWR FAWR COLLIERY [5.19]
+   5.50	Waterhall Junction with PIZ (0.00) [5.63]
+   7.40	Cefn Junction with POR (2.44) and second portion of OVE (2.44) [7.53]
+
+   0.00	Tondu Middle Junction with BAL (2.69)
+   0.05	TONDU
+   2.25	Ffoes Bank
+   2.44	Cefn Junction with POR (2.44) and first portion of OVE (7.40) 
+
+Note that it is possible that the second portion is actually POR.  This part was remiled into the same sequence in 1950.  Items shown thus: [mileage] are alterations post 1949 diversion

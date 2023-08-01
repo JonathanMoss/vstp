@@ -1,0 +1,2 @@
+   0.00	Greenhill Upper Junction with EGM1 (17.29)
+   0.60	Greenhill Lower Junction with SCM3 (106.63)

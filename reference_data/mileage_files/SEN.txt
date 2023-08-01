@@ -1,0 +1,2 @@
+   0.00	Syston North Junction with SPC5 (104.25)
+   0.17	Syston East Junction with GSM3 (104.22)

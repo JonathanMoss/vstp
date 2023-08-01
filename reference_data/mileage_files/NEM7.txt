@@ -1,0 +1,11 @@
+  15.51	Dumbarton East Junction with NEM6 (116.00)
+  16.05	junction with ZZF2
+  16.08	DUMBARTON CENTRAL
+  16.38	DALREOCH
+  16.39	Dalreoch Junction with BCH
+  17.12	Dalreoch Tunnel
+  19.50	CARDROSS
+  21.69	Ardmore West
+  22.77	Craigendoran Junction with WHL (0.00)
+  23.18	CRAIGENDORAN
+  24.31	HELENSBURGH CENTRAL

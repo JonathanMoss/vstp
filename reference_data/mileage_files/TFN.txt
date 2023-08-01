@@ -1,0 +1,4 @@
+   0.00	TRIMLEY and zero point with FEL (82.64)
+   1.18	start of sidings
+   1.46	end of sidings
+   2.13	junction with FED (85.54)

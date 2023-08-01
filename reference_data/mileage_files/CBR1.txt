@@ -1,0 +1,3 @@
+   0.00	Park Lane Junction with CBR2 (36.04) and WOP (36.04)
+   0.55	realigned Castle Bromwich Junction with DBP3 (36.14)
+   1.26	original Castle Bromwich Junction with DBP3 (36.64)

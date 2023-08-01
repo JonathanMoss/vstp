@@ -1,0 +1,22 @@
+  29.20	Milner Royd Junction with MVN2
+  30.27	COPLEY
+  31.36	Dryclough Junction with GRD (0.00)
+  32.00	SHAW SYKE later L&YR goods depot
+  32.15	Shaw Syke goods depot GNR
+  32.28	HALIFAX
+  32.33	Halifax East Junction with HHO (200.63)
+  34.00	HIPPERHOLME
+  34.67	LIGHTCLIFFE
+  35.69	Wyke Junction with BHS (0.00)
+  36.07	WYKE & NORWOOD GREEN
+  36.20	WYKE formerly PICKLE BRIDGE
+  37.16	junction with CKN (0.00)
+  37.39	LOW MOOR [2]
+  37.41	junction with link to CKN (0.22 long)
+  37.44	LOW MOOR [1]
+  37.59	Low Moor No 4 Junction with BPL (6.23)
+  39.20	BOWLING JUNCTION
+  39.24	Bowling Junction with DUH (192.33)
+  40.03	Mill Lane Junction with LBE4 (191.78)
+  40.27	BRADFORD INTERCHANGE formerly B. EXCHANGE [2]
+  40.41	BRADFORD EXCHANGE [1] formerly B.

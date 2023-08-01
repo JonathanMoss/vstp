@@ -1,0 +1,7 @@
+  15.07	Milford West Junction with MGW (7.65) and NOC (15.07)
+  15.15	Monk Fryston goods depot/Lumby sidings
+  15.30	MONK FRYSTON
+  16.54	BURTON SALMON
+  16.69	Burton Salmon Junction with SMJ2 (0.00) and later divergence with NOC
+
+Note that this line is entirely parallel to NOC

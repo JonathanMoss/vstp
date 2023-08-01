@@ -1,0 +1,25 @@
+ 247.21	North Road Junction with CNP (246.08), MLN1 (246.08) and MLN5 (246.08)
+ 247.42	Cornwall Loop Junction with CNP (246.29), MLN1 (246.29) and MLN7 (247.42)
+ 247.54	Devonport Junction with DAC (230.12)
+ 247.64	WINGFIELD VILLAS
+ 248.22	junction with DGZ
+ 248.28	DEVONPORT formerly D. ALBERT ROAD
+ 248.60	DOCKYARD (DEVONPORT)
+ 248.79	FORD
+ 249.25	KEYHAM
+ 249.40	Keyham Junction with DDB
+ 249.79	St Budeaux Ferry Road Junction with SBX (227.23)
+ 250.02	Bull Point sidings
+ 250.15	ST BUDEAUX FERRY ROAD  formerly S. B.
+ 250.70	start of Royal Albert bridge
+ 251.23	end of Royal Albert bridge
+ 251.26	SALTASH
+ 252.11	DEFIANCE
+ 252.22	Wearde Junction with SGZ
+	WEARDE SIDING
+	WIVELSCOMBE
+	ST GERMANS VIADUCT
+ 256.28	ST GERMANS
+ 256.38	junction with MLN3 (256.40) and SGZ (256.40)
+
+Note that 247.21-247.42 was previously 246.08-246.29 in CNP and is now 246.08-246.29 in MLN1

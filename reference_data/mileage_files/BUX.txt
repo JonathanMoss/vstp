@@ -1,0 +1,19 @@
+Later alignment
+   0.00	later Buxton No 1 Junction with BEJ (18.70)
+   0.13	junction with original route
+
+Original alignment
+   0.00	original junction with BEJ (19.02)
+   0.13	junction with later route
+   0.41	Higher Buxton goods depot
+   0.46	HIGHER BUXTON
+   0.54	junction with goods depot lines
+   2.25	Harpur Hill Junction with BHJ (0.00)
+   3.14	Hillhead Quarry
+   3.39	Hindlow Junction with Ladmanlow Branch (0.00)
+   3.48	HINDLOW
+   3.53	Brierlow sidings
+   4.37	junction with CHP2 (0.00)
+   4.51	Briggs siding
+   4.70	junction with CHP1
+   4.78	end of Hadlow Briggs sidings

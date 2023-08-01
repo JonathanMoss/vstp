@@ -1,0 +1,5 @@
+   1.08	Bilsthorpe Colliery Junction with RUB1 and RUB2
+   1.37	loading pad
+   1.60	unloading neck
+   3.51	junction with link to Blidworth Colliery Branch Junction (144.71 on MFD3) (0.32 long)
+   4.11	Blidworth colliery

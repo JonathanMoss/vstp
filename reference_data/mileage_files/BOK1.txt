@@ -1,0 +1,30 @@
+   0.00	BROAD STREET
+   0.26	Worship Street goods depot
+   0.54	SHOREDITCH
+   1.02	Dunloe Street Junction with SDT (0.00)
+   1.06	HOXTON
+   1.37	HAGGERSTON [1]
+   1.47	HAGGERSTON [2]
+   1.72	Dalston Junction with Dalston East Curve
+   1.79	DALSTON JUNCTION
+   2.17	junction with ELL1 (0.11)
+   2.22	Dalston Western Junction with DWW1
+   2.36	MILDMAY PARK
+	CANONBURY [1] formerly NEWINGTON ROAD & BALLS POND
+   2.73	CANONBURY [2]
+   3.12	Canonbury Western Junction with CFP
+   3.33	Highbury coal depot
+   3.36	HIGHBURY & ISLINGTON
+   3.45	junction with coal depot lines
+   3.74	CALEDONIAN ROAD & BARNSBURY
+  ≈4.03	BARNSBURY
+   4.19	Caledonian Road coal depot
+   4.34	MAIDEN LANE
+   4.44	St Pancras Junction with NLI (0.35)
+   4.52	St Pancras Junction with link to St Pancras (0.75)
+   4.64	Camden Road Central Junction with CRF2/NLI (0.51)
+   4.66	junction with MDT
+   5.01	CAMDEN ROAD
+   5.10	Camden Road West Junction with BOK2 (0.00) and CRC1 (5.10)
+
+Note that some of this route is reused in ELL1 and ELL5

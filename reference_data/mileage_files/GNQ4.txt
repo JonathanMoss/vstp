@@ -1,0 +1,29 @@
+   0.00	Cambrian Junction with SYC (13.52)
+   2.71	FENNS BANK
+   2.79	junction with peat moss litter works sidings
+   5.23	Peat Moss Siding Junction with PMC (0.00)
+   6.47	BETTISFIELD
+   7.71	WELSHAMPTON
+  10.69	ELLESMERE
+  11.00	Wrexham & Ellesmere (or Cambrian) Junction with ELW (0.00)
+  11.60	Ellesmere West Junction with Ellesmere Loop Line (0.26)
+  12.68	FRANKTON
+  16.17	WHITTINGTON HIGH LEVEL [2]
+ ≈16.30	WHITTINGTON HIGH LEVEL [1]
+  17.07	TINKERS GREEN
+  18.10	Oswestry North Junction with GNQ1 (2.13)
+  18.16	OSWESTRY
+  19.53	Weston Wharf goods depot
+  21.67	Llynclys Junction with GNQ2 (0.00)
+  22.05	LLYNCLYS
+  23.15	PANT
+  23.28	Pant quarry siding
+  23.66	Llanymynech Old Junction with ROK (0.00)
+  24.15	LLANYMYNECH
+  24.21	Shropshire & Montgomeryshire Junction with SAM (18.01)
+  24.23	Llanymynech South Junction with GNQ3 (0.00)
+  25.63	FOUR CROSSES
+  27.39	ARDDLEEN
+  29.17	POOL QUAY
+  31.17	BUTTINGTON
+  31.23	Buttington Junction with SBA1 (16.22) and SBA2 (31.23)

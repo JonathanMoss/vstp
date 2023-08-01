@@ -1,0 +1,35 @@
+('21.08')	Earlswood goods depot
+  21.31	Earlswood junction with VTB2 (21.37)
+  21.37	Earlswood junction with RED2 (23.16)
+  21.40	junction with goods depot lines
+  21.50	EARLSWOOD (SURREY) formerly E.
+  23.37	SALFORDS (SURREY) formerly S.
+  23.40	Salford goods depot
+  23.66	junction with goods depot lines
+	HORLEY [1]
+  25.60	HORLEY [2]
+  26.47	GATWICK AIRPORT [2]
+  27.37	GATWICK AIRPORT [1] formerly G.; G. RACECOURSE; TINSLEY GREEN
+  29.21	THREE BRIDGES
+  29.28	Three Bridges Junction with TBH1 and TBG
+  33.64	BALCOMBE
+  36.34	Copyhold Junction with CJA1 (36.34) and CJA2 (0.00)
+  37.00	New Copyhold Junction with CJA1
+  37.59	HAYWARDS HEATH
+  39.16	Folly Hill
+  40.52	WIVELSFIELD formerly KEYMER JUNCTION [2]
+  40.69	Keymer Junction with KJE1
+  40.76	KEYMER JUNCTION [1]
+  41.39	BURGESS HILL [2]
+ ≈41.46	BURGESS HILL [1]
+  43.42	HASSOCKS formerly H. GATE
+  49.21	PRESTON PARK formerly PRESTON
+  49.43	Preston Park Junction with PPH
+  49.68	junction with BPJ
+  49.76	junction with BPJ
+  50.15	junction with BPJ
+  50.31	Montpelier Junction with BTL (0.13)
+  50.42	Brighton West Coast Junction with BLI1 (0.05)
+  50.49	BRIGHTON
+
+Note that Earlswood goods depot was beside VTB2 but was connected to VTB3

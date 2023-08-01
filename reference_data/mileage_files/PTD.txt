@@ -1,0 +1,14 @@
+Original measure
+   0.00	junction with Port Talbot Docks Extension Line
+   0.59	Copper Works Junction with steel works lines
+   0.69	Copper Works Junction with MWT (0.00)
+   0.70	Copper Works Junction with OVE (0.00)
+   2.01	Duffryn Junction with PTP (0.63)
+
+Note that this line was diverted in 1949, taking over much of MWT.  Revised distances are thus:
+   0.00	junction with Port Talbot Docks Extension Line
+   0.59	Copper Works Junction with steel works lines
+   0.70	Copper Works Junction with OVE (0.00)
+   1.12	Overbridge Junction/Ramp Line Junction with RAM (0.00)
+   1.13	Overbridge Junction with TAI
+   2.12	Duffryn Junction with PTP (0.63)

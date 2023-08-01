@@ -1,0 +1,2 @@
+   0.62	Blackfriars Junction with HHH
+   1.14	Metropolitan Junction with XTD (1.31)

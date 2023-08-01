@@ -1,0 +1,17 @@
+   0.00	Preston & Longridge Junction with CGJ6 (0.30)
+   0.10	PRESTON MAUDLANDS [later goods depot]
+   0.30	junction with Preston and Wyre line
+   0.78	DEEPDALE STREET [later Preston Deepdale goods depot]
+   1.07	DEEPDALE BRIDGE
+   1.31	Deepdale Junction with goods branch
+   2.65	RIBBLETON
+   3.46	Courtaulds
+   4.55	GRIMSARGH
+   6.41	Chapelhill siding
+   6.52	Whittle's siding
+   6.69	LONGRIDGE
+   6.77	Bank's siding
+   7.03	Hawkhurst & Marsden siding
+   7.13	Smith's siding
+   7.36	Earl Derby's siding
+   7.45	Stone quarry

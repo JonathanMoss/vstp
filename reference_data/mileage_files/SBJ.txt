@@ -1,0 +1,25 @@
+  17.37	Swanley Junction with VIR
+  17.53	SWANLEY JUNCTION
+  19.39	LULLINGSTONE [built but never opened]
+  20.32	EYNSFORD
+  22.52	SHOREHAM (KENT)
+  24.06	OTFORD
+  24.52	OTFORD JUNCTION
+  24.54	Otford Junction with OJS
+  25.07	Otford B Junction with Otford Loop (0.00)
+  26.79	KEMSING
+  29.46	BOROUGH GREEN & WROTHAM
+  34.61	WEST MALLING
+  35.64	EAST MALLING
+  37.43	BARMING
+  39.76	MAIDSTONE EAST
+  42.59	BEARSTED
+  45.02	HOLLINGBOURNE
+  47.36	HARRIETSHAM
+  49.11	LENHAM
+  53.11	CHARING (KENT)
+  55.62	HOTHFIELD
+  56.16	Beechbrook Farm channel tunnel construction depot [mean]
+  58.35	junction with terminus station lines
+  58.57	ASHFORD [terminus]
+  58.60	Ashford B Junction with XTD (55.54)

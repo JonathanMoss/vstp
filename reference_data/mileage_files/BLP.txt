@@ -1,0 +1,8 @@
+  93.25	Brockenhurst Junction with BML2
+  93.60	Lymington Junction with BML2
+  95.36	SHIRLEY HOLMES
+  96.61	AMPRESS WORKS formerly A.
+ ≈97.48	LYMINGTON [1]
+  97.57	LYMINGTON TOWN formerly L. [2]
+  98.15	LYMINGTON PIER
+  98.16	end of line

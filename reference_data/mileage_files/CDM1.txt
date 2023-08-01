@@ -1,0 +1,21 @@
+   0.37	Castlefield Junction with COL (189.67)
+   1.17	Cornbrook Junction with MAJ (32.77)
+   1.20	CORNBROOK
+   1.56	London Road Junction with …
+   1.74	OLD TRAFFORD
+   2.28	WARWICK ROAD
+   3.34	STRETFORD formerly EDGE LANE
+   4.51	DANE ROAD
+   5.11	SALE formerly S. MOOR
+   5.57	BROOKLANDS
+   6.55	TIMPERLEY
+   6.67	junction with SDJ2 (0.00)
+   7.05	Deansgate Junction with SJD (0.33)
+   7.25	NAVIGATION ROAD
+   7.58	ALTRINCHAM [1]
+   7.74	ALTRINCHAM [2] formerly A. & BOWDON
+	divergence with Bowdon lines
+   8.00	junction with CDM2 (7.69)
+   8.08	BOWDON later maintenance depot
+
+Note that 0.37-1.17 is now part of MAJ (33.57-32.77)

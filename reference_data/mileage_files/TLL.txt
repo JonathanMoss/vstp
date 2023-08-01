@@ -1,0 +1,25 @@
+   7.60	Barking Tilbury Line Junction East with BTE and FSS2
+   8.60	Ripple Lane West Junction with RLY and up line junction with BKR
+   9.07	Ripple Lane yard
+   9.10	Down Riverside Junction with BKR
+   9.31	Renwick Road Junction with TRL4 (18.864km)
+  10.27	junction with RLY
+  10.45	DAGENHAM DOCK
+  12.54	RAINHAM (ESSEX) formerly R.
+  15.18	PURFLEET RIFLE RANGE
+  16.02	PURFLEET
+  19.03	West Thurrock Junction with UPG (6.56)
+  19.70	GRAYS
+  20.01	Grays East Junction with TDE (0.00)
+  20.58	Docks North Junction with Port of London Authority lines
+  21.48	TILBURY TOWN formerly T. DOCKS
+  22.06	Tilbury West Junction with TIR
+  22.30	Tilbury East Junction with TTE (0.40)
+  24.16	LOW STREET
+  25.07	EAST TILBURY
+  26.41	Thames Haven Junction with THN
+  27.13	STANFORD-LE-HOPE
+  32.37	PITSEA
+  32.43	Pitsea Junction with FSS2 (26.52)
+
+Note that 7.60 - 26.41 was previously part of TFH3

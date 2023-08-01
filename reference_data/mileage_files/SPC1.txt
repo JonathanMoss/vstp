@@ -1,0 +1,57 @@
+   0.00	ST PANCRAS [original]/LONDON ST PANCRAS INTERNATIONAL [international platforms]
+   0.12	LONDON ST PANCRAS INTERNATIONAL [Midland Main Line platforms]
+   0.20	ST PANCRAS EASTERN INTERIM
+   0.60	St Pancras goods
+   0.76	Dock Junction North with MCL (2.73)
+   1.17	CAMDEN ROAD
+   1.42	KENTISH TOWN
+   1.49	Kentish Town Junction with HIN
+   1.65	Kentish Town Junction with MCL (3.58)
+   1.66	Engine Shed Junction with Engine Shed Junction to Mortimer Street Junction Curve
+   2.13	Carlton Road Junction with JRT1 (0.03) and MCL (4.06)
+   2.24	HAVERSTOCK HILL
+   2.29	Belsize Slow Tunnel portal
+   2.33	Belsize Fast Tunnel portal
+   3.32	Belsize Fast Tunnel portal
+   3.34	Belsize Slow Tunnel portal
+   3.38	Finchley Road
+   3.73	WEST HAMPSTEAD THAMESLINK formerly WEST END; WEST END & BRONDESBURY; W. H.; W. H. MIDLAND
+   5.08	junction with CKS1
+   5.09	CRICKLEWOOD formerly CHILDS HILL & C.
+   5.19	Cricklewood Curve Junction with CAW
+   5.75	BRENT CROSS WEST
+   6.04	Brent Curve Junction with BDH (0.00)
+   6.21	junction with CKS1
+   6.79	HENDON
+   7.72	Silkstream Junction
+   9.28	MILL HILL BROADWAY formerly M. H.
+  12.35	ELSTREE & BOREHAMWOOD formerly E.; E. & BOREHAM WOOD; E.; E.& B.; E.
+  15.17	RADLETT
+  16.30	connection with aggregate sidings
+  18.10	NAPSBURY
+  18.21	Park Street Branch Junction with PSB (0.00) and BRS (0.00)
+  19.65	junction with SDG0
+  19.71	ST ALBANS CITY formerly S. A.
+  24.51	HARPENDEN formerly H.; H. CENTRAL
+  25.20	Harpenden Junction with HHM
+	junction with south facing curve to HHM
+  27.21	CHILTERN GREEN
+  29.19	LUTON AIRPORT PARKWAY
+  30.12	Luton South Junction with LDB (0.00)
+  30.19	LUTON formerly L.; L. MIDLAND ROAD
+  31.57	Limbury Road sidings
+  32.60	LEAGRAVE
+  35.11	Forder's siding
+  35.35	Sundon
+  35.48	Sundon Junction
+  37.00	Harlington Junction
+  37.22	HARLINGTON (BEDFORDSHIRE) formerly H.
+  40.18	FLITWICK
+  41.61	AMPTHILL
+  43.62	Millbrook
+  45.72	Houghton Conquest
+  48.25	bridge over BBM (mileage unknown)
+  48.60	Bedford South Junction with Cauldwell depot lines
+  49.60	Bedford Station Junction with BBM (16.50) and EMU sidings
+  49.65	BEDFORD formerly B.; B. MIDLAND ROAD; B. MIDLAND
+  50.00	junction with SPC2

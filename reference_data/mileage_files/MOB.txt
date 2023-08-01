@@ -1,0 +1,17 @@
+   0.14	later Heathfield Branch Junction with MLN1 (213.75)
+   0.23	original junction with MLN1 (213.70)
+   0.39	Newton Abbot goods depot
+   0.53	clay siding
+   1.43	Teignbridge sidings
+   2.28	TEIGNGRACE
+   3.70	HEATHFIELD formerly CHUDLEIGH ROAD
+   3.74	Teign Valley Junction with TEI (0.05)
+   4.32	oil siding
+   5.14	Bovey Granite goods depot
+   5.46	BRIMLEY
+   6.06	BOVEY
+   7.61	PULLABROOK formerly HAWKMOOR
+   8.66	LUSTLEIGH
+  10.15	wood siding
+  12.28	MORETONHAMPSTEAD
+  12.34	end of line

@@ -1,0 +1,33 @@
+   1.41	Sandhills Junction with HXS2 (34.75), NDO (34.75) and SJO1 (34.75)
+   2.06	BANK HALL
+   2.31	Bootle Junction with BSJ (5.04)
+  ≈2.48	MILLERS BRIDGE
+   2.61	BOOTLE ORIEL ROAD formerly B.
+   2.71	Bootle Station Junction with BGB (0.00)
+   2.72	BOOTLE VILLAGE formerly MERTON ROAD
+   3.15	BOOTLE NEW STRAND formerly MARSH LANE & STRAND ROAD
+  ≈3.22	MARSH LANE
+   3.52	Marsh Lane Junction with NMM (34.40)
+   4.08	Seaforth South Junction with SCO (0.00)
+	SEAFORTH [1]
+   4.14	SEAFORTH & LITHERLAND [2] formerly S.
+   5.20	WATERLOO (MERSEYSIDE) [2] formerly W.
+  ≈5.30	WATERLOO [1]
+  ≈6.15	CROSBY [1]
+  ≈6.22	BLUNDELLSANDS for CROSBY [2]
+   6.28	BLUNDELLSANDS & CROSBY [3] formerly B. for C.
+   7.14	HALL ROAD
+   9.09	HIGHTOWN formerly H. & INCE
+   9.36	ALTCAR RIFLE RANGE formerly HIGHTOWN SIDING; HIGHTOWN NEW SIDING; HIGHTOWN RIFLE STATION; A. RIFLE STATION
+  10.29	FORMBY POWER STATION
+  11.14	FORMBY formerly F. & ALTCAR
+  12.03	FRESHFIELD
+  14.62	AINSDALE
+  14.77	junction with chocolate factory lines
+  16.26	HILLSIDE
+	BIRKDALE [1]
+  17.22	BIRKDALE [2]
+  18.13	Southport South Junction with Southport South Curve
+  18.21	Southport Station Junction with WBS3 (35.15)
+ ≈18.10	SOUTHPORT EASTBANK STREET
+  18.35	SOUTHPORT formerly S. CHAPEL STREET

@@ -1,0 +1,5 @@
+   2.51	Yarnfield Junction with NBS
+   3.39	NORTON BRIDGE [North Staffs station, later goods depot]
+   3.56	earlier Norton Bridge Junction with LEC4 (138.72)
+  (3.67)	NORTON BRIDGE
+   4.15	later Norton Bridge Junction with LEC4 (138.41)

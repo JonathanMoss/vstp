@@ -1,0 +1,16 @@
+ 158.18	Crewe North Junction with CMP1 and LEC5
+ 158.24	junction with CIL
+ 158.77	junction with Crewe works lines
+ 159.01	junction with Crewe Electric depot lines
+ 159.24	WISTASON ROAD staff halt
+ 159.41	Crewe Steelworks Junction with Crewe Electric depot lines
+ 159.55	end of electrification
+ 161.57	WORLESTON formerly NANTWICH
+ 166.11	CALVELEY
+ 168.48	BEESTON CASTLE & TARPORLEY formerly B.; B. C.
+ 170.39	Brassey
+ 172.37	TATTENHALL ROAD formerly T.
+ 174.18	Tattenhall Junction with WHJ (14.49)
+ 175.28	WAVERTON [1]
+ 175.69	WAVERTON [2]
+ 178.67	Chester East Junction with CHW1 (0.27) and CNH2 (178.67)

@@ -1,0 +1,14 @@
+   0.00	Nuneaton South Junction with CNN (9.53), LEC2 (96.68) and PVS (10.61)
+   0.58	Midland Junction with NMA (11.31)
+   4.00	HINCKLEY (LEICS)
+   7.09	ELMESTHORPE
+   9.62	CROFT
+  11.49	Enderby Branch Junction with ENB (0.00)
+  11.67	NARBOROUGH
+  13.43	BLABY
+	Blaby Junction with link to MCJ3 (mileages unknown)
+  14.53	WIGSTON GLEN PARVA
+  14.57	Glen Parva Junction with WGP (96.07)
+  14.67	SOUTH WIGSTON
+  15.27	junction with RWJ (0.04)
+  15.31	Wigston North Junction with SPC4 (96.02)

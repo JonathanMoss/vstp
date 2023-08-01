@@ -1,0 +1,6 @@
+   0.00	High Level Bridge Junction with LEN3 (101.33)
+   0.05	GATESHEAD WEST
+   0.12	flat crossing with Redheugh Incline (0.69)
+   0.16	Greensfield Junction with PLG2 (0.21)
+   0.30	King Edward Bridge East Junction with KEB (0.00)
+   0.48	King Edward Bridge South Junction with ECM5 (79.42) and NEC1 (0.48)

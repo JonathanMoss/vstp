@@ -1,0 +1,21 @@
+  10.50	end on junction with HUL3
+  10.63	Micklefield Junction with CFM (15.67)
+  10.69	MICKLEFIELD
+  11.19	Peckfield colliery
+  11.55	RIDGE BRIDGE
+  12.56	EAST GARFORTH
+  12.78	Garforth East Junction with BOO (0.00)
+  13.23	GARFORTH
+  14.44	BARNBOW
+  15.39	Manston Junction with Cross Gates Goods Branch (0.00)
+  15.62	MANSTON [or 15.50?]
+  16.04	Cross Gates East Junction with LEW (0.00)
+  16.11	CROSS GATES
+  17.24	HALTON DIAL [or 17.57?]
+  17.66	OSMONDTHORPE
+  18.20	Osmondthorpe colliery
+  18.20	Neville Hill East Junction with NHM
+  18.74	Neville Hill West Junction with HUE (0.00)
+  19.06	Neville Hill West Junction with NHM
+  19.63	MARSH LANE
+  20.50	LEEDS and end on junction with DOL2 (185.70)

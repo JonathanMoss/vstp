@@ -1,0 +1,7 @@
+   0.00	Neville Hill West Junction with HUL4 (18.74)
+   0.55	civil engineer's tip
+   0.74	oil sidings
+   1.04	Tilcon unloading bunker
+   1.05	junction with Hunslet Goods Branch (0.00)
+   1.13	junction with exchange sidings lines (0.28 long)
+   1.21	end of line

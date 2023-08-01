@@ -1,0 +1,7 @@
+  34.75	Sandhills Junction with HXS3 (1.41), NDO (34.75) and SJO1 (34.75)
+  35.03	SANDHILLS
+  35.57	Liverpool Exchange Junction with LXJ
+  35.62	junction with GHS
+  36.45	MOORFIELDS
+  36.71	Paradise Junction with SIL (0.32)
+  37.13	LIVERPOOL CENTRAL and junction with HXS1 (0.02)

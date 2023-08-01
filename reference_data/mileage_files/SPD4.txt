@@ -1,0 +1,14 @@
+  98.69	Trent West Junction with MAC3 (73.11)
+ 100.75	BECKINGHAM
+ 102.55	WALKERINGHAM
+ 103.66	MISTERTON
+ 103.58	junction with Stockwith line (0.72 long via reversal)
+ 103.65	British Pipeline Agency sidings
+ 105.61	HAXEY & EPWORTH formerly H.
+ 105.76	Haxey Junction with AJL (17.12/26.13)
+ 106.13	Haxey Junction with MSS (0.00/155.48)
+ 108.50	PARK DRAIN
+ 112.05	FINNINGLEY
+ 112.79	RAF FINNINGLEY
+ 115.46	BESSACARR
+ 115.72	Bessacarr Junction with BCB, SPD5 and link to DVR1 (0.76 long) [part of link reused in BCB]

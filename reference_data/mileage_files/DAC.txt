@@ -1,0 +1,44 @@
+ 173.50	Cowley Bridge Junction with MLN1 (192.53)
+ 176.51	NEWTON ST CYRES formerly S. C.
+	CREDITON [1]
+ 179.20	CREDITON [2]
+ 179.26	junction with NDN
+ 182.72	YEOFORD formerly Y. JUNCTION
+ 183.69	Coleford Junction with NDN
+ 183.79	ownership boundary (NR/Dartmoor Railway) 1994-2021
+ 187.55	BOW
+ 190.65	NORTH TAWTON
+ 193.50	SAMPFORD COURTENAY formerly OKEHAMPTON ROAD; BELSTONE CORNER
+ 197.15	Okehampton locomotive depot
+ 197.25	OKEHAMPTON
+	OKEHAMPTON MILITARY SIDINGS
+ 198.00	later ownership boundary (NR/quarry)
+ 198.72	Meldon quarry (later mileage)
+	MELDON QUARRY
+ 199.06	Meldon quarry (earlier mileage)
+ 199.32	MELDON VIADUCT
+ 199.37	Granolite lime works
+ 199.78	Meldon Junction with MJB
+ 204.01	BRIDESTOWE
+ 207.17	LYDFORD formerly LIDFORD
+ 207.19	North Junction with LYD
+ 208.43	BRENTOR
+ 213.50	TAVISTOCK NORTH formerly T.
+ 214.67	TAVISTOCK proposed
+ 220.05	BERE ALSTON formerly BEER A.
+ 220.07	Bere Alston Junction with CAL (0.02)
+ 222.69	BERE FERRERS formerly BEER FERRIS
+ 224.62	TAMERTON FOLIOT formerly T. FOLIOTT
+ 225.58	Ernesettle north
+ 225.78	Ernesettle south
+ 227.02	ST BUDEAUX VICTORIA ROAD formerly S.B.
+ 227.07	St Budeaux Victoria Road Junction with SBX
+ 227.38	WESTON MILL
+ 227.59	CAMEL'S HEAD
+ 228.37	FORD formerly F. DEVON
+ 229.03	ALBERT ROAD
+ 229.42	DEVONPORT KINGS ROAD formerly D. & STONEHOUSE
+ 229.58	Devonport Goods Junction with DGD (0.00)
+ 230.12	Devonport Junction with MLN2 (247.54)
+
+Note that from 179.26 to 183.69, DAC runs on the same trace as NDN

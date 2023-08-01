@@ -1,0 +1,2 @@
+   0.00	Sittingbourne Eastern Junction with VIR (44.18)
+   0.23	Sittingbourne Middle Junction with SEJ2 (44.13) and WMS (44.13)

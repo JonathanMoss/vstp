@@ -1,0 +1,12 @@
+   1.54	Snailwell Junction with SOB1 (0.00) and SOB3 (1.54)
+   2.64	Snailwell sidings
+   4.50	junction with CML (13.29/69.00)
+   4.60	FORDHAM formerly F. & BURWELL
+   4.65	junction with CML (13.44/69.15)
+   6.13	junction with Burwell tramway
+   7.53	SOHAM [1]
+   7.64	SOHAM [2]
+   9.78	Barraway/Barway siding
+  12.33	Ely Dock Junction with BGK (69.79)
+
+Note that 4.50-4.65 is duplicated in CML

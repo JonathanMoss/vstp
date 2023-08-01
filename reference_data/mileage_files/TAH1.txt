@@ -1,0 +1,11 @@
+   2.42	Junction Road Junction with GOJ (0.58) and JRT2 (2.42)
+   2.46	JUNCTION ROAD
+   3.00	UPPER HOLLOWAY
+   3.33	HORNSEY ROAD
+   3.65	CROUCH HILL
+   4.15	Harringay Park Junction with HPW (0.25)
+   4.61	HARRINGAY GREEN LANES
+   5.31	ST ANNE'S ROAD
+   5.65	South Tottenham West Junction with SSL (0.13)
+   5.69	SOUTH TOTTENHAM
+   5.73	South Tottenham East Junction with TAH2 and TSE1

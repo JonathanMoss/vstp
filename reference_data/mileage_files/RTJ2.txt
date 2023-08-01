@@ -1,0 +1,11 @@
+  80.35	Romsey Junction with ECR (80.35) and RTJ1 (18.16)
+  80.47	ROMSEY
+  83.45	Kimbridge Junction with AKJ (15.02)
+  84.21	MOTTISFONT & DUNBRIDGE
+  88.10	DEAN (WILTS)
+  90.10	East Grimstead
+  92.04	ALDERBURY JUNCTION
+  92.09	Alderbury Junction with AWM (0.00)
+  95.05	Milford Junction with Salisbury goods line (to 95.27)
+  95.61	Laverstock South Junction with LAV (82.39)
+  96.05	Salisbury Tunnel Junction with BAE1 (82.36)

@@ -1,0 +1,11 @@
+Post 2008 rebuilding
+   0.10	Olive Mount Junction with DSE (2.54)
+   0.31	Pighue Lane Junction with WOT (mileage unknown)
+   0.52	Edge Lane Junction with SCT1
+
+Note that this includes elements of other lines including OME2
+
+
+Pre 2008 rebuilding
+   0.00	Edge Lane Junction with SCT1 (0.52)
+   0.21	Pighue Lane Junction with OME2 (mileage unknown) and WOT (mileage unknown)

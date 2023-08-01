@@ -1,0 +1,30 @@
+   7.00	junction with AYR2
+   7.06	mineral depot
+   7.59	Western coal depot
+   8.05	Linwood Branch Junction with sidings
+   8.69	Elderslie No 1 Junction with CNL (9.11)
+   8.75	ELDERSLIE
+   9.22	Elderslie No 2 Junction with KLM
+  10.00	junction with JLP (0.00)
+  10.09	JOHNSTONE (RENFREWSHIRE) formerly J.; J. HIGH; J.
+ ≈11.31	MILLIKEN PARK [1] formerly COCHRANE MILL; COCHRANEMILL
+  11.40	MILLIKEN PARK [2]
+  12.25	Howwood siding
+  12.77	HOWWOOD (RENFREWSHIRE)
+  15.57	LOCHWINNOCH formerly L.; LOCHSIDE
+  17.67	BEITH NORTH formerly B.
+  18.41	Muirs siding
+  19.28	Glengarnock iron sidings
+  19.48	Glengarnock coal sidings
+  19.63	GLENGARNOCK
+  20.22	Davidshill no 1 pit
+  20.47	Brownhill no 2 pit
+  20.57	Brownhill Junction with DNJ (11.39) (down line)
+  20.69	Brownhill Junction with DNJ (11.60) (up line)
+  20.73	Brownhill colliery and no 1 pit
+  21.28	Brownhill Junction with ZZA3 (0.00)
+  21.57	Swinlees Junction with SLS (0.00)
+  21.68	Kersland siding
+	DALRY [1]
+  22.42	DALRY [2]
+  22.53	Dalry Junction with AYR4

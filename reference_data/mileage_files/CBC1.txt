@@ -1,0 +1,76 @@
+   0.00	Carnforth North Junction with CGJ7 (5.62)
+   0.19	later junction with CGJ7 (6.01)
+   0.31	CARNFORTH
+   0.38	Carnforth Station Junction with CEC (0.04)
+   0.71	Carnforth Furness & Midland Junction with SJC (0.00)
+   3.55	SILVERDALE
+   6.21	ARNSIDE
+   6.29	Arnside Junction with AHR (0.00)
+   8.08	Meathop
+   9.43	GRANGE-OVER-SANDS
+  11.27	KENTS BANK
+  12.57	WRAYSHOLME
+  13.59	CARK & CARTMEL formerly CARK
+  17.24	Leven Junction with Greenodd Link (0.00)
+  17.58	junction with GXO (0.00)
+  17.62	Plumpton Junction with LKD (0.00)
+  19.24	ULVERSTON [1] [later goods depot]
+  19.28	ULVERSTON [2]
+  19.47	Fuel Services sidings
+  19.49	junction with goods depot lines
+  21.15	ULVERSTON ROAD
+  21.67	ore depot
+  22.17	LINDAL [2]
+  22.22	LINDAL [1] [later goods depot]
+  22.39	junction with goods depot lines
+  23.38	Crooklands Junction with SBC (0.00)
+  23.67	DALTON (CUMBRIA)
+  24.38	Dalton Junction with DAP (0.00)
+  24.71	Millwood Junction with link to DAP (0.51 long)
+  25.20	FURNESS ABBEY
+  27.13	ROOSE [2]
+  27.23	Roose Junction with Roose Curve (0.00)
+	ROOSE [1]
+  27.59	Salthouse Junction with PIE (0.00) and STK (0.00)
+  28.03	St Lukes Junction with DLB (0.00)
+  28.76	BARROW-IN-FURNESS formerly B.-I.-F. CENTRAL
+  29.61	Ormsgill Junction with HWT (0.00)
+  30.10	Ormsgill Junction with RDK2 (30.28)
+  31.54	Sandscale siding
+  32.50	Oaklea Junction with link to Goldmire Junction on DAP (0.31 long)
+  32.77	Park South Junction with DAP (0.76)
+  33.32	Park goods depot
+  34.24	Askam iron works
+  35.06	ASKAM formerly IRELETH
+  35.43	iron works
+  36.22	Dunnerholme siding
+  38.19	KIRKBY-IN-FURNESS formerly K. and junction with slate quarry lines (to 36.59)
+  40.37	FOXFIELD
+  40.41	junction with FOX (0.00)
+  42.37	GREEN ROAD
+  43.14	UNDER HILL
+  45.01	MILLOM formerly HOLBORN HILL
+  45.12	junction with HOD (0.00)
+  45.76	iron works
+  47.10	KIRKSANTON CROSSING
+  48.16	SILECROFT
+  49.58	WHITBECK CROSSING
+  53.34	BOOTLE (CUMBRIA)
+  55.18	MONK MOORS
+  55.43	Vickers Sons & Maxim Gun Range siding
+  56.43	ESKMEALS
+  57.79	RAVENGLASS FOR ESKDALE formerly R. F. E.; R.
+  60.02	DRIGG
+  62.12	SEASCALE
+  63.34	junction with British Nuclear Fuels sidings
+  63.72	SELLAFIELD
+  64.02	Sellafield Junction with WET (9.44)
+  65.76	BRAYSTONES
+  67.35	NETHERTOWN
+  69.30	ST BEES GOLF
+  70.18	ST BEES
+  73.50	Preston Street Junction/Corkickle No 2 Junction with WHITEHAVEN NEWTOWN [later Preston Street goods depot] lines (to 74.11)
+  73.73	Corkickle Junction with MRC
+  73.78	CORKICKLE
+  74.66	WHITEHAVEN
+  74.73	Bransty Junction with CBC2 (0.16)

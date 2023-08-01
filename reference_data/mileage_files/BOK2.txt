@@ -1,0 +1,13 @@
+   0.00	Camden Road West Junction with BOK1 (5.10) and CRC1 (5.10)
+   0.34	KENTISH TOWN WEST formerly K. T.
+   1.01	GOSPEL OAK formerly KENTISH TOWN
+   1.12	Gospel Oak Junction with GOJ (0.00)
+   1.15	Gospel Oak Junction with GOJ (-0.04)/GOJZ (0.00)
+   1.53	HAMPSTEAD HEATH
+   2.44	FINCHLEY ROAD & FROGNAL formerly FINCHLEY ROAD
+   2.75	WEST HAMPSTEAD formerly WEST END LANE
+   3.36	BRONDESBURY formerly EDGEWARE ROAD KILBURN; EDGWARE ROAD; EDGWARE ROAD & B.; B. EDGWARE ROAD
+   3.71	BRONDESBURY PARK
+   4.41	KENSAL RISE formerly K. GREEN
+   5.10	Kensal Green Junction with KGC (0.00)
+   5.13	Kensal Green Junction with BOK3 and KGW

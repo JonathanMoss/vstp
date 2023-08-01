@@ -1,0 +1,48 @@
+  46.42	Kings Norton Station Junction with BAG1 (47.48) and SKN (46.42)
+  46.59	KINGS NORTON
+  48.12	NORTHFIELD
+  49.12	LONGBRIDGE
+  49.21	Halesowen Junction with HND1 (0.00)
+  49.33	HALESOWEN JUNCTION (position uncertain; on HND1?)
+  51.58	Barnt Green Junction with BEA
+  51.67	BARNT GREEN
+  52.54	BLACKWELL [1]
+  53.16	BLACKWELL [2] formerly TOP OF LICKEY INCLINE
+  53.29	Blackwell summit
+	Lickey incline
+  55.28	bottom of incline
+  55.29	Bromsgrove carriage & wagon works
+  55.30	BROMSGROVE [1]
+  55.45	BROMSGROVE [2]
+  57.33	junction with Stoke Works Siding (130.37)
+  57.43	Stoke Works Junction with STO (130.25)
+  57.60	STOKE WORKS later goods depot
+  60.20	DROITWICH ROAD formerly D. later goods depot
+  62.12	DUNHAMPSTEAD later goods depot
+  66.18	SPETCHLEY later goods depot
+  68.13	WORCESTERSHIRE PARKWAY
+  68.15	intersection bridge with OWW (116.66)
+  68.60	Abbotswood Junction with ABW (0.00)
+  69.79	WADBOROUGH
+  70.46	KEMPSEY possibly named PIRTON
+  73.40	DEFFORD
+  74.48	ECKINGTON
+  77.26	BREDON
+  79.36	ASHCHURCH FOR TEWKESBURY
+  79.43	Ashchurch Junction North with BEA (84.58)
+  79.45	Ashchurch Junction South with AAM (0.00)
+  82.75	CLEEVE
+  85.71	Cheltenham High Street goods depot
+  86.43	Alston carriage sidings
+  86.58	CHELTENHAM SPA formerly C. LANSDOWN
+  86.78	Lansdown Junction East with CTM (5.74)
+  87.01	Lansdown Junction West with BCL (108.02) and CTM (5.71)
+  87.47	Hatherley Junction with CTM (5.25) and HAZ (107.78)
+  89.69	CHURCHDOWN
+  90.03	midway board
+  92.21	Barnwood Junction with CHL
+  92.23	Engine Shed Junction with CHL
+  92.46	Gloucester Barnwood loco depot
+  92.68	Tramway Junction with BGL2 (92.68) and SWM2 (113.54)
+
+Note that one side of the formation 86.71-90.23 was CTM

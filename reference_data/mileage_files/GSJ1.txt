@@ -1,0 +1,2 @@
+   3.64	Galton Junction with RBS2
+   4.08	Smethwick Junction with GSJ2 (133.32) and HSJ (133.32)

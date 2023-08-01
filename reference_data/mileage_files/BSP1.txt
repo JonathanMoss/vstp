@@ -1,0 +1,5 @@
+   0.73	junction with VTB1
+   1.23	junction with BBY
+   1.26	connection with BSF
+   1.36	junction with Tarmac sidings
+   1.58	Longhedge A Junction with FLL1 (0.09) and FLL2 (1.58)

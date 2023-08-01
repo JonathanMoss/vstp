@@ -1,0 +1,8 @@
+   5.21	junction with BOC2
+   5.42	BOLSOVER
+   5.58	junction with link to Markham Junction
+   5.63	Bolsover colliery
+   5.64	junction with BCE
+   5.70	Bolsover exchange sidings
+   7.02	Markham Colliery Junction with MCB
+   7.61	Seymour Junction with BAC2 (152.21), BAC3 (155.10) and SEY (152.21)

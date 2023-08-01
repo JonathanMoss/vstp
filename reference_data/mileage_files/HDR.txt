@@ -1,0 +1,32 @@
+   7.04	Hither Green Junction with XTD
+   7.16	HITHER GREEN
+   7.45	Lee Loop Junction with LEE (0.00)
+   7.66	LEE (LONDON)
+   9.40	MOTTINGHAM formerly ELTHAM; ELTHAM & M.
+  10.32	NEW ELTHAM formerly POPE STREET; N. E. & POPE STREET
+  11.73	SIDCUP
+  12.68	ALBANY PARK
+  13.69	BEXLEY
+  15.25	CRAYFORD
+  16.11	Crayford Spur B Junction with CRA
+  16.65	Dartford Junction with NKL (17.05)
+  17.12	DARTFORD
+  19.07	STONE CROSSING
+  19.69	GREENHITHE FOR BLUEWATER formerly G.
+  20.56	SWANSCOMBE [1]
+  21.14	SWANSCOMBE [2]
+  21.45	junction with NFT
+  21.65	NORTHFLEET
+  22.27	Springhead Road Junction with TRL5 (37.373km) [up line]
+  22.42	Springhead Road Junction with TRL5 (37.581km) [down line]
+  23.75	GRAVESEND formerly G.; G. CENTRAL
+  24.50	MILTON ROAD
+  25.08	DENTON
+  26.16	MILTON RANGE
+  27.07	HOO JUNCTION [down platform]
+  27.19	Hoo Junction with HTG
+  27.26	HOO JUNCTION [up platform]
+  28.42	HIGHAM
+  31.11	STROOD (KENT) formerly ROCHESTER
+  31.16	junction with PWS2
+  31.34	Rochester Bridge Junction with VIR (33.01)

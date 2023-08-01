@@ -1,0 +1,3 @@
+  52.69	Didcot East Junction with MLN1
+  53.64	original Didcot North Junction with DCL (53.74)
+  53.71	realigned Didcot North Junction with DCL (54.00)

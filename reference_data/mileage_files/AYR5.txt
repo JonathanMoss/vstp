@@ -1,0 +1,4 @@
+   0.00	Barassie Junction with AYR4 (33.08), THR (33.08) and TRN/ZZA4 (33.08)
+   1.16	TROON
+  ≈1.21	junction with TNL (0.00)	
+   2.15	Lochgreen Junction with AYR6 (35.05) and TRN (35.05)

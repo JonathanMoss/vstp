@@ -1,0 +1,11 @@
+Original measure
+   0.00	Whitwood Junction with NOC (22.03)
+   0.50	Methley Line Junction with LOM (183.17/0.00)
+   1.12	Methley Junction with TJC3 (187.34)
+
+Later measure
+   0.00	Whitwood Junction with NOC (22.03)
+   0.50	Methley Line Junction with LOM (183.17/0.00)
+   1.12	Methley Junction with MEW1
+
+Note that this route originally MEW, without a suffix

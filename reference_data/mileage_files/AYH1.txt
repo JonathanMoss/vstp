@@ -1,0 +1,4 @@
+   0.00	Newton Junction with AYR6 (39.41)
+   0.18	Ayr Harbour Junction with AYH2 (39.42)
+   0.43	ownership boundary (NR/Associated British Ports)
+   0.79	end of harbour lines

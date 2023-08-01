@@ -1,0 +1,32 @@
+  18.04	Wigan Wallgate Junction with WBS2 and WKL1
+  18.58	Pagefield siding
+  19.01	Douglas Bank colliery
+  19.65	Orrell Colliery siding
+  20.46	GATHURST
+  22.30	APPLEY BRIDGE
+  24.53	PARBOLD
+  26.07	HOSCAR [up platform]
+  26.10	HOSCAR [mean]
+  26.13	HOSCAR [down platform]
+  27.31	intersection bridge under FCO (15.31)
+  27.49	Burscough Bridge Junction with BNF (0.00)
+  27.53	Burscough Bridge Junction with BSK (0.00)
+  27.58	BURSCOUGH BRIDGE
+  28.67	NEW LANE [up platform]
+  28.70	NEW LANE [mean]
+  28.73	NEW LANE [down platform]
+  30.74	BESCAR LANE [up platform]
+  30.77	BESCAR LANE [mean]
+  30.79	BESCAR LANE [down platform]
+  32.51	Pool Hey Junction with SLL
+  33.45	Butt Lane Junction with ALT (1.65)
+  33.47	BUTTS LANE
+  34.02	MEOLS COP
+  34.08	Meols Cop Junction with Meols Cop Curve
+  34.33	Hawkshead Street Junction with SOU (0.77)
+  34.55	SOUTHPORT ST LUKE'S
+  34.64	WINDSOR ROAD/ASH STREET
+  34.67	St Lukes Junction with SLL (34.38)
+  34.77	junction with Southport South Curve (18.33)
+  35.15	Southport Station Junction with HXS3 (18.21)
+  35.27	SOUTHPORT

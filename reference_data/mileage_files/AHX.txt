@@ -1,0 +1,3 @@
+   0.00	Allerton Junction with WJL3 (187.74)
+   0.37	realigned Hunts Cross West Junction with HXS1 (6.11) and MAJ (6.11)
+   0.44	original Hunts Cross West Junction with HXS1 (6.22) and MAJ (6.22)

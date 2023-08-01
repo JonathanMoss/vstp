@@ -1,0 +1,19 @@
+  83.09	Wootton Bassett Junction with MLN1
+  83.45	Blanches siding
+  87.01	BRINKWORTH
+  89.61	LITTLE SOMERFORD
+  89.66	junction with MAL2
+  94.20	HULLAVINGTON
+ 100.01	BADMINTON
+ 104.46	CHIPPING SODBURY
+ 106.00	Wapley Common
+ 106.43	Westerleigh East Junction with MYW
+ 107.11	Westerleigh West Junction with YAT (0.00/121.28)/BGL2 (121.28)
+ 108.38	COALPIT HEATH
+ 109.68	WINTERBOURNE
+ 111.47	Bristol Parkway Royal Mail terminal
+ 111.56	Stoke Gifford yards
+ 111.62	BRISTOL PARKWAY
+ 111.79	Stoke Gifford Junction No 1 with FEC
+ 112.03	Stoke Gifford Junction No 2 with AFR
+ 112.69	Patchway Junction No 2 with BSW (5.61)

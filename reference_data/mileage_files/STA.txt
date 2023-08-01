@@ -1,0 +1,17 @@
+ (13.31)	West Drayton Junction with MLN1
+  13.39	Staines Branch Junction with UXB
+  14.10	Thorney Mill
+  15.52	Boyes North
+  15.59	Square Grip siding
+  15.66	COLNBROOK ESTATE
+  15.75	Boyes South
+  16.08	Nuttall's siding
+  16.19	COLNBROOK
+  16.48	POYLE ESTATE
+  17.03	POYLE formerly STANWELL MOOR & P.
+  18.36	YEOVENEY formerly RUNEMEDE RANGE; RUNNEMEDE
+  18.39	junction with Staines Moor Junction (possibly at 18.43?)
+  19.21	junction with connection to SWE (19.70)
+  19.39	STAINES WEST formerly S.
+
+Note that 13.31-13.39, whilst strictly UXB, is now usually considered part of STA

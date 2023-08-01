@@ -1,0 +1,6 @@
+   0.00	Frome Mineral Loop Junction with WEY (115.13)
+   0.31	Frome West Junction with FNS2 (0.20) and FNS3 (0.20)
+
+Note that this route is often considered to be part of FNS2, measured thus:
+   0.00	Frome North Junction with WEY (115.24)
+   0.20	Frome West Junction with FNS2 and FNS3

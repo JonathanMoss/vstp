@@ -1,0 +1,4 @@
+ 114.39	original Clink Road Junction with WEY
+ 114.44	relocated Clink Road Junction with WEY
+ 116.37	original Blatchbridge Junction with WEY (116.52)
+ 116.42	relocated Blatchbridge Junction with WEY (116.57)

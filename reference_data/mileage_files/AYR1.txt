@@ -1,0 +1,19 @@
+   0.00	Bridge Street Junction with WCM2 (101.56)
+   0.18	Smithy Lye Junction with LYE
+   1.01	Pollock Junction with HST (2.36)
+   1.05	Shields Junction with CLY (102.18)
+   1.06	Shields Junction with CNL
+   1.31	Shields West Junction with BRD (102.46)
+   2.01	Ibrox Junction with GOV
+   2.10	IBROX formerly BELLAHOUSTON
+   3.11	CARDONALD formerly MOSS ROAD
+   3.31	Cardonald Junction with CND1 (0.00)
+   3.62	HILLINGTON EAST formerly H.
+   4.29	HILLINGTON WEST formerly H.
+   5.38	Arkleston
+   5.54	Gallowhill sidings
+   5.72	Green Law Junction with REN2 (0.00)
+   6.16	Greenlaw goods depot
+   6.34	Wallneuk Junction with GOU1
+   6.46	PAISLEY GILMOUR STREET formerly P.
+   6.53	Stoneybrae Junction with AYR2 (6.73)

@@ -1,0 +1,24 @@
+  98.74	London Road Junction with SPC4
+  99.07	LEICESTER formerly L.; L. LONDON ROAD
+  99.28	Leicester goods depot
+  99.29	Leicester engine sheds
+  99.44	Taylor & Hubbard's siding
+  99.59	Bell Lane
+  99.67	HUMBERSTONE ROAD
+  99.79	Leicester Co-operative Society's flour mill siding
+ 100.25	Richards' foundry siding
+ 103.63	SYSTON
+ 103.72	Syston South Junction with GSM3
+ 104.25	Syston North Junction with SEN (0.00)
+ 106.47	SILEBY [1]
+ 106.50	SILEBY [2]
+ 108.52	BARROW-UPON-SOAR [2]
+ 108.71	BARROW-ON-SOAR & QUORN formerly B.; B.-ON-S.
+ 111.22	Loughborough South Junction with RUD (92.49)
+ 111.41	bridge under MCJ3 (92.32)
+ 111.46	LOUGHBOROUGH formerly L.; L. TOWN; L. MIDLAND
+ 114.32	HATHERN
+ 116.28	KEGWORTH
+ 116.39	junction with Lord Belper's sidings
+ 118.20	EAST MIDLANDS PARKWAY
+ 118.60	Ratcliffe Junction with SPC6

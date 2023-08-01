@@ -1,0 +1,27 @@
+   0.00	London Road Junction with TSN2 (123.23) and GSM4 (123.23)
+   2.35	Netherfield (Midland) Junction with NOG2
+   2.78	CARLTON
+   4.77	BURTON JOYCE
+   7.31	LOWDHAM
+   9.42	THURGARTON [centre line later after staggered platforms introduced]
+   9.45	THURGARTON [original position]
+  10.55	BLEASBY [centre line after staggered platforms introduced]
+  10.59	BLEASBY [original position]
+  12.04	Fiskerton Junction with RWT (0.00)
+  12.46	FISKERTON
+  13.13	ROLLESTON
+  13.21	Rolleston Junction with MFD2 (154.47)
+  14.20	Staythorpe
+  16.45	junction with Parnham's flour mill line (to 16.63)
+  17.02	NEWARK CASTLE
+  17.21	Newark Joint Curve Junction with NCM
+  17.67	flat crossing with ECM1 (120.63)
+  17.74	Newark Crossing East Junction with NSE (0.21)
+  21.16	Cottage Lane
+  22.17	COLLINGHAM
+  24.64	SWINDERBY
+  27.31	THORPE ON THE HILL
+  29.44	HYKEHAM [later mileage when staggered platforms introduced]
+  29.49	HYKEHAM [original mileage]
+  30.19	Doddington ballast siding
+  32.00	junction with NOB2 and NOB4
