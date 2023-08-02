@@ -4,13 +4,14 @@
 
 import os
 
+from typing import Union
 import location as LOC
 import pydantic
 from bng_latlon import OSGB36toWGS84 as conv
 from sqlmodel import Session, SQLModel, create_engine, select
 
 DB_CON_STRING = os.getenv("DB_CON_STRING", 'sqlite:///vstp.db')
-NAPTAN_9100 = os.getenv("NAPTAN_9100", '9100.csv')
+NAPTAN_9100 = os.getenv("NAPTAN_9100", './reference_data/9100.csv')
 
 class NAPTANCoordinates(SQLModel):
     """Representation of NAPTAN train station coordinates"""
@@ -60,7 +61,7 @@ class NAPTANCoordinates(SQLModel):
 
     @classmethod
     @pydantic.validate_arguments
-    def csv_factory(cls, csv_line: str) -> object:
+    def csv_factory(cls, csv_line: str) -> Union[object, None]:
         """Return a NAPTANCoordinates object"""
 
         values = csv_line.split(',')
@@ -71,7 +72,11 @@ class NAPTANCoordinates(SQLModel):
             'northing': values[2]
         }
 
-        return cls(**val_dict)
+        try:
+            return cls(**val_dict)
+        except pydantic.ValidationError as err:
+            print(err)
+            return None
 
 def parse_naptan_file() -> list:
     """Parse the NAPTAN file, return a list of objects"""
@@ -96,6 +101,8 @@ def main():
     engine = create_engine(DB_CON_STRING, echo=False)
     with Session(engine) as session:
         for coord in parse_naptan_file():
+            if not coord:
+                continue
             match = match_location(coord.tiploc, session)
             if not match:
                 continue
