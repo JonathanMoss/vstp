@@ -6,3 +6,6 @@ pydantic==1.10.9
 rich==13.4.2
 sqlmodel==0.0.8
 geocoder==1.38.1
+beautifulsoup4==4.12.2
+pandas==2.0.3
+lxml==4.9.3
