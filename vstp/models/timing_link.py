@@ -159,7 +159,6 @@ class TimingLink(SQLModel, table=True):
             'exit_speed': values[10],
             'srt': values[13]  
         }
-        print(val_dict)
 
         obj =  cls(**val_dict)
 
