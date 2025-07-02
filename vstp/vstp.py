@@ -9,7 +9,7 @@ from typing import List
 from pathfinder import Pathfinder
 import bplan_import as f_import
 from location_record import LocationRecord
-from models import Schedule
+from sched_models import Schedule
 from rich.console import Console
 from rich.markdown import Markdown
 from rich.table import Table
@@ -73,11 +73,24 @@ class TiplocTable():
             
         )
         
+        self.table.add_column('#')
         self.table.add_column('TIPLOC')
         self.table.add_column('Name')
+        self.table.add_column('STANOX')
+        self.table.add_column('Timing Point Type')
+        self.table.add_column('Lat/Lon')
         
-        for row in results:
-            self.table.add_row(*row.split(':'))
+        for key, match in enumerate(results):
+            self.table.add_row(
+                str(key + 1),
+                match.location_code,
+                match.location_name,
+                match.stanox_code,
+                match.timing_point_type,
+                str(match.wgs_coordinates)
+            )
+
+
 class LinkSelectTable():
     """"""
     def __init__(self, results):

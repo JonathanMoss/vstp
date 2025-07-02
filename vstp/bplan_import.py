@@ -3,7 +3,9 @@
 import os
 from location_record import LocationRecord
 from network_links import NetworkLink
+from timing_links import TimingLink
 from err import MissingPartFile
+
 
 def does_file_exist(f_name: str) -> bool:
     """Check if the file exists in the current path"""
@@ -59,3 +61,15 @@ def import_network_links() -> list:
         nwks.append(lnk)
 
     return nwks
+
+def import_timing_links() -> list:
+    """Import the timing link records from the TLK file"""
+
+    tlks = []
+    for link in import_from_file('TLK'):
+
+        lnk = TimingLink.factory_from_TLK(link.split('\t'))
+        tlks.append(lnk)
+
+        
+    return tlks

@@ -78,7 +78,7 @@ class LocationRecord:
         for _, obj in cls._instances.items():
             match = fuzzyfinder(search, [obj.location_code, obj.location_name])
             if list(match):
-                ret_val.append(f'{obj.location_code}:{obj.location_name}')
+                ret_val.append(obj)
         return ret_val
 
     @classmethod

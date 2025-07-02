@@ -7,7 +7,14 @@ from unittest import mock
 import pytest
 import bplan_import as f_import
 from network_links import NetworkLink
+from timing_links import TimingLink
+from timing_links import Tiploc
 from location_record import LocationRecord
+
+
+@pytest.fixture
+def tlk_records():
+    return ["""TLK	A	ABCWM	MASH	   	60-OTM	     	60	 	-1	-1	11-06-2006 00:00:00		+02'00	"""]
 
 
 @pytest.fixture
@@ -100,3 +107,19 @@ class TestBplanImport:
             assert nwks and isinstance(nwks, list)
             assert nwks[0].__class__.__name__ == 'NetworkLink'
             assert len(nwks[0]._instances) == 1
+
+    def test_import_timing_links(self, monkeypatch, tlk_records):
+
+        TimingLink._instances = []
+
+        with monkeypatch.context() as monkey:
+            monkey.setattr(
+                'bplan_import.import_from_file',
+                lambda f_name: tlk_records
+            )
+
+            tlks = f_import.import_timing_links()
+            assert tlks and isinstance(tlks, list)
+            assert tlks[0].__class__.__name__ == 'TimingLink'
+            assert tlks[0].start_tiploc.__class__.__name__ == "Tiploc"
+            assert tlks[0].end_tiploc.__class__.__name__ == "Tiploc"
