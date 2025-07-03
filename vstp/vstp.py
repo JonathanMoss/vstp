@@ -10,7 +10,7 @@ from pathfinder import Pathfinder
 import bplan_import as f_import
 from location_record import LocationRecord
 from sched_models import Schedule
-from rich.console import Console
+from rich.console import Console, OverflowMethod
 from rich.markdown import Markdown
 from rich.table import Table
 
@@ -139,7 +139,11 @@ if args.find:
     CONSOLE.print(Markdown(f"# TIPLOC search: ```{args.find}```"))
     results = LocationRecord.match_locations(args.find)
     table = TiplocTable(results)
-    CONSOLE.print(table.table)
+    if len(results) > 20:
+        with CONSOLE.pager():
+            CONSOLE.print(table.table)
+    else:
+        CONSOLE.print(table.table)
     sys.exit(0)
     
 if args.from_loc:
@@ -161,7 +165,7 @@ if args.build:
         locs = []
         for result in cur_trip:
             rcd = LocationRecord._instances[result[1]]
-            locs.append(f'{rcd.location_code}:{rcd.location_name}')
+            locs.append(rcd)
         return TiplocTable(locs).table
     
     def get_links(tiploc: str) -> str:
