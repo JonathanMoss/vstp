@@ -4,6 +4,8 @@
 
 import json
 import functools
+from typing import Union
+
 
 class NetworkLink:
     """A prepresentation of a NWK record from BPLAN"""
@@ -136,7 +138,7 @@ class NetworkLink:
             'final_direction': final_dir,
             'reversable': reversable
         }
-        
+
     @classmethod
     @functools.lru_cache()
     def get_link(cls, tiploc_a, tiploc_b) -> object:
@@ -146,16 +148,19 @@ class NetworkLink:
 
         if tiploc_b not in cls._instances[tiploc_a]:
             return None
-        
+
         return cls._instances[tiploc_a][tiploc_b]
 
     @classmethod
     @functools.lru_cache()
-    def get_neighbours(cls, tiploc: str) -> list:
+    def get_neighbours(cls, tiploc: str, alt=False) -> Union[list, dict]:
         """Pass a tiploc, return a list of all reachable TIPLOCS"""
 
-        if not tiploc in cls._instances:
+        if tiploc not in cls._instances:
             return []
+
+        if alt:
+            return cls._instances[tiploc]
 
         return list(cls._instances[tiploc].keys())
 
@@ -165,3 +170,29 @@ class NetworkLink:
         """Returns True if TIPLOC is valid, otherwise False"""
 
         return tiploc in cls._instances
+
+    @classmethod
+    @functools.lru_cache()
+    def get_all_lines(cls, start_tiploc: str, end_tiploc: str) -> list:
+        """ Return a list of all unique applicable paths between 2 tiplocs"""
+
+        lines = []
+
+        target_link = cls._instances.get(start_tiploc, None)
+        if not target_link:
+            return []
+
+        end_link = target_link.get(end_tiploc, None)
+        if not end_link:
+            return []
+
+        for entry in end_link:
+            if not entry.running_line_code.strip():
+                lines.append(
+                    f'{entry.initial_direction}L'
+                )
+                continue
+            lines.append(entry.running_line_code)
+
+        return list(set(lines))
+        
