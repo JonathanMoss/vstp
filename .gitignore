@@ -5,6 +5,8 @@ LOC
 NWK
 TLD
 TLK
+PLT
+SMARTExtract.json
 BPLAN
 *.pyc
 .pytest_cache
