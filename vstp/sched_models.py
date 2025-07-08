@@ -1,6 +1,6 @@
 """VSTP schedule models"""
 
-from typing import List
+from typing import List, Union
 import pydantic
 from network_links import NetworkLink
 from location_record import LocationRecord
@@ -26,7 +26,7 @@ class ScheduleEntry(pydantic.BaseModel):
     def factory(cls, data: list) -> object:
         """Used to create a ScheduleEntry Object from raw data"""
         return cls(
-            index=data[0],
+            index=str(data[0]),
             tiploc=data[1],
             name=data[2]
         )
@@ -59,6 +59,11 @@ class Schedule(pydantic.BaseModel):
     def update_mileages(self, func: object) -> None:
         """func represents the object to extrapolate the mileages"""
         
+        def get_measured_link(links: list) -> Union[int, None]:
+            for ind, link in enumerate(links):
+                if link.distance.isnumeric():
+                    return ind
+
         previous_tiploc = None
         previous_mileage = 0
         
@@ -69,8 +74,13 @@ class Schedule(pydantic.BaseModel):
                 previous_mileage = 0
                 continue
             
-            if not int(row.mileage):
-                link = NetworkLink.get_link(previous_tiploc, row.tiploc)[0]
+            if not float(row.mileage):
+
+                
+                links = NetworkLink.get_link(previous_tiploc, row.tiploc)
+                index = get_measured_link(links)
+                link = links[index]
+
                 if not int(link.distance) or int(link.distance) == 1:
                     link.distance = self.get_geo_distance(previous_tiploc, row.tiploc)
                 distance = int(link.distance) + previous_mileage
@@ -80,3 +90,14 @@ class Schedule(pydantic.BaseModel):
                 previous_tiploc = row.tiploc
             
  
+    def extrapolate_lp(self) -> None:
+        """ Extrapolate missing line/path from some values """
+
+        for index, row in enumerate(self.rows):
+            try:
+                if row.line and not self.rows[index + 1].path:
+
+                    self.rows[index + 1].path = row.line
+            except IndexError:
+                continue
+

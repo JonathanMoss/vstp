@@ -4,6 +4,7 @@ import os
 from location_record import LocationRecord
 from network_links import NetworkLink
 from timing_links import TimingLink
+from line_platform import LinePlatform
 from err import MissingPartFile
 
 
@@ -73,3 +74,11 @@ def import_timing_links() -> list:
 
         
     return tlks
+
+def import_line_platform() -> dict:
+    """Import the line/platform records from PLT file """
+
+    for entry in import_from_file('PLT'):
+        LinePlatform.factory_from_bplan_entry(entry)
+
+    return LinePlatform.instances

@@ -1,3 +1,4 @@
+annotated-types==0.7.0
 beautifulsoup4==4.12.2
 bng_latlon==1.1
 certifi==2025.6.15
@@ -11,14 +12,18 @@ greenlet==3.2.3
 haversine==2.3.0
 idna==3.10
 iniconfig==2.1.0
+Jinja2==3.1.6
 lxml==6.0.0
 markdown-it-py==3.0.0
+MarkupSafe==3.0.2
 mdurl==0.1.2
 numpy==2.3.1
 packaging==25.0
 pandas==2.3.0
 pluggy==1.6.0
-pydantic==1.10.9
+pycodestyle==2.14.0
+pydantic==2.11.7
+pydantic_core==2.33.2
 Pygments==2.19.2
 pytest==8.4.1
 python-dateutil==2.9.0.post0
@@ -31,6 +36,7 @@ soupsieve==2.7
 SQLAlchemy==1.4.41
 sqlalchemy2-stubs==0.0.2a38
 sqlmodel==0.0.8
+typing-inspection==0.4.1
 typing_extensions==4.14.0
 tzdata==2025.2
 urllib3==2.5.0
