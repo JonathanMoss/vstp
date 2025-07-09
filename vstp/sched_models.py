@@ -34,7 +34,7 @@ class ScheduleEntry(pydantic.BaseModel):
 class Schedule(pydantic.BaseModel):
     """A representation of a VSTP schedule"""
     rows: List[ScheduleEntry]
-    
+   
     @classmethod
     def factory(cls, raw_schedule: list) -> object:
         """Returns a Schedule Object"""

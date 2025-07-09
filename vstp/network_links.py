@@ -194,5 +194,5 @@ class NetworkLink:
                 continue
             lines.append(entry.running_line_code)
 
-        return list(set(lines))
+        return sorted(lines)
         

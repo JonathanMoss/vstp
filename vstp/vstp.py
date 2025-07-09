@@ -33,8 +33,7 @@ NO_ARGS = """
 Missing arguments, please run ```python3 vstp.py --help```
 """.strip()
 
-EDIT_SCHEDULE = Template('# Edit: [p#]ath | [P#]latform | [L#]ine | e[X]it')
-EDIT_SCHEDULE = Markdown(EDIT_SCHEDULE.render())
+EDIT_SCHEDULE = Markdown('# Edit: [p#]ath | [P#]latform | [L#]ine | e[X]it')
 
 WARNING = Template(
     '# {{line_type}} not valid at {{tiploc}}, press [ENTER] to continue'
@@ -182,7 +181,7 @@ class EditSchedule:
         """ Ensure the answer provided is valid """
 
         if answer.strip().isnumeric():
-            answer = int(answer.strip())
+            answer = int(answer.strip()) - 1
 
             if answer <= len(options):
                 return True
@@ -255,7 +254,7 @@ class EditSchedule:
 
         if line_type == LineType.LINE:
             cur_val = entry.line
-            if index == len(trip.rows):
+            if index + 1 == len(trip.rows):
                 show_warning()
                 return
 
@@ -272,13 +271,14 @@ class EditSchedule:
 
         index_options = []
         for ind, lnpl in enumerate(options):
-            index_options.append([str(ind), lnpl])
+            index_options.append([str(ind + 1), lnpl])
 
         table = EditSchedule.build_plt_selection_table(index_options, cur_val)
         context.print(table)
         answer = context.input()
 
         if EditSchedule.validate_answer_plt_line(answer, index_options):
+            answer = str(int(answer) - 1)
             update_entry()
 
         trip.extrapolate_lp()

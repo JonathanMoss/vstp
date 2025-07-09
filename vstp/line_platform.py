@@ -16,6 +16,28 @@ class LinePlatform(BaseModel):
         default=[]
     )
 
+    @staticmethod
+    def sort_lines(self, lines: list) -> list:
+        """ Sort the lines into a sane order """
+
+        numerics = []
+        alphas = []
+        full = []
+
+        for line in lines:
+            if line.strip().isnumeric():
+                numerics.append(int(line))
+            else:
+                alphas.append(line)
+
+        for line in sorted(numerics):
+            full.append(str(line))
+
+        for line in sorted(alphas):
+            full.append(line)
+
+        return full
+
     @classmethod
     def factory_from_bplan_entry(cls, entry: list) -> None:
         """ Takes a entry (line) from PLT and creates object """
@@ -41,9 +63,9 @@ class LinePlatform(BaseModel):
             return None
 
         if as_list:
-            return match.ln_plt
+            return cls.sort_lines(cls, lines=match.ln_plt)
 
-        return match 
+        return match
     
     @classmethod
     def is_valid(cls, tiploc: str, lne_plt: str) -> bool:
