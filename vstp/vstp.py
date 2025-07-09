@@ -59,16 +59,33 @@ class FullTripTable(Table):
         "Mileage", "Path", "Arrive",
         "Platform", "Depart", "Line",
         "Activity", "Eng. Allowance",
-        "Perf. Allowance", "Path. Allowance"
+        "Perf. Allowance", "Path. Allowance", "LPB?"
     ]
-    STYLE = 'bold magenta'
+    STYLE = 'bold cyan'
 
     def __init__(self):
         """ Init func. """
-        super().__init__(show_header=True, header_style=self.STYLE)
+        super().__init__(
+            show_header=True,
+            header_style=self.STYLE,
+            row_styles=["bold", "reverse"],
+            show_lines=True)
 
         for header in self.HEADERS:
             self.add_column(header)
+
+    def get_lpb(self, tiploc: str) -> str:
+        """ Get LPB value for given TIPLOC """
+
+        record = LocationRecord.return_instance(tiploc)
+        if not record:
+            return None
+
+        lpb = record.force_lpb
+        if not lpb:
+            return None
+
+        return lpb
 
     def _add_row(self, items: list):
         """ adds a row """
@@ -76,12 +93,16 @@ class FullTripTable(Table):
 
     def populate_table(self, all_items: list):
         """ Populates table """
+
         for item in all_items:
+
             self._add_row(item)
 
     def populate_from_schedule(self, schedule: Schedule) -> None:
         """ Populates a table from a schedule object """
         for row in schedule.rows:
+            lpb = self.get_lpb(row.tiploc)
+            row.lpb = lpb
             self._add_row(row.__dict__.values())
 
 
@@ -156,8 +177,15 @@ class EditSchedule:
     """ Functions to edit a schedule once built """
 
     @staticmethod
-    def build_plt_selection_table(options: List[str], cur_plt: str) -> Table:
+    def build_plt_selection_table(
+            options: List[str], 
+            cur_plt: str,
+            line_type: LineType,
+            tiploc: str) -> Table:
         """ Build a table with all valid platforms/lines """
+
+        words = ['into', 'at', 'from']
+        col_title = f'{line_type.name} {words[line_type.value - 1]} {tiploc}'
 
         if len(options) == 1:
             highlight = Style()
@@ -166,8 +194,8 @@ class EditSchedule:
 
         table = Table(show_header=True, header_style="bold magenta")
         table.add_column('#')
-        table.add_column('Line/Platform')
-
+        table.add_column(col_title)
+        
         for ref in options:
             if ref[1] == cur_plt:
                 table.add_row(*ref, style=highlight)
@@ -273,7 +301,11 @@ class EditSchedule:
         for ind, lnpl in enumerate(options):
             index_options.append([str(ind + 1), lnpl])
 
-        table = EditSchedule.build_plt_selection_table(index_options, cur_val)
+        table = EditSchedule.build_plt_selection_table(
+            index_options, 
+            cur_val,
+            line_type,
+            tiploc)
         context.print(table)
         answer = context.input()
 
@@ -337,15 +369,17 @@ class EditSchedule:
             EditSchedule.print_warning(CONSOLE)
             EditSchedule.print_trip(con, current_trip, sched)
 
-        if answer[1].strip().isnumeric():
-            EditSchedule.update_lpp(
-                sched,
-                int(answer[1]),
-                CONSOLE,
-                LineType(answer[0])
-            )
+        try:
+            if answer[1].strip().isnumeric():
+                EditSchedule.update_lpp(
+                    sched,
+                    int(answer[1]),
+                    CONSOLE,
+                    LineType(answer[0])
+                )
+                EditSchedule.print_trip(con, current_trip, sched)
+        except AttributeError:
             EditSchedule.print_trip(con, current_trip, sched)
-
 
 psr = argparse.ArgumentParser(
     prog='vstp',
@@ -546,5 +580,16 @@ path = Pathfinder(args.start, args.end, legs=args.legs, via=via, avoid=avoid)
 path.search(std_out=False)
 
 CONSOLE.print(Markdown("# Results"))
-for index, result in enumerate(path.route_locations):
-    CONSOLE.print(str(index + 1).zfill(3), result)
+
+trip = []
+
+for index, tiploc in enumerate(path.route_locations):
+
+    loc_name = LocationRecord.return_instance(tiploc).location_name
+    trip.append([index, tiploc, loc_name])
+
+EditSchedule.print_trip(
+    CONSOLE,
+    trip,
+    Schedule.factory(trip)
+)

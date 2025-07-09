@@ -22,6 +22,8 @@ class ScheduleEntry(pydantic.BaseModel):
     perf_a: str = pydantic.Field(default='')
     path_a: str = pydantic.Field(default='')
     
+    lpb: str = pydantic.Field(default='')
+    
     @classmethod
     def factory(cls, data: list) -> object:
         """Used to create a ScheduleEntry Object from raw data"""
