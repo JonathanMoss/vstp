@@ -1,10 +1,11 @@
 #!/bin/python3
 """A command line wrapper for VSTP queries"""
 
+# pylint: disable=E0401, W0621, R0903, W0212
+
 import sys
 import os
 import argparse
-import pydantic
 from enum import Enum
 from typing import List, Union
 from pathfinder import Pathfinder
@@ -13,9 +14,10 @@ import bplan_import as f_import
 from location_record import LocationRecord
 from line_platform import LinePlatform
 from sched_models import Schedule
-from rich.console import Console, OverflowMethod
+from rich.console import Console
 from rich.markdown import Markdown
 from rich.table import Table
+from rich.style import Style
 from rich.prompt import Confirm
 from jinja2 import Template
 
@@ -63,19 +65,23 @@ class FullTripTable(Table):
     STYLE = 'bold magenta'
 
     def __init__(self):
+        """ Init func. """
         super().__init__(show_header=True, header_style=self.STYLE)
 
         for header in self.HEADERS:
             self.add_column(header)
 
     def _add_row(self, items: list):
+        """ adds a row """
         self.add_row(*items)
 
     def populate_table(self, all_items: list):
+        """ Populates table """
         for item in all_items:
             self._add_row(item)
 
     def populate_from_schedule(self, schedule: Schedule) -> None:
+        """ Populates a table from a schedule object """
         for row in schedule.rows:
             self._add_row(row.__dict__.values())
 
@@ -133,7 +139,7 @@ class TiplocTable():
 
 
 class LinkSelectTable():
-    """"""
+    """ Table showing valid links """
     def __init__(self, results):
         ""
         self.table = Table(show_header=True, header_style="bold magenta")
@@ -154,12 +160,20 @@ class EditSchedule:
     def build_plt_selection_table(options: List[str], cur_plt: str) -> Table:
         """ Build a table with all valid platforms/lines """
 
+        if len(options) == 1:
+            highlight = Style()
+        else:
+            highlight = Style(underline=True, bold=True)
+
         table = Table(show_header=True, header_style="bold magenta")
         table.add_column('#')
         table.add_column('Line/Platform')
 
         for ref in options:
-            table.add_row(*ref)
+            if ref[1] == cur_plt:
+                table.add_row(*ref, style=highlight)
+            else:
+                table.add_row(*ref)
 
         return table
 
@@ -216,29 +230,34 @@ class EditSchedule:
                         )
                     )
                 )
+
+        def update_entry() -> None:
+            if line_type == LineType.PATH:
+                entry.path = index_options[int(answer)][1]
+            if line_type == LineType.PLATFORM:
+                entry.platform = index_options[int(answer)][1]
+            if line_type == LineType.LINE:
+                entry.line = index_options[int(answer)][1]
+
         entry = trip.rows[index]
         tiploc = entry.tiploc
 
-        ref = None
-        cur_val = ""
+        cur_val = line_type
 
         if line_type == LineType.PATH:
-            cur_val == entry.path
-            ref = entry.path
+            cur_val = entry.path
             if index == 0:
                 show_warning()
-                return None
+                return
 
         if line_type == LineType.PLATFORM:
-            cur_val == entry.platform
-            ref = entry.platform
+            cur_val = entry.platform
 
         if line_type == LineType.LINE:
-            cur_val == entry.line
-            ref = entry.line
+            cur_val = entry.line
             if index == len(trip.rows):
                 show_warning()
-                return None
+                return
 
         if line_type == LineType.PLATFORM:
             options = LinePlatform.get_all_lines(tiploc, True)
@@ -252,21 +271,15 @@ class EditSchedule:
             options = ['ML']
 
         index_options = []
-        for index, lnpl in enumerate(options):
-            index_options.append([str(index), lnpl])
+        for ind, lnpl in enumerate(options):
+            index_options.append([str(ind), lnpl])
 
         table = EditSchedule.build_plt_selection_table(index_options, cur_val)
         context.print(table)
         answer = context.input()
 
         if EditSchedule.validate_answer_plt_line(answer, index_options):
-
-            if line_type == LineType.PATH:
-                entry.path = index_options[int(answer)][1]
-            if line_type == LineType.PLATFORM:
-                entry.platform = index_options[int(answer)][1]
-            if line_type == LineType.LINE:
-                entry.line = index_options[int(answer)][1]
+            update_entry()
 
         trip.extrapolate_lp()
 
@@ -319,7 +332,7 @@ class EditSchedule:
 
         if 'EXIT' in answer:
             sys.exit(0)
-            
+
         if not answer:
             EditSchedule.print_warning(CONSOLE)
             EditSchedule.print_trip(con, current_trip, sched)
@@ -374,7 +387,7 @@ os.system('clear')
 
 if not any(args.__dict__.values()):
     CONSOLE.print(Markdown(NO_ARGS))
-    exit()
+    sys.exit()
 
 if args.find:
     CONSOLE.print(Markdown(f"# TIPLOC search: ```{args.find}```"))
@@ -405,6 +418,7 @@ if args.build:
     links = []
 
     def trip_table(cur_trip: list) -> str:
+        """ Populate and return a trip table """
         locs = []
         for result in cur_trip:
             rcd = LocationRecord._instances[result[1]]
@@ -412,15 +426,13 @@ if args.build:
         return TiplocTable(locs).table
 
     def get_links(tiploc: str) -> str:
+        """ Get the NW links for the given tiploc """
         results = f_import.NetworkLink.get_neighbours(tiploc)
         locs = []
         for index, result in enumerate(results):
             rcd = LocationRecord._instances[result]
             locs.append([str(index + 1), rcd.location_code, rcd.location_name])
         return locs
-
-    def get_link(tiploc_a: str, tiploc_b) -> object:
-        pass
 
     current_trip = []
     if not LocationRecord.return_instance(args.build):
@@ -433,7 +445,7 @@ if args.build:
         [len(current_trip), origin.location_code, origin.location_name]
     )
 
-    while True and current_trip:
+    while current_trip:
         CONSOLE.clear()
 
         if len(current_trip) > 1:
@@ -492,7 +504,7 @@ if args.build:
                 current_trip.pop()
         if answer.isnumeric():
             answer = int(answer) - 1
-            
+
             try:
                 next_loc = LocationRecord._instances[links[answer][1]]
                 current_trip.append(
@@ -525,7 +537,7 @@ if args.via:
 if args.avoid:
     avoid = [tpl.strip() for tpl in args.avoid.split(',')]
 
-CONSOLE.print(Markdown(f"# VSTP query"))
+CONSOLE.print(Markdown("# VSTP query"))
 CONSOLE.print(
     RouteRequestTable(args.start, args.end, args.via, args.avoid).grid
 )
