@@ -5,6 +5,7 @@ from location_record import LocationRecord
 from network_links import NetworkLink
 from timing_links import TimingLink
 from line_platform import LinePlatform
+from activity_codes import ActivityCode
 from err import MissingPartFile
 
 
@@ -82,3 +83,8 @@ def import_line_platform() -> dict:
         LinePlatform.factory_from_bplan_entry(entry)
 
     return LinePlatform.instances
+
+def import_activity_codes() -> None:
+    """ Import the activity codes """
+
+    ActivityCode.import_bplan(import_from_file('ACT'))

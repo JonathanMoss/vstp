@@ -21,7 +21,7 @@ class ScheduleEntry(pydantic.BaseModel):
     engi_a: str = pydantic.Field(default='')
     perf_a: str = pydantic.Field(default='')
     path_a: str = pydantic.Field(default='')
-    
+
     lpb: str = pydantic.Field(default='')
     
     @classmethod
@@ -102,4 +102,21 @@ class Schedule(pydantic.BaseModel):
                     self.rows[index + 1].path = row.line
             except IndexError:
                 continue
+
+    def default_activities(self) -> None:
+        """ Input default activity codes """
+        if not self.rows[0].activity:
+            self.rows[0].activity = "TB"
+        index = len(self.rows) - 1
+        if not self.rows[index].activity:
+            self.rows[index].activity = 'TF'
+
+    def extrapolate_lp_defaults(self) -> None:
+        """ See if there are any single options for lines/paths """
+
+        cur_tpl = ''
+        next_tpl = ''
+
+        for index, row in enumerate(self.rows):
+            pass
 

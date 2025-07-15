@@ -25,6 +25,7 @@ from jinja2 import Template
 f_import.import_location()
 f_import.import_network_links()
 f_import.import_line_platform()
+f_import.import_activity_codes()
 
 CONSOLE = Console()
 
@@ -58,8 +59,8 @@ class FullTripTable(Table):
         "#", "TIPLOC", "Name",
         "Mileage", "Path", "Arrive",
         "Platform", "Depart", "Line",
-        "Activity", "Eng. Allowance",
-        "Perf. Allowance", "Path. Allowance", "LPB?"
+        "Activity", "Engineering",
+        "Performance", "Pathing", "LPB?"
     ]
     STYLE = 'bold cyan'
 
@@ -314,6 +315,8 @@ class EditSchedule:
             update_entry()
 
         trip.extrapolate_lp()
+        trip.default_activities()
+
 
     @staticmethod
     def parse_answer(answer: str) -> List:
